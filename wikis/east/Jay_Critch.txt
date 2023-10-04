@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Jay Critch - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"9c70bf92-3342-4e29-80f3-8fa4de43973c","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jay_Critch","wgTitle":"Jay Critch","wgCurRevisionId":1162310841,"wgRevisionId":1162310841,"wgArticleId":54221421,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use mdy dates from December 2020","Articles with hCards","Pages using infobox musical artist with associated acts","1998 births","Living people","American male rappers","East Coast hip hop musicians","Rappers from Brooklyn","American people of Guyanese descent","American rappers of Trinidad and Tobago descent","Caribbean people","Interscope Records artists","Trap musicians"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Jay_Critch","wgRelevantArticleId":54221421,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q95042449","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],
+"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert"
+,"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/29/Jay_Critch_2018.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1962">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/29/Jay_Critch_2018.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1308">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="1046">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Jay Critch - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Jay_Critch">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jay_Critch&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jay_Critch">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Jay_Critch rootpage-Jay_Critch skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jay+Critch" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jay+Critch" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jay+Critch" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jay+Critch" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Singles</div>
+			</a>
+			
+			<ul id="toc-Singles-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Jay Critch</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 2 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-2" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">2 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Jay_Critch" title="Jay Critch – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%B9_%D0%9A%D1%80%D1%96%D1%82%D1%87" title="Джей Крітч – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q95042449#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Jay_Critch" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Jay_Critch" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Jay_Critch"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Jay_Critch&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Jay_Critch&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Jay_Critch"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Jay_Critch&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Jay_Critch&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Jay_Critch" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Jay_Critch" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Jay_Critch&amp;oldid=1162310841" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Jay_Critch&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jay_Critch&amp;id=1162310841&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q95042449" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Jay_Critch&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Jay_Critch&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper from New York</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Jay Critch</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Jay_Critch_2018.png" class="mw-file-description" title="Critchlow in 2018"><img alt="Critchlow in 2018" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Jay_Critch_2018.png/220px-Jay_Critch_2018.png" decoding="async" width="220" height="360" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Jay_Critch_2018.png/330px-Jay_Critch_2018.png 1.5x, //upload.wikimedia.org/wikipedia/commons/2/29/Jay_Critch_2018.png 2x" data-file-width="334" data-file-height="546" /></a></span><div class="infobox-caption">Critchlow in 2018</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Jason Cole Critchlow</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1998-02-25</span>) </span>February 25, 1998<span class="noprint ForceAgeToShow"> (age&#160;25)</span><br /><a href="/wiki/Clinton_Hill,_Brooklyn" title="Clinton Hill, Brooklyn">Clinton Hill, Brooklyn</a>, <a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li><li><a href="/wiki/Trap_music" title="Trap music">trap</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Rapper</li><li>singer</li><li>songwriter</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2015–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Talk Money</li><li><a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a></li><li><a href="/wiki/300_Entertainment" title="300 Entertainment">300</a></li><li><a href="/wiki/Rich_the_Kid#Rich_Forever_Music" title="Rich the Kid">Rich Forever</a></li></ul></div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Jason Cole Critchlow</b> (born February 25, 1998), known professionally as <b>Jay Critch</b>, is an American rapper, singer and songwriter. He was formerly signed with <a href="/wiki/Rich_Forever_Music" class="mw-redirect" title="Rich Forever Music">Rich Forever Music</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jay_Critch&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jason Cole Critchlow grew up in the <a href="/wiki/Clinton_Hill,_Brooklyn" title="Clinton Hill, Brooklyn">Clinton Hill</a> neighborhood of <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, <a href="/wiki/New_York_City" title="New York City">New York</a>. He was born on February 25, 1998, to a <a href="/wiki/Trinidadian" class="mw-redirect" title="Trinidadian">Trinidadian</a> mother.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> As a child, he was fascinated by listening to his older brother rap.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Critch grew up listening to <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>, <a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a>, and <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, as well as many rappers from New York City.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jay_Critch&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jay Critch's first major collaboration was with <a href="/wiki/Rowdy_Rebel" title="Rowdy Rebel">Rowdy Rebel</a> on the song "Man Down" in 2015.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> In 2016, he began uploading songs on <a href="/wiki/SoundCloud" title="SoundCloud">SoundCloud</a>.<sup id="cite_ref-:0_5-0" class="reference"><a href="#cite_note-:0-5">&#91;5&#93;</a></sup> He became the subject of widespread attention in 2016, when his song "Did It Again" was remixed by <a href="/wiki/Rich_the_Kid" title="Rich the Kid">Rich the Kid</a>, who signed him to <a href="/wiki/Rich_Forever_Music" class="mw-redirect" title="Rich Forever Music">Rich Forever Music</a> in November.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Their collaboration went viral, with the music video gaining over a million views in the first week of its release.<sup id="cite_ref-:0_5-1" class="reference"><a href="#cite_note-:0-5">&#91;5&#93;</a></sup>
+</p><p>In November 2018, as a newly signed artist, Jay Critch released his debut solo mixtape, <i>Hood Favorite</i>. It features guest appearances from <a href="/wiki/Offset_(rapper)" title="Offset (rapper)">Offset</a>, <a href="/wiki/French_Montana" title="French Montana">French Montana</a> and <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> He also was featured on <a href="/wiki/Lil_Tjay" title="Lil Tjay">Lil Tjay</a>'s "<a href="/wiki/True_2_Myself" title="True 2 Myself">Ruthless</a>", which was certified platinum.
+</p><p>In December 2020, Jay Critch released his third mixtape, <i>Signed with Love</i>.<sup id="cite_ref-CritchTape_8-0" class="reference"><a href="#cite_note-CritchTape-8">&#91;8&#93;</a></sup>
+</p><p>On May 5, 2021, Jay returned with his mixtape, <i>Critch Tape</i>. Announced just hours before its release, the project contains 23 songs, with features from <a href="/wiki/Fivio_Foreign" title="Fivio Foreign">Fivio Foreign</a>,&#160;<a href="/wiki/Lil_Tjay" title="Lil Tjay">Lil Tjay</a>, and <a href="/wiki/Drakeo_the_Ruler" title="Drakeo the Ruler">Drakeo the Ruler</a>, among others.<sup id="cite_ref-CritchTape_8-1" class="reference"><a href="#cite_note-CritchTape-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jay_Critch&amp;action=edit&amp;section=3" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jay_Critch&amp;action=edit&amp;section=4" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of mixtapes, with release date and selected chart position
+</caption>
+<tbody><tr>
+<th rowspan="2" scope="col" style="width:12em;">Title
+</th>
+<th rowspan="2" scope="col" style="width:16em;">Mixtape details
+</th>
+<th colspan="2" scope="col">Peak chart positions
+</th></tr>
+<tr>
+<th style="width:3.5em; font-size:90%"><a href="/wiki/Billboard_200" title="Billboard 200">US</a><br /><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</th>
+<th style="width:3.5em; font-size:90%"><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">US<br />R&amp;B/HH</a><br /><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</th></tr>
+
+<tr>
+<th scope="row"><i><a href="/wiki/Rich_Forever_3" title="Rich Forever 3">Rich Forever 3</a></i><br /><span style="font-size:85%;">(with <a href="/wiki/Rich_the_Kid" title="Rich the Kid">Rich the Kid</a> and <a href="/wiki/Famous_Dex" title="Famous Dex">Famous Dex</a>)</span><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: June 16, 2017</li>
+<li>Label: <a href="/wiki/Rich_Forever_Music" class="mw-redirect" title="Rich Forever Music">Rich Forever Music</a>, <a href="/wiki/300_Entertainment" title="300 Entertainment">300 Entertainment</a></li>
+<li>Format: Digital download, streaming</li></ul>
+</td>
+<td>93
+</td>
+<td>42
+</td></tr>
+<tr>
+<th scope="row"><i>Hood Favorite</i><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: November 2, 2018</li>
+<li>Label: Rich Forever Music, <a href="/wiki/Interscope_Records" title="Interscope Records">Interscope Records</a></li></ul>
+</td>
+<td>86
+</td>
+<td>47
+</td></tr>
+<tr>
+<th scope="row"><i>Rich Forever 4</i><br /><span style="font-size:85%;">(with <a href="/wiki/Rich_the_Kid" title="Rich the Kid">Rich the Kid</a> and <a href="/wiki/Famous_Dex" title="Famous Dex">Famous Dex</a>)</span><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: August 2, 2019</li>
+<li>Label: Rich Forever Music, 300 Entertainment</li>
+<li>Format: Digital download, streaming</li></ul>
+</td>
+<td>170
+</td>
+<td>—
+</td></tr>
+
+<tr>
+<th scope="row"><i>Signed with Love</i><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: December 22, 2020</li>
+<li>Label: Talk Money Entertainment, <a href="/wiki/Empire_Distribution" title="Empire Distribution">EMPIRE</a></li>
+<li>Format: Digital download, streaming</li></ul>
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<th scope="row"><i>Critch Tape</i><sup id="cite_ref-CritchTape_8-2" class="reference"><a href="#cite_note-CritchTape-8">&#91;8&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: May 5, 2021</li>
+<li>Label: Talk Money Entertainment, EMPIRE</li>
+<li>Format: Digital download, streaming</li></ul>
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<th scope="row"><i>Jugg Season</i><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: February 17, 2023</li>
+<li>Label: Talk Money Entertainment, EMPIRE</li>
+<li>Format: Digital download, streaming</li></ul>
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td colspan="13" style="font-size:90%">"—" denotes a recording that did not chart or was not released in that territory.
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jay_Critch&amp;action=edit&amp;section=5" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Man Down</i> (with Rowdy Rebel) (2016)</li>
+<li><i>Scoop</i> (2016)</li>
+<li><i>Take Sumn</i> (2016)</li>
+<li><i>Hennything</i> (2016)</li>
+<li><i>FIFA</i> (featuring Dami) (2016)</li>
+<li><i>Affiliated</i> (2016)</li>
+<li><i>Talk About</i> (with Rich the Kid) (2017)</li>
+<li><i>Still Sippin</i> (with Rich the Kid) (2017)</li>
+<li><i>Did it Again</i> (with Rich the Kid) (2017)</li>
+<li><i>Rich Forever Intro</i> (with Rich the Kid and Famous Dex) (2017)</li>
+<li><i>Pull Up</i> (with Famous Dex) (2017)</li>
+<li><i>Started It</i> (featuring Don Q) (2017)</li>
+<li><i>Do the Math</i> (with Rich the Kid) (2017)</li>
+<li><i>Pretty as f*ck</i> (with Splash Gordan and Zeus Blanco) (2017)</li>
+<li><i>In &amp; Out</i> (2017)</li>
+<li><i>Family Rich</i> (featuring SkinnyFromThe9) (2017)</li>
+<li><i>Speak Up</i> (2017)</li>
+<li><i>Bottom Line</i> (2017)</li>
+<li><i>HIT</i> (with Desiigner) (2017)</li>
+<li><i>Red and Blue</i> (with Vendetta) (2017)</li>
+<li><i>Get Bucks</i> (2017)</li>
+<li><i>Yoshi</i> (2017)</li>
+<li><i>Rockets</i> (2017)</li>
+<li><i>Driving me Brazy</i> (2017)</li>
+<li><i>Adlibs</i> (2017)</li>
+<li><i>Wassup wit the Bag</i> (featuring Larssen and Ski Mask the Slump God) (2017)</li>
+<li><i>Fashion</i> (with Rich the Kid) (2017)</li>
+<li><i>Thousand Ways</i> (with Harry Fraud) (2017)</li>
+<li><i>Make it Count</i> (with Lil Dude) (2018)</li>
+<li><i>Ego</i> (2018)</li>
+<li><i>Big 30</i> (2018)</li>
+<li><i>Sweepstakes</i> (2018)</li>
+<li><i>Gotta Go (Remix)</i> (featuring A-D and Kalem) (2018)</li>
+<li><i>Bluff</i> (2018)</li>
+<li><i>Still Sippin (Remix)</i> (with Rich the Kid featuring Prince Don) (2018)</li>
+<li><i>Now a Days</i> (with King Ceazar) (2018)</li>
+<li><i>Change Clothes</i> (with Bronx Twins) (2018)</li>
+<li><i>Robin Hood</i> (2018)</li>
+<li><i>Knots</i> (featuring wifisfuneral) (2018)</li>
+<li><i>Wanna Ball</i> (featuring Flipp Dinero) (2018)</li>
+<li><i>Nervous</i> (featuring Rich the Kid, Famous Dex and Lil Baby) (2018)</li>
+<li><i>Ice</i> (featuring Marty Baller, ASAP Ferg, Rich the Kid and Sfera Ebbasta) (2018)</li>
+<li><i>Cable Guy</i> (featuring Key and Kenny Beats) (2018)</li>
+<li><i>Oh Wow</i> (with Rich the Kid) (2018)</li>
+<li><i>Brown Hair</i> (2019)</li>
+<li><i>Stimulate</i> (featuring Buckee) (2019)</li>
+<li><i>Ruthless</i> (featuring Lil Tjay) (2019)</li>
+<li><i>Count me Up</i> (with TMK) (2019)</li>
+<li><i>Messy</i> (2019)</li>
+<li><i>Wendy's</i> (2019)</li>
+<li><i>6ix Rings</i> (2019)</li>
+<li><i>One 2</i> (with Pi'erre Bourne) (2019)</li>
+<li><i>Don't @ Me</i> (2019)</li>
+<li><i>Adlibs Part 2</i> (2019)</li>
+<li><i>Something Special</i> (2019)</li>
+<li><i>Necklace</i> (with AJ Tracey) (2019)</li>
+<li><i>Bully</i> (2019)</li>
+<li><i>Party Bus</i> (with Rich the Kid and Famous Dex) (2019)</li>
+<li><i>I'm a Star</i> (Madden NFL 20) (2019)</li>
+<li><i>Cameras</i> (featuring Nick Mira &amp; JetsonMade) (2019)</li>
+<li><i>Dreams in a Wraith</i> (2019)</li>
+<li><i>Spooky</i> (2020)</li>
+<li><i>Money Talk</i> (with Tony Seltzer and A Lau) (2020)</li>
+<li><i>Handlin' Business</i> (featuring WoBandz) (2020)</li>
+<li><i>Bronny</i> (2020)</li>
+<li><i>Mighty Ducks</i> (2020)</li>
+<li><i>GameStop</i> (2020)</li>
+<li><i>Outside</i> (with Slayter) (2020)</li>
+<li><i>Hoes Fav</i> (with Laron) (2020)</li>
+<li><i>Devastated</i> (with Laron) (2020)</li>
+<li><i>Execute</i> (with Tank God) (2020)</li>
+<li><i>Back End</i> (with Laron) (2020)</li>
+<li><i>Living Good</i> (with Laron) (2020)</li>
+<li><i>Go Wherever</i> (2021)</li>
+<li><i>PC</i> (2021)</li>
+<li><i>To the Sky</i> (2021)</li>
+<li><i>Built for this</i> (2021)</li>
+<li><i>Hustler Muzik</i> (2021)</li>
+<li><i>Stretch</i> (2021)</li>
+<li><i>Jack It</i> (2021)</li>
+<li><i>Headlines</i> (2021)</li>
+<li><i>Gifted</i> (2021)</li>
+<li><i>Deadline</i> (2021)</li>
+<li><i>Losses</i> (with Slayter) (2021)</li>
+<li><i>Talk</i> (2021)</li>
+<li><i>KD Freestyle</i> (2022)</li>
+<li><i>Buck 50 Freestyle</i> (2022)</li>
+<li><i>Drank in my Cup</i> (2022)</li>
+<li><i>At my worst</i> (2022)</li>
+<li><i>Spin no blocks</i> (2022)</li>
+<li><i>Stamped</i> (2022)</li>
+<li><i>Anyday</i> (2022)</li>
+<li><i>Sade</i> (2022)</li>
+<li><i>Close to me / Active</i> (2022)</li>
+<li><i>Up All Night</i> (2022)</li>
+<li><i>Cheating Freestyle</i> (2022)</li>
+<li><i>Spooky Freestyle</i> (2022)</li>
+<li><i>Click</i> (2022)</li>
+<li><i>Born with it</i> (with Harry Fraud) (2022)</li>
+<li><i>Lefty</i> (with Rich the Kid) (2022)</li>
+<li><i>Where's Dexter</i> (with Rich the Kid and Famous Dex) (2023)</li>
+<li><i>Oh What a feeling</i> (2023)</li>
+<li><i>Still Movin</i> (with Rich the Kid and Fivio Foreign) (2023)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jay_Critch&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFPierre2018" class="citation web cs1">Pierre, Alphonse (March 2, 2018). <a rel="nofollow" class="external text" href="https://www.thefader.com/2018/03/02/jay-crtich-did-it-again-fashion-interview">"Jay Critch is the new New York"</a>. <i><a href="/wiki/The_FADER" class="mw-redirect" title="The FADER">The FADER</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+FADER&amp;rft.atitle=Jay+Critch+is+the+new+New+York&amp;rft.date=2018-03-02&amp;rft.aulast=Pierre&amp;rft.aufirst=Alphonse&amp;rft_id=https%3A%2F%2Fwww.thefader.com%2F2018%2F03%2F02%2Fjay-crtich-did-it-again-fashion-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.interscope.com/artists/jay-critch">"Jay Critch"</a>. <i>Interscope Records</i>. June 4, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Interscope+Records&amp;rft.atitle=Jay+Critch&amp;rft.date=2018-06-04&amp;rft_id=https%3A%2F%2Fwww.interscope.com%2Fartists%2Fjay-critch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKrastz2017" class="citation web cs1">Krastz, Roger (October 13, 2017). <a rel="nofollow" class="external text" href="https://www.xxlmag.com/news/2017/10/jay-critch-interview-the-break/">"The Break Presents: Jay Critch - XXL"</a>. <i>XXL Mag</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=The+Break+Presents%3A+Jay+Critch+-+XXL&amp;rft.date=2017-10-13&amp;rft.aulast=Krastz&amp;rft.aufirst=Roger&amp;rft_id=https%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2017%2F10%2Fjay-critch-interview-the-break%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRomaker2018" class="citation web cs1">Romaker, Ian (October 19, 2018). <a rel="nofollow" class="external text" href="https://lemonwire.com/2018/10/19/hood-favorite-jay-critch-rich-forever-talk-money-entertainment/">"Hood favorite Jay Critch (Rich Forever &amp; Talk Money Entertainment)"</a>. <i>LemonWire</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 18,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LemonWire&amp;rft.atitle=Hood+favorite+Jay+Critch+%28Rich+Forever+%26+Talk+Money+Entertainment%29&amp;rft.date=2018-10-19&amp;rft.aulast=Romaker&amp;rft.aufirst=Ian&amp;rft_id=https%3A%2F%2Flemonwire.com%2F2018%2F10%2F19%2Fhood-favorite-jay-critch-rich-forever-talk-money-entertainment%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/jay-critch-mn0003638233/biography">"Jay Critch | Biography &amp; History"</a>. <i>AllMusic</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 18,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Jay+Critch+%7C+Biography+%26+History&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Fartist%2Fjay-critch-mn0003638233%2Fbiography&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFC.M2016" class="citation web cs1">C.M, Emmanuel (December 1, 2016). <a rel="nofollow" class="external text" href="https://www.xxlmag.com/rap-music/new-music/2016/12/rich-the-kid-and-jay-critch-got-a-hit-with-did-it-again-remix/">"Rich The Kid and Jay Critch Got a Hit With 'Did It Again (Remix)' - XXL"</a>. <i>XXL Mag</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 18,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=Rich+The+Kid+and+Jay+Critch+Got+a+Hit+With+%27Did+It+Again+%28Remix%29%27+-+XXL&amp;rft.date=2016-12-01&amp;rft.aulast=C.M&amp;rft.aufirst=Emmanuel&amp;rft_id=https%3A%2F%2Fwww.xxlmag.com%2Frap-music%2Fnew-music%2F2016%2F12%2Frich-the-kid-and-jay-critch-got-a-hit-with-did-it-again-remix%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHaffenden2018" class="citation web cs1">Haffenden, Dayna (November 2, 2018). <a rel="nofollow" class="external text" href="https://www.xxlmag.com/news/2018/11/jay-critch-hood-favorite-mixtape-offset-french-montana/">"Jay Critch 'Hood Favorite' Mixtape: Listen to 12 New Songs - XXL"</a>. <i>XXL Mag</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 18,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=Jay+Critch+%27Hood+Favorite%27+Mixtape%3A+Listen+to+12+New+Songs+-+XXL&amp;rft.date=2018-11-02&amp;rft.aulast=Haffenden&amp;rft.aufirst=Dayna&amp;rft_id=https%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2018%2F11%2Fjay-critch-hood-favorite-mixtape-offset-french-montana%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-CritchTape-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-CritchTape_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CritchTape_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CritchTape_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFA.2021" class="citation web cs1">A., Aron (May 5, 2021). <a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/jay-critch-returns-with-his-new-project-critch-tape-new-mixtape.121498.html%3f">"Jay Critch Returns With His New Project "Critch Tape"<span class="cs1-kern-right"></span>"</a>. <i>HotNewHipHop</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Jay+Critch+Returns+With+His+New+Project+%22Critch+Tape%22&amp;rft.date=2021-05-05&amp;rft.aulast=A.&amp;rft.aufirst=Aron&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fjay-critch-returns-with-his-new-project-critch-tape-new-mixtape.121498.html%253f&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/jay-critch/chart-history">"Jay Critch Chart History"</a>. <i>Billboard</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Jay+Critch+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fjay-critch%2Fchart-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/artist/jay-critch/chart-history/blp/">"Jay Critch Chart History: Top R&amp;B/Hip-Hop Albums"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 17,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Jay+Critch+Chart+History%3A+Top+R%26B%2FHip-Hop+Albums&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fartist%2Fjay-critch%2Fchart-history%2Fblp%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/rich-forever-3/1248412518">"Rich Forever 3 by Rich The Kid, Famous Dex &amp; Jay Critch"</a>. June 16, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">May 18,</span> 2020</span> &#8211; via Apple Music.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rich+Forever+3+by+Rich+The+Kid%2C+Famous+Dex+%26+Jay+Critch&amp;rft.date=2017-06-16&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Frich-forever-3%2F1248412518&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/hood-favorite/1440313358">"Hood Favorite by Jay Critch"</a>. November 2, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">May 18,</span> 2020</span> &#8211; via Apple Music.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hood+Favorite+by+Jay+Critch&amp;rft.date=2018-11-02&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fhood-favorite%2F1440313358&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/rich-forever-4/1474600615">"Rich Forever 4 by Rich The Kid, Famous Dex &amp; Jay Critch"</a>. August 2, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">May 18,</span> 2020</span> &#8211; via Apple Music.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rich+Forever+4+by+Rich+The+Kid%2C+Famous+Dex+%26+Jay+Critch&amp;rft.date=2019-08-02&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Frich-forever-4%2F1474600615&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/signed-with-love/1545835118">"Signed with Love by Jay Critch"</a>. December 22, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">December 24,</span> 2020</span> &#8211; via Apple Music.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Signed+with+Love+by+Jay+Critch&amp;rft.date=2020-12-22&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fsigned-with-love%2F1545835118&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/jugg-season/1666384359">"Jugg Season by Jay Critch"</a>. February 17, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">February 17,</span> 2023</span> &#8211; via Apple Music.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jugg+Season+by+Jay+Critch&amp;rft.date=2023-02-17&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fjugg-season%2F1666384359&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJay+Critch" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw2369
+Cached time: 20230920015602
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.328 seconds
+Real time usage: 0.403 seconds
+Preprocessor visited node count: 1642/1000000
+Post‐expand include size: 33939/2097152 bytes
+Template argument size: 2386/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49459/5000000 bytes
+Lua time usage: 0.214/10.000 seconds
+Lua memory usage: 6263732/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  367.356      1 -total
+ 40.74%  149.669      1 Template:Infobox_musical_artist
+ 39.13%  143.754      1 Template:Reflist
+ 36.55%  134.281      1 Template:Infobox
+ 31.66%  116.297     13 Template:Cite_web
+ 14.57%   53.529      2 Template:Short_description
+ 14.41%   52.945      4 Template:Hlist
+ 12.30%   45.187      2 Template:Br_separated_entries
+  9.81%   36.033      1 Template:Birth_date_and_age
+  7.58%   27.851      4 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:54221421-0!canonical and timestamp 20230920015601 and revision id 1162310841. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jay_Critch&amp;oldid=1162310841">https://en.wikipedia.org/w/index.php?title=Jay_Critch&amp;oldid=1162310841</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1998_births" title="Category:1998 births">1998 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Rappers_from_Brooklyn" title="Category:Rappers from Brooklyn">Rappers from Brooklyn</a></li><li><a href="/wiki/Category:American_people_of_Guyanese_descent" title="Category:American people of Guyanese descent">American people of Guyanese descent</a></li><li><a href="/wiki/Category:American_rappers_of_Trinidad_and_Tobago_descent" title="Category:American rappers of Trinidad and Tobago descent">American rappers of Trinidad and Tobago descent</a></li><li><a href="/wiki/Category:Caribbean_people" title="Category:Caribbean people">Caribbean people</a></li><li><a href="/wiki/Category:Interscope_Records_artists" title="Category:Interscope Records artists">Interscope Records artists</a></li><li><a href="/wiki/Category:Trap_musicians" title="Category:Trap musicians">Trap musicians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_December_2020" title="Category:Use mdy dates from December 2020">Use mdy dates from December 2020</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 28 June 2023, at 08:49<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jay_Critch&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2409","wgBackendResponseTime":110,"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.403","ppvisitednodes":{"value":1642,"limit":1000000},"postexpandincludesize":{"value":33939,"limit":2097152},"templateargumentsize":{"value":2386,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49459,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  367.356      1 -total"," 40.74%  149.669      1 Template:Infobox_musical_artist"," 39.13%  143.754      1 Template:Reflist"," 36.55%  134.281      1 Template:Infobox"," 31.66%  116.297     13 Template:Cite_web"," 14.57%   53.529      2 Template:Short_description"," 14.41%   52.945      4 Template:Hlist"," 12.30%   45.187      2 Template:Br_separated_entries","  9.81%   36.033      1 Template:Birth_date_and_age","  7.58%   27.851      4 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.214","limit":"10.000"},"limitreport-memusage":{"value":6263732,"limit":52428800}},"cachereport":{"origin":"mw2369","timestamp":"20230920015602","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Jay Critch","url":"https:\/\/en.wikipedia.org\/wiki\/Jay_Critch","sameAs":"http:\/\/www.wikidata.org\/entity\/Q95042449","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q95042449","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-06-04T17:27:21Z","dateModified":"2023-06-28T08:49:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/29\/Jay_Critch_2018.png","headline":"American rapper"}</script>
+</body>
+</html>

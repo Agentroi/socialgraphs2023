@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Bodega Bamz - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"3c7ee33d-d3f8-4669-a505-a625bd182a3a","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bodega_Bamz","wgTitle":"Bodega Bamz","wgCurRevisionId":1152153694,"wgRevisionId":1152153694,"wgArticleId":46876434,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","BLP articles lacking sources from June 2015","All BLP articles lacking sources","Short description matches Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","Articles with ISNI identifiers","Articles with VIAF identifiers","Living people","People from East Harlem","East Coast hip hop musicians","Rappers from Manhattan","American musicians of Puerto Rican descent","American rappers of Dominican Republic descent","Hispanic and Latino American rappers",
+"1985 births","21st-century American rappers"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bodega_Bamz","wgRelevantArticleId":46876434,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q20630587",
+"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8d/Bodega_Bamz.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1076">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8d/Bodega_Bamz.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="718">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bodega_Bamz.png/640px-Bodega_Bamz.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="574">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Bodega Bamz - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Bodega_Bamz">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bodega_Bamz&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bodega_Bamz">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bodega_Bamz rootpage-Bodega_Bamz skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert vector-main-menu-action-lang-alert-empty">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bodega+Bamz" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bodega+Bamz" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bodega+Bamz" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bodega+Bamz" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Career</div>
+		</a>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Guest_appearances"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Guest_appearances">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Guest appearances</div>
+			</a>
+			
+			<ul id="toc-Guest_appearances-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Filmography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Filmography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Filmography</div>
+		</a>
+		
+			<button aria-controls="toc-Filmography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Filmography subsection</span>
+			</button>
+		
+		<ul id="toc-Filmography-sublist" class="vector-toc-list">
+			<li id="toc-Television"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Television">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Television</div>
+			</a>
+			
+			<ul id="toc-Television-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Bodega Bamz</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="This article exist only in this language. Add the article for other languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Add languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q20630587#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Bodega_Bamz" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Bodega_Bamz" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Bodega_Bamz"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Bodega_Bamz&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Bodega_Bamz&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Bodega_Bamz"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Bodega_Bamz&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Bodega_Bamz&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Bodega_Bamz" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Bodega_Bamz" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Bodega_Bamz&amp;oldid=1152153694" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Bodega_Bamz&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bodega_Bamz&amp;id=1152153694&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q20630587" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Bodega_Bamz&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Bodega_Bamz&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-BLP_sources plainlinks metadata ambox ambox-content ambox-BLP_sources" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><div class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biography of a living person</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help by adding <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable sources</a>. <a href="/wiki/Wikipedia:BLPREMOVE" class="mw-redirect" title="Wikipedia:BLPREMOVE">Contentious material</a> about living persons that is unsourced or <a href="/wiki/Wikipedia:QUESTIONABLE" class="mw-redirect" title="Wikipedia:QUESTIONABLE">poorly sourced</a> <b>must be removed immediately</b> from the article and its talk page, especially if potentially <a href="/wiki/Wikipedia:Libel" title="Wikipedia:Libel">libelous</a>.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?as_eq=wikipedia&amp;q=%22Bodega+Bamz%22">"Bodega Bamz"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?tbm=nws&amp;q=%22Bodega+Bamz%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?&amp;q=%22Bodega+Bamz%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?tbs=bks:1&amp;q=%22Bodega+Bamz%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://scholar.google.com/scholar?q=%22Bodega+Bamz%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Bodega+Bamz%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">June 2015</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Bodega Bamz</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Bodega_Bamz.png" class="mw-file-description" title="Bodega Bamz in East Harlem, New York, 2019"><img alt="Bodega Bamz in East Harlem, New York, 2019" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bodega_Bamz.png/220px-Bodega_Bamz.png" decoding="async" width="220" height="197" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bodega_Bamz.png/330px-Bodega_Bamz.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bodega_Bamz.png/440px-Bodega_Bamz.png 2x" data-file-width="650" data-file-height="583" /></a></span><div class="infobox-caption">Bodega Bamz in <a href="/wiki/East_Harlem,_New_York" class="mw-redirect" title="East Harlem, New York">East Harlem, New York</a>, 2019</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Nathaniel De La Rosa</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>Papi</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1985-03-17</span>) </span>March 17, 1985<span class="noprint ForceAgeToShow"> (age&#160;38)</span><br /><a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Rapper</li><li>Actor</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2009–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>100 Keep It</li><li><a href="/wiki/Duck_Down_Music" title="Duck Down Music">Duck Down</a></li><li><a href="/wiki/Empire_Distribution" title="Empire Distribution">Empire</a></li></ul></div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="https://100keepit.bigcartel.com/">100keepit<wbr />.bigcartel<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Nathaniel De La Rosa</b> (born March 17, 1985), known professionally as <b>Bodega Bamz</b>, is of Dominican/Puerto Rican descent rapper/actor from <a href="/wiki/Spanish_Harlem" class="mw-redirect" title="Spanish Harlem">Spanish Harlem</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>.<sup id="cite_ref-insanulahmed_1-0" class="reference"><a href="#cite_note-insanulahmed-1">&#91;1&#93;</a></sup> De La Rosa first attracted attention for his 2012 mixtape, <i>Strictly 4 My P.A.P.I.Z</i>, which featured <a href="/wiki/ASAP_Ferg" title="ASAP Ferg">ASAP Ferg</a>, <a href="/wiki/Joell_Ortiz" title="Joell Ortiz">Joell Ortiz</a>, <a href="/wiki/Aston_Matthews" title="Aston Matthews">A$ton Matthews</a>, <a href="/wiki/Tego_Calderon" class="mw-redirect" title="Tego Calderon">Tego Calderon</a> and <a href="/wiki/Flatbush_Zombies" title="Flatbush Zombies">Flatbush Zombies</a>.<sup id="cite_ref-datpiff.com_2-0" class="reference"><a href="#cite_note-datpiff.com-2">&#91;2&#93;</a></sup> De La Rosa later collaborated with <a href="/wiki/The_Martinez_Brothers" title="The Martinez Brothers">the Martinez Brothers</a> and released an EP, <i>Sunday Service</i> (2014).<sup id="cite_ref-patricklyons_3-0" class="reference"><a href="#cite_note-patricklyons-3">&#91;3&#93;</a></sup> In 2015, he released his debut album, <i>Sidewalk Exec</i>.<sup id="cite_ref-itunes_4-0" class="reference"><a href="#cite_note-itunes-4">&#91;4&#93;</a></sup> In 2017, he was cast in the Showtime series <i><a href="/wiki/SMILF" title="SMILF">SMILF</a></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bodega_Bamz&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 2012 critically acclaimed mixtape release of Strictly 4 My P.A.P.I.Z,<sup id="cite_ref-datpiff.com_2-1" class="reference"><a href="#cite_note-datpiff.com-2">&#91;2&#93;</a></sup> showcased Bodega Bamz artistry and solidified his place in the hip-hop community. Strictly 4 My P.A.P.I.Z. includes features from <a href="/wiki/ASAP_Ferg" title="ASAP Ferg">ASAP Ferg</a>, <a href="/wiki/Joell_Ortiz" title="Joell Ortiz">Joell Ortiz</a>, <a href="/wiki/Aston_Matthews" title="Aston Matthews">A$ton Matthews</a>, and <a href="/wiki/Flatbush_Zombies" title="Flatbush Zombies">Flatbush Zombies</a>. Bodega Bamz teamed up with <a href="/wiki/The_Martinez_Brothers" title="The Martinez Brothers">The Martinez Brothers</a> and released an EP, Sunday Service (2014).<sup id="cite_ref-patricklyons_3-1" class="reference"><a href="#cite_note-patricklyons-3">&#91;3&#93;</a></sup> In 2015, Bodega Bamz released his debut album Sidewalk Exec.<sup id="cite_ref-itunes_4-1" class="reference"><a href="#cite_note-itunes-4">&#91;4&#93;</a></sup> Bodega Bamz also showcased another one of his talents by making his acting debut in his own cult film The Streets Owe Me, Hell Train and most recently cast in the Showtime series, <i><a href="/wiki/SMILF" title="SMILF">SMILF</a></i>. As of March 2020, he had a guest-starring role on the second season <a href="/wiki/FBI_(TV_series)" title="FBI (TV series)"><i>FBI</i></a>.
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bodega_Bamz&amp;action=edit&amp;section=2" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bodega_Bamz&amp;action=edit&amp;section=3" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/Sidewalk_Exec" title="Sidewalk Exec">Sidewalk Exec</a></i> (2015)</li>
+<li><i>PAPI</i> (2018)</li>
+<li><i>Yamz Heard This</i> (2020)</li></ul>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bodega_Bamz&amp;action=edit&amp;section=4" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>The Rest is Noise</i> (2009)</li>
+<li><i>Loosies &amp; Brewskies</i> (2011)</li>
+<li><i>Strictly 4 My P.A.P.I.Z.</i> (2012)</li>
+<li><i>Sunday Service</i> (with <a href="/wiki/The_Martinez_Brothers" title="The Martinez Brothers">The Martinez Brothers</a>) (2014)</li>
+<li><i>Menace Tan Society</i> (with Tanboys) (2015)</li>
+<li><i>All Eyez Off Me</i> (2016)</li>
+<li><i>Westside Highway Story</i> (with <a href="/wiki/Joell_Ortiz" title="Joell Ortiz">Joell Ortiz</a> and <a href="/wiki/Nitty_Scott" title="Nitty Scott">Nitty Scott</a> as No Panty, prod. by <a href="/wiki/Salaam_Remi" title="Salaam Remi">Salaam Remi</a>) (2016)</li>
+<li><i>Bodega's Way</i> (2019)</li></ul>
+<h3><span class="mw-headline" id="Guest_appearances">Guest appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bodega_Bamz&amp;action=edit&amp;section=5" title="Edit section: Guest appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of non-single guest appearances, with other performing artists, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" style="width:16em;">Title
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Artist(s)
+</th>
+<th scope="col">Album
+</th></tr>
+<tr>
+<th scope="row">"Latino Heat"
+</th>
+<td rowspan="3">2012
+</td>
+<td><a href="/wiki/Aston_Matthews" title="Aston Matthews">Aston Matthews</a>
+</td>
+<td><i>Versace Ragz</i>
+</td></tr>
+<tr>
+<th scope="row">"Told Ya"
+</th>
+<td><a href="/wiki/ASAP_Mob" title="ASAP Mob">ASAP Mob</a>, <a href="/wiki/ASAP_Ant" class="mw-redirect" title="ASAP Ant">ASAP Ant</a>
+</td>
+<td><i><a href="/wiki/Lords_Never_Worry" title="Lords Never Worry">Lords Never Worry</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Death Is Not an Option"
+</th>
+<td><a href="/wiki/Heems" title="Heems">Heems</a>, <a href="/wiki/Lakutis" title="Lakutis">Lakutis</a>
+</td>
+<td><i><a href="/wiki/Wild_Water_Kingdom_(album)" class="mw-redirect" title="Wild Water Kingdom (album)">Wild Water Kingdom</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Trap Lords"
+</th>
+<td rowspan="3">2013
+</td>
+<td><a href="/wiki/Funkmaster_Flex" title="Funkmaster Flex">Funkmaster Flex</a>, <a href="/wiki/ASAP_Ferg" title="ASAP Ferg">ASAP Ferg</a>
+</td>
+<td><i>Who You Mad At? Me or Yourself?</i>
+</td></tr>
+<tr>
+<th scope="row">"Wadadaang (Black Boy/Tan Boy)"
+</th>
+<td>Black Dave
+</td>
+<td><i>Black Bart</i>
+</td></tr>
+<tr>
+<th scope="row">"1,000 Pounds"
+</th>
+<td><a href="/wiki/Trademark_Da_Skydiver" class="mw-redirect" title="Trademark Da Skydiver">Trademark Da Skydiver</a>
+</td>
+<td><i>Flamingo Barnes 2: Mingo Royale</i>
+</td></tr>
+<tr>
+<th scope="row">"Latino Heat, Pt. 2"
+</th>
+<td rowspan="2">2014
+</td>
+<td>Aston Matthews
+</td>
+<td><i>Aston 3:16</i>
+</td></tr>
+<tr>
+<th scope="row">"My Team Supreme 2.0"
+</th>
+<td><a href="/wiki/Flatbush_Zombies" title="Flatbush Zombies">Flatbush Zombies</a>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"New Jack City is Mine"
+</th>
+<td rowspan="6">2015
+</td>
+<td><a href="/wiki/Mr._Green_(record_producer)" title="Mr. Green (record producer)">Mr. Green</a>, Lumin Hao
+</td>
+<td><i><a href="/wiki/Live_From_The_Streets" class="mw-redirect" title="Live From The Streets">Live From The Streets</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Going Back 2 (Joe Marinetti Remix)"
+</th>
+<td>Nick Hook, DJ Sliink, <a href="/wiki/Crystal_Caines" title="Crystal Caines">Crystal Caines</a>, Nadus
+</td>
+<td><i>Collage v1 Remixes</i>
+</td></tr>
+<tr>
+<th scope="row">"Bodie"
+</th>
+<td>Eto Swazye
+</td>
+<td><i>1983</i>
+</td></tr>
+<tr>
+<th scope="row">"Bodega!"
+</th>
+<td><a href="/wiki/Statik_Selektah" title="Statik Selektah">Statik Selektah</a>
+</td>
+<td><i><a href="/wiki/Lucky_7_(Statik_Selektah_album)" title="Lucky 7 (Statik Selektah album)">Lucky 7</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Latino, Pt. 2"
+</th>
+<td><a href="/wiki/Joell_Ortiz" title="Joell Ortiz">Joell Ortiz</a>, <a href="/wiki/Illmind" title="Illmind">Illmind</a>, <a href="/wiki/Emilio_Rojas" title="Emilio Rojas">Emilio Rojas</a>, <a href="/wiki/Chris_Rivers" title="Chris Rivers">Chris Rivers</a>
+</td>
+<td><i><a href="/wiki/Human_(Joell_Ortiz_and_Illmind_album)" title="Human (Joell Ortiz and Illmind album)">Human</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Shinigami"
+</th>
+<td><a href="/wiki/6ix9ine" title="6ix9ine">6ix9ine</a>
+</td>
+<td><i>SCUMMY SCUMZ</i> <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row">"Who Knocks"
+</th>
+<td rowspan="4">2016
+</td>
+<td>Meth Mouth
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"First or Last"
+</th>
+<td>DroFe
+</td>
+<td><i>Narcowave 3</i>
+</td></tr>
+<tr>
+<th scope="row">"Venetian Loafers"
+</th>
+<td>Meyhem Lauren
+</td>
+<td><i>Precious Metals</i>
+</td></tr>
+<tr>
+<th scope="row">"Where's the Love"
+</th>
+<td><a href="/wiki/Termanology" title="Termanology">Termanology</a>, <a href="/wiki/Bun_B" title="Bun B">Bun B</a>, <a href="/wiki/Masspike_Miles" class="mw-redirect" title="Masspike Miles">Masspike Miles</a>
+</td>
+<td><i><a href="/wiki/More_Politics" title="More Politics">More Politics</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Droppin Bodies"
+</th>
+<td rowspan="2">2017
+</td>
+<td>Don Krez, <a href="/wiki/Pouya_(rapper)" class="mw-redirect" title="Pouya (rapper)">Pouya</a>, <a href="/wiki/Fat_Nick" title="Fat Nick">Fat Nick</a>
+</td>
+<td><i>Prequel</i>
+</td></tr>
+<tr>
+<th scope="row">"Time 4 This"
+</th>
+<td>Sha Hef
+</td>
+<td><i>Out the Mud</i>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bodega_Bamz&amp;action=edit&amp;section=6" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Television">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bodega_Bamz&amp;action=edit&amp;section=7" title="Edit section: Television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Role
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>2017–2019
+</td>
+<td><i><a href="/wiki/SMILF" title="SMILF">SMILF</a></i>
+</td>
+<td>Carlos
+</td>
+<td>6 episodes
+</td></tr>
+<tr>
+<td>2020
+</td>
+<td><a href="/wiki/FBI_(TV_series)" title="FBI (TV series)"><i>FBI</i></a>
+</td>
+<td>Santiago Gonzalez
+</td>
+<td>Episode: "Emotional Rescue"
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bodega_Bamz&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-insanulahmed-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-insanulahmed_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFInsanul_Ahmed" class="citation web cs1">Insanul Ahmed. <a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/05/who-is-bodega-bamz/">"Who Is Bodega Bamz?"</a>. <i>Complex</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Who+Is+Bodega+Bamz%3F&amp;rft.au=Insanul+Ahmed&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F05%2Fwho-is-bodega-bamz%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABodega+Bamz" class="Z3988"></span></span>
+</li>
+<li id="cite_note-datpiff.com-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-datpiff.com_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-datpiff.com_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Bodega-Bamz-Strictly-4-My-PAPIZ-mixtape.508744.html">"Bodega Bamz – Strictly 4 My P.A.P.I.Z."</a> <i>DatPiff</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DatPiff&amp;rft.atitle=Bodega+Bamz+%E2%80%93+Strictly+4+My+P.A.P.I.Z.&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FBodega-Bamz-Strictly-4-My-PAPIZ-mixtape.508744.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABodega+Bamz" class="Z3988"></span></span>
+</li>
+<li id="cite_note-patricklyons-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-patricklyons_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-patricklyons_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPatrick_Lyons2014" class="citation web cs1">Patrick Lyons (8 July 2014). <a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/stream-bodega-bamz-and-the-martinez-bros-sunday-service-ep-news.11211.html">"Stream Bodega Bamz And The Martinez Bros' "Sunday Service" EP"</a>. <i>HotNewHipHop</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Stream+Bodega+Bamz+And+The+Martinez+Bros%27+%22Sunday+Service%22+EP&amp;rft.date=2014-07-08&amp;rft.au=Patrick+Lyons&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fstream-bodega-bamz-and-the-martinez-bros-sunday-service-ep-news.11211.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABodega+Bamz" class="Z3988"></span></span>
+</li>
+<li id="cite_note-itunes-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-itunes_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-itunes_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/sidewalk-exec/id972463089">"iTunes – Music – Sidewalk Exec by Bodega Bamz"</a>. <i>iTunes</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=iTunes+%E2%80%93+Music+%E2%80%93+Sidewalk+Exec+by+Bodega+Bamz&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fsidewalk-exec%2Fid972463089&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABodega+Bamz" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2017/10/bodega-bamz-interview-smilf/">"Bodega Bamz Goes From Harlem to Hollywood With Role in 'SMILF' - XXL"</a>. <i>XXL Mag</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=Bodega+Bamz+Goes+From+Harlem+to+Hollywood+With+Role+in+%27SMILF%27+-+XXL&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2017%2F10%2Fbodega-bamz-interview-smilf%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABodega+Bamz" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20181116043321/https://genius.com/albums/6ix9ine/Scummy-scumz">"6ix9ine - SCUMMY SCUMZ Lyrics and Tracklist &#124; Genius"</a>. Archived from <a rel="nofollow" class="external text" href="https://genius.com/albums/6ix9ine/Scummy-scumz">the original</a> on 2018-11-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=6ix9ine+-+SCUMMY+SCUMZ+Lyrics+and+Tracklist+%26%23124%3B+Genius&amp;rft_id=https%3A%2F%2Fgenius.com%2Falbums%2F6ix9ine%2FScummy-scumz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABodega+Bamz" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q20630587#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q20630587#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q20630587#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000455756972">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/27144782708711650934">VIAF</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2420
+Cached time: 20230920005931
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.292 seconds
+Real time usage: 0.388 seconds
+Preprocessor visited node count: 1384/1000000
+Post‐expand include size: 32993/2097152 bytes
+Template argument size: 2171/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31674/5000000 bytes
+Lua time usage: 0.200/10.000 seconds
+Lua memory usage: 6429666/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  350.559      1 -total
+ 33.25%  116.547      1 Template:Infobox_musical_artist
+ 29.67%  104.016      1 Template:Infobox
+ 21.66%   75.923      1 Template:Reflist
+ 19.05%   66.789      1 Template:BLP_sources
+ 18.43%   64.612      6 Template:Cite_web
+ 17.35%   60.836      1 Template:Ambox
+ 14.36%   50.351      2 Template:Short_description
+ 11.54%   40.445      1 Template:Authority_control
+ 11.16%   39.110      4 Template:Hlist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:46876434-0!canonical and timestamp 20230920005930 and revision id 1152153694. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bodega_Bamz&amp;oldid=1152153694">https://en.wikipedia.org/w/index.php?title=Bodega_Bamz&amp;oldid=1152153694</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_East_Harlem" title="Category:People from East Harlem">People from East Harlem</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Rappers_from_Manhattan" title="Category:Rappers from Manhattan">Rappers from Manhattan</a></li><li><a href="/wiki/Category:American_musicians_of_Puerto_Rican_descent" title="Category:American musicians of Puerto Rican descent">American musicians of Puerto Rican descent</a></li><li><a href="/wiki/Category:American_rappers_of_Dominican_Republic_descent" title="Category:American rappers of Dominican Republic descent">American rappers of Dominican Republic descent</a></li><li><a href="/wiki/Category:Hispanic_and_Latino_American_rappers" title="Category:Hispanic and Latino American rappers">Hispanic and Latino American rappers</a></li><li><a href="/wiki/Category:1985_births" title="Category:1985 births">1985 births</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_June_2015" title="Category:BLP articles lacking sources from June 2015">BLP articles lacking sources from June 2015</a></li><li><a href="/wiki/Category:All_BLP_articles_lacking_sources" title="Category:All BLP articles lacking sources">All BLP articles lacking sources</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 28 April 2023, at 14:59<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bodega_Bamz&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2377","wgBackendResponseTime":100,"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.388","ppvisitednodes":{"value":1384,"limit":1000000},"postexpandincludesize":{"value":32993,"limit":2097152},"templateargumentsize":{"value":2171,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31674,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  350.559      1 -total"," 33.25%  116.547      1 Template:Infobox_musical_artist"," 29.67%  104.016      1 Template:Infobox"," 21.66%   75.923      1 Template:Reflist"," 19.05%   66.789      1 Template:BLP_sources"," 18.43%   64.612      6 Template:Cite_web"," 17.35%   60.836      1 Template:Ambox"," 14.36%   50.351      2 Template:Short_description"," 11.54%   40.445      1 Template:Authority_control"," 11.16%   39.110      4 Template:Hlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.200","limit":"10.000"},"limitreport-memusage":{"value":6429666,"limit":52428800}},"cachereport":{"origin":"mw2420","timestamp":"20230920005931","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bodega Bamz","url":"https:\/\/en.wikipedia.org\/wiki\/Bodega_Bamz","sameAs":"http:\/\/www.wikidata.org\/entity\/Q20630587","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q20630587","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-06-02T20:05:05Z","dateModified":"2023-04-28T14:59:10Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8d\/Bodega_Bamz.png","headline":"musical artist"}</script>
+</body>
+</html>

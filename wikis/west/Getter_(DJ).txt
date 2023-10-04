@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Getter (DJ) - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"35c2ccf6-269c-460b-b017-97a6c0d6b9cd","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Getter_(DJ)","wgTitle":"Getter (DJ)","wgCurRevisionId":1170585322,"wgRevisionId":1170585322,"wgArticleId":52322990,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","Articles with MusicBrainz identifiers","1993 births","Living people","People from San Jose, California","American electronic musicians","American DJs","Dubstep musicians","Owsla artists","Electronic dance music DJs","American hip hop musicians","American male rappers","West Coast hip hop musicians","Rappers from California","American male web series actors"],"wgPageViewLanguage":"en","wgPageContentLanguage":
+"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Getter_(DJ)","wgRelevantArticleId":52322990,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q27914910","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model",
+"platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Getter (DJ) - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Getter_(DJ)">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Getter_(DJ)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Getter_(DJ)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Getter_DJ rootpage-Getter_DJ skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Getter+%28DJ%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Getter+%28DJ%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Getter+%28DJ%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Getter+%28DJ%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Background"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Background">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Background</div>
+		</a>
+		
+		<ul id="toc-Background-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-2012–13:_Beginnings"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2012–13:_Beginnings">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>2012–13: Beginnings</div>
+			</a>
+			
+			<ul id="toc-2012–13:_Beginnings-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2014–15:_Trenchlords_project_and_Planet_Neutral"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2014–15:_Trenchlords_project_and_Planet_Neutral">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>2014–15: <i>Trenchlords</i> project and <i>Planet Neutral</i></div>
+			</a>
+			
+			<ul id="toc-2014–15:_Trenchlords_project_and_Planet_Neutral-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2016:_Radical_Dude!_and_Wat_the_Frick"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2016:_Radical_Dude!_and_Wat_the_Frick">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>2016: <i>Radical Dude!</i> and <i>Wat the Frick</i></div>
+			</a>
+			
+			<ul id="toc-2016:_Radical_Dude!_and_Wat_the_Frick-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2017–2019:_Shred_Collective,_Visceral"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2017–2019:_Shred_Collective,_Visceral">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>2017–2019: Shred Collective, <i>Visceral</i></div>
+			</a>
+			
+			<ul id="toc-2017–2019:_Shred_Collective,_Visceral-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2020-present:_HOT_VODKA_1,_Skater_XL,_NAPALM,_Selling_&quot;Suh_Dude&quot;"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2020-present:_HOT_VODKA_1,_Skater_XL,_NAPALM,_Selling_&quot;Suh_Dude&quot;">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.5</span>2020-present: <i>HOT VODKA 1,</i> Skater XL, <i>NAPALM,</i> Selling "Suh Dude"</div>
+			</a>
+			
+			<ul id="toc-2020-present:_HOT_VODKA_1,_Skater_XL,_NAPALM,_Selling_&quot;Suh_Dude&quot;-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Controversy"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Controversy">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Controversy</div>
+		</a>
+		
+		<ul id="toc-Controversy-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Other_ventures"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Other_ventures">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Other ventures</div>
+		</a>
+		
+			<button aria-controls="toc-Other_ventures-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Other ventures subsection</span>
+			</button>
+		
+		<ul id="toc-Other_ventures-sublist" class="vector-toc-list">
+			<li id="toc-Trippy_Burger"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Trippy_Burger">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.1</span>Trippy Burger</div>
+			</a>
+			
+			<ul id="toc-Trippy_Burger-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-The_Real_Bros_Of_Simi_Valley"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#The_Real_Bros_Of_Simi_Valley">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.2</span><i>The Real Bros Of Simi Valley</i></div>
+			</a>
+			
+			<ul id="toc-The_Real_Bros_Of_Simi_Valley-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Getter (DJ)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 6 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-6" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">6 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Getter" title="Getter – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Getter_(producteur_de_musique_%C3%A9lectronique)" title="Getter (producteur de musique électronique) – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B2%8C%ED%84%B0_(%EC%9D%8C%EC%95%85%EA%B0%80)" title="게터 (음악가) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Getter_(musicista)" title="Getter (musicista) – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Getter" title="Getter – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/Getter_(%D0%B4%D0%B8%D0%B4%D0%B6%D0%B5%D0%B9)" title="Getter (диджей) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q27914910#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Getter_(DJ)" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Getter_(DJ)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Getter_(DJ)"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Getter_(DJ)&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Getter_(DJ)"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Getter_(DJ)&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Getter_(DJ)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Getter_(DJ)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Getter_(DJ)&amp;oldid=1170585322" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Getter_(DJ)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Getter_%28DJ%29&amp;id=1170585322&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q27914910" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Getter_%28DJ%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Getter_(DJ)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American DJ and music producer</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Getter_(disambiguation)" class="mw-disambig" title="Getter (disambiguation)">Getter (disambiguation)</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Getter</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Tanner Petulla</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1993-04-13</span>) </span>April 13, 1993<span class="noprint ForceAgeToShow"> (age&#160;30)</span><br /><a href="/wiki/San_Jose,_California" title="San Jose, California">San Jose, California</a>, <a href="/wiki/United_States" title="United States">United States</a></td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/Dubstep" title="Dubstep">Dubstep</a></li><li><a href="/wiki/Trap_music_(EDM)" class="mw-redirect" title="Trap music (EDM)">trap</a></li><li><a href="/wiki/Electro_house" title="Electro house">electro house</a></li><li><a href="/wiki/Electronic_dance_music" title="Electronic dance music">EDM</a></li><li><a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/DJ" class="mw-redirect" title="DJ">DJ</a></li><li><a href="/wiki/Record_producer" title="Record producer">Producer</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Digital_audio_workstation" title="Digital audio workstation">DAW</a></li><li><a href="/wiki/Drum" title="Drum">drum</a></li><li><a href="/wiki/Guitar" title="Guitar">guitar</a></li><li><a href="/wiki/Synthesizer" title="Synthesizer">synthesizer</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2010–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Shred Collective</li><li><a href="/wiki/Mau5trap" title="Mau5trap">mau5trap</a></li><li><a href="/wiki/Owsla" title="Owsla">Owsla</a></li><li>Firepower Records</li><li><a href="/wiki/Monstercat" title="Monstercat">Monstercat</a></li></ul></div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Tanner Petulla</b>, known professionally as <b>Getter</b>, is an American DJ, <a href="/wiki/Record_producer" title="Record producer">producer</a>, <a href="/wiki/Rapper" class="mw-redirect" title="Rapper">rapper</a> and <a href="/wiki/Actor" title="Actor">actor</a> from <a href="/wiki/San_Jose,_California" title="San Jose, California">San Jose, California</a>.
+</p><p>Petulla was signed to <a href="/wiki/Datsik_(musician)" title="Datsik (musician)">Datsik's</a> label Firepower Records in 2012,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> while also releasing through other labels such as Rottun Recordings and <a href="/wiki/Owsla" title="Owsla">OWSLA</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Petulla has collaborated with some big-name artists such as <a href="/wiki/Datsik_(musician)" title="Datsik (musician)">Datsik</a>, <a href="/wiki/Skrillex" title="Skrillex">Skrillex</a>, <a href="/wiki/Borgore" title="Borgore">Borgore</a>, and <a href="/wiki/Suicideboys" title="Suicideboys">Suicideboys</a>, and also had <a href="/wiki/Liquid_Stranger" title="Liquid Stranger">Liquid Stranger</a> remix his song "Ill Shit".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> In 2017, Petulla launched his own record label, clothes shop, and artist collective known as Shred Collective.<sup id="cite_ref-:9_4-0" class="reference"><a href="#cite_note-:9-4">&#91;4&#93;</a></sup><sup id="cite_ref-:14_5-0" class="reference"><a href="#cite_note-:14-5">&#91;5&#93;</a></sup> He also produces and performs hip-hop under the name <b>Terror Reid</b>, and is best known for his song "Uppercuts".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Petulla began producing music while in high school, uploading original songs as well as remixes of <a href="/wiki/Far_East_Movement" title="Far East Movement">Far East Movement</a> and <a href="/wiki/Timbaland" title="Timbaland">Timbaland</a> to his <a href="/wiki/SoundCloud" title="SoundCloud">SoundCloud</a> page.<sup id="cite_ref-:0_7-0" class="reference"><a href="#cite_note-:0-7">&#91;7&#93;</a></sup> He gained recognition when he released songs on labels such as Ultragore Recordings and Tuff Love Dubs.<sup id="cite_ref-:0_7-1" class="reference"><a href="#cite_note-:0-7">&#91;7&#93;</a></sup> In an interview, he said "I basically started when I was 16. I was in a few bands before that; I was a drummer and a guitar player. I was a huge metal head and I loved rap like Mac Dre and Andre Nickatina. You could make electronic music by yourself, so that really attracted me towards it and made me want to do my own thing".<sup id="cite_ref-:2_8-0" class="reference"><a href="#cite_note-:2-8">&#91;8&#93;</a></sup> He said "As soon as I picked up a guitar I knew I wanted to do music. I have always done art, whether it’s music or drawing, so it all came pretty natural".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Regarded as 'the unsung hero of underground bass culture', Petulla has been DJing across the US since the age of 17.<sup id="cite_ref-:1_10-0" class="reference"><a href="#cite_note-:1-10">&#91;10&#93;</a></sup> He performed across the US and received support from genre pioneers <a href="/wiki/Datsik_(musician)" title="Datsik (musician)">DATSIK</a> and Downlink.<sup id="cite_ref-:1_10-1" class="reference"><a href="#cite_note-:1-10">&#91;10&#93;</a></sup> He has, ever since, become known for ignoring trends and cutting his own path with ripping, guttural synths and a sprinkling of melody.<sup id="cite_ref-:1_10-2" class="reference"><a href="#cite_note-:1-10">&#91;10&#93;</a></sup> He has been in the bass scene since 2010.<sup id="cite_ref-:3_11-0" class="reference"><a href="#cite_note-:3-11">&#91;11&#93;</a></sup> A regular performer at EDC,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Petulla has collaborated with some of the biggest names in the scene such as <a href="/wiki/Skrillex" title="Skrillex">Skrillex</a>, <a href="/wiki/Datsik_(musician)" title="Datsik (musician)">Datsik</a>, and <a href="/wiki/Borgore" title="Borgore">Borgore</a>.<sup id="cite_ref-:4_13-0" class="reference"><a href="#cite_note-:4-13">&#91;13&#93;</a></sup> He regularly uses heavy bass and “gnarly” synths in his music.<sup id="cite_ref-:5_14-0" class="reference"><a href="#cite_note-:5-14">&#91;14&#93;</a></sup> Petulla's style of producing/DJing has evolved through the years from 'massive dubstep tracks to a diverse assortment of genres which culminate to an ethereal, trap-light sound that still contains hard-hitting dubstep roots'.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Recently, he's been dabbing into more of an experimental style of reverb and bass while assimilating a variety of beats.<sup id="cite_ref-:6_16-0" class="reference"><a href="#cite_note-:6-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=3" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="2012.E2.80.9313:_Beginnings"></span><span class="mw-headline" id="2012–13:_Beginnings">2012–13: Beginnings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=4" title="Edit section: 2012–13: Beginnings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:GetterLogo-300x129.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/GetterLogo-300x129.png/250px-GetterLogo-300x129.png" decoding="async" width="250" height="108" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/b/ba/GetterLogo-300x129.png 1.5x" data-file-width="300" data-file-height="129" /></a><figcaption>Getter's logo</figcaption></figure>
+<p>Petulla said in an interview that on his 19th birthday, he saved up money to move to <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> before staying at a friend's room for a few months.<sup id="cite_ref-:2_8-1" class="reference"><a href="#cite_note-:2-8">&#91;8&#93;</a></sup> He expanded from there and began to develop musically before getting his own apartment and studio.<sup id="cite_ref-:2_8-2" class="reference"><a href="#cite_note-:2-8">&#91;8&#93;</a></sup>
+</p><p>Petulla signed to Firepower Records run by Datsik in 2012 before signing with <a href="/wiki/Owsla" title="Owsla">Owsla</a>, a record label founded by dubstep pioneer Skrillex.<sup id="cite_ref-:4_13-1" class="reference"><a href="#cite_note-:4-13">&#91;13&#93;</a></sup> He gained popularity when he began making “SUH Dude” vines with <a href="/w/index.php?title=Nick_Colletti&amp;action=edit&amp;redlink=1" class="new" title="Nick Colletti (page does not exist)">Nick Colletti</a> and <a href="/wiki/Dillon_Francis" title="Dillon Francis">Dillon Francis</a>.<sup id="cite_ref-:6_16-1" class="reference"><a href="#cite_note-:6-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> He also said that after touring, he plans to work on 'getting something like a TV show or a movie going' with Colletti.<sup id="cite_ref-:7_18-0" class="reference"><a href="#cite_note-:7-18">&#91;18&#93;</a></sup>
+</p><p>Petulla first joined Skrillex's OWSLA when he sent his demo before Skrillex heard and told him that he liked it. Petulla then sent another track which is now titled <i>Head Splitter</i> and Skrillex said 'he wanted it for OWSLA'. Petulla said "We just became friends from there; he introduced me to his team. Now we all work together, and they see what I’m trying to do, which is really cool, because they support it and have the resources to make it happen. Me and Skrillex have a super-similar taste in heavy bass music, so I’ll send him new tracks and new artists”.<sup id="cite_ref-:2_8-3" class="reference"><a href="#cite_note-:2-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span id="2014.E2.80.9315:_Trenchlords_project_and_Planet_Neutral"></span><span class="mw-headline" id="2014–15:_Trenchlords_project_and_Planet_Neutral">2014–15: <i>Trenchlords</i> project and <i>Planet Neutral</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=5" title="Edit section: 2014–15: Trenchlords project and Planet Neutral">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Petulla released his <i>Trenchlords Vol. 1</i> EP; the first installment from his new music project called, <i>Trench</i>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> Four songs from the EP, includes a collaborations with Algo and Deemed.<sup id="cite_ref-:3_11-1" class="reference"><a href="#cite_note-:3-11">&#91;11&#93;</a></sup> When asked about his opinion on genres, Petulla said "I feel like genres are necessary to classify what you like, same with certain sub genres. I’m just not a fan of sub genres that not only sound stupid, but can be put on anything that has the smallest element of that class".<sup id="cite_ref-:3_11-2" class="reference"><a href="#cite_note-:3-11">&#91;11&#93;</a></sup> Speaking about the project, the name <i>Trench</i> and its significance, Petulla said "I just think the name sounds tight, and is short and sweet. A Trenchlord is someone who I think makes fuckin’ dope music that I collaborate with and recruit to the trench project."<sup id="cite_ref-:3_11-3" class="reference"><a href="#cite_note-:3-11">&#91;11&#93;</a></sup> The idea <i>Trench</i> came into the scene when Petulla and his close friends realized they represent the 'heavier/underground' side of dubstep music, which was then he started the Trench project, with fellow artists being labeled Trenchlords.<sup id="cite_ref-:3_11-4" class="reference"><a href="#cite_note-:3-11">&#91;11&#93;</a></sup> On giving it away for free, he said that he wants his fans to enjoy his music, which was his main priority.<sup id="cite_ref-:3_11-5" class="reference"><a href="#cite_note-:3-11">&#91;11&#93;</a></sup>
+</p><p>On 23 October 2015, Petulla released a nine-second tease of a new collaborative track with Skrillex.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> On 28 November 2015, Petulla returned to Vancouver, BC at Red Room Ultra Bar to perform.<sup id="cite_ref-:4_13-2" class="reference"><a href="#cite_note-:4-13">&#91;13&#93;</a></sup> In 2015, Petulla released an EP under the alias “Planet Neutral” that showed a reserved, mellow, more relaxed side to himself.<sup id="cite_ref-:5_14-1" class="reference"><a href="#cite_note-:5-14">&#91;14&#93;</a></sup>
+</p>
+<h3><span id="2016:_Radical_Dude.21_and_Wat_the_Frick"></span><span class="mw-headline" id="2016:_Radical_Dude!_and_Wat_the_Frick">2016: <i>Radical Dude!</i> and <i>Wat the Frick</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=6" title="Edit section: 2016: Radical Dude! and Wat the Frick">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 29 January 2016, a compilation album titled "Worldwide Broadcast" by OWSLA was released, featuring Petulla's collaboration with <a href="/wiki/Ghastly_(DJ)" title="Ghastly (DJ)">Ghastly</a> titled "666!".<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>On 11 March 2016, Petulla released an EP titled <i>Radical Dude!</i><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> with heavy dub, bass-driven, and grimy songs.<sup id="cite_ref-:5_14-2" class="reference"><a href="#cite_note-:5-14">&#91;14&#93;</a></sup> The first song on the EP, entitled “Back” is bass-heavy, 'fun and laid-back piece'.<sup id="cite_ref-:5_14-3" class="reference"><a href="#cite_note-:5-14">&#91;14&#93;</a></sup> The fifth and sixth songs on the EP, "In The Cuts" featuring Sneek and "Blood" with Adair featuring Georgia Ku, consist of 'extraterrestrial synths, dreamy vocals, and atmospheric swells'.<sup id="cite_ref-:5_14-4" class="reference"><a href="#cite_note-:5-14">&#91;14&#93;</a></sup>
+</p><p>In May 2016, Petulla starred in Dillon Francis' seven-episode reality TV-esque web series titled <i>DJ World</i> about the worst DJ stereotypes.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> The first episode was shared on 24 May 2016 which stars Francis, <a href="/w/index.php?title=Nick_Colletti&amp;action=edit&amp;redlink=1" class="new" title="Nick Colletti (page does not exist)">Nick Colletti</a> and Petulla as obnoxious characters who epitomize the dance music stereotypes and every terrible festival fashion.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p><p>On 2 September 2016, Petulla released his new seven-track EP titled <i><a href="/wiki/Wat_the_Frick" title="Wat the Frick">Wat the Frick</a></i> via OWSLA.<sup id="cite_ref-:6_16-2" class="reference"><a href="#cite_note-:6-16">&#91;16&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> Speaking in an interview about the EP, Petulla said "My main goal for everything is that I want to put out something that everyone will like. Not just a basshead, or a trap dude, or whatever, but I want to have different worlds for each kind of music, so each EP will probably be pretty mixed up".<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> When asked about the difference of the EP and his other EPs, Petulla said "I think the biggest thing is that they’re all solo tracks. No collaborations".<sup id="cite_ref-:7_18-1" class="reference"><a href="#cite_note-:7-18">&#91;18&#93;</a></sup> On the same day, OWSLA released an official music video<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> directed by Liam Underwood<sup id="cite_ref-:2_8-4" class="reference"><a href="#cite_note-:2-8">&#91;8&#93;</a></sup> for Petulla's song "Head Splitter" which also appeared on OWSLA's Spring Compilation 2015 album in March.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> The video starts ominously at a burger joint named Grim Jim's, and as soon as the main character finishes his meal, his face dissolves into a cartoon smear of greens and purples. As he makes his way through Los Angeles, he finds the same goo popping up all around him.<sup id="cite_ref-:2_8-5" class="reference"><a href="#cite_note-:2-8">&#91;8&#93;</a></sup>
+</p><p>In November 2016, he shared some unreleased tracks, that failed to be included on <i>Wat the Frick</i> EP, to SoundCloud.<sup id="cite_ref-:8_31-0" class="reference"><a href="#cite_note-:8-31">&#91;31&#93;</a></sup> The songs include “Phantom of tha Opera”, “Love Me No More” and “Tourettes Squad”.<sup id="cite_ref-:8_31-1" class="reference"><a href="#cite_note-:8-31">&#91;31&#93;</a></sup> The first of the three is a "chilled-out and with a decided hip hop vibe"-trap song similar to the second one.<sup id="cite_ref-:8_31-2" class="reference"><a href="#cite_note-:8-31">&#91;31&#93;</a></sup> The third song has more of an electro influence but chopped up and is more to dubstep than the trap genre.<sup id="cite_ref-:8_31-3" class="reference"><a href="#cite_note-:8-31">&#91;31&#93;</a></sup>
+</p>
+<h3><span id="2017.E2.80.932019:_Shred_Collective.2C_Visceral"></span><span class="mw-headline" id="2017–2019:_Shred_Collective,_Visceral">2017–2019: Shred Collective, <i>Visceral</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=7" title="Edit section: 2017–2019: Shred Collective, Visceral">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It was announced that Petulla will appear at Canada's Snowbombing music festival alongside several other notable musicians and artists, in 2017.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> Petulla launched Shred Collective – his own record label, clothing brand, and artist collective.<sup id="cite_ref-:9_4-1" class="reference"><a href="#cite_note-:9-4">&#91;4&#93;</a></sup><sup id="cite_ref-:14_5-1" class="reference"><a href="#cite_note-:14-5">&#91;5&#93;</a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> <i>Inhalant Abuse</i> was released as the label's first track on 10 March 2017.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p><p>Petulla announced his debut full-length album as Getter, <i>Visceral</i>, on March 17, 2018, having released the first single "Colorblind" on February 7. In an interview with Run The Trap, Petulla explained that the album would move away from his dance music roots:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r996844942">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>New album is coming out mid-2018 and its definitely my favorite, best work.  I have been working on it for 2 years, it tells an even bigger story than this song. Colorblind is actually the only “hard” song on the album. Every song represents a piece of me or a part of my life. This single is obviously the dark side of it all.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup></p></blockquote>
+<p>In April 2019, Petulla cancelled his Visceral Tour early after getting booed by a large number of fans at several venues who were not in favor of his changed music style,<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup> and in a tweet said that the Visceral Tour would be his last tour.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup> There was an outpouring of support for Petulla from the EDM community in reply to his tweets shortly after.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup> A large number of artists have also stated their support towards Petulla on Social Media, including <a href="/wiki/Jauz" title="Jauz">Jauz</a>, <a href="/wiki/Lost_Kings" title="Lost Kings">Lost Kings</a>, <a href="/wiki/Joyryde" title="Joyryde">Joyryde</a>, <a href="/wiki/Dave_Dresden" title="Dave Dresden">Dave Dresden</a>, <a href="/wiki/Tommie_Sunshine" title="Tommie Sunshine">Tommie Sunshine</a>, <a href="/wiki/1788-L" title="1788-L">1788-L</a>, <a href="/wiki/Svdden_Death" title="Svdden Death">Svdden Death</a>, <a href="/wiki/Kayzo" title="Kayzo">Kayzo</a>, <a href="/wiki/Ghastly_(DJ)" title="Ghastly (DJ)">Ghastly</a>, <a href="/wiki/Rezz" title="Rezz">Rezz</a>, <a href="/wiki/Modestep" title="Modestep">Modestep</a>, <a href="/wiki/Herobust" title="Herobust">Herobust</a>, <a href="/wiki/Louis_the_Child_(DJs)" title="Louis the Child (DJs)">Louis the Child</a>, <a href="/wiki/Feed_Me_(music_producer)" class="mw-redirect" title="Feed Me (music producer)">Feed Me</a>, <a href="/wiki/Delta_Heavy" title="Delta Heavy">Delta Heavy</a>, <a href="/wiki/Zeds_Dead" title="Zeds Dead">Zeds Dead</a>, <a href="/wiki/Excision_(musician)" title="Excision (musician)">Excision</a>, and <a href="/wiki/Alison_Wonderland" title="Alison Wonderland">Alison Wonderland</a>.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup>
+</p><p>In October 2019, Petulla teased the release of a single "When It's All Gone" on his social media platforms. The track was released on October 16, and was included in a vaguely teased Terror Reid album that was rumored to release in 2020.  Petulla also released "Heartless" on October 29 as a single track, and a return to the now enjoyed music style that Petulla used in <i>Visceral</i>.
+</p>
+<h3><span id="2020-present:_HOT_VODKA_1.2C_Skater_XL.2C_NAPALM.2C_Selling_.22Suh_Dude.22"></span><span class="mw-headline" id="2020-present:_HOT_VODKA_1,_Skater_XL,_NAPALM,_Selling_&quot;Suh_Dude&quot;">2020-present: <i>HOT VODKA 1,</i> Skater XL, <i>NAPALM,</i> Selling "Suh Dude"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=8" title="Edit section: 2020-present: HOT VODKA 1, Skater XL, NAPALM, Selling &quot;Suh Dude&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In January 2020, Petulla released another single under the Terror Reid moniker, "Krylon" with the help of Elioze who previously worked with Petulla on two previous singles in 2019, "Buried Alive" and "Buried Alive 2".  In February, Petulla released "Represent" under the Getter moniker, which EDM.com claimed as "[Getter] back in familiar sonic territory"<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>
+</p><p>Petulla teased the release of <i>HOT VODKA 1</i>, his first album under the Terror Reid name, on April 9, 2020.  11 days later, he also teased a single collab with <a href="/wiki/Pouya_(rapper)" class="mw-redirect" title="Pouya (rapper)">Pouya</a> called "Outlawz", which would be released on April 23.
+</p><p><i>HOT VODKA 1</i> debuted on May 7, the album featured the three previously released singles "When It's All Gone", "Krylon", and "Outlawz"; and four new tracks.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup> Petulla would be featured on a track by <a href="/w/index.php?title=Diablo_(rapper)&amp;action=edit&amp;redlink=1" class="new" title="Diablo (rapper) (page does not exist)">Diablo</a>, Elioze, and <a href="/w/index.php?title=Shakewell_(rapper)&amp;action=edit&amp;redlink=1" class="new" title="Shakewell (rapper) (page does not exist)">Shakewell</a> called "Killing".
+</p><p>Following the <a href="/wiki/Murder_of_George_Floyd" title="Murder of George Floyd">murder of George Floyd</a>, Petulla announced a charity stream on June 4 where all donations would be matched as a mass donation towards the <a href="/wiki/Black_Lives_Matter_Global_Network_Foundation" title="Black Lives Matter Global Network Foundation">Black Lives Matter Global Network</a>.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>  The stream generated $6,492.21, which Petulla then matched, totalling to a donation of $13,000.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup> Since then he has continuously supported the BLM Movement.
+</p><p>On July 17, the Skater XL official Twitter account posted a link to a list of artists that would be featured in the game's upcoming new soundtrack, which included Petulla as well as other artists including <a href="/wiki/Interpol_(band)" title="Interpol (band)">Interpol</a>, <a href="/wiki/Modest_Mouse" title="Modest Mouse">Modest Mouse</a>, and <a href="/w/index.php?title=STARHEADBODY&amp;action=edit&amp;redlink=1" class="new" title="STARHEADBODY (page does not exist)">STARHEADBODY</a>.  Petulla also released a mod for the game which included clothes for the in-game avatar to wear.
+</p><p>On October 1, Petulla teased his second full-length album <i>NAPALM</i>, which would be released later in 2020.  He released a single from the album "BAD ACID" on October 23. The full album would be released on October 30.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup>
+</p><p>On April 5, 2021, Petulla tweeted that he was selling the original "Suh Dude" vine as an NFT (Non-fungible token).
+</p>
+<h2><span class="mw-headline" id="Controversy">Controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=9" title="Edit section: Controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A song featured on a collaboration album between Petulla and <a href="/wiki/Suicideboys" title="Suicideboys">Suicideboys</a> contained a song titled <i>Stop Calling Us Horrorcore</i>, built entirely around a single sample found in the '808 Mood' sample pack by Trap Veterans on Producer Loops.<sup id="cite_ref-:10_48-0" class="reference"><a href="#cite_note-:10-48">&#91;48&#93;</a></sup> Petulla said he did not know anything about it, after he was sent the almost-completed track.<sup id="cite_ref-:10_48-1" class="reference"><a href="#cite_note-:10-48">&#91;48&#93;</a></sup>
+</p><p>On June 18, 2016, Petulla posted a photo on Twitter of him receiving <a href="/wiki/Fellatio" title="Fellatio">fellatio</a> from a fan in a hotel room in Las Vegas after his set at Electric Daisy Carnival. He then made a t-shirt of the photo which he sold on his Trippy Burger website.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup>
+</p><p>On 16 September 2016, Petulla used Twitter to voice his strongly worded opinions on the cost of touring and why having local acts open shows is "potentially ruining the full tour experience".<sup id="cite_ref-:11_50-0" class="reference"><a href="#cite_note-:11-50">&#91;50&#93;</a></sup> He went on to explain why he said "f--- local openers" and laid out how the lack of experience and disregard for sound protocols they bring often derails the performances to follow and overall downgrades the show as a whole.<sup id="cite_ref-:11_50-1" class="reference"><a href="#cite_note-:11-50">&#91;50&#93;</a></sup> After the controversy effectively circulated all throughout the DJing community and beyond, Petulla has apologized.<sup id="cite_ref-:12_51-0" class="reference"><a href="#cite_note-:12-51">&#91;51&#93;</a></sup> In a series of new tweets sent out later on, Petulla acknowledged his own come-up as an opening DJ, mentioning how he understands the routine.<sup id="cite_ref-:12_51-1" class="reference"><a href="#cite_note-:12-51">&#91;51&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=10" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Petulla was also known on the app called <a href="/wiki/Vine_(service)" title="Vine (service)">Vine</a>, in which he amassed over 400 thousand <a href="/wiki/Friending_and_following" title="Friending and following">followers</a> and had his videos watched over 376,500,000 times. <a href="/wiki/Vine_(service)" title="Vine (service)">Vine</a> was also the platform Petulla first founded the phrase "Suh Dude" which he and his best friend, <a href="/w/index.php?title=Nick_Colletti&amp;action=edit&amp;redlink=1" class="new" title="Nick Colletti (page does not exist)">Nick Colletti</a>, sell as a part of merchandise for their clothing brand.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Other_ventures">Other ventures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=11" title="Edit section: Other ventures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Trippy_Burger">Trippy Burger</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=12" title="Edit section: Trippy Burger">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Petulla and Colletti started a clothing brand<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;53&#93;</a></sup> which sells "Suh Dude" shirts, 'Getter and Nick Colletti' merchandise, "Trippy Burger stuff" and other official 'Suh Dude' items.<sup id="cite_ref-:13_54-0" class="reference"><a href="#cite_note-:13-54">&#91;54&#93;</a></sup> He said "It’s me and my friend Nick Colletti’s clothing brand. We’ve got a nice thing going right now".<sup id="cite_ref-:13_54-1" class="reference"><a href="#cite_note-:13-54">&#91;54&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Real_Bros_Of_Simi_Valley"><i>The Real Bros Of Simi Valley</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=13" title="Edit section: The Real Bros Of Simi Valley">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Petulla currently costars as Bryce Meyer on <a href="/wiki/Facebook_Watch" title="Facebook Watch">Facebook Watch</a> series <i><a href="/wiki/The_Real_Bros_of_Simi_Valley" title="The Real Bros of Simi Valley">The Real Bros of Simi Valley</a></i>, which started on <a href="/wiki/Jimmy_Tatro" title="Jimmy Tatro">Jimmy Tatro</a>'s <a href="/wiki/YouTube" title="YouTube">YouTube</a> channel.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=14" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Getter_discography" title="Getter discography">Getter discography</a></div>
+<p><b>Studio albums</b>
+</p>
+<ul><li><i><a href="/wiki/I_Want_More_(Getter_album)" class="mw-redirect" title="I Want More (Getter album)">I Want More</a></i> (2013)</li>
+<li><i><a href="/wiki/Visceral_(album)" title="Visceral (album)">Visceral</a></i> (2018)</li>
+<li><i><a href="/w/index.php?title=NAPALM_(album)&amp;action=edit&amp;redlink=1" class="new" title="NAPALM (album) (page does not exist)">NAPALM</a></i> (2020)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Getter_(DJ)&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.firepowerrecords.com/artists/getter/">"Firepower Records &gt; Artists &gt; Getter"</a>. <i>www.firepowerrecords.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.firepowerrecords.com&amp;rft.atitle=Firepower+Records+%3E+Artists+%3E+Getter&amp;rft_id=http%3A%2F%2Fwww.firepowerrecords.com%2Fartists%2Fgetter%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.beatport.com/release/swine-ep/950264">"Getter: Swine EP on Beatport"</a>. <i>www.beatport.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.beatport.com&amp;rft.atitle=Getter%3A+Swine+EP+on+Beatport&amp;rft_id=http%3A%2F%2Fwww.beatport.com%2Frelease%2Fswine-ep%2F950264&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.beatport.com/track/ill-shit-liquid-stranger-remix/3592971">"Ill Shit (Liquid Stranger Remix) by Getter, Liquid Stranger on Beatport"</a>. <i>www.beatport.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.beatport.com&amp;rft.atitle=Ill+Shit+%28Liquid+Stranger+Remix%29+by+Getter%2C+Liquid+Stranger+on+Beatport&amp;rft_id=http%3A%2F%2Fwww.beatport.com%2Ftrack%2Fill-shit-liquid-stranger-remix%2F3592971&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:9-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:9_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:9_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCulham2017" class="citation news cs1">Culham, Devin (2017-03-07). <a rel="nofollow" class="external text" href="http://earmilk.com/2017/03/07/getter-launches-shred-collective-with-inhalant-abuse/">"Getter launches Shred Collective with "Inhalant Abuse" - EARMILK"</a>. <i>EARMILK</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=EARMILK&amp;rft.atitle=Getter+launches+Shred+Collective+with+%22Inhalant+Abuse%22+-+EARMILK&amp;rft.date=2017-03-07&amp;rft.aulast=Culham&amp;rft.aufirst=Devin&amp;rft_id=http%3A%2F%2Fearmilk.com%2F2017%2F03%2F07%2Fgetter-launches-shred-collective-with-inhalant-abuse%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:14-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-:14_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:14_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFThompson2017" class="citation web cs1">Thompson, Hunter (2017-03-08). <a rel="nofollow" class="external text" href="http://runthetrap.com/2017/03/08/getter-drops-inhalent-abuse-debut-release-new-label/">"Getter Drops 'Inhalent Abuse", the Debut Release From His New Label"</a>. <i>Run The Trap: The Best EDM, Hip Hop &amp; Trap Music</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Run+The+Trap%3A+The+Best+EDM%2C+Hip+Hop+%26+Trap+Music&amp;rft.atitle=Getter+Drops+%27Inhalent+Abuse%22%2C+the+Debut+Release+From+His+New+Label&amp;rft.date=2017-03-08&amp;rft.aulast=Thompson&amp;rft.aufirst=Hunter&amp;rft_id=http%3A%2F%2Frunthetrap.com%2F2017%2F03%2F08%2Fgetter-drops-inhalent-abuse-debut-release-new-label%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.youredm.com/2017/09/09/getter-opens-terror-reid-future-hip-hop-watch/">"Getter Opens Up About Terror Reid and His Future in Hip Hop &#91;WATCH&#93;"</a>. <i>YourEDM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=YourEDM&amp;rft.atitle=Getter+Opens+Up+About+Terror+Reid+and+His+Future+in+Hip+Hop+%5BWATCH%5D&amp;rft_id=http%3A%2F%2Fwww.youredm.com%2F2017%2F09%2F09%2Fgetter-opens-terror-reid-future-hip-hop-watch%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSimpson" class="citation web cs1">Simpson, Paul. <a rel="nofollow" class="external text" href="http://www.billboard.com/artist/7266012/getter/biography">"Biography of Getter - Billboard"</a>. <i>www.billboard.com</i>. Rovi<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.billboard.com&amp;rft.atitle=Biography+of+Getter+-+Billboard&amp;rft.aulast=Simpson&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F7266012%2Fgetter%2Fbiography&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:2-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:2_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:2_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:2_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:2_8-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLeight2016" class="citation news cs1">Leight, Elias (11 March 2016). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/dance/7123837/getter-radical-dude-ep-interview-dance">"Getter Dishes on Face-Melting Music Videos and 'Radical Dude!' EP"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Getter+Dishes+on+Face-Melting+Music+Videos+and+%27Radical+Dude%21%27+EP&amp;rft.date=2016-03-11&amp;rft.aulast=Leight&amp;rft.aufirst=Elias&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2Fdance%2F7123837%2Fgetter-radical-dude-ep-interview-dance&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGupta2016" class="citation web cs1">Gupta, Pranav (21 April 2016). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161120005900/http://thebanginbeats.com/2016/04/21/interview-with-getter/">"Interview With Getter! - The Bangin Beats"</a>. <i>Bangin Beats</i>. Archived from <a rel="nofollow" class="external text" href="http://thebanginbeats.com/2016/04/21/interview-with-getter/">the original</a> on 20 November 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bangin+Beats&amp;rft.atitle=Interview+With+Getter%21+-+The+Bangin+Beats&amp;rft.date=2016-04-21&amp;rft.aulast=Gupta&amp;rft.aufirst=Pranav&amp;rft_id=http%3A%2F%2Fthebanginbeats.com%2F2016%2F04%2F21%2Finterview-with-getter%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://partyflock.nl/en/artist/87621/biography">"Getter Biography - Party Flock NL"</a>. <i>Partyflock</i>. 10 November 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Partyflock&amp;rft.atitle=Getter+Biography+-+Party+Flock+NL&amp;rft.date=2016-11-10&amp;rft_id=http%3A%2F%2Fpartyflock.nl%2Fen%2Fartist%2F87621%2Fbiography&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:3-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:3_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:3_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:3_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:3_11-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTrew2014" class="citation web cs1">Trew, Tyler (19 November 2014). <a rel="nofollow" class="external text" href="http://www.youredm.com/2014/11/19/edm-interview-get-trench-lord-getter/">"Your EDM Interview: Get In The Trench With Lord Getter"</a>. <i>Your EDM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Your+EDM&amp;rft.atitle=Your+EDM+Interview%3A+Get+In+The+Trench+With+Lord+Getter&amp;rft.date=2014-11-19&amp;rft.aulast=Trew&amp;rft.aufirst=Tyler&amp;rft_id=http%3A%2F%2Fwww.youredm.com%2F2014%2F11%2F19%2Fedm-interview-get-trench-lord-getter%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHerrera2015" class="citation news cs1">Herrera, Dave (23 June 2015). <a rel="nofollow" class="external text" href="http://www.reviewjournal.com/entertainment/music/trollphace-and-getter-s-bass-overpowers-edc">"TrollPhace and Getter's bass overpowers EDC"</a>. <i>Las Vegas Review-Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Las+Vegas+Review-Journal&amp;rft.atitle=TrollPhace+and+Getter%E2%80%99s+bass+overpowers+EDC&amp;rft.date=2015-06-23&amp;rft.aulast=Herrera&amp;rft.aufirst=Dave&amp;rft_id=http%3A%2F%2Fwww.reviewjournal.com%2Fentertainment%2Fmusic%2Ftrollphace-and-getter-s-bass-overpowers-edc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:4-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-:4_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:4_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:4_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFrazier2015" class="citation news cs1">Frazier, Cameron (9 December 2015). <a rel="nofollow" class="external text" href="http://dancemusicnw.com/getter-brings-the-bass-to-red-room-vancouver-video-recap/">"Getter Brings The Bass To Red Room Vancouver: Video Recap"</a>. <i>Dance Music NW</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dance+Music+NW&amp;rft.atitle=Getter+Brings+The+Bass+To+Red+Room+Vancouver%3A+Video+Recap&amp;rft.date=2015-12-09&amp;rft.aulast=Frazier&amp;rft.aufirst=Cameron&amp;rft_id=http%3A%2F%2Fdancemusicnw.com%2Fgetter-brings-the-bass-to-red-room-vancouver-video-recap%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:5-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-:5_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:5_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:5_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:5_14-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:5_14-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJohnson2016" class="citation web cs1">Johnson, Shawn (14 March 2016). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/shawn-russell-johnson/getters-radical-dude-brin_b_9443436.html">"Getter's 'Radical Dude' Brings In The Filth"</a>. <i>The Huffington Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Huffington+Post&amp;rft.atitle=Getter%27s+%27Radical+Dude%27+Brings+In+The+Filth&amp;rft.date=2016-03-14&amp;rft.aulast=Johnson&amp;rft.aufirst=Shawn&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2Fshawn-russell-johnson%2Fgetters-radical-dude-brin_b_9443436.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMcKenna2016" class="citation web cs1">McKenna, Thomas (25 March 2016). <a rel="nofollow" class="external text" href="http://nysmusic.com/2016/03/25/getter-rips-at-webster-hall/">"Getter Rips at Webster Hall"</a>. <i>NYS Music</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NYS+Music&amp;rft.atitle=Getter+Rips+at+Webster+Hall&amp;rft.date=2016-03-25&amp;rft.aulast=McKenna&amp;rft.aufirst=Thomas&amp;rft_id=http%3A%2F%2Fnysmusic.com%2F2016%2F03%2F25%2Fgetter-rips-at-webster-hall%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:6-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-:6_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:6_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:6_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGregory2016" class="citation web cs1">Gregory, Sabrina (11 October 2016). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161120005035/http://michiganjournal.org/2016/10/11/getter-rocks-royal-oak/">"Getter Rocks Royal Oak"</a>. <i>The Michigan Journal</i>. Archived from <a rel="nofollow" class="external text" href="http://michiganjournal.org/2016/10/11/getter-rocks-royal-oak/">the original</a> on 2016-11-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Michigan+Journal&amp;rft.atitle=Getter+Rocks+Royal+Oak&amp;rft.date=2016-10-11&amp;rft.aulast=Gregory&amp;rft.aufirst=Sabrina&amp;rft_id=http%3A%2F%2Fmichiganjournal.org%2F2016%2F10%2F11%2Fgetter-rocks-royal-oak%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTownsend2016" class="citation news cs1">Townsend, Benedict (27 April 2016). <a rel="nofollow" class="external text" href="http://www.wetheunicorns.com/features/nick-coletti-getter-7-classic-moments-from-vines-funniest-bromance/#AfFoLI5wEQguxiwP.97">"5 Reasons Why Nick Colletti &amp; Getter Are Vine's FUNNIEST Bromance"</a>. <i>We The Unicorns</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=We+The+Unicorns&amp;rft.atitle=5+Reasons+Why+Nick+Colletti+%26+Getter+Are+Vine%E2%80%99s+FUNNIEST+Bromance&amp;rft.date=2016-04-27&amp;rft.aulast=Townsend&amp;rft.aufirst=Benedict&amp;rft_id=http%3A%2F%2Fwww.wetheunicorns.com%2Ffeatures%2Fnick-coletti-getter-7-classic-moments-from-vines-funniest-bromance%2F%23AfFoLI5wEQguxiwP.97&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:7-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-:7_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:7_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChung2016" class="citation web cs1">Chung, Max (2 September 2016). <a rel="nofollow" class="external text" href="http://runthetrap.com/2016/09/02/getter-is-fricking-killing-it-ep-release-interview/">"Getter is Fricking Killing It &#91;EP Release + Interview&#93;"</a>. <i>Run The Trap</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Run+The+Trap&amp;rft.atitle=Getter+is+Fricking+Killing+It+%5BEP+Release+%2B+Interview%5D&amp;rft.date=2016-09-02&amp;rft.aulast=Chung&amp;rft.aufirst=Max&amp;rft_id=http%3A%2F%2Frunthetrap.com%2F2016%2F09%2F02%2Fgetter-is-fricking-killing-it-ep-release-interview%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSusalka2014" class="citation news cs1">Susalka, Morgan (20 November 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161120003748/http://www.edmtunes.com/2014/11/bass-producer-getter-creates-new-trench-music-project/">"Bass Producer, Getter Creates New "Trench" Music Project - EDMTunes"</a>. <i>EDMTunes</i>. Archived from <a rel="nofollow" class="external text" href="http://www.edmtunes.com/2014/11/bass-producer-getter-creates-new-trench-music-project/">the original</a> on 2016-11-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=EDMTunes&amp;rft.atitle=Bass+Producer%2C+Getter+Creates+New+%22Trench%22+Music+Project+-+EDMTunes&amp;rft.date=2014-11-20&amp;rft.aulast=Susalka&amp;rft.aufirst=Morgan&amp;rft_id=http%3A%2F%2Fwww.edmtunes.com%2F2014%2F11%2Fbass-producer-getter-creates-new-trench-music-project%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRubinstein2015" class="citation web cs1">Rubinstein, Peter (22 October 2015). <a rel="nofollow" class="external text" href="http://www.youredm.com/2015/10/22/getter-and-skrillex-preview-heavy-new-collaboration/">"The Massive Skrillex Collaboration You Need To Hear Today &amp; No, It's Not With Justin Bieber"</a>. <i>Your EDM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Your+EDM&amp;rft.atitle=The+Massive+Skrillex+Collaboration+You+Need+To+Hear+Today+%26+No%2C+It%27s+Not+With+Justin+Bieber&amp;rft.date=2015-10-22&amp;rft.aulast=Rubinstein&amp;rft.aufirst=Peter&amp;rft_id=http%3A%2F%2Fwww.youredm.com%2F2015%2F10%2F22%2Fgetter-and-skrillex-preview-heavy-new-collaboration%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/owsla-worldwide-broadcast/id1075925446">"OWSLA Worldwide Broadcast by Various Artists on Apple Music"</a>. <i>iTunes</i>. Apple<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=OWSLA+Worldwide+Broadcast+by+Various+Artists+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fowsla-worldwide-broadcast%2Fid1075925446&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTost2016" class="citation web cs1">Tost, Miguel (19 January 2016). <a rel="nofollow" class="external text" href="http://www.youredm.com/2016/01/19/owsla-to-premiere-new-tunes-from-skrillex-alvin-risk-getter-and-more/">"Skrillex Unveils Plans To Rule 2016 With Massive Unreleased Collabs"</a>. <i>Your EDM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Your+EDM&amp;rft.atitle=Skrillex+Unveils+Plans+To+Rule+2016+With+Massive+Unreleased+Collabs&amp;rft.date=2016-01-19&amp;rft.aulast=Tost&amp;rft.aufirst=Miguel&amp;rft_id=http%3A%2F%2Fwww.youredm.com%2F2016%2F01%2F19%2Fowsla-to-premiere-new-tunes-from-skrillex-alvin-risk-getter-and-more%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/radical-dude!-ep/id1086159221">"Radical Dude! - EP by Getter on Apple Music"</a>. <i>iTunes</i>. Apple<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=Radical+Dude%21+-+EP+by+Getter+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fradical-dude%21-ep%2Fid1086159221&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMurthi2016" class="citation web cs1">Murthi, Rajrishi (6 September 2016). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161120004205/http://thebanginbeats.com/2016/09/06/getter-wat-the-frick-ep/">"Getter – Wat The Frick &#91;EP&#93;"</a>. <i>Bangin Beats</i>. Archived from <a rel="nofollow" class="external text" href="http://thebanginbeats.com/2016/09/06/getter-wat-the-frick-ep/">the original</a> on 2016-11-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bangin+Beats&amp;rft.atitle=Getter+%E2%80%93+Wat+The+Frick+%5BEP%5D&amp;rft.date=2016-09-06&amp;rft.aulast=Murthi&amp;rft.aufirst=Rajrishi&amp;rft_id=http%3A%2F%2Fthebanginbeats.com%2F2016%2F09%2F06%2Fgetter-wat-the-frick-ep%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJow2016" class="citation news cs1">Jow, Sydney (24 May 2016). <a rel="nofollow" class="external text" href="http://mixmag.net/read/dillon-francis-debuts-online-reality-show-parody-dj-world-news">"Dillon Francis debuts online reality show parody, 'DJ World'<span class="cs1-kern-right"></span>"</a>. <i>Mixmag</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mixmag&amp;rft.atitle=Dillon+Francis+debuts+online+reality+show+parody%2C+%27DJ+World%27&amp;rft.date=2016-05-24&amp;rft.aulast=Jow&amp;rft.aufirst=Sydney&amp;rft_id=http%3A%2F%2Fmixmag.net%2Fread%2Fdillon-francis-debuts-online-reality-show-parody-dj-world-news&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBrown2016" class="citation news cs1">Brown, Lisa (25 May 2016). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/dance/7385078/dillon-francis-mock-reality-show-dj-world-dance">"Watch the First Episode of Dillon Francis' Mock Reality Show 'DJ World'<span class="cs1-kern-right"></span>"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Watch+the+First+Episode+of+Dillon+Francis%27+Mock+Reality+Show+%27DJ+World%27&amp;rft.date=2016-05-25&amp;rft.aulast=Brown&amp;rft.aufirst=Lisa&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2Fdance%2F7385078%2Fdillon-francis-mock-reality-show-dj-world-dance&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/wat-the-frick-ep/id1141044032">"Wat the Frick EP by Getter on Apple Music"</a>. <i>iTunes</i>. Apple<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=Wat+the+Frick+EP+by+Getter+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fwat-the-frick-ep%2Fid1141044032&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJohnson2016" class="citation web cs1">Johnson, Shawn (18 March 2016). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/shawn-russell-johnson/getter-takes-his-music-in_b_9499016.html">"Getter Takes His Music In A New Direction"</a>. <i>The Huffington Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Huffington+Post&amp;rft.atitle=Getter+Takes+His+Music+In+A+New+Direction&amp;rft.date=2016-03-18&amp;rft.aulast=Johnson&amp;rft.aufirst=Shawn&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2Fshawn-russell-johnson%2Fgetter-takes-his-music-in_b_9499016.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFOWSLA2015" class="citation cs2">OWSLA (2 September 2015), <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=2YllipGl2Is"><i>Getter - Head Splitter (Official Video) (YouTube)</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2016-11-19</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Getter+-+Head+Splitter+%28Official+Video%29+%28YouTube%29&amp;rft.date=2015-09-02&amp;rft.au=OWSLA&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2YllipGl2Is&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/owsla-spring-compilation-2015/id973810523">"OWSLA Spring Compilation 2015 by Various Artists on Apple Music"</a>. <i>iTunes</i>. Apple<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=OWSLA+Spring+Compilation+2015+by+Various+Artists+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fowsla-spring-compilation-2015%2Fid973810523&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:8-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-:8_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:8_31-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:8_31-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:8_31-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWolfe2016" class="citation web cs1">Wolfe, Sean (15 November 2016). <a rel="nofollow" class="external text" href="http://edmchicago.com/2016/11/15/listen-getter-releases-three-previously-unreleased-songs/">"Listen: Getter Releases Three Previously-Unreleased Songs"</a>. <i>EDM Chicago</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EDM+Chicago&amp;rft.atitle=Listen%3A+Getter+Releases+Three+Previously-Unreleased+Songs&amp;rft.date=2016-11-15&amp;rft.aulast=Wolfe&amp;rft.aufirst=Sean&amp;rft_id=http%3A%2F%2Fedmchicago.com%2F2016%2F11%2F15%2Flisten-getter-releases-three-previously-unreleased-songs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWilson2016" class="citation news cs1">Wilson, Kate (27 October 2016). <a rel="nofollow" class="external text" href="https://www.straight.com/music/817537/coors-light-snowbombing-canada-announces-first-acts-its-2017-debut">"Coors Light Snowbombing Canada announces first acts for its 2017 debut"</a>. <i>Georgia Straight Vancouver's News &amp; Entertainment Weekly</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Georgia+Straight+Vancouver%27s+News+%26+Entertainment+Weekly&amp;rft.atitle=Coors+Light+Snowbombing+Canada+announces+first+acts+for+its+2017+debut&amp;rft.date=2016-10-27&amp;rft.aulast=Wilson&amp;rft.aufirst=Kate&amp;rft_id=https%3A%2F%2Fwww.straight.com%2Fmusic%2F817537%2Fcoors-light-snowbombing-canada-announces-first-acts-its-2017-debut&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPowell2017" class="citation web cs1">Powell, Karlie (2017-03-07). <a rel="nofollow" class="external text" href="http://www.youredm.com/2017/03/07/getter-launches-collective-crazy-new-song-listen/">"Getter Launches His Own Label &amp; Collective With Face-Melting New Original &#91;LISTEN&#93;"</a>. <i>Your EDM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Your+EDM&amp;rft.atitle=Getter+Launches+His+Own+Label+%26+Collective+With+Face-Melting+New+Original+%5BLISTEN%5D&amp;rft.date=2017-03-07&amp;rft.aulast=Powell&amp;rft.aufirst=Karlie&amp;rft_id=http%3A%2F%2Fwww.youredm.com%2F2017%2F03%2F07%2Fgetter-launches-collective-crazy-new-song-listen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCulham2017" class="citation news cs1">Culham, Devin (2017-03-07). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170912101839/http://edm.com/articles/2017/3/7/getter-shred-collective">"Getter Launches New Shred Collective with Leading Bass Single "Inhalant Abuse" &#91;LISTEN&#93;"</a>. <i>EDM.com</i>. Archived from <a rel="nofollow" class="external text" href="http://edm.com/articles/2017/3/7/getter-shred-collective">the original</a> on 2017-09-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=EDM.com&amp;rft.atitle=Getter+Launches+New+Shred+Collective+with+Leading+Bass+Single+%22Inhalant+Abuse%22+%5BLISTEN%5D&amp;rft.date=2017-03-07&amp;rft.aulast=Culham&amp;rft.aufirst=Devin&amp;rft_id=http%3A%2F%2Fedm.com%2Farticles%2F2017%2F3%2F7%2Fgetter-shred-collective&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSerrano2018" class="citation web cs1">Serrano, Omar (February 7, 2018). <a rel="nofollow" class="external text" href="https://runthetrap.com/2018/02/07/getter-colorblind-interview/">"Getter Lets It All Out On New Song 'Colorblind' + Interview"</a>. <i>RUN THE TRAP</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=RUN+THE+TRAP&amp;rft.atitle=Getter+Lets+It+All+Out+On+New+Song+%E2%80%98Colorblind%E2%80%99+%2B+Interview&amp;rft.date=2018-02-07&amp;rft.aulast=Serrano&amp;rft.aufirst=Omar&amp;rft_id=https%3A%2F%2Frunthetrap.com%2F2018%2F02%2F07%2Fgetter-colorblind-interview%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCameron2019" class="citation web cs1">Cameron, John (April 3, 2019). <a rel="nofollow" class="external text" href="https://edm.com/news/getter-cancels-visceral-tour">"GETTER CANCELS REMAINING VISCERAL TOUR DATES OVER FAN CRITICISM"</a>. <i>EDM.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 3,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EDM.com&amp;rft.atitle=GETTER+CANCELS+REMAINING+VISCERAL+TOUR+DATES+OVER+FAN+CRITICISM&amp;rft.date=2019-04-03&amp;rft.aulast=Cameron&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fedm.com%2Fnews%2Fgetter-cancels-visceral-tour&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://junkee.com/getter-cancels-visceral-tour/200471">"<span class="cs1-kern-left"></span>"I Can't Do This": Getter Cancels Tour Over Shitty Fan Behaviour"</a>. <i><a href="/wiki/Junkee" title="Junkee">Junkee</a></i>. 2019-04-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Junkee&amp;rft.atitle=%22I+Can%27t+Do+This%22%3A+Getter+Cancels+Tour+Over+Shitty+Fan+Behaviour&amp;rft.date=2019-04-05&amp;rft_id=https%3A%2F%2Fjunkee.com%2Fgetter-cancels-visceral-tour%2F200471&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSelbe2019" class="citation web cs1">Selbe (2019-04-04). <a rel="nofollow" class="external text" href="https://www.edmsauce.com/2019/04/04/getter-cancels-visceral-tour/">"BREAKING: Getter Announces The Cancelation Of His Tour"</a>. <i>EDM Sauce</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EDM+Sauce&amp;rft.atitle=BREAKING%3A+Getter+Announces+The+Cancelation+Of+His+Tour&amp;rft.date=2019-04-04&amp;rft.au=Selbe&amp;rft_id=https%3A%2F%2Fwww.edmsauce.com%2F2019%2F04%2F04%2Fgetter-cancels-visceral-tour%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMeadow2019" class="citation web cs1">Meadow, Matthew (2019-04-04). <a rel="nofollow" class="external text" href="https://www.youredm.com/2019/04/03/getter-just-cancelled-the-rest-of-his-tour/">"BREAKING: Getter Cancels His Entire Tour, Writes Letter To Fans "You Win"<span class="cs1-kern-right"></span>"</a>. <i>Your EDM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Your+EDM&amp;rft.atitle=BREAKING%3A+Getter+Cancels+His+Entire+Tour%2C+Writes+Letter+To+Fans+%22You+Win%22&amp;rft.date=2019-04-04&amp;rft.aulast=Meadow&amp;rft.aufirst=Matthew&amp;rft_id=https%3A%2F%2Fwww.youredm.com%2F2019%2F04%2F03%2Fgetter-just-cancelled-the-rest-of-his-tour%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://runthetrap.com/2019/04/03/getter-announces-is-done-touring/">"Getter Cancels "Visceral" Tour, Adding He Will Never Tour Again After Fan Criticism"</a>. <i>Run The Trap: The Best EDM, Hip Hop &amp; Trap Music</i>. 2019-04-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Run+The+Trap%3A+The+Best+EDM%2C+Hip+Hop+%26+Trap+Music&amp;rft.atitle=Getter+Cancels+%22Visceral%22+Tour%2C+Adding+He+Will+Never+Tour+Again+After+Fan+Criticism&amp;rft.date=2019-04-03&amp;rft_id=https%3A%2F%2Frunthetrap.com%2F2019%2F04%2F03%2Fgetter-announces-is-done-touring%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGilmore2019" class="citation web cs1">Gilmore, Grant (2019-04-04). <a rel="nofollow" class="external text" href="https://edmidentity.com/2019/04/03/getter-cancels-visceral-tour/">"Getter Cancels Remaining VISCERAL Tour Dates"</a>. <i>EDM Identity</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EDM+Identity&amp;rft.atitle=Getter+Cancels+Remaining+VISCERAL+Tour+Dates&amp;rft.date=2019-04-04&amp;rft.aulast=Gilmore&amp;rft.aufirst=Grant&amp;rft_id=https%3A%2F%2Fedmidentity.com%2F2019%2F04%2F03%2Fgetter-cancels-visceral-tour%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMeadow2019" class="citation web cs1">Meadow, Matthew (2019-04-04). <a rel="nofollow" class="external text" href="https://www.youredm.com/2019/04/04/djs-react-to-getters-distressing-cancellation-of-his-visceral-tour/">"Excision, Alison Wonderland, Jauz, 1788-L &amp; More React To Getter's Tour Cancellation"</a>. <i>Your EDM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Your+EDM&amp;rft.atitle=Excision%2C+Alison+Wonderland%2C+Jauz%2C+1788-L+%26+More+React+To+Getter%27s+Tour+Cancellation&amp;rft.date=2019-04-04&amp;rft.aulast=Meadow&amp;rft.aufirst=Matthew&amp;rft_id=https%3A%2F%2Fwww.youredm.com%2F2019%2F04%2F04%2Fdjs-react-to-getters-distressing-cancellation-of-his-visceral-tour%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCameron" class="citation web cs1">Cameron, John. <a rel="nofollow" class="external text" href="https://edm.com/music-releases/getter-represent">"Getter Finds His Way Back to Dubstep with "Represent"<span class="cs1-kern-right"></span>"</a>. <i>EDM.com - The Latest Electronic Dance Music News, Reviews &amp; Artists</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EDM.com+-+The+Latest+Electronic+Dance+Music+News%2C+Reviews+%26+Artists&amp;rft.atitle=Getter+Finds+His+Way+Back+to+Dubstep+with+%22Represent%22&amp;rft.aulast=Cameron&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fedm.com%2Fmusic-releases%2Fgetter-represent&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://dancingastronaut.com/2020/05/getter-shares-terror-reid-rap-projects-debut-mixtape/">"Getter shares Terror Reid rap project's debut mixtape"</a>. <i>Dancing Astronaut</i>. 2020-05-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dancing+Astronaut&amp;rft.atitle=Getter+shares+Terror+Reid+rap+project%27s+debut+mixtape&amp;rft.date=2020-05-12&amp;rft_id=https%3A%2F%2Fdancingastronaut.com%2F2020%2F05%2Fgetter-shares-terror-reid-rap-projects-debut-mixtape%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFsome_creature_BLM_&#91;@GetterOfficial&#93;2020" class="citation web cs1">some creature BLM [@GetterOfficial] (2020-06-04). <a rel="nofollow" class="external text" href="https://twitter.com/GetterOfficial/status/1268639632582774784">"2pm PST t.co/Pbr55C9fDe t.co/bho6P24QQ8"</a> (Tweet). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210605050631/https://twitter.com/GetterOfficial/status/1268639632582774784">Archived</a> from the original on 2021-06-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-06-14</span></span> &#8211; via <a href="/wiki/Twitter" title="Twitter">Twitter</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2pm+PST+t.co%2FPbr55C9fDe+t.co%2Fbho6P24QQ8&amp;rft.date=2020-06-04&amp;rft.au=some+creature+BLM+%5B%40GetterOfficial%5D&amp;rft_id=https%3A%2F%2Ftwitter.com%2FGetterOfficial%2Fstatus%2F1268639632582774784&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFsome_creature_BLM_&#91;@GetterOfficial&#93;2020" class="citation web cs1">some creature BLM [@GetterOfficial] (2020-06-04). <a rel="nofollow" class="external text" href="https://twitter.com/GetterOfficial/status/1268708025356873728">"DUDE! WE GOT $6,492.21 TOTAL DONATIONS!!! as promised, i matched it and rounded up to 13k!!!! thanks so much for doing your part!!!!! lets do it again ASAP! #BlackLivesMatter t.co/W6imXNS87F"</a> (Tweet). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210507165335/https://twitter.com/getterofficial/status/1268708025356873728">Archived</a> from the original on 2021-05-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-06-14</span></span> &#8211; via <a href="/wiki/Twitter" title="Twitter">Twitter</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DUDE%21+WE+GOT+%246%2C492.21+TOTAL+DONATIONS%21%21%21+as+promised%2C+i+matched+it+and+rounded+up+to+13k%21%21%21%21+thanks+so+much+for+doing+your+part%21%21%21%21%21+lets+do+it+again+ASAP%21+%23BlackLivesMatter+t.co%2FW6imXNS87F&amp;rft.date=2020-06-04&amp;rft.au=some+creature+BLM+%5B%40GetterOfficial%5D&amp;rft_id=https%3A%2F%2Ftwitter.com%2FGetterOfficial%2Fstatus%2F1268708025356873728&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://thissongissick.com/post/getter-napalm/">"Getter Descends Into Low-End Madness In Chaotic New EP 'NAPALM'<span class="cs1-kern-right"></span>"</a>. <i>This Song Is Sick</i>. 2020-10-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=This+Song+Is+Sick&amp;rft.atitle=Getter+Descends+Into+Low-End+Madness+In+Chaotic+New+EP+%E2%80%98NAPALM%E2%80%99&amp;rft.date=2020-10-30&amp;rft_id=https%3A%2F%2Fthissongissick.com%2Fpost%2Fgetter-napalm%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:10-48"><span class="mw-cite-backlink">^ <a href="#cite_ref-:10_48-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:10_48-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.youredm.com/2016/10/25/uicideboy-getters-collab-features-sample-straight-pack/">"Getter's Collab With This Controversial Hip-Hop Duo Is Literally Just A Sample Loop &#91;Listen Here&#93;"</a>. <i>Your EDM</i>. 25 October 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Your+EDM&amp;rft.atitle=Getter%27s+Collab+With+This+Controversial+Hip-Hop+Duo+Is+Literally+Just+A+Sample+Loop+%5BListen+Here%5D&amp;rft.date=2016-10-25&amp;rft_id=http%3A%2F%2Fwww.youredm.com%2F2016%2F10%2F25%2Fuicideboy-getters-collab-features-sample-straight-pack%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.pedestrian.tv/music/listen-out-headliner-triggers-backlash-w-past-blowjob-pic/">"Listen Out Headliner Triggers Backlash W/ Past Blowjob Pic"</a>. <i>Pedestrian.tv</i>. 2017-06-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-04-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pedestrian.tv&amp;rft.atitle=Listen+Out+Headliner+Triggers+Backlash+W%2F+Past+Blowjob+Pic&amp;rft.date=2017-06-23&amp;rft_id=https%3A%2F%2Fwww.pedestrian.tv%2Fmusic%2Flisten-out-headliner-triggers-backlash-w-past-blowjob-pic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:11-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-:11_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:11_50-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHavens2016" class="citation news cs1">Havens, Lyndsey (16 September 2016). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/dance/7511204/getter-openers-comments-twitter">"Getter Explains His 'F--- Local Openers' Comments on Twitter"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Getter+Explains+His+%27F---+Local+Openers%27+Comments+on+Twitter&amp;rft.date=2016-09-16&amp;rft.aulast=Havens&amp;rft.aufirst=Lyndsey&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2Fdance%2F7511204%2Fgetter-openers-comments-twitter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:12-51"><span class="mw-cite-backlink">^ <a href="#cite_ref-:12_51-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:12_51-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRubinstein2016" class="citation web cs1">Rubinstein, Peter (17 September 2016). <a rel="nofollow" class="external text" href="http://www.youredm.com/2016/09/17/getter-apologizes-condeming-local-djs-controversial-tweet/">"Getter Mans Up &amp; Apologizes For Controversial Tweet Condemning Local Opening DJs"</a>. <i>Your EDM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Your+EDM&amp;rft.atitle=Getter+Mans+Up+%26+Apologizes+For+Controversial+Tweet+Condemning+Local+Opening+DJs&amp;rft.date=2016-09-17&amp;rft.aulast=Rubinstein&amp;rft.aufirst=Peter&amp;rft_id=http%3A%2F%2Fwww.youredm.com%2F2016%2F09%2F17%2Fgetter-apologizes-condeming-local-djs-controversial-tweet%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161002171646/https://vine.co/u/914137001920438272">"Vine"</a>. <i>Vine.co</i>. March 25, 2018. Archived from <a rel="nofollow" class="external text" href="https://vine.co/u/914137001920438272">the original</a> on October 2, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">March 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vine.co&amp;rft.atitle=Vine&amp;rft.date=2018-03-25&amp;rft_id=https%3A%2F%2Fvine.co%2Fu%2F914137001920438272&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://trippyburger.com/">"Trippy Burger"</a>. <i>trippyburger.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=trippyburger.com&amp;rft.atitle=Trippy+Burger&amp;rft_id=https%3A%2F%2Ftrippyburger.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:13-54"><span class="mw-cite-backlink">^ <a href="#cite_ref-:13_54-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:13_54-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFNovak2016" class="citation web cs1">Novak, Kristopher (28 March 2016). <a rel="nofollow" class="external text" href="http://www.edmsauce.com/2016/03/28/getter-discusses-2016-success/">"Getter Discusses 2016 Success"</a>. <i>EDM Sauce</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EDM+Sauce&amp;rft.atitle=Getter+Discusses+2016+Success&amp;rft.date=2016-03-28&amp;rft.aulast=Novak&amp;rft.aufirst=Kristopher&amp;rft_id=http%3A%2F%2Fwww.edmsauce.com%2F2016%2F03%2F28%2Fgetter-discusses-2016-success%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.facebook.com/therealbrosofsimivalley/">"The Real Bros Of Simi Valley"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Real+Bros+Of+Simi+Valley&amp;rft_id=https%3A%2F%2Fwww.facebook.com%2Ftherealbrosofsimivalley%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGetter+%28DJ%29" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Getter" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f4bf92;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Getter" title="Template:Getter"><abbr title="View this template" style=";background: #f4bf92;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Getter&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Getter (page does not exist)"><abbr title="Discuss this template" style=";background: #f4bf92;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Getter&amp;action=edit"><abbr title="Edit this template" style=";background: #f4bf92;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Getter" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Getter</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><a href="/wiki/Getter_discography" title="Getter discography">Discography</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Visceral_(album)" title="Visceral (album)">Visceral</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Extended plays</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Wat_the_Frick" title="Wat the Frick">Wat the Frick</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319"></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: Artists <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q27914910#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Getter (US rapper, producer)"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/8a05c7bb-7413-4ae0-a30e-b75e17c9e6da">MusicBrainz</a></span></span>
+<ul><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Terror Reid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/00447c0c-bc7e-4578-a206-31e95ac97571">2</a></span></span></li>
+<li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Tanner Petulla"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/216e79a8-2243-4c25-8b0b-44c96c0cc55d">3</a></span></span></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2311
+Cached time: 20230920012913
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.654 seconds
+Real time usage: 0.784 seconds
+Preprocessor visited node count: 4100/1000000
+Post‐expand include size: 114675/2097152 bytes
+Template argument size: 3617/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 182027/5000000 bytes
+Lua time usage: 0.425/10.000 seconds
+Lua memory usage: 8949982/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  725.557      1 -total
+ 46.53%  337.573      1 Template:Reflist
+ 29.40%  213.318     41 Template:Cite_web
+ 20.57%  149.234      1 Template:Infobox_musical_artist
+ 17.30%  125.553      1 Template:Infobox
+ 10.37%   75.219      1 Template:Getter
+  9.27%   67.240      2 Template:Short_description
+  8.85%   64.190      1 Template:Navbox_musical_artist
+  8.57%   62.163      1 Template:Navbox
+  7.93%   57.564      2 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:52322990-0!canonical and timestamp 20230920012912 and revision id 1170585322. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Getter_(DJ)&amp;oldid=1170585322">https://en.wikipedia.org/w/index.php?title=Getter_(DJ)&amp;oldid=1170585322</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1993_births" title="Category:1993 births">1993 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_San_Jose,_California" title="Category:People from San Jose, California">People from San Jose, California</a></li><li><a href="/wiki/Category:American_electronic_musicians" title="Category:American electronic musicians">American electronic musicians</a></li><li><a href="/wiki/Category:American_DJs" title="Category:American DJs">American DJs</a></li><li><a href="/wiki/Category:Dubstep_musicians" title="Category:Dubstep musicians">Dubstep musicians</a></li><li><a href="/wiki/Category:Owsla_artists" title="Category:Owsla artists">Owsla artists</a></li><li><a href="/wiki/Category:Electronic_dance_music_DJs" title="Category:Electronic dance music DJs">Electronic dance music DJs</a></li><li><a href="/wiki/Category:American_hip_hop_musicians" title="Category:American hip hop musicians">American hip hop musicians</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:Rappers_from_California" title="Category:Rappers from California">Rappers from California</a></li><li><a href="/wiki/Category:American_male_web_series_actors" title="Category:American male web series actors">American male web series actors</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 15 August 2023, at 23:26<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Getter_(DJ)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2438","wgBackendResponseTime":100,"wgPageParseReport":{"limitreport":{"cputime":"0.654","walltime":"0.784","ppvisitednodes":{"value":4100,"limit":1000000},"postexpandincludesize":{"value":114675,"limit":2097152},"templateargumentsize":{"value":3617,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":182027,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  725.557      1 -total"," 46.53%  337.573      1 Template:Reflist"," 29.40%  213.318     41 Template:Cite_web"," 20.57%  149.234      1 Template:Infobox_musical_artist"," 17.30%  125.553      1 Template:Infobox"," 10.37%   75.219      1 Template:Getter","  9.27%   67.240      2 Template:Short_description","  8.85%   64.190      1 Template:Navbox_musical_artist","  8.57%   62.163      1 Template:Navbox","  7.93%   57.564      2 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.425","limit":"10.000"},"limitreport-memusage":{"value":8949982,"limit":52428800}},"cachereport":{"origin":"mw2311","timestamp":"20230920012913","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Getter (DJ)","url":"https:\/\/en.wikipedia.org\/wiki\/Getter_(DJ)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q27914910","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q27914910","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-11-19T14:49:58Z","dateModified":"2023-08-15T23:26:28Z","headline":"American electronic music producer and DJ"}</script>
+</body>
+</html>

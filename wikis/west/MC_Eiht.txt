@@ -1,0 +1,987 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>MC Eiht - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"fe18ec4a-80aa-40ee-8b11-cf0d57f1cb15","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"MC_Eiht","wgTitle":"MC Eiht","wgCurRevisionId":1175613415,"wgRevisionId":1175613415,"wgArticleId":900042,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","Articles with hCards","Commons category link from Wikidata","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with GND identifiers","Articles with LCCN identifiers","Articles with Grammy identifiers","Articles with MusicBrainz identifiers","Place of birth missing (living people)","1971 births","Living people","21st-century American rappers","21st-century American male musicians","American male film actors","American male television actors"
+,"American male voice actors","American male video game actors","African-American male rappers","American male rappers","Crips","Gangsta rappers","Musicians from Compton, California","Priority Records artists","Rappers from Los Angeles","West Coast hip hop musicians","21st-century African-American musicians","20th-century African-American people"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"MC_Eiht","wgRelevantArticleId":900042,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q531913","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready",
+"ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e5/2020_MC_Eiht.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1683">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e5/2020_MC_Eiht.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1122">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="898">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="MC Eiht - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/MC_Eiht">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=MC_Eiht&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/MC_Eiht">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-MC_Eiht rootpage-MC_Eiht skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=MC+Eiht" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=MC+Eiht" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=MC+Eiht" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=MC+Eiht" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Music_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Music_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Music career</div>
+		</a>
+		
+		<ul id="toc-Music_career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Feud_with_DJ_Quik"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Feud_with_DJ_Quik">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Feud with DJ Quik</div>
+		</a>
+		
+		<ul id="toc-Feud_with_DJ_Quik-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Collaboration_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Collaboration_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Collaboration albums</div>
+			</a>
+			
+			<ul id="toc-Collaboration_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Filmography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Filmography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Filmography</div>
+		</a>
+		
+			<button aria-controls="toc-Filmography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Filmography subsection</span>
+			</button>
+		
+		<ul id="toc-Filmography-sublist" class="vector-toc-list">
+			<li id="toc-Film"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Film">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Film</div>
+			</a>
+			
+			<ul id="toc-Film-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Television"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Television">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Television</div>
+			</a>
+			
+			<ul id="toc-Television-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Video_games"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Video_games">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>Video games</div>
+			</a>
+			
+			<ul id="toc-Video_games-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">MC Eiht</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 22 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-22" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">22 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D9%85_%D8%B3%D9%8A_%D8%A5%D9%8A%D8%AA" title="إم سي إيت – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D9%85%E2%80%8C%D8%B3%DB%8C_%D8%A7%DB%8C%D8%AA" title="ام‌سی ایت – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%85%E2%80%8C%D8%B3%DB%8C_%D8%A7%DB%8C%D8%AA" title="ام‌سی ایت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/MC_%EC%97%90%EC%9E%87" title="MC 에잇 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%85%D9%83_%D8%A7%D9%8A%D9%87%D8%AA" title="مك ايهت – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/MC%E3%82%A8%E3%82%A4%E3%83%88" title="MCエイト – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/MC_Eiht" title="MC Eiht – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q531913#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/MC_Eiht" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:MC_Eiht" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/MC_Eiht"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=MC_Eiht&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=MC_Eiht&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/MC_Eiht"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=MC_Eiht&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=MC_Eiht&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/MC_Eiht" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/MC_Eiht" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=MC_Eiht&amp;oldid=1175613415" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=MC_Eiht&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=MC_Eiht&amp;id=1175613415&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q531913" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=MC_Eiht&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=MC_Eiht&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:MC_Eiht" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://en.wikiquote.org/wiki/MC_Eiht" hreflang="en"><span>Wikiquote</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper and actor</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">MC Eiht</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:2020_MC_Eiht.jpg" class="mw-file-description" title="MC Eiht in 2020"><img alt="MC Eiht in 2020" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2020_MC_Eiht.jpg/220px-2020_MC_Eiht.jpg" decoding="async" width="220" height="309" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2020_MC_Eiht.jpg/330px-2020_MC_Eiht.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2020_MC_Eiht.jpg/440px-2020_MC_Eiht.jpg 2x" data-file-width="487" data-file-height="683" /></a></span><div class="infobox-caption">MC Eiht in 2020</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Aaron Bernard Tyler<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>MC 8</li><li>Eiht</li><li>Tony Smallz</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1971-05-22</span>) </span>May 22, 1971<span class="noprint ForceAgeToShow"> (age&#160;52)</span><br /><a href="/wiki/Compton,_California" title="Compton, California">Compton</a>, <a href="/wiki/California" title="California">California</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li><li><a href="/wiki/West_coast_hip_hop" class="mw-redirect" title="West coast hip hop">west coast hip hop</a></li><li><a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a></li><li><a href="/wiki/G-funk" title="G-funk">funk rap</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Rapper</li><li>actor</li><li>songwriter</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1987–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Blue Stamp Music</li><li>Eiht Hype</li><li>Hi Power</li><li>Year Round</li><li><a href="/wiki/Real_Talk_Entertainment" title="Real Talk Entertainment">Real Talk</a></li><li><a href="/wiki/Epic_Records" title="Epic Records">Epic</a></li><li><a href="/wiki/Hoo_Bangin%27_Records" class="mw-redirect" title="Hoo Bangin&#39; Records">Hoo Bangin'</a></li><li><a href="/wiki/Doggystyle_Records" class="mw-redirect" title="Doggystyle Records">Doggystyle</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Formerly of</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Compton%27s_Most_Wanted" title="Compton&#39;s Most Wanted">Compton's Most Wanted</a></li><li><a href="/wiki/War_Zone_(group)" title="War Zone (group)">War Zone</a></li></ul></div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Aaron Bernard Tyler</b> (born May 22, 1973),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> better known by his <a href="/wiki/Stage_name" title="Stage name">stage name</a> <b>MC Eiht</b> (pronounced "M C eight"), is an American rapper and actor. Many of his songs are based on his life in Compton. His stage name was partly inspired by the numeral in <a href="/wiki/KRS-One" title="KRS-One">KRS-One</a>'s name. He chose Eiht for its links to "hood culture", including <a href="/wiki/Olde_English_800" title="Olde English 800">Olde English 800</a> (8 Ball) and .38 caliber firearms.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> He is the <i><a href="/wiki/De_facto" title="De facto">de facto</a></i> leader of <a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast hip hop</a> group <a href="/wiki/Compton%27s_Most_Wanted" title="Compton&#39;s Most Wanted">Compton's Most Wanted</a>, which also included fellow Compton-based <a href="/wiki/Rapper" class="mw-redirect" title="Rapper">rappers</a> <a href="/wiki/Boom_Bam" title="Boom Bam">Boom Bam</a>, <a href="/wiki/The_Unknown_DJ" title="The Unknown DJ">The Unknown DJ</a>, <a href="/wiki/Tha_Chill" title="Tha Chill">Tha Chill</a>, <a href="/wiki/DJ_Mike_T" class="mw-redirect" title="DJ Mike T">DJ Mike T</a>, <a href="/wiki/DJ_Slip" title="DJ Slip">DJ Slip</a> and Ant Capone. He is also known for his role as A-Wax in the 1993 film <i><a href="/wiki/Menace_II_Society" title="Menace II Society">Menace II Society</a>,</i> as well as playing the character Ryder in the 2004 video game <i><a href="/wiki/Grand_Theft_Auto:_San_Andreas" title="Grand Theft Auto: San Andreas">Grand Theft Auto: San Andreas</a>.</i>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Music_career">Music career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=1" title="Edit section: Music career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tyler was born in <a href="/wiki/Compton,_California" title="Compton, California">Compton, California</a> and grew to fame on the <a href="/wiki/West_Coast_Hip_Hop" class="mw-redirect" title="West Coast Hip Hop">West Coast</a> as one of two MCs in the four-man crew, <a href="/wiki/Compton%27s_Most_Wanted" title="Compton&#39;s Most Wanted">Compton's Most Wanted</a>. After enjoying increasing success with the group, which peaked with 1992's <i><a href="/wiki/Music_to_Driveby" title="Music to Driveby">Music to Driveby</a></i>, Eiht took a role in the hit movie <a href="/wiki/Menace_II_Society" title="Menace II Society">Menace II Society</a> as well as a high-profile spot on the soundtrack. The song, "<a href="/wiki/Streiht_Up_Menace" title="Streiht Up Menace">Streiht Up Menace</a>," which chronicles the unfortunate downturn of the film's protagonist within the pathological conditions of American inner city life, is considered by many critics to be Eiht's <i>magnum opus</i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> The movie spurred him into a solo career, although his next two albums <i><a href="/wiki/We_Come_Strapped" title="We Come Strapped">We Come Strapped</a></i> and <i><a href="/wiki/Death_Threatz" title="Death Threatz">Death Threatz</a></i> would be accredited as MC Eiht featuring Compton's Most Wanted. These albums were considered his best and took place during the most tense years of the 'beef' between Eiht and <a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a>, Eiht's childhood friends Boom Bam and Tha Chill of <a href="/wiki/N.O.T.R" class="mw-redirect" title="N.O.T.R">N.O.T.R</a> were heavily involved with both albums and the <a href="/wiki/DJ_Quik" title="DJ Quik">Quik</a> beef, there are several explicit remarks towards Quik made on these albums by E, Bam and Chill. E was also associated with W 159th St Tragniew Park Compton Crips.
+</p><p>He states that he did not wish to star in comedy films in order to maintain his public image. He later only appeared in the low-budget movies <i>Reasons</i>, <i>Thicker than Water</i> and <i><a href="/wiki/Who_Made_the_Potatoe_Salad%3F" title="Who Made the Potatoe Salad?">Who Made the Potatoe Salad?</a></i> as well as providing the voice for Lance 'Ryder' Wilson in the video game <i><a href="/wiki/Grand_Theft_Auto:_San_Andreas" title="Grand Theft Auto: San Andreas">Grand Theft Auto: San Andreas</a></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> His music has also been included in the <a href="/wiki/Grand_Theft_Auto" title="Grand Theft Auto">Grand Theft Auto</a> series, both alone and with Compton's Most Wanted.
+</p><p>He put out <i><a href="/wiki/Last_Man_Standing_(MC_Eiht_album)" title="Last Man Standing (MC Eiht album)">Last Man Standing</a></i>, the first album accredited only to MC Eiht, then broke from the label for Big Beat/<a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic</a>. Eiht never ended up putting out an album on the label, instead eventually signing to and releasing the album <i><a href="/wiki/Section_8_(album)" title="Section 8 (album)">Section 8</a></i> on <a href="/wiki/Priority_Records" title="Priority Records">Priority</a> in 1999.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+Eiht would hop between record labels and one-off releases in the next years, moving between independent labels Half-Ounce, D3 Entertainment, and Lookin' Up Entertainment from 2001 to 2003. He would put out records with <a href="/wiki/Spice_1" title="Spice 1">Spice 1</a> and <a href="/wiki/Brotha_Lynch_Hung" title="Brotha Lynch Hung">Brotha Lynch Hung</a> in 2004 and 2006 on <a href="/wiki/Real_Talk_Ent." class="mw-redirect" title="Real Talk Ent.">Real Talk Ent.</a>, releasing another solo album between them on West Inc./Native Records. His inability to settle at a label contributed to his joining <a href="/wiki/The_Warzone_(group)" class="mw-redirect" title="The Warzone (group)">the Warzone</a>, a trio put together by <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> and consisting of <a href="/wiki/Goldie_Loc" class="mw-redirect" title="Goldie Loc">Goldie Loc</a>, <a href="/wiki/Kam_(rapper)" title="Kam (rapper)">Kam</a> and MC Eiht himself. In 2006, Eiht and the group appeared on the single "<a href="/wiki/Candy_(Drippin%27_Like_Water)" title="Candy (Drippin&#39; Like Water)">Candy (Drippin' Like Water)</a>" on <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>'s album <i><a href="/wiki/Tha_Blue_Carpet_Treatment" title="Tha Blue Carpet Treatment">Tha Blue Carpet Treatment</a></i>. In 2010, Eiht appears on the remix to <a href="/wiki/Dam_Funk" class="mw-redirect" title="Dam Funk">Dam Funk</a>'s "Hood Pass Intact".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> MC Eiht also appeared with <a href="/wiki/Young_Maylay" title="Young Maylay">Young Maylay</a> in Blaq Poet's new street single, <i>Ain't Nuttin' Changed (Remix)</i>.
+</p><p>In June 2011, MC Eiht released his single "Fine By Me" accompanied by a music video directed by Director Hugo V. under his new label Year Round/Blue Stamp Records. Year Round Records is owned by New York-based hip hop artist <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>.
+</p><p>In October 2012, MC Eiht was featured on the song "<a href="/wiki/M.A.A.D_City" title="M.A.A.D City">m.A.A.d city</a>", by <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a>, from his major label debut <i><a href="/wiki/Good_Kid,_M.A.A.D_City" title="Good Kid, M.A.A.D City">Good Kid, m.A.A.d City</a></i>. Eiht released the <i>Keep It Hood</i> EP, through BLUESTAMP Music Group on January 4, 2013.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> The album features cuts from <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a> and production from Brenk Sinatra.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> In 2013, he plans to release a collaboration album with <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>In the summer of 2014 MC Eiht released a single with The Outlawz, Tupac Shakur's old group, titled "Shut Em Down" which makes references to old Outlawz members Tupac and Kadafi. The song is a part of Eiht's upcoming "Which Way Iz West LP" and is MC Eiht's first LP in eight years.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Feud_with_DJ_Quik">Feud with DJ Quik</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=2" title="Edit section: Feud with DJ Quik">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>MC Eiht and his group CMW got involved in a long tumultuous rivalry with fellow Compton DJ/rapper <a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a> that lasted for several years.<sup id="cite_ref-:0_12-0" class="reference"><a href="#cite_note-:0-12">&#91;12&#93;</a></sup>  The feud traces back to a track on DJ Quik's debut mixtape <i>The Red Tape</i>, where Quik indirectly dissed both Compton's Most Wanted and <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a>. During that time, Quik was a member to the Tree Top <a href="/wiki/Pirus" title="Pirus">Piru Bloods</a> and Eiht was a member of the 159th St. Tragniew Park Compton <a href="/wiki/Crips" title="Crips">Crips</a>. On the track "Duck Sick" from CMW's debut album <i><a href="/wiki/It%27s_a_Compton_Thang" title="It&#39;s a Compton Thang">It's a Compton Thang</a></i>, they criticized and questioned Quik's street credibility.<sup id="cite_ref-:0_12-1" class="reference"><a href="#cite_note-:0-12">&#91;12&#93;</a></sup> They hit Quik again in 1991 on their second effort <i><a href="/wiki/Straight_Checkn_%27Em" title="Straight Checkn &#39;Em">Straight Checkn 'Em</a></i>. Quik didn't respond to CMW's disses on his debut album <i><a href="/wiki/Quik_is_the_Name" class="mw-redirect" title="Quik is the Name">Quik is the Name</a></i>, but he responded to Eiht on the title track to his sophomore effort <i><a href="/wiki/Way_2_Fonky" title="Way 2 Fonky">Way 2 Fonky</a></i>. CMW responded months later with a music video for "Def Wish II" which featured a DJ Quik lookalike having a surreal nightmare of CMW chasing &amp; ambushing him leading to him getting killed. Quik responded to it with "Let You Have It", mentioning the Compton's Most Wanted music video, while facing label problems and other music projects.<sup id="cite_ref-:0_12-2" class="reference"><a href="#cite_note-:0-12">&#91;12&#93;</a></sup> However, on the soundtrack to the 1994 short film <i><a href="/wiki/Murder_Was_The_Case" class="mw-redirect" title="Murder Was The Case">Murder Was The Case</a></i>, on the track "Dollaz + Sense", Quik ruthlessly verbally attacks Eiht, calling him a movie script killer (in reference to Eiht's appearance in the critically acclaimed 1993 film <i><a href="/wiki/Menace_II_Society" title="Menace II Society">Menace II Society</a></i>), a coward, and more. Quik fanned the flames even more by performing the song at the 1995 <a href="/wiki/Source_Awards" class="mw-redirect" title="Source Awards">Source Awards</a> in <a href="/wiki/New_York_City" title="New York City">New York City</a>. The feud stayed quiet until April 1996, where Eiht responded to Quik on his second solo album <i><a href="/wiki/Death_Threatz" title="Death Threatz">Death Threatz</a></i> which featured the track Def Wish IV (Tap That Azz) which was the last diss track of their feud. The feud between Quik and Eiht slowly died down in 1997<sup id="cite_ref-:0_12-3" class="reference"><a href="#cite_note-:0-12">&#91;12&#93;</a></sup> following the deaths of <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a> and <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a>, but the feud didn't actually end until the summer of 1998, where <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, <a href="/wiki/Daz_Dillinger" title="Daz Dillinger">Daz Dillinger</a>, and other West Coast rappers helped Eiht and Quik squash the beef. Since then, Quik and Eiht collaborated on various songs.<sup id="cite_ref-:0_12-4" class="reference"><a href="#cite_note-:0-12">&#91;12&#93;</a></sup> Even though the rivalry was not on the level of the <a href="/wiki/Nas" title="Nas">Nas</a>-<a href="/wiki/Jay_Z" class="mw-redirect" title="Jay Z">Jay Z</a> rivalry or the <a href="/wiki/East_Coast-West_Coast_hip_hop_rivalry" class="mw-redirect" title="East Coast-West Coast hip hop rivalry">East Coast-West Coast hip hop rivalry</a> since it was not covered by the media, it has been hailed by most hip hop fans and critics that it stands out as one of the longest active hip hop rivalries of all time (from 1992 to 1998).<sup id="cite_ref-:0_12-5" class="reference"><a href="#cite_note-:0-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=3" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/MC_Eiht_discography" title="MC Eiht discography">MC Eiht discography</a></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Compton%27s_Most_Wanted_discography" title="Compton&#39;s Most Wanted discography">Compton's Most Wanted discography</a></div>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=4" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/We_Come_Strapped" title="We Come Strapped">We Come Strapped</a></i> (1994)</li>
+<li><i><a href="/wiki/Death_Threatz" title="Death Threatz">Death Threatz</a></i> (1996)</li>
+<li><i><a href="/wiki/Last_Man_Standing_(MC_Eiht_album)" title="Last Man Standing (MC Eiht album)">Last Man Standing</a></i> (1997)</li>
+<li><i><a href="/wiki/Section_8_(album)" title="Section 8 (album)">Section 8</a></i> (1999)</li>
+<li><i><a href="/wiki/N%27_My_Neighborhood" title="N&#39; My Neighborhood">N' My Neighborhood</a></i> (2000)</li>
+<li><i><a href="/wiki/Tha8t%27z_Gangsta" title="Tha8t&#39;z Gangsta">Tha8t'z Gangsta</a></i> (2001)</li>
+<li><i><a href="/wiki/Underground_Hero" title="Underground Hero">Underground Hero</a></i> (2002)</li>
+<li><i><a href="/wiki/Hood_Arrest" title="Hood Arrest">Hood Arrest</a></i> (2003)</li>
+<li><i><a href="/wiki/Smoke_in_tha_City" title="Smoke in tha City">Smoke in tha City</a></i> (2004)</li>
+<li><i><a href="/wiki/Veterans_Day_(album)" title="Veterans Day (album)">Veterans Day</a></i> (2004)</li>
+<li><i><a href="/wiki/Affiliated_(album)" title="Affiliated (album)">Affiliated</a></i> (2006)</li>
+<li><i><a href="/wiki/Compton%27s_O.G." title="Compton&#39;s O.G.">Compton's O.G.</a></i> (2006)</li>
+<li><i><a href="/wiki/Which_Way_Iz_West" title="Which Way Iz West">Which Way Iz West</a></i> (2017)</li>
+<li><i>Official</i> (2020)</li>
+<li><i>Lessons</i> (2020)</li>
+<li><i>Revolution in Progress</i> (2022)</li>
+<li><i>Lessons 2</i> (2023)</li></ul>
+<h3><span class="mw-headline" id="Collaboration_albums">Collaboration albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=5" title="Edit section: Collaboration albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/The_Pioneers_(album)" title="The Pioneers (album)">The Pioneers</a></i> <small>with Spice 1</small> (2004)</li>
+<li><i><a href="/wiki/The_New_Season" title="The New Season">The New Season</a></i> <small>with Brotha Lynch Hung</small> (2006)</li>
+<li><i><a href="/wiki/Keep_It_Gangsta" title="Keep It Gangsta">Keep It Gangsta</a></i> <small>with Spice 1</small> (2006)</li></ul>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=6" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Film">Film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=7" title="Edit section: Film">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Role
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>1993
+</td>
+<td><i><a href="/wiki/Menace_II_Society" title="Menace II Society">Menace II Society</a></i>
+</td>
+<td>A-Wax
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1996
+</td>
+<td><i>Reasons</i>
+</td>
+<td>Himself
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1999
+</td>
+<td><i><a href="/wiki/Thicker_than_Water_(1999_film)" title="Thicker than Water (1999 film)">Thicker than Water</a></i>
+</td>
+<td>Lil' Ant
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2001
+</td>
+<td><i>100 Kilos</i>
+</td>
+<td>Pooh
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2004
+</td>
+<td><i><a href="/wiki/Grand_Theft_Auto:_San_Andreas" title="Grand Theft Auto: San Andreas">The Introduction</a></i>
+</td>
+<td>Ryder
+</td>
+<td>DVD released as the introduction to the Grand Theft Auto: San Andreas synopsis. Voice only
+</td></tr>
+<tr>
+<td>2006
+</td>
+<td><i><a href="/wiki/Who_Made_the_Potatoe_Salad%3F" title="Who Made the Potatoe Salad?">Who Made the Potatoe Salad?</a></i>
+</td>
+<td>T-Bone
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2008
+</td>
+<td><i>Bigg Snoop Dogg Presents: The Adventures of Tha Blue Carpet Treatment</i>
+</td>
+<td>Himself
+</td>
+<td>Voice only
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td><i>Streetwise x MC Eiht</i>
+</td>
+<td>Himself
+</td>
+<td>Short film
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Television">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=8" title="Edit section: Television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th rowspan="1">Year
+</th>
+<th rowspan="1">Title
+</th>
+<th rowspan="1">Role
+</th>
+<th rowspan="1">Notes
+</th></tr>
+<tr>
+<td>2016
+</td>
+<td><i><a href="/wiki/Legends_of_Chamberlain_Heights" title="Legends of Chamberlain Heights">Legends of Chamberlain Heights</a></i>
+</td>
+<td>Himself
+</td>
+<td>1 episode
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Video_games">Video games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=9" title="Edit section: Video games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th rowspan="1">Year
+</th>
+<th rowspan="1">Title
+</th>
+<th rowspan="1">Role
+</th>
+<th rowspan="1">Notes
+</th></tr>
+<tr>
+<td>2004
+</td>
+<td><i><a href="/wiki/Grand_Theft_Auto:_San_Andreas" title="Grand Theft Auto: San Andreas">Grand Theft Auto: San Andreas</a></i>
+</td>
+<td><a href="/wiki/List_of_Grand_Theft_Auto:_San_Andreas_characters#Ryder" class="mw-redirect" title="List of Grand Theft Auto: San Andreas characters">Lance "Ryder" Wilson</a>
+</td>
+<td>Voice only
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td><i><a href="/wiki/Grand_Theft_Auto_V" title="Grand Theft Auto V">Grand Theft Auto V</a></i>
+</td>
+<td>Himself
+</td>
+<td>"The Lab" radio guest host, musical contributions
+</td></tr>
+<tr>
+<td>2021
+</td>
+<td><i><a href="/wiki/Grand_Theft_Auto:_The_Trilogy_-_The_Definitive_Edition" class="mw-redirect" title="Grand Theft Auto: The Trilogy - The Definitive Edition">Grand Theft Auto: San Andreas - The Definitive Edition</a></i>
+</td>
+<td><a href="/wiki/Lance_%22Ryder%22_Wilson" class="mw-redirect" title="Lance &quot;Ryder&quot; Wilson">Lance "Ryder" Wilson</a>
+</td>
+<td>Archival Recordings<br />Remaster of <i>Grand Theft Auto: San Andreas</i> only
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ascap.com/repertory#/ace/search/workID/898819326">"BAC IN TOWN"</a>. <i>ASCAP</i>. American Society of Composers, Authors and Publishers<span class="reference-accessdate">. Retrieved <span class="nowrap">May 1,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ASCAP&amp;rft.atitle=BAC+IN+TOWN&amp;rft_id=https%3A%2F%2Fwww.ascap.com%2Frepertory%23%2Face%2Fsearch%2FworkID%2F898819326&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMC+Eiht" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=P0k4CJd5pBg">"MC Eiht on His Praying Hands Face Tat, Violence Decreasing in Compton"</a>. <i>youtube.com</i>. <a rel="nofollow" class="external text" href="https://ghostarchive.org/varchive/youtube/20211222/P0k4CJd5pBg">Archived</a> from the original on 2021-12-22. <q>MC Eiht confirms his age of 46 and not 50 at 1:23 in this recent interview with DJ Vlad in 2017</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=youtube.com&amp;rft.atitle=MC+Eiht+on+His+Praying+Hands+Face+Tat%2C+Violence+Decreasing+in+Compton&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP0k4CJd5pBg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMC+Eiht" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://thugradio.net/mceihtinterview.html">Thug Radio</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20041204195215/http://www.thugradio.net/mceihtinterview.html">Archived</a> 2004-12-04 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlue_Stamp_Music" class="citation web cs1">Blue Stamp Music. <a rel="nofollow" class="external text" href="https://www.facebook.com/pages/MC-Eiht/12747462012">"MC Eiht Facebook Page"</a>. Facebook<span class="reference-accessdate">. Retrieved <span class="nowrap">29 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MC+Eiht+Facebook+Page&amp;rft.pub=Facebook&amp;rft.au=Blue+Stamp+Music&amp;rft_id=https%3A%2F%2Fwww.facebook.com%2Fpages%2FMC-Eiht%2F12747462012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMC+Eiht" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0563810/">MC Eiht biography.</a> Accessed 2007-10-22.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thaformula.com/evil_dee_definition_of_a_dj_day.htm">thaformula.com</a> Accessed 2007-10-21.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMartins2010" class="citation web cs1">Martins, Chris (July 14, 2010). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131002233302/http://blogs.laweekly.com/westcoastsound/2010/07/mp3_dam-funk_gangsta_mc_eiht_hood_pass.php">"At Last: Dâm-Funk Goes Gangsta With Compton's MC Eiht for 'Hood Pass Intact' Redo"</a>. <i><a href="/wiki/LA_Weekly" title="LA Weekly">LA Weekly</a></i>. Archived from <a rel="nofollow" class="external text" href="http://blogs.laweekly.com/westcoastsound/2010/07/mp3_dam-funk_gangsta_mc_eiht_hood_pass.php">the original</a> on 2 October 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LA+Weekly&amp;rft.atitle=At+Last%3A+D%C3%A2m-Funk+Goes+Gangsta+With+Compton%27s+MC+Eiht+for+%27Hood+Pass+Intact%27+Redo&amp;rft.date=2010-07-14&amp;rft.aulast=Martins&amp;rft.aufirst=Chris&amp;rft_id=http%3A%2F%2Fblogs.laweekly.com%2Fwestcoastsound%2F2010%2F07%2Fmp3_dam-funk_gangsta_mc_eiht_hood_pass.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMC+Eiht" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.amazon.com/Keep-It-Hood-Explicit/dp/B00AZH17V4/ref=sr_1_1?ie=UTF8&amp;qid=1358704573&amp;sr=8-1&amp;keywords=keep+it+hood+mc+eiht">"Amazon.com: Keep It Hood &#91;Explicit&#93;: MC Eiht: MP3 Downloads"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Amazon.com%3A+Keep+It+Hood+%5BExplicit%5D%3A+MC+Eiht%3A+MP3+Downloads&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2FKeep-It-Hood-Explicit%2Fdp%2FB00AZH17V4%2Fref%3Dsr_1_1%3Fie%3DUTF8%26qid%3D1358704573%26sr%3D8-1%26keywords%3Dkeep%2Bit%2Bhood%2Bmc%2Beiht&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMC+Eiht" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.djpremierblog.com/2012/12/20/exclusive-mc-eiht-the-reign-prod-by-brenk-sinatra-scratches-by-dj-premier-cdq/">"DJ Premier Blog&#160;» Exclusive: MC Eiht – The Reign (Prod. by Brenk Sinatra; Scratches by DJ Premier) CDQ"</a>. 2012-12-20<span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DJ+Premier+Blog+%C2%BB+Exclusive%3A+MC+Eiht+%E2%80%93+The+Reign+%28Prod.+by+Brenk+Sinatra%3B+Scratches+by+DJ+Premier%29+CDQ&amp;rft.date=2012-12-20&amp;rft_id=http%3A%2F%2Fwww.djpremierblog.com%2F2012%2F12%2F20%2Fexclusive-mc-eiht-the-reign-prod-by-brenk-sinatra-scratches-by-dj-premier-cdq%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMC+Eiht" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131002095736/http://www.hiphopdx.com/index/editorials/id.2020/title.the-most-anticipated-albums-of-2013">"The Most Anticipated Albums Of 2013"</a>. <i><a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a></i>. 4 January 2013. Archived from <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/editorials/id.2020/title.the-most-anticipated-albums-of-2013">the original</a> on 2 October 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=The+Most+Anticipated+Albums+Of+2013&amp;rft.date=2013-01-04&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Feditorials%2Fid.2020%2Ftitle.the-most-anticipated-albums-of-2013&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMC+Eiht" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJaffe2014" class="citation web cs1">Jaffe, Lloyd (July 14, 2014). <a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/mc-eiht-feat-outlawz-shut-em-down-video-new-video.29782.html">"MC Eiht Feat. Outlawz "Shut Em Down" Video"</a>. <i><a href="/wiki/HotNewHipHop" title="HotNewHipHop">HotNewHipHop</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=MC+Eiht+Feat.+Outlawz+%22Shut+Em+Down%22+Video&amp;rft.date=2014-07-14&amp;rft.aulast=Jaffe&amp;rft.aufirst=Lloyd&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fmc-eiht-feat-outlawz-shut-em-down-video-new-video.29782.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMC+Eiht" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:0_12-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:0_12-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHarling2016" class="citation web cs1">Harling, Danielle (2016-01-14). <a rel="nofollow" class="external text" href="http://hiphopdx.com/news/id.37028/title.mc-eiht-reveals-origins-of-feud-with-dj-quik#">"MC Eiht Reveals Origins of Feud with DJ Quik"</a>. <i><a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=MC+Eiht+Reveals+Origins+of+Feud+with+DJ+Quik&amp;rft.date=2016-01-14&amp;rft.aulast=Harling&amp;rft.aufirst=Danielle&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.37028%2Ftitle.mc-eiht-reveals-origins-of-feud-with-dj-quik%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMC+Eiht" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=MC_Eiht&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.mceiht.com">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0563810/">MC Eiht</a> at <a href="/wiki/IMDb_(identifier)" class="mw-redirect" title="IMDb (identifier)">IMDb</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span></span></div>
+<div class="side-box-text plainlist">Wikiquote has quotations related to <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/MC_Eiht" class="extiw" title="q:Special:Search/MC Eiht">MC Eiht</a></b></i>.</div></div>
+</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1134653256"><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:MC_Eiht" class="extiw" title="commons:Category:MC Eiht">MC Eiht</a></span>.</div></div>
+</div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="MC_Eiht" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:MC_Eiht" title="Template:MC Eiht"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:MC_Eiht" title="Template talk:MC Eiht"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:MC_Eiht&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="MC_Eiht" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">MC Eiht</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><a href="/wiki/MC_Eiht_discography" title="MC Eiht discography">Discography</a></li>
+<li><a href="/wiki/Compton%27s_Most_Wanted_discography" title="Compton&#39;s Most Wanted discography">CMW discography</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/We_Come_Strapped" title="We Come Strapped">We Come Strapped</a></i></li>
+<li><i><a href="/wiki/Death_Threatz" title="Death Threatz">Death Threatz</a></i></li>
+<li><i><a href="/wiki/Last_Man_Standing_(MC_Eiht_album)" title="Last Man Standing (MC Eiht album)">Last Man Standing</a></i></li>
+<li><i><a href="/wiki/Section_8_(album)" title="Section 8 (album)">Section 8</a></i></li>
+<li><i><a href="/wiki/N%27_My_Neighborhood" title="N&#39; My Neighborhood">N' My Neighborhood</a></i></li>
+<li><i><a href="/wiki/Tha8t%27z_Gangsta" title="Tha8t&#39;z Gangsta">Tha8t'z Gangsta</a></i></li>
+<li><i><a href="/wiki/Underground_Hero" title="Underground Hero">Underground Hero</a></i></li>
+<li><i><a href="/wiki/Hood_Arrest" title="Hood Arrest">Hood Arrest</a></i></li>
+<li><i><a href="/wiki/Smoke_in_tha_City" title="Smoke in tha City">Smoke in tha City</a></i></li>
+<li><i><a href="/wiki/Veterans_Day_(album)" title="Veterans Day (album)">Veterans Day</a></i></li>
+<li><i><a href="/wiki/Affiliated_(album)" title="Affiliated (album)">Affiliated</a></i></li>
+<li><i><a href="/wiki/Compton%27s_O.G." title="Compton&#39;s O.G.">Compton's O.G.</a></i></li>
+<li><i><a href="/wiki/Which_Way_Iz_West" title="Which Way Iz West">Which Way Iz West</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Collaborations</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Pioneers_(album)" title="The Pioneers (album)">The Pioneers</a></i> <span style="font-size:85%;">(with <a href="/wiki/Spice_1" title="Spice 1">Spice 1</a>)</span></li>
+<li><i><a href="/wiki/The_New_Season" title="The New Season">The New Season</a></i> <span style="font-size:85%;">(with <a href="/wiki/Brotha_Lynch_Hung" title="Brotha Lynch Hung">Brotha Lynch Hung</a>)</span></li>
+<li><i><a href="/wiki/Keep_It_Gangsta" title="Keep It Gangsta">Keep It Gangsta</a></i> <span style="font-size:85%;">(with <a href="/wiki/Spice_1" title="Spice 1">Spice 1</a>)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Keep_It_Hood" title="Keep It Hood">Keep It Hood</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Streiht_Up_Menace" title="Streiht Up Menace">Streiht Up Menace</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Other songs</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/M.A.A.D_City" title="M.A.A.D City">M.A.A.D City</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Compton%27s_Most_Wanted" title="Compton&#39;s Most Wanted">Compton's Most Wanted</a></li>
+<li><a href="/wiki/Niggaz_on_tha_Run" title="Niggaz on tha Run">N.O.T.R.</a></li>
+<li><a href="/wiki/The_Warzone_(group)" class="mw-redirect" title="The Warzone (group)">The Warzone</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Compton&amp;#039;s_Most_Wanted" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Compton%27s_Most_Wanted" title="Template:Compton&#39;s Most Wanted"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Compton%27s_Most_Wanted" title="Template talk:Compton&#39;s Most Wanted"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Compton%27s_Most_Wanted&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Compton&amp;#039;s_Most_Wanted" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Compton%27s_Most_Wanted" title="Compton&#39;s Most Wanted">Compton's Most Wanted</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a class="mw-selflink selflink">MC Eiht</a></b></li>
+<li><b><a href="/wiki/Tha_Chill" title="Tha Chill">Tha Chill</a></b></li>
+<li><b><a href="/wiki/Boom_Bam" title="Boom Bam">Boom Bam</a></b></li>
+<li><b><a href="/wiki/DJ_Mike_T" class="mw-redirect" title="DJ Mike T">DJ Mike T</a></b></li>
+<li><b>Big 2Da Boy</b></li>
+<li><b>Diamond Rich</b></li>
+<li><b>Ant Capone</b></li>
+<li><b>Da Foe</b></li>
+<li><b><a href="/wiki/DJ_Slip" title="DJ Slip">DJ Slip</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/It%27s_a_Compton_Thang" title="It&#39;s a Compton Thang">It's a Compton Thang</a></i></li>
+<li><i><a href="/wiki/Straight_Checkn_%27Em" title="Straight Checkn &#39;Em">Straight Checkn 'Em</a></i></li>
+<li><i><a href="/wiki/Music_to_Driveby" title="Music to Driveby">Music to Driveby</a></i></li>
+<li><i><a href="/wiki/We_Come_Strapped" title="We Come Strapped">We Come Strapped</a></i></li>
+<li><i><a href="/wiki/Death_Threatz" title="Death Threatz">Death Threatz</a></i></li>
+<li><i><a href="/wiki/Represent_(Compton%27s_Most_Wanted_album)" title="Represent (Compton&#39;s Most Wanted album)">Represent</a></i></li>
+<li><i><a href="/wiki/Music_to_Gang_Bang" title="Music to Gang Bang">Music to Gang Bang</a></i></li>
+<li><i><a href="/wiki/Compton%27s_O.G." title="Compton&#39;s O.G.">MC Eiht Along with CMW "Presents" Compton's OG</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><a href="/wiki/Greatest_hits_album" title="Greatest hits album">Greatest hits albums</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/When_We_Wuz_Bangin%27_1989%E2%80%931999:_The_Hitz" title="When We Wuz Bangin&#39; 1989–1999: The Hitz">When We Wuz Bangin' 1989–1999: The Hitz</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Hood_Took_Me_Under" title="Hood Took Me Under">Hood Took Me Under</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Compton%27s_Most_Wanted_discography" title="Compton&#39;s Most Wanted discography">Discography</a></li>
+<li><a href="/wiki/MC_Eiht_discography" title="MC Eiht discography">MC Eiht discography</a></li>
+<li><a href="/wiki/Niggaz_on_tha_Run" title="Niggaz on tha Run">N.O.T.R.</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q531913#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q531913#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q531913#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000055534596">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/61128794">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/135069769">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no95028288">United States</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.grammy.com/grammys/artists/mc-eiht/17995">Grammy Awards</a></span></li>
+<li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="MC Eiht"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/103555b8-ae47-4e99-8fc3-e31bdfd7854e">MusicBrainz</a></span></span>
+<ul><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Aaron Tyler"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/8f193cab-900e-4818-893a-2319ee31ebe7">2</a></span></span></li>
+<li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Tony Smallz"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/e7e2673c-5018-405b-b99e-58e2d51bc92a">3</a></span></span></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2389
+Cached time: 20230919184531
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.504 seconds
+Real time usage: 0.648 seconds
+Preprocessor visited node count: 2854/1000000
+Post‐expand include size: 70024/2097152 bytes
+Template argument size: 5385/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 64537/5000000 bytes
+Lua time usage: 0.319/10.000 seconds
+Lua memory usage: 8500010/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  565.587      1 -total
+ 27.37%  154.773      1 Template:Infobox_musical_artist
+ 26.60%  150.442      1 Template:Reflist
+ 23.76%  134.389      1 Template:Infobox
+ 20.89%  118.175      9 Template:Cite_web
+ 10.18%   57.558      2 Template:Short_description
+  9.06%   51.266      2 Template:Navbox_musical_artist
+  9.04%   51.141      1 Template:Authority_control
+  8.66%   48.961      2 Template:Navbox
+  8.55%   48.356      1 Template:MC_Eiht
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:900042-0!canonical and timestamp 20230919184530 and revision id 1175613415. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=MC_Eiht&amp;oldid=1175613415">https://en.wikipedia.org/w/index.php?title=MC_Eiht&amp;oldid=1175613415</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1971_births" title="Category:1971 births">1971 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:American_male_film_actors" title="Category:American male film actors">American male film actors</a></li><li><a href="/wiki/Category:American_male_television_actors" title="Category:American male television actors">American male television actors</a></li><li><a href="/wiki/Category:American_male_voice_actors" title="Category:American male voice actors">American male voice actors</a></li><li><a href="/wiki/Category:American_male_video_game_actors" title="Category:American male video game actors">American male video game actors</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:Crips" title="Category:Crips">Crips</a></li><li><a href="/wiki/Category:Gangsta_rappers" title="Category:Gangsta rappers">Gangsta rappers</a></li><li><a href="/wiki/Category:Musicians_from_Compton,_California" title="Category:Musicians from Compton, California">Musicians from Compton, California</a></li><li><a href="/wiki/Category:Priority_Records_artists" title="Category:Priority Records artists">Priority Records artists</a></li><li><a href="/wiki/Category:Rappers_from_Los_Angeles" title="Category:Rappers from Los Angeles">Rappers from Los Angeles</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li><li><a href="/wiki/Category:20th-century_African-American_people" title="Category:20th-century African-American people">20th-century African-American people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_Grammy_identifiers" title="Category:Articles with Grammy identifiers">Articles with Grammy identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Place_of_birth_missing_(living_people)" title="Category:Place of birth missing (living people)">Place of birth missing (living people)</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 16 September 2023, at 06:00<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=MC_Eiht&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2447","wgBackendResponseTime":105,"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.648","ppvisitednodes":{"value":2854,"limit":1000000},"postexpandincludesize":{"value":70024,"limit":2097152},"templateargumentsize":{"value":5385,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":64537,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  565.587      1 -total"," 27.37%  154.773      1 Template:Infobox_musical_artist"," 26.60%  150.442      1 Template:Reflist"," 23.76%  134.389      1 Template:Infobox"," 20.89%  118.175      9 Template:Cite_web"," 10.18%   57.558      2 Template:Short_description","  9.06%   51.266      2 Template:Navbox_musical_artist","  9.04%   51.141      1 Template:Authority_control","  8.66%   48.961      2 Template:Navbox","  8.55%   48.356      1 Template:MC_Eiht"]},"scribunto":{"limitreport-timeusage":{"value":"0.319","limit":"10.000"},"limitreport-memusage":{"value":8500010,"limit":52428800}},"cachereport":{"origin":"mw2389","timestamp":"20230919184531","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"MC Eiht","url":"https:\/\/en.wikipedia.org\/wiki\/MC_Eiht","sameAs":"http:\/\/www.wikidata.org\/entity\/Q531913","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q531913","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-14T13:15:09Z","dateModified":"2023-09-16T06:00:37Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e5\/2020_MC_Eiht.jpg","headline":"American rapper"}</script>
+</body>
+</html>

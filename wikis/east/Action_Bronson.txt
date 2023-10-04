@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Action Bronson - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"8d59b61b-56ac-49e5-9857-1eb1a87876fc","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Action_Bronson","wgTitle":"Action Bronson","wgCurRevisionId":1176146510,"wgRevisionId":1176146510,"wgArticleId":32399127,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Wikipedia pending changes protected pages","Use mdy dates from October 2021","Articles with hCards","Pages using infobox musical artist with associated acts","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with GND identifiers","Articles with MusicBrainz identifiers","1983 births","Living people","21st-century Albanian rappers","21st-century American Jews","21st-century American male singers","21st-century American singers","21st-century American rappers",
+"American male chefs","American male rappers","American people of Albanian descent","Atlantic Records artists","Bayside High School (Queens) alumni","East Coast hip hop musicians","Jewish American musicians","Jewish rappers","Loma Vista Recordings artists","Musicians from Flushing, Queens","Rappers from New York City"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Action_Bronson","wgRelevantArticleId":32399127,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgStableRevisionId":1176146510,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q2823641","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready",
+"ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","codex-styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%2Ccodex-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/34/Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1678">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg/800px-Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1118">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg/640px-Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="895">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Action Bronson - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Action_Bronson">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Action_Bronson&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Action_Bronson">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Action_Bronson rootpage-Action_Bronson skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Action+Bronson" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Action+Bronson" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Action+Bronson" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Action+Bronson" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Biography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Biography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Biography</div>
+		</a>
+		
+			<button aria-controls="toc-Biography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Biography subsection</span>
+			</button>
+		
+		<ul id="toc-Biography-sublist" class="vector-toc-list">
+			<li id="toc-1983–2010:_Early_life_and_career"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1983–2010:_Early_life_and_career">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>1983–2010: Early life and career</div>
+			</a>
+			
+			<ul id="toc-1983–2010:_Early_life_and_career-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2011:_Dr._Lecter_and_Well_Done"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2011:_Dr._Lecter_and_Well_Done">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>2011: <i>Dr. Lecter</i> and <i>Well Done</i></div>
+			</a>
+			
+			<ul id="toc-2011:_Dr._Lecter_and_Well_Done-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2012–2013:_Major-label_deal_and_Saaab_Stories"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2012–2013:_Major-label_deal_and_Saaab_Stories">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>2012–2013: Major-label deal and <i>Saaab Stories</i></div>
+			</a>
+			
+			<ul id="toc-2012–2013:_Major-label_deal_and_Saaab_Stories-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2014–present:_Mr._Wonderful_and_various_studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2014–present:_Mr._Wonderful_and_various_studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.4</span>2014–present: <i>Mr. Wonderful</i> and various studio albums</div>
+			</a>
+			
+			<ul id="toc-2014–present:_Mr._Wonderful_and_various_studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Television_and_film"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Television_and_film">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Television and film</div>
+		</a>
+		
+		<ul id="toc-Television_and_film-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Controversy"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Controversy">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Controversy</div>
+		</a>
+		
+		<ul id="toc-Controversy-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Musical_style"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Musical_style">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Musical style</div>
+		</a>
+		
+			<button aria-controls="toc-Musical_style-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Musical style subsection</span>
+			</button>
+		
+		<ul id="toc-Musical_style-sublist" class="vector-toc-list">
+			<li id="toc-Influences"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Influences">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Influences</div>
+			</a>
+			
+			<ul id="toc-Influences-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Rapping_style"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Rapping_style">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Rapping style</div>
+			</a>
+			
+			<ul id="toc-Rapping_style-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Awards_and_nominations"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards_and_nominations">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Awards and nominations</div>
+		</a>
+		
+			<button aria-controls="toc-Awards_and_nominations-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Awards and nominations subsection</span>
+			</button>
+		
+		<ul id="toc-Awards_and_nominations-sublist" class="vector-toc-list">
+			<li id="toc-BET_Hip_Hop_Awards"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#BET_Hip_Hop_Awards">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.1</span>BET Hip Hop Awards</div>
+			</a>
+			
+			<ul id="toc-BET_Hip_Hop_Awards-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Action Bronson</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 17 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-17" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">17 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%95%D0%BA%D1%88%D1%8A%D0%BD_%D0%91%D1%80%D0%BE%D0%BD%D1%81%D1%8A%D0%BD" title="Екшън Бронсън – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AD%E3%83%B3%E3%82%BD%E3%83%B3" title="アクション・ブロンソン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Action_Bronson" title="Action Bronson – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2823641#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Action_Bronson" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Action_Bronson" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Action_Bronson"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Action_Bronson&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Action_Bronson&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Action_Bronson"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Action_Bronson&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Action_Bronson&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Action_Bronson" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Action_Bronson" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Action_Bronson&amp;oldid=1176146510" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Action_Bronson&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Action_Bronson&amp;id=1176146510&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2823641" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Action_Bronson&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Action_Bronson&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Action_Bronson" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-pp-autoreview" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/Wikipedia:Protection_policy#pending" title="All edits by unregistered and new users are subject to review prior to becoming visible to unregistered users"><img alt="Page protected with pending changes" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/20px-Pending-protection-shackle.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/30px-Pending-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/40px-Pending-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint"><div class="flaggedrevs_short_basic"><span title='Changes must be reviewed before being displayed on this page.' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' title='show/hide details' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">This is the <a href="/wiki/Wikipedia:Pending_changes" title="Wikipedia:Pending changes">latest accepted revision</a>, <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:Log&amp;type=review&amp;page=Action_Bronson">reviewed</a> on <i>19 September 2023</i>.</div>
+</div>
+</div>
+</div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper (born 1983)</div>
+<p class="mw-empty-elt">
+
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox biography vcard"><tbody><tr><th colspan="2" class="infobox-above" style="font-size:125%;"><div class="fn" style="display:inline">Action Bronson</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Action_Bronson_Gov_Ball_2016_(cropped).jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg/220px-Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg" decoding="async" width="220" height="308" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg/330px-Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg/440px-Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg 2x" data-file-width="1143" data-file-height="1598" /></a></span><div class="infobox-caption">Bronson performing in 2016</div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><div style="display:inline" class="nickname">Ariyan Arslani</div><br /><span style="display:none"> (<span class="bday">1983-12-02</span>) </span>December 2, 1983<span class="noprint ForceAgeToShow"> (age&#160;39)</span><br /><div style="display:inline" class="birthplace">New York City, U.S.</div></td></tr><tr><th scope="row" class="infobox-label">Other&#160;names</th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li>Bam Bam<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></li>
+<li>Bronsoliño<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
+<li>Mr. Baklava<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Occupations</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Rapper</li><li>songwriter</li><li>television presenter</li><li>chef</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Years&#160;active</th><td class="infobox-data">2008–present</td></tr><tr><th scope="row" class="infobox-label">Television</th><td class="infobox-data"><i><a href="/wiki/The_Untitled_Action_Bronson_Show" title="The Untitled Action Bronson Show">The Untitled Action Bronson Show</a></i><br /><i><a href="/wiki/Fuck,_That%E2%80%99s_Delicious" class="mw-redirect" title="Fuck, That’s Delicious">Fuck, That’s Delicious</a></i><br /><i><a href="/wiki/Traveling_the_Stars:_Action_Bronson_and_Friends_Watch_Ancient_Aliens" title="Traveling the Stars: Action Bronson and Friends Watch Ancient Aliens">Traveling the Stars: Action Bronson and Friends Watch Ancient Aliens</a></i></td></tr><tr><th scope="row" class="infobox-label">Children</th><td class="infobox-data">3</td></tr><tr><td colspan="2" class="infobox-full-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"><b>Musical career</b></td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Vice_Records" class="mw-redirect" title="Vice Records">Vice</a></li><li><a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic</a></li><li><a href="/wiki/Empire_Distribution" title="Empire Distribution">EMPIRE</a></li><li><a href="/wiki/Loma_Vista_Recordings" title="Loma Vista Recordings">Loma Vista</a></li><li><a href="/wiki/Concord_(entertainment_company)" title="Concord (entertainment company)">Concord</a></li></ul></div></td></tr><tr><td colspan="2">
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div></td></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://actionbronson.com">actionbronson<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>Ariyan Arslani</b> (born December 2, 1983), professionally known as <b>Action Bronson</b>, is an American rapper, songwriter, chef, wrestler, and television presenter.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Born and raised in Queens, New York, he embarked on his musical career in January 2011, with the <a href="/wiki/Mixtape" title="Mixtape">mixtape</a> <i>Bon Appetit ..... Bitch!!!!!</i>. He independently released his debut album <i><a href="/wiki/Dr._Lecter" class="mw-redirect" title="Dr. Lecter">Dr. Lecter</a></i>, in March 2011. In August 2012, Arslani signed his first major-label deal with <a href="/wiki/Warner_Bros._Records" class="mw-redirect" title="Warner Bros. Records">Warner Bros. Records</a>, but was later moved to the <a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic Records</a>-distributed label <a href="/wiki/Vice_Media" title="Vice Media">Vice Records</a>.
+</p><p>Arslani went on to create two self-released mixtapes, <i><a href="/wiki/Rare_Chandeliers" title="Rare Chandeliers">Rare Chandeliers</a></i> (2012) with American music producer, Daniel Alan Maman, better known as <a href="/wiki/The_Alchemist_(musician)" title="The Alchemist (musician)">The Alchemist</a>, and <i><a href="/wiki/Blue_Chips_2" title="Blue Chips 2">Blue Chips 2</a></i> (2013) with longtime producer <a href="/wiki/Party_Supplies" title="Party Supplies">Party Supplies</a>, before releasing his major-label debut, an extended play (EP) titled <i><a href="/wiki/Saaab_Stories" title="Saaab Stories">Saaab Stories</a></i>, with frequent collaborator <a href="/wiki/Harry_Fraud" title="Harry Fraud">Harry Fraud</a>, in 2013. He released his major-label debut album, <i><a href="/wiki/Mr._Wonderful_(Action_Bronson_album)" title="Mr. Wonderful (Action Bronson album)">Mr. Wonderful</a></i>, in March 2015, debuting at number seven on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> chart, receiving over 48,000 streams that week.
+</p><p>Aside from his career in music, Arslani hosted <i><a href="/wiki/The_Untitled_Action_Bronson_Show" title="The Untitled Action Bronson Show">The Untitled Action Bronson Show</a></i>, a talk/variety show, and still hosts his travel program <i><a href="/wiki/Fuck,_That%27s_Delicious" title="Fuck, That&#39;s Delicious">Fuck, That's Delicious</a></i>, on <a href="/wiki/Viceland" title="Viceland">Viceland</a>. His frequent collaborators and lifelong friends <a href="/wiki/Meyhem_Lauren" title="Meyhem Lauren">Meyhem Lauren</a>, <a href="/wiki/The_Alchemist_(musician)" title="The Alchemist (musician)">The Alchemist</a>, and <a href="/wiki/Big_Body_Bes" title="Big Body Bes">Big Body Bes</a> are regulars on both of his television series. Renowned chefs such as <a href="/wiki/Mario_Batali" title="Mario Batali">Mario Batali</a>, <a href="/wiki/Andrew_Zimmern" title="Andrew Zimmern">Andrew Zimmern</a>, <a href="/wiki/Daniel_Boulud" title="Daniel Boulud">Daniel Boulud</a>, <a href="/wiki/Rick_Bayless" title="Rick Bayless">Rick Bayless</a>, <a href="/wiki/Grant_Achatz" title="Grant Achatz">Grant Achatz</a>, and others have been guests on his television series. In September 2017, Arslani published his first book, based on his travel show, a cookbook, also entitled <i>Fuck, That's Delicious</i>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="1983.E2.80.932010:_Early_life_and_career"></span><span class="mw-headline" id="1983–2010:_Early_life_and_career">1983–2010: Early life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=2" title="Edit section: 1983–2010: Early life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ariyan Arslani<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> was born in <a href="/wiki/Flushing,_Queens" title="Flushing, Queens">Flushing, Queens</a>, New York City, on December 2, 1983,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> to an <a href="/wiki/Albanian_people" class="mw-redirect" title="Albanian people">Albanian</a> Muslim father and an American Jewish mother.<sup id="cite_ref-heritage_8-0" class="reference"><a href="#cite_note-heritage-8">&#91;8&#93;</a></sup> Growing up he had been raised in his father's Muslim tradition.<sup id="cite_ref-upbringing_9-0" class="reference"><a href="#cite_note-upbringing-9">&#91;9&#93;</a></sup> He attended <a href="/wiki/Bayside_High_School_(Queens)" title="Bayside High School (Queens)">Bayside High School</a>, in <a href="/wiki/Bayside,_Queens" title="Bayside, Queens">Bayside, Queens</a>, and graduated in 2002. Before embarking on a career as a rapper, which was originally just a hobby, Bronson worked as a cook at his father's Mediterranean restaurant in <a href="/wiki/Forest_Hills,_NY" class="mw-redirect" title="Forest Hills, NY">Forest Hills</a>. He hosted his own online cooking show, <i>Action in the Kitchen</i>. After breaking his leg in the kitchen, Bronson concentrated solely on rapping.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2011:_Dr._Lecter_and_Well_Done">2011: <i>Dr. Lecter</i> and <i>Well Done</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=3" title="Edit section: 2011: Dr. Lecter and Well Done">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Action Bronson's debut studio album <i><a href="/wiki/Dr._Lecter" class="mw-redirect" title="Dr. Lecter">Dr. Lecter</a></i> was independently released by Fine Fabric Delegates on March 15, 2011. The album, <a href="/wiki/Hip_hop_production" title="Hip hop production">produced</a> entirely by <a href="/wiki/New_York_City" title="New York City">New York City</a>-based <a href="/wiki/Music_producer" class="mw-redirect" title="Music producer">music producer</a> Tommy Mas, was made available for <a href="/wiki/Music_download" title="Music download">digital download</a> and also in <a href="/wiki/CD-R" title="CD-R">CD-R</a>, on his official website. In November of that year, Bronson followed up with <i><a href="/wiki/Well-Done_(album)" title="Well-Done (album)">Well-Done</a></i>, a collaborative effort with American hip hop producer <a href="/wiki/Statik_Selektah" title="Statik Selektah">Statik Selektah</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> On March 12, 2012, he released his second mixtape, titled <i><a href="/wiki/Action_Bronson_discography#Mixtapes" title="Action Bronson discography">Blue Chips</a>,</i> with <a href="/wiki/Party_Supplies" title="Party Supplies">Party Supplies</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span id="2012.E2.80.932013:_Major-label_deal_and_Saaab_Stories"></span><span class="mw-headline" id="2012–2013:_Major-label_deal_and_Saaab_Stories">2012–2013: Major-label deal and <i>Saaab Stories</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=4" title="Edit section: 2012–2013: Major-label deal and Saaab Stories">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/File:Action_Bronson.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Action_Bronson.jpg/220px-Action_Bronson.jpg" decoding="async" width="220" height="147" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Action_Bronson.jpg/330px-Action_Bronson.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Action_Bronson.jpg/440px-Action_Bronson.jpg 2x" data-file-width="5184" data-file-height="3456" /></a><figcaption>Action Bronson performing in July 2013</figcaption></figure>
+<p>In August 2012, it was announced <a href="/wiki/Paul_Rosenberg_(music_manager)" title="Paul Rosenberg (music manager)">Paul Rosenberg</a> signed Action Bronson to a management deal with <a href="/wiki/Goliath_Artists" title="Goliath Artists">Goliath Artists</a>, which also houses names such as <a href="/wiki/Eminem" title="Eminem">Eminem</a>, <a href="/wiki/The_Alchemist_(musician)" title="The Alchemist (musician)">The Alchemist</a>, <a href="/wiki/Blink-182" title="Blink-182">Blink-182</a> and <a href="/wiki/Danny_Brown_(rapper)" class="mw-redirect" title="Danny Brown (rapper)">Danny Brown</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> In the same month, Bronson was featured on <a href="/wiki/Odd_Future" title="Odd Future">Odd Future</a>-rapper <a href="/wiki/Domo_Genesis" title="Domo Genesis">Domo Genesis</a> and American hip hop producer The Alchemist's collaborative album <i><a href="/wiki/No_Idols_(Domo_Genesis_album)" class="mw-redirect" title="No Idols (Domo Genesis album)">No Idols</a></i>, on tracks "Elimination Chamber" (featuring <a href="/wiki/Earl_Sweatshirt" title="Earl Sweatshirt">Earl Sweatshirt</a> and <a href="/wiki/Vince_Staples" title="Vince Staples">Vince Staples</a>) and "Daily News" (featuring <a href="/wiki/SpaceGhostPurrp" title="SpaceGhostPurrp">SpaceGhostPurrp</a> and Earl Sweatshirt). Later that year Action Bronson joined both <a href="/wiki/Warner_Bros._Records" class="mw-redirect" title="Warner Bros. Records">Warner Bros. Records</a>, via media company <a href="/wiki/Vice_Records" class="mw-redirect" title="Vice Records">VICE</a>, and concert booking agency <a href="/wiki/NUE_Agency" title="NUE Agency">NUE</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> On November 15, 2012, Bronson released <i><a href="/wiki/Rare_Chandeliers" title="Rare Chandeliers">Rare Chandeliers</a></i>, a collaborative mixtape with the Alchemist.
+</p><p>In March 2013, Bronson performed at the <a href="/wiki/Coachella_Valley_Music_and_Arts_Festival" class="mw-redirect" title="Coachella Valley Music and Arts Festival">Coachella Valley Music and Arts Festival</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> and later that month was featured on <a href="/wiki/XXL_Magazine" class="mw-redirect" title="XXL Magazine">XXL Magazine</a>'s 2013 Freshman Class, a list of up-and-coming rappers.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> In May 2013, Action Bronson was moved to <a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic Records</a>, and subsequently released an <a href="/wiki/Extended_play" title="Extended play">extended play</a> (EP) titled <i><a href="/wiki/Saaab_Stories" title="Saaab Stories">Saaab Stories</a></i>, on June 11, 2013.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The EP was produced entirely by American music producer <a href="/wiki/Harry_Fraud" title="Harry Fraud">Harry Fraud</a> and features guest appearances from fellow American rappers <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a>, <a href="/wiki/Wiz_Khalifa" title="Wiz Khalifa">Wiz Khalifa</a>, and <a href="/wiki/Prodigy_(rapper)" title="Prodigy (rapper)">Prodigy</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Released as a <a href="/wiki/Music_download" title="Music download">digital download</a> only, the EP was preceded by the single, "Strictly 4 My Jeeps".<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> In July 2013, he indicated wanting to get fellow <a href="/wiki/Queens" title="Queens">Queens</a>-bred rappers, <a href="/wiki/Nas" title="Nas">Nas</a> and <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>, on his <a href="/wiki/Major_record_label" class="mw-redirect" title="Major record label">major-label</a> debut album, but unfortunately couldn't get them on.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Also in July, Bronson announced his major-label debut album would be released in early 2014.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p>On November 1, 2013, Bronson released <i><a href="/wiki/Blue_Chips_2" title="Blue Chips 2">Blue Chips 2</a></i>, the second installment in his <i>Blue Chips</i> series, in promotion of the album.<sup id="cite_ref-complex.com_22-0" class="reference"><a href="#cite_note-complex.com-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> On October 28, 2013, <a href="/wiki/Funkmaster_Flex" title="Funkmaster Flex">Funkmaster Flex</a> announced he would be hosting an upcoming Action Bronson mixtape. Production was revealed to be coming from <a href="/wiki/Erick_Sermon" title="Erick Sermon">Erick Sermon</a>, <a href="/wiki/Mike_Will_Made_It" title="Mike Will Made It">Mike Will Made It</a>, <a href="/wiki/DJ_Mustard" class="mw-redirect" title="DJ Mustard">DJ Mustard</a> and <a href="/wiki/Jahlil_Beats" title="Jahlil Beats">Jahlil Beats</a>.<sup id="cite_ref-complex.com_22-1" class="reference"><a href="#cite_note-complex.com-22">&#91;22&#93;</a></sup> In a November 2013 interview with <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>, Bronson stated that he would have Kool G Rap and <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a>, featured on his upcoming album.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p>
+<h3><span id="2014.E2.80.93present:_Mr._Wonderful_and_various_studio_albums"></span><span class="mw-headline" id="2014–present:_Mr._Wonderful_and_various_studio_albums">2014–present: <i>Mr. Wonderful</i> and various studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=5" title="Edit section: 2014–present: Mr. Wonderful and various studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Action_Bronson_Coachella_2015.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Action_Bronson_Coachella_2015.jpg/220px-Action_Bronson_Coachella_2015.jpg" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Action_Bronson_Coachella_2015.jpg/330px-Action_Bronson_Coachella_2015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Action_Bronson_Coachella_2015.jpg/440px-Action_Bronson_Coachella_2015.jpg 2x" data-file-width="4896" data-file-height="3672" /></a><figcaption>Bronson performing at <a href="/wiki/Coachella_Valley_Music_and_Arts_Festival" class="mw-redirect" title="Coachella Valley Music and Arts Festival">Coachella</a> in 2015</figcaption></figure>
+<p>In February 2014, Action Bronson, <a href="/wiki/J._Cole" title="J. Cole">J. Cole</a>, <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a> and <a href="/wiki/360_(rapper)" title="360 (rapper)">360</a> accompanied rapper <a href="/wiki/Eminem" title="Eminem">Eminem</a>, on a brief tour of Australia, South Africa and New Zealand.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> On May 6, 2014, Action Bronson debuted a food-oriented web series, titled <i>Fuck, That's Delicious</i>. The show is a <a href="/wiki/Vice_Media" title="Vice Media">Vice Records</a>-sponsored monthly web series that chronicles the food-obsessed rapper's exploration of all things culinary.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p><p>On August 5, 2014, Bronson released the song "Easy Rider" as the first single from his debut album <a href="/wiki/Mr._Wonderful_(Action_Bronson_album)" title="Mr. Wonderful (Action Bronson album)"><i>Mr. Wonderful</i></a>. The song was produced by Bronson's longtime producer <a href="/wiki/Party_Supplies" title="Party Supplies">Party Supplies</a>. On August 20, 2014, the music video for "Easy Rider", was released. The video for "Easy Rider", which was directed by Tom Gould, pays homage to the <a href="/wiki/Easy_Rider" title="Easy Rider">1969 Peter Fonda and Dennis Hopper film of the same name</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> Bronson officially released "Actin Crazy", via digital distribution on January 20. He released the full album on March 23, 2015.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p><p>In October 2015, Bronson was hospitalized in <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage, Alaska</a>, for emergency surgery after a concert on October 23. He remained in the hospital for several days.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p><p>On Monday May 16, 2016, he presented at the <a href="/wiki/Webby_Awards" title="Webby Awards">Webby Awards</a>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</p><p>On August 25, 2017, he released his third studio album, <i><a href="/wiki/Blue_Chips_7000" title="Blue Chips 7000">Blue Chips 7000</a></i>, which serves as a sequel to his 2013 <i>Blue Chips 2</i> mixtape.
+</p><p>On October 31, 2018, Bronson announced that he was parting ways with Vice, the media company that served as his record label and television network.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p><p>In November 2018, Bronson announced a tour in support of his latest album, <i><a href="/wiki/White_Bronco_(album)" title="White Bronco (album)">White Bronco</a></i>. The tour ran from February 2019 to March 2019. <a href="/wiki/Meyhem_Lauren" title="Meyhem Lauren">Meyhem Lauren</a> and <a href="/wiki/Roc_Marciano" title="Roc Marciano">Roc Marciano</a> will be supporting.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</p><p>On August 9, 2020, Bronson revealed the title of his new album, <i><a href="/wiki/Only_for_Dolphins" title="Only for Dolphins">Only for Dolphins</a></i>, released on September 25, 2020. The cover art was painted by Bronson himself. Bronson described the album as "ANOTHER BRIGHT THREAD WOVEN INTO THE TEXTURE OF THE COSMOS".<sup id="cite_ref-Dolphins_36-0" class="reference"><a href="#cite_note-Dolphins-36">&#91;36&#93;</a></sup>
+</p><p>Bronson released his sixth solo studio album, <i>Cocodrillo Turbo</i>, on April 29, 2022.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Television_and_film">Television and film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=6" title="Edit section: Television and film">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Action Bronson starred in two television shows which aired on the <a href="/wiki/Viceland" title="Viceland">Viceland</a> channel: the food travel show <i><a href="/wiki/Fuck,_That%27s_Delicious" title="Fuck, That&#39;s Delicious">Fuck, That's Delicious</a></i>, and a nightly food talk show, <i><a href="/wiki/The_Untitled_Action_Bronson_Show" title="The Untitled Action Bronson Show">The Untitled Action Bronson Show</a></i>. He also starred in the now-canceled comedy documentary series <i><a href="/wiki/Traveling_the_Stars:_Action_Bronson_and_Friends_Watch_%27Ancient_Aliens%27" class="mw-redirect" title="Traveling the Stars: Action Bronson and Friends Watch &#39;Ancient Aliens&#39;">Traveling the Stars: Action Bronson and Friends Watch 'Ancient Aliens'</a></i>.
+</p><p>He has had cameo roles in the films <i><a href="/wiki/The_Irishman" title="The Irishman">The Irishman</a></i> (2019), playing a coffin salesman,<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> and <i><a href="/wiki/The_King_of_Staten_Island" title="The King of Staten Island">The King of Staten Island</a></i> (2020).<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> Bronson also made an appearance for <a href="/wiki/All_Out_(2022)" title="All Out (2022)">AEW's All Out</a> on September 4, 2022, and wrestled his first professional wrestling match at <a href="/wiki/AEW_Grand_Slam_(2022)" title="AEW Grand Slam (2022)">Grand Slam</a>, teaming with <a href="/wiki/Hook_(wrestler)" title="Hook (wrestler)">Hook</a> to defeat <a href="/wiki/Matt_Menard" class="mw-redirect" title="Matt Menard">Matt Menard</a> and <a href="/wiki/Angelo_Parker" class="mw-redirect" title="Angelo Parker">Angelo Parker</a> which aired on September 23, 2022.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Controversy">Controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=7" title="Edit section: Controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In March 2016, the Program Board of the <a href="/wiki/George_Washington_University" title="George Washington University">George Washington University</a> announced that Bronson would be the headlining performer for the university's yearly spring concert, "Spring Fling". Controversy soon erupted as Bronson's song "Consensual Rape" came to light, as well as statements Bronson made that were considered <a href="/wiki/Homophobic" class="mw-redirect" title="Homophobic">homophobic</a>, <a href="/wiki/Transphobic" class="mw-redirect" title="Transphobic">transphobic</a>, and <a href="/wiki/Misogynistic" class="mw-redirect" title="Misogynistic">misogynistic</a>.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup> Student activist groups successfully pushed for the university to cancel the performance.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> In April 2016, Bronson was similarly disinvited from the <a href="/wiki/Trinity_College_(Connecticut)" title="Trinity College (Connecticut)">Trinity College</a> Spring Weekend concert.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>
+</p><p>Bronson responded in an open letter, claiming that his songs "depict a story" and "aren't meant to be anything but an artistic expression," condemned all forms of sexual violence, and offered an apology.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Musical_style">Musical style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=8" title="Edit section: Musical style">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Influences">Influences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=9" title="Edit section: Influences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Action Bronson cites fellow American rappers <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>, <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a>, <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a>, <a href="/wiki/UGK" title="UGK">UGK</a> and the <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a>, as major influences.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup> Other artists include <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a>, <a href="/wiki/Carlos_Santana" title="Carlos Santana">Carlos Santana</a>, <a href="/wiki/Queen_(band)" title="Queen (band)">Queen</a> as well as Albanian wedding singers.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Rapping_style">Rapping style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=10" title="Edit section: Rapping style">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bronson frequently raps about food in his songs.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup> He is also well known for his frequent, and often obscure, <a href="/wiki/Allusion" title="Allusion">allusions</a> to athletes and sports teams. Bronson's lyrics often make reference to <a href="/wiki/Sports_in_New_York_City" class="mw-redirect" title="Sports in New York City">sports in New York City</a> but also touch on more obscure subjects such as professional wrestlers,<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup> <a href="/wiki/Bodybuilding" title="Bodybuilding">bodybuilders</a>, <a href="/wiki/Figure_skating" title="Figure skating">figure skating</a> and <a href="/wiki/Sports_betting" title="Sports betting">sports betting</a>.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;53&#93;</a></sup><sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup>
+</p><p>Early in his career, Bronson gained recognition for lyrically and stylistically resembling fellow New York rapper <a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a> of Wu-Tang Clan (with whom he collaborated, along with friend and fellow rapper <a href="/wiki/Termanology" title="Termanology">Termanology</a>, on a song called "Meteor Hammer", from the 2011 compilation album <i><a href="/wiki/Legendary_Weapons" title="Legendary Weapons">Legendary Weapons</a></i>). Ghostface Killah himself has admitted to confusing Bronson's rapping for his own.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup> In a 2011 interview with <a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a>, Bronson was asked about how it was to be compared to the Wu-Tang rapper, and he responded with,
+</p>
+<style data-mw-deduplicate="TemplateStyles:r996844942">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>Yeah, I mean at the end of the day, it's all good because Ghostface Killah is one of the best rappers alive, so if I sound similar to the best rapper alive then that is fine. To me there is no comparison; he is a legend and I am a newcomer. If I would try and emulate with anyone it would be <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>, he is the person I look up to the most. I am not upset but at the end of the day I am my own person and no one can take that away from me.<sup id="cite_ref-dxnextaction_56-0" class="reference"><a href="#cite_note-dxnextaction-56">&#91;56&#93;</a></sup></p></blockquote>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=11" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bronson has two children with a former girlfriend.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;57&#93;</a></sup> Bronson's current girlfriend gave birth to a son in November 2019.<sup id="cite_ref-Men&#39;s_Health_58-0" class="reference"><a href="#cite_note-Men&#39;s_Health-58">&#91;58&#93;</a></sup><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">&#91;59&#93;</a></sup>
+</p><p>In mid-2020, prompted by having reached a body weight of 400 pounds (180&#160;kg), and having a myriad of associated health problems, as well as by the birth of his son, Bronson began a regimen of healthier eating as well as <a href="/wiki/Boxing" title="Boxing">boxing</a> and <a href="/wiki/High-intensity_interval_training" title="High-intensity interval training">high-intensity interval training</a>. As of December 2020 he had lost 127 pounds (58&#160;kg).<sup id="cite_ref-Men&#39;s_Health_58-1" class="reference"><a href="#cite_note-Men&#39;s_Health-58">&#91;58&#93;</a></sup> He took up <a href="/wiki/Brazilian_jiu-jitsu" title="Brazilian jiu-jitsu">Brazilian jiu-jitsu</a> in 2021,<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">&#91;60&#93;</a></sup> training under Ryron Gracie.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">&#91;61&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=12" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Action_Bronson_discography" title="Action Bronson discography">Action Bronson discography</a></div>
+<ul><li><i><a href="/wiki/Dr._Lecter" class="mw-redirect" title="Dr. Lecter">Dr. Lecter</a></i> (2011)</li>
+<li><i><a href="/wiki/Well-Done_(album)" title="Well-Done (album)">Well-Done</a></i> (2011) <small>(with <a href="/wiki/Statik_Selektah" title="Statik Selektah">Statik Selektah</a>)</small></li>
+<li><i><a href="/wiki/Mr._Wonderful_(Action_Bronson_album)" title="Mr. Wonderful (Action Bronson album)">Mr. Wonderful</a></i> (2015)</li>
+<li><i><a href="/wiki/Blue_Chips_7000" title="Blue Chips 7000">Blue Chips 7000</a></i> (2017)</li>
+<li><i><a href="/wiki/White_Bronco_(album)" title="White Bronco (album)">White Bronco</a></i> (2018)</li>
+<li><i><a href="/wiki/Only_for_Dolphins" title="Only for Dolphins">Only for Dolphins</a></i><sup id="cite_ref-Dolphins_36-1" class="reference"><a href="#cite_note-Dolphins-36">&#91;36&#93;</a></sup> (2020)</li>
+<li><i>Cocodrillo Turbo</i> (2022)</li></ul>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=13" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="BET_Hip_Hop_Awards">BET Hip Hop Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=14" title="Edit section: BET Hip Hop Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/BET_Hip_Hop_Awards" title="BET Hip Hop Awards">BET Hip Hop Awards</a> was established in 2006 by the network to celebrate <a href="/wiki/Hip_hop_music" title="Hip hop music">hip-hop</a> performers, producers and <a href="/wiki/Music_video" title="Music video">music video</a> directors.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Nominated work
+</th>
+<th>Award
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td>2013
+</td>
+<td>Action Bronson
+</td>
+<td>Rookie of the Year<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">&#91;62&#93;</a></sup>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td><i><a href="/wiki/Blue_Chips_2" title="Blue Chips 2">Blue Chips 2</a></i>
+</td>
+<td>Best Mixtape
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1132942124">.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:solid #aaa 1px;padding:0.1em;background:#f9f9f9}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{clear:left;float:left;margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}</style><ul role="navigation" aria-label="Portals" class="noprint portalbox portalborder portalright">
+<li class="portalbox-entry"><span class="portalbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png" decoding="async" width="28" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/41px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/55px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></span></span></span><span class="portalbox-link"><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography portal</a></span></li><li class="portalbox-entry"><span class="portalbox-image"><span class="mw-image-border noviewer" typeof="mw:File"><span><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_New_York_City.svg/32px-Flag_of_New_York_City.svg.png" decoding="async" width="32" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_New_York_City.svg/48px-Flag_of_New_York_City.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_New_York_City.svg/64px-Flag_of_New_York_City.svg.png 2x" data-file-width="500" data-file-height="300" /></span></span></span><span class="portalbox-link"><a href="/wiki/Portal:New_York_City" title="Portal:New York City">New York City portal</a></span></li></ul>
+<ul><li><a href="/wiki/List_of_hip_hop_musicians" title="List of hip hop musicians">List of hip-hop musicians</a></li>
+<li><a href="/wiki/List_of_people_from_Queens" title="List of people from Queens">List of people from Queens</a></li>
+<li><a href="/wiki/Music_of_New_York_City" title="Music of New York City">Music of New York City</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFIsenberg2016" class="citation web cs1">Isenberg, Daniel (March 25, 2016). <a rel="nofollow" class="external text" href="http://uk.complex.com/music/best-action-bronson-songs/">"The Best Action Bronson Songs"</a>. <i><a href="/wiki/Complex_(magazine)" class="mw-redirect" title="Complex (magazine)">Complex</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 3,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=The+Best+Action+Bronson+Songs&amp;rft.date=2016-03-25&amp;rft.aulast=Isenberg&amp;rft.aufirst=Daniel&amp;rft_id=http%3A%2F%2Fuk.complex.com%2Fmusic%2Fbest-action-bronson-songs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIvey2017" class="citation web cs1">Ivey, Justin (March 31, 2017). <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2017/03/action-bronson-finishing-touches-new-project/">"Action Bronson Is Putting the Finishing Touches on New Project"</a>. <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 3,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=Action+Bronson+Is+Putting+the+Finishing+Touches+on+New+Project&amp;rft.date=2017-03-31&amp;rft.aulast=Ivey&amp;rft.aufirst=Justin&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2017%2F03%2Faction-bronson-finishing-touches-new-project%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://munchies.vice.com/en_uk/article/fuck-thats-delicious-presents-cooking-with-mr-wonderful-featuring-michael-voltaggio">"<span class="cs1-kern-left"></span>'Fuck, That's Delicious' Presents: Cooking With Mr. Wonderful Featuring Michael Voltaggio"</a>. <i><a href="/wiki/Vice_(magazine)" title="Vice (magazine)">Vice</a></i>. April 11, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">May 3,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vice&amp;rft.atitle=%27Fuck%2C+That%27s+Delicious%27+Presents%3A+Cooking+With+Mr.+Wonderful+Featuring+Michael+Voltaggio&amp;rft.date=2015-04-11&amp;rft_id=https%3A%2F%2Fmunchies.vice.com%2Fen_uk%2Farticle%2Ffuck-thats-delicious-presents-cooking-with-mr-wonderful-featuring-michael-voltaggio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDeJohn,_Irving2013" class="citation web cs1">DeJohn, Irving (June 26, 2013). <a rel="nofollow" class="external text" href="http://www.nydailynews.com/new-york/queens/chef-rap-celebrity-meet-queens-newest-hip-hop-star-article-1.1383382">"Queens rapper Action Bronson talks food, music and Flushing characters"</a>. <i><a href="/wiki/Daily_News_(New_York)" class="mw-redirect" title="Daily News (New York)">Daily News</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Daily+News&amp;rft.atitle=Queens+rapper+Action+Bronson+talks+food%2C+music+and+Flushing+characters&amp;rft.date=2013-06-26&amp;rft.au=DeJohn%2C+Irving&amp;rft_id=http%3A%2F%2Fwww.nydailynews.com%2Fnew-york%2Fqueens%2Fchef-rap-celebrity-meet-queens-newest-hip-hop-star-article-1.1383382&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://twitter.com/actionbronson/status/349523975329677313?lang=en">"Twitter / ActionBronson: My name is ARIYAN ARSLANI"</a>. Twitter.com<span class="reference-accessdate">. Retrieved <span class="nowrap">March 1,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Twitter+%2F+ActionBronson%3A+My+name+is+ARIYAN+ARSLANI&amp;rft.pub=Twitter.com&amp;rft_id=https%3A%2F%2Ftwitter.com%2Factionbronson%2Fstatus%2F349523975329677313%3Flang%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.jta.org/2013/06/05/arts-entertainment/musical-jews-action-bronson">"Musical Jews: Action Bronson"</a>. Jewish Telegraph Agency. June 5, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">November 2,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Musical+Jews%3A+Action+Bronson&amp;rft.pub=Jewish+Telegraph+Agency&amp;rft.date=2013-06-05&amp;rft_id=http%3A%2F%2Fwww.jta.org%2F2013%2F06%2F05%2Farts-entertainment%2Fmusical-jews-action-bronson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://twitter.com/ActionBronson/status/275105331678412800">"Twitter / ActionBronson: I am now 29 years old"</a>. Twitter.com<span class="reference-accessdate">. Retrieved <span class="nowrap">January 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Twitter+%2F+ActionBronson%3A+I+am+now+29+years+old&amp;rft.pub=Twitter.com&amp;rft_id=https%3A%2F%2Ftwitter.com%2FActionBronson%2Fstatus%2F275105331678412800&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-heritage-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-heritage_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChandler2016" class="citation web cs1">Chandler, Adam (March 10, 2016). <a rel="nofollow" class="external text" href="https://www.theatlantic.com/entertainment/archive/2016/03/action-bronson-vice/472995/">"Where James Beard Meets Rap"</a>. <i>The Atlantic</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 15,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Atlantic&amp;rft.atitle=Where+James+Beard+Meets+Rap&amp;rft.date=2016-03-10&amp;rft.aulast=Chandler&amp;rft.aufirst=Adam&amp;rft_id=https%3A%2F%2Fwww.theatlantic.com%2Fentertainment%2Farchive%2F2016%2F03%2Faction-bronson-vice%2F472995%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-upbringing-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-upbringing_9-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTardio" class="citation web cs1">Tardio, Andres. <a rel="nofollow" class="external text" href="https://archive.today/20150916085044/http://hiphopdx.com/index/news/id.24359/title.action-bronson-explains-avoiding-n-word-describes-muslim-upbringing">"Action Bronson"</a>. <i>HipHop DX</i>. Archived from <a rel="nofollow" class="external text" href="http://hiphopdx.com/index/news/id.24359/title.action-bronson-explains-avoiding-n-word-describes-muslim-upbringing">the original</a> on September 16, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">May 23,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHop+DX&amp;rft.atitle=Action+Bronson&amp;rft.aulast=Tardio&amp;rft.aufirst=Andres&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Findex%2Fnews%2Fid.24359%2Ftitle.action-bronson-explains-avoiding-n-word-describes-muslim-upbringing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBronson" class="citation web cs1">Bronson, Action. <a rel="nofollow" class="external text" href="http://www.xxlmag.com/2013-freshmen/action-bronson/">"My Story by Action Bronson"</a>. <i>XXL Magazine</i>. XXL Magazine<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Magazine&amp;rft.atitle=My+Story+by+Action+Bronson&amp;rft.aulast=Bronson&amp;rft.aufirst=Action&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2F2013-freshmen%2Faction-bronson%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=n8APYF0kkas#t=0m48s">"Action Bronson &amp; Statik Selektah - 'Not Enough Words'<span class="cs1-kern-right"></span>"</a>. YouTube. November 20, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">January 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Action+Bronson+%26+Statik+Selektah+-+%27Not+Enough+Words%27&amp;rft.pub=YouTube&amp;rft.date=2011-11-20&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dn8APYF0kkas%23t%3D0m48s&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/16425-action-bronson-blue-chips/">"Action Bronson/Party Supplies-Blue Chips"</a>. <i>Pitchfork Media</i>. March 23, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">September 21,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork+Media&amp;rft.atitle=Action+Bronson%2FParty+Supplies-Blue+Chips&amp;rft.date=2012-03-23&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2F16425-action-bronson-blue-chips%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2012/08/action-bronson-signs-deal-with-vicewarner-bros-records/">"Action Bronson Signs Deal With VICE/Atlantic Records &#124; XXL"</a>. Xxlmag.com. August 13, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">January 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Action+Bronson+Signs+Deal+With+VICE%2FAtlantic+Records+%26%23124%3B+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2012-08-13&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2012%2F08%2Faction-bronson-signs-deal-with-vicewarner-bros-records%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHampp2012" class="citation magazine cs1">Hampp, Andrew (August 7, 2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121017065613/http://www.billboard.biz/bbbiz/backbeat/backbeat-of-monsters-and-men-jezabels-play-1007769552.story">"Backbeat: Of Monsters and Men, Jezabels Play Billboard's Packed Post Party At Chicago's Double Door"</a>. <i>Billboard</i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.biz/bbbiz/backbeat/backbeat-of-monsters-and-men-jezabels-play-1007769552.story">the original</a> on October 17, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">January 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Backbeat%3A+Of+Monsters+and+Men%2C+Jezabels+Play+Billboard%27s+Packed+Post+Party+At+Chicago%27s+Double+Door&amp;rft.date=2012-08-07&amp;rft.aulast=Hampp&amp;rft.aufirst=Andrew&amp;rft_id=http%3A%2F%2Fwww.billboard.biz%2Fbbbiz%2Fbackbeat%2Fbackbeat-of-monsters-and-men-jezabels-play-1007769552.story&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/01/check-out-the-2013-coachella-lineup">"Check Out the 2013 Coachella Lineup"</a>. Complex. January 25, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Check+Out+the+2013+Coachella+Lineup&amp;rft.pub=Complex&amp;rft.date=2013-01-25&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F01%2Fcheck-out-the-2013-coachella-lineup&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2013/03/xxl-freshman-class-2013-cover-revealed/2/">"XXL Freshman Class 2013 Cover Revealed - Page 2 of 2"</a>. <i>XXL</i>. March 27, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=XXL+Freshman+Class+2013+Cover+Revealed+-+Page+2+of+2&amp;rft.date=2013-03-27&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2013%2F03%2Fxxl-freshman-class-2013-cover-revealed%2F2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130606235004/http://www.xclusiveszone.net/2013/05/audio-action-bronson-the-alchemist-dj-whoo-kid-interview/">"Audio: Action Bronson &amp; The Alchemist – DJ Whoo Kid Interview"</a>. Xclusives Zone. May 10, 2013. Archived from <a rel="nofollow" class="external text" href="http://www.xclusiveszone.net/2013/05/audio-action-bronson-the-alchemist-dj-whoo-kid-interview/">the original</a> on June 6, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Audio%3A+Action+Bronson+%26+The+Alchemist+%E2%80%93+DJ+Whoo+Kid+Interview&amp;rft.pub=Xclusives+Zone&amp;rft.date=2013-05-10&amp;rft_id=http%3A%2F%2Fwww.xclusiveszone.net%2F2013%2F05%2Faudio-action-bronson-the-alchemist-dj-whoo-kid-interview%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRyon2013" class="citation web cs1">Ryon, Sean (June 11, 2013). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.19441/title.action-bronson-harry-fraud-saaab-stories-tracklist-cover-art-release-date/">"Action Bronson &amp; Harry Fraud "Saab Stories" Cover Art, Tracklist &amp; Spotify Stream"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">September 13,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Action+Bronson+%26+Harry+Fraud+%22Saab+Stories%22+Cover+Art%2C+Tracklist+%26+Spotify+Stream&amp;rft.pub=HipHop+DX&amp;rft.date=2013-06-11&amp;rft.aulast=Ryon&amp;rft.aufirst=Sean&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.19441%2Ftitle.action-bronson-harry-fraud-saaab-stories-tracklist-cover-art-release-date%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/strictly-4-my-jeeps-single/id644886540">"Music - Strictly 4 My Jeeps - Single by Action Bronson"</a>. iTunes Store. May 14, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Music+-+Strictly+4+My+Jeeps+-+Single+by+Action+Bronson&amp;rft.pub=iTunes+Store&amp;rft.date=2013-05-14&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fstrictly-4-my-jeeps-single%2Fid644886540&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPaine2013" class="citation web cs1">Paine, Jake (July 9, 2013). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130820090313/http://www.hiphopdx.com/index/news/id.24613/title.action-bronson-hints-at-cooking-show-wants-to-reunite-nas-kool-g-rap">"Action Bronson Hints At Cooking Show, Wants To Reunite Nas &amp; Kool G Rap"</a>. HipHop DX. Archived from <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.24613/title.action-bronson-hints-at-cooking-show-wants-to-reunite-nas-kool-g-rap">the original</a> on August 20, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">September 13,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Action+Bronson+Hints+At+Cooking+Show%2C+Wants+To+Reunite+Nas+%26+Kool+G+Rap&amp;rft.pub=HipHop+DX&amp;rft.date=2013-07-09&amp;rft.aulast=Paine&amp;rft.aufirst=Jake&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.24613%2Ftitle.action-bronson-hints-at-cooking-show-wants-to-reunite-nas-kool-g-rap&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPaine2013" class="citation web cs1">Paine, Jake (July 27, 2013). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130827232703/http://www.hiphopdx.com/index/news/id.24819/title.action-bronson-confirms-blue-chips-2-another-project-with-alchemist">"Action Bronson Confirms "Blue Chips 2," Another Project With Alchemist"</a>. HipHop DX. Archived from <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.24819/title.action-bronson-confirms-blue-chips-2-another-project-with-alchemist">the original</a> on August 27, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">September 13,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Action+Bronson+Confirms+%22Blue+Chips+2%2C%22+Another+Project+With+Alchemist&amp;rft.pub=HipHop+DX&amp;rft.date=2013-07-27&amp;rft.aulast=Paine&amp;rft.aufirst=Jake&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.24819%2Ftitle.action-bronson-confirms-blue-chips-2-another-project-with-alchemist&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-complex.com-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-complex.com_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-complex.com_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDharmic_X" class="citation web cs1">Dharmic X. <a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/10/action-bronson-practice-prod-party-supplies">"Listen: Action Bronson "Practice" (Prod. Party Supplies)"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Listen%3A+Action+Bronson+%22Practice%22+%28Prod.+Party+Supplies%29&amp;rft.au=Dharmic+X&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F10%2Faction-bronson-practice-prod-party-supplies&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/18727-action-bronson-blue-chips-2/">"Action Bronson/Party Supplies-Blue Chips 2 Review"</a>. <i>Pitchfork Media</i>. March 23, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">September 21,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork+Media&amp;rft.atitle=Action+Bronson%2FParty+Supplies-Blue+Chips+2+Review&amp;rft.date=2012-03-23&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2F18727-action-bronson-blue-chips-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBreihan,_Tom2013" class="citation web cs1">Breihan, Tom (November 6, 2013). <a rel="nofollow" class="external text" href="http://www.stereogum.com/1554532/mixtape-of-the-week-action-bronson-party-supplies-blue-chips-2/news/">"Mixtape Of The Week: Action Bronson &amp; Party Supplies Blue Chips 2"</a>. <a href="/wiki/Stereogum" title="Stereogum">Stereogum</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 7,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mixtape+Of+The+Week%3A+Action+Bronson+%26+Party+Supplies+Blue+Chips+2&amp;rft.pub=Stereogum&amp;rft.date=2013-11-06&amp;rft.au=Breihan%2C+Tom&amp;rft_id=http%3A%2F%2Fwww.stereogum.com%2F1554532%2Fmixtape-of-the-week-action-bronson-party-supplies-blue-chips-2%2Fnews%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAlexis,_Nadeska2013" class="citation web cs1">Alexis, Nadeska (November 1, 2013). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131110020515/http://rapfix.mtv.com/2013/11/01/download-action-bronson-x-party-supplies-blue-chips-2-mixtape/">"Download: Action Bronson X Party Supplies Blue Chips 2 Mixtape"</a>. MTV. Archived from <a rel="nofollow" class="external text" href="http://rapfix.mtv.com/2013/11/01/download-action-bronson-x-party-supplies-blue-chips-2-mixtape/">the original</a> on November 10, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">November 7,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Download%3A+Action+Bronson+X+Party+Supplies+Blue+Chips+2+Mixtape&amp;rft.pub=MTV&amp;rft.date=2013-11-01&amp;rft.au=Alexis%2C+Nadeska&amp;rft_id=http%3A%2F%2Frapfix.mtv.com%2F2013%2F11%2F01%2Fdownload-action-bronson-x-party-supplies-blue-chips-2-mixtape%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/action-bronson-on-blue-chips-2-smoking-wax-and-his-perfect-woman-20131101">"Action Bronson on 'Blue Chips 2,' Drugs and Women"</a>. <i>Rolling Stone</i>. November 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Action+Bronson+on+%27Blue+Chips+2%2C%27+Drugs+and+Women&amp;rft.date=2013-11&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Faction-bronson-on-blue-chips-2-smoking-wax-and-his-perfect-woman-20131101&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFC.M.,_Emmanuel2014" class="citation web cs1">C.M., Emmanuel (January 14, 2014). <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2014/01/action-bronson-adds-shows-will-tour-with-eminem/">"Action Bronson Adds Shows, Will Tour With Eminem"</a>. <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=Action+Bronson+Adds+Shows%2C+Will+Tour+With+Eminem&amp;rft.date=2014-01-14&amp;rft.au=C.M.%2C+Emmanuel&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2014%2F01%2Faction-bronson-adds-shows-will-tour-with-eminem%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://pitchfork.com/news/55001-action-bronson-announces-fuck-thats-delicious-food-oriented-web-series/">"Action Bronson"</a>. <i>Pitchfork Media</i>. April 30, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork+Media&amp;rft.atitle=Action+Bronson&amp;rft.date=2014-04-30&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Fnews%2F55001-action-bronson-announces-fuck-thats-delicious-food-oriented-web-series%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://pitchfork.com/news/55081-action-bronson-shares-first-episode-of-food-focused-web-series-fuck-thats-delicious/">"Action Bronson"</a>. <i>Pitchfork Media</i>. May 6, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork+Media&amp;rft.atitle=Action+Bronson&amp;rft.date=2014-05-06&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Fnews%2F55081-action-bronson-shares-first-episode-of-food-focused-web-series-fuck-thats-delicious%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://pitchfork.com/news/56358-action-bronson-pays-homage-to-the-film-easy-rider-in-the-easy-rider-video/">"Action Bronson"</a>. <i>Pitchfork Media</i>. August 20, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork+Media&amp;rft.atitle=Action+Bronson&amp;rft.date=2014-08-20&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Fnews%2F56358-action-bronson-pays-homage-to-the-film-easy-rider-in-the-easy-rider-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150403223808/http://www.hiphopdx.com/index/news/id.32530/title.action-brosnon-mr-wonderful-release-date-cover-art-tracklist">"Action Bronson "Mr. Wonderful" Release Date, Cover Art, Tracklist &amp; Album Stream"</a>. <i>HipHopDX</i>. March 23, 2015. Archived from <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.32530/title.action-brosnon-mr-wonderful-release-date-cover-art-tracklist">the original</a> on April 3, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Action+Bronson+%22Mr.+Wonderful%22+Release+Date%2C+Cover+Art%2C+Tracklist+%26+Album+Stream&amp;rft.date=2015-03-23&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.32530%2Ftitle.action-brosnon-mr-wonderful-release-date-cover-art-tracklist&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20151029160028/http://www.ktuu.com/news/news/rapper-action-bronson-hospitalized-for-emergency-surgery-in-anchorage/36099902">"Rapper Action Bronson hospitalized for emergency surgery in Anchorage"</a>. <a href="/wiki/KTUU-TV" title="KTUU-TV">KTUU-TV</a>. October 28, 2015. Archived from <a rel="nofollow" class="external text" href="http://www.ktuu.com/news/news/rapper-action-bronson-hospitalized-for-emergency-surgery-in-anchorage/36099902">the original</a> on October 29, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">October 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rapper+Action+Bronson+hospitalized+for+emergency+surgery+in+Anchorage&amp;rft.pub=KTUU-TV&amp;rft.date=2015-10-28&amp;rft_id=http%3A%2F%2Fwww.ktuu.com%2Fnews%2Fnews%2Frapper-action-bronson-hospitalized-for-emergency-surgery-in-anchorage%2F36099902&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://rapradar.com/2016/05/17/action-bronson-presents-at-webby-awards/">"Action Bronson presents at Webby Awards"</a>. <i>RapRadar</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=RapRadar&amp;rft.atitle=Action+Bronson+presents+at+Webby+Awards&amp;rft_id=http%3A%2F%2Frapradar.com%2F2016%2F05%2F17%2Faction-bronson-presents-at-webby-awards%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://pitchfork.com/news/action-bronson-says-hes-parting-ways-with-vice/">"Action Bronson Says He's Parting Ways With Vice"</a>. <i>Pitchfork Media</i>. October 31, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">October 31,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork+Media&amp;rft.atitle=Action+Bronson+Says+He%27s+Parting+Ways+With+Vice&amp;rft.date=2018-10-31&amp;rft_id=https%3A%2F%2Fpitchfork.com%2Fnews%2Faction-bronson-says-hes-parting-ways-with-vice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.brooklynvegan.com/action-bronson-announces-tour-with-meyhem-lauren-and-roc-marciano/">"Action Bronson announces tour with Meyhem Lauren and Roc Marciano"</a>. <i>BrooklynVegan</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 8,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BrooklynVegan&amp;rft.atitle=Action+Bronson+announces+tour+with+Meyhem+Lauren+and+Roc+Marciano&amp;rft_id=http%3A%2F%2Fwww.brooklynvegan.com%2Faction-bronson-announces-tour-with-meyhem-lauren-and-roc-marciano%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Dolphins-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dolphins_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dolphins_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFindlay2020" class="citation web cs1">Findlay, Mitch (September 9, 2020). <a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/action-bronson-shares-only-for-dolphins-release-date-and-tracklist-news.117498.html">"Action Bronson Shares "Only For Dolphins" Release Date &amp; Tracklist"</a>. <i>HotNewHipHop</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Action+Bronson+Shares+%22Only+For+Dolphins%22+Release+Date+%26+Tracklist&amp;rft.date=2020-09-09&amp;rft.aulast=Findlay&amp;rft.aufirst=Mitch&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Faction-bronson-shares-only-for-dolphins-release-date-and-tracklist-news.117498.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://genius.com/amp/albums/Action-bronson/Cocodrillo-turbo">"Cocodrillo Turbo"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 4,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cocodrillo+Turbo&amp;rft_id=https%3A%2F%2Fgenius.com%2Famp%2Falbums%2FAction-bronson%2FCocodrillo-turbo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRaine2019" class="citation web cs1">Raine, Phoebe (November 6, 2019). <a rel="nofollow" class="external text" href="https://impactnottingham.com/2019/11/film-review-the-irishman/">"Film Review: The Irishman - Impact Magazine"</a>. <i>Impactnottingham.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Impactnottingham.com&amp;rft.atitle=Film+Review%3A+The+Irishman+-+Impact+Magazine&amp;rft.date=2019-11-06&amp;rft.aulast=Raine&amp;rft.aufirst=Phoebe&amp;rft_id=https%3A%2F%2Fimpactnottingham.com%2F2019%2F11%2Ffilm-review-the-irishman%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFEisenberg2020" class="citation web cs1">Eisenberg, Eric (July 6, 2020). <a rel="nofollow" class="external text" href="https://www.cinemablend.com/news/2549605/judd-apatow-talks-having-rapper-cameos-in-most-of-his-films">"Judd Apatow Talks Having Rapper Cameos In Most Of His Films"</a>. <i>cinemablend.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 29,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cinemablend.com&amp;rft.atitle=Judd+Apatow+Talks+Having+Rapper+Cameos+In+Most+Of+His+Films&amp;rft.date=2020-07-06&amp;rft.aulast=Eisenberg&amp;rft.aufirst=Eric&amp;rft_id=https%3A%2F%2Fwww.cinemablend.com%2Fnews%2F2549605%2Fjudd-apatow-talks-having-rapper-cameos-in-most-of-his-films&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.fightful.com/wrestling/action-bronson-and-hook-team-923-aew-rampage-grand-slam">"Action Bronson And HOOK To Team At 9/23 AEW Rampage Grand Slam | Fightful News"</a>. <i>www.fightful.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 26,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.fightful.com&amp;rft.atitle=Action+Bronson+And+HOOK+To+Team+At+9%2F23+AEW+Rampage+Grand+Slam+%7C+Fightful+News&amp;rft_id=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Faction-bronson-and-hook-team-923-aew-rampage-grand-slam&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKuruzius2016" class="citation news cs1">Kuruzius, Rachel (March 30, 2016). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160402053359/http://dcist.com/2016/03/some_gw_students_dont_want_blatant.php">"GW Students Don't Want 'Blatant Misogynist' Action Bronson Headlining Spring Fling"</a>. The DCist. Archived from <a rel="nofollow" class="external text" href="http://dcist.com/2016/03/some_gw_students_dont_want_blatant.php">the original</a> on April 2, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=GW+Students+Don%27t+Want+%27Blatant+Misogynist%27+Action+Bronson+Headlining+Spring+Fling&amp;rft.date=2016-03-30&amp;rft.aulast=Kuruzius&amp;rft.aufirst=Rachel&amp;rft_id=http%3A%2F%2Fdcist.com%2F2016%2F03%2Fsome_gw_students_dont_want_blatant.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlugis2016" class="citation news cs1">Blugis, Sarah (March 29, 2016). <a rel="nofollow" class="external text" href="http://blogs.gwhatchet.com/theforum/2016/03/29/student-leaders-should-not-stay-quiet-about-the-spring-fling-headliner/">"Student leaders should not stay quiet about the Spring Fling headliner"</a>. The GW Hatchet<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Student+leaders+should+not+stay+quiet+about+the+Spring+Fling+headliner&amp;rft.date=2016-03-29&amp;rft.aulast=Blugis&amp;rft.aufirst=Sarah&amp;rft_id=http%3A%2F%2Fblogs.gwhatchet.com%2Ftheforum%2F2016%2F03%2F29%2Fstudent-leaders-should-not-stay-quiet-about-the-spring-fling-headliner%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMegan2016" class="citation news cs1">Megan, Kathleen (April 22, 2016). <a rel="nofollow" class="external text" href="http://www.courant.com/education/hc-trinity-disinvites-rapper-0422-20160421-story.html">"Trinity Students Disinvite Controversial Rapper"</a>. Hartford Courant<span class="reference-accessdate">. Retrieved <span class="nowrap">April 22,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Trinity+Students+Disinvite+Controversial+Rapper&amp;rft.date=2016-04-22&amp;rft.aulast=Megan&amp;rft.aufirst=Kathleen&amp;rft_id=http%3A%2F%2Fwww.courant.com%2Feducation%2Fhc-trinity-disinvites-rapper-0422-20160421-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://pitchfork.com/news/64522-action-bronson-apologizes-for-behavior-seen-as-misogynist-and-transphobic-following-removal-from-college-concert/">"Action Bronson Apologizes for Behavior Seen as Misogynist and Transphobic, Following Removal from College Concert"</a>. <i>Pitchfork.com</i>. March 31, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork.com&amp;rft.atitle=Action+Bronson+Apologizes+for+Behavior+Seen+as+Misogynist+and+Transphobic%2C+Following+Removal+from+College+Concert&amp;rft.date=2016-03-31&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Fnews%2F64522-action-bronson-apologizes-for-behavior-seen-as-misogynist-and-transphobic-following-removal-from-college-concert%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.clashmusic.com/features/the-special-ingredient-action-bronson">"The Special Ingredient: Action Bronson"</a>. <i>Clash Magazine</i>. January 4, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Clash+Magazine&amp;rft.atitle=The+Special+Ingredient%3A+Action+Bronson&amp;rft.date=2013-01-04&amp;rft_id=http%3A%2F%2Fwww.clashmusic.com%2Ffeatures%2Fthe-special-ingredient-action-bronson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHipHopDX2011" class="citation web cs1">HipHopDX (October 26, 2011). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.17388/title.action-bronson-responds-to-comparisons-with-ghostface-killah-other-white-rappers">"Action Bronson Responds To Comparisons With Ghostface Killah, Other White Rappers"</a>. <i>HipHopDX</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Action+Bronson+Responds+To+Comparisons+With+Ghostface+Killah%2C+Other+White+Rappers&amp;rft.date=2011-10-26&amp;rft.au=HipHopDX&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.17388%2Ftitle.action-bronson-responds-to-comparisons-with-ghostface-killah-other-white-rappers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGQ2018" class="citation cs2">GQ (August 14, 2018), <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=NBuLDy0Rw4E&amp;index=53&amp;list=WL"><i>Action Bronson Goes Undercover on Reddit, Twitter and YouTube | GQ</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">August 18,</span> 2018</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Action+Bronson+Goes+Undercover+on+Reddit%2C+Twitter+and+YouTube+%7C+GQ&amp;rft.date=2018-08-14&amp;rft.au=GQ&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNBuLDy0Rw4E%26index%3D53%26list%3DWL&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://respect-mag.com/action-bronsons-25-most-luxurious-food-lines/">"Action Bronson's 25 Most Luxurious Food Lines"</a>. <i>RESPECT</i>. February 7, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=RESPECT.&amp;rft.atitle=Action+Bronson%27s+25+Most+Luxurious+Food+Lines&amp;rft.date=2014-02-07&amp;rft_id=http%3A%2F%2Frespect-mag.com%2Faction-bronsons-25-most-luxurious-food-lines%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bonappetit.com/entertaining-style/pop-culture/article/action-bronson-food-references">"All the Food References in Action Bronson's Mixtape, "Blue Chips 2"<span class="cs1-kern-right"></span>"</a>. <i>Bon Appétit</i>. October 30, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bon+App%C3%A9tit&amp;rft.atitle=All+the+Food+References+in+Action+Bronson%27s+Mixtape%2C+%22Blue+Chips+2%22&amp;rft.date=2013-10-30&amp;rft_id=http%3A%2F%2Fwww.bonappetit.com%2Fentertaining-style%2Fpop-culture%2Farticle%2Faction-bronson-food-references&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://firstwefeast.com/eat/action-bronson-blue-chips-2-food-references/">"Every Food Reference on Action Bronson's Blue Chips 2"</a>. <i>First We Feast</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=First+We+Feast&amp;rft.atitle=Every+Food+Reference+on+Action+Bronson%27s+Blue+Chips+2&amp;rft_id=http%3A%2F%2Ffirstwefeast.com%2Feat%2Faction-bronson-blue-chips-2-food-references%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWinistorfer2013" class="citation web cs1">Winistorfer, Andrew (June 13, 2013). <a rel="nofollow" class="external text" href="https://www.vice.com/en_us/article/rzyx96/ranking-every-wrestler-action-bronson-has-ever-mentioned-1">"Ranking Every Single Wrestler Action Bronson Has Ever Mentioned"</a>. <i>Vice</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 16,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vice&amp;rft.atitle=Ranking+Every+Single+Wrestler+Action+Bronson+Has+Ever+Mentioned&amp;rft.date=2013-06-13&amp;rft.aulast=Winistorfer&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Frzyx96%2Franking-every-wrestler-action-bronson-has-ever-mentioned-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSherman2015" class="citation web cs1">Sherman, Rodger (May 18, 2015). <a rel="nofollow" class="external text" href="https://www.sbnation.com/2015/5/18/8612889/action-bronson-lyrics-sports-randy-velarde-mary-lou-retton-gerrit-badenhorst">"The young Randy Velarde, and 289 other sports references by Action Bronson"</a>. <a href="/wiki/SBNation" class="mw-redirect" title="SBNation">SBNation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+young+Randy+Velarde%2C+and+289+other+sports+references+by+Action+Bronson&amp;rft.pub=SBNation&amp;rft.date=2015-05-18&amp;rft.aulast=Sherman&amp;rft.aufirst=Rodger&amp;rft_id=https%3A%2F%2Fwww.sbnation.com%2F2015%2F5%2F18%2F8612889%2Faction-bronson-lyrics-sports-randy-velarde-mary-lou-retton-gerrit-badenhorst&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLarew2013" class="citation news cs1">Larew, Tim (March 25, 2013). <a rel="nofollow" class="external text" href="https://www.si.com/extra-mustard/2013/03/25/action-bronson-raps-on-sports-new-york-and-embracing-the-obscure">"Action Bronson Raps On Sports, New York And Embracing The Obscure"</a>. <i>Sports Illustrated</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sports+Illustrated&amp;rft.atitle=Action+Bronson+Raps+On+Sports%2C+New+York+And+Embracing+The+Obscure&amp;rft.date=2013-03-25&amp;rft.aulast=Larew&amp;rft.aufirst=Tim&amp;rft_id=https%3A%2F%2Fwww.si.com%2Fextra-mustard%2F2013%2F03%2F25%2Faction-bronson-raps-on-sports-new-york-and-embracing-the-obscure&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRoth2015" class="citation web cs1">Roth, David (March 5, 2015). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150526234635/https://sports.vice.com/en_us/article/action-bronson-gets-extremely-sports-on-espn">"Action Bronson Gets Extremely Sports on ESPN"</a>. <i>VICE Sports</i>. <a href="/wiki/Vice_Media" title="Vice Media">Vice Media</a>. Archived from <a rel="nofollow" class="external text" href="https://sports.vice.com/en_us/article/action-bronson-gets-extremely-sports-on-espn">the original</a> on May 26, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">May 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=VICE+Sports&amp;rft.atitle=Action+Bronson+Gets+Extremely+Sports+on+ESPN&amp;rft.date=2015-03-05&amp;rft.aulast=Roth&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fsports.vice.com%2Fen_us%2Farticle%2Faction-bronson-gets-extremely-sports-on-espn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFk2015" class="citation web cs1">k, katie (May 21, 2015). <a rel="nofollow" class="external text" href="http://www.pigeonsandplanes.com/2015/05/ghostface-killah-admits-he-has-confused-action-bronsons-voice-for-his-own/">"Ghostface Killah Admits He Has Confused Action Bronson's Voice For His Own"</a>. Pigeons &amp; Planes<span class="reference-accessdate">. Retrieved <span class="nowrap">May 22,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ghostface+Killah+Admits+He+Has+Confused+Action+Bronson%27s+Voice+For+His+Own&amp;rft.pub=Pigeons+%26+Planes&amp;rft.date=2015-05-21&amp;rft.aulast=k&amp;rft.aufirst=katie&amp;rft_id=http%3A%2F%2Fwww.pigeonsandplanes.com%2F2015%2F05%2Fghostface-killah-admits-he-has-confused-action-bronsons-voice-for-his-own%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-dxnextaction-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-dxnextaction_56-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTobias2011" class="citation web cs1">Tobias, Jonathan (May 26, 2011). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/dxnext/id.204/title.dxnext-action-bronson">"DXnext: Action Bronson &#124; Check Out New Hip Hop Artists &amp; Upcoming Rappers"</a>. HipHop DX. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110723025012/http://www.hiphopdx.com/index/dxnext/id.204/title.dxnext-action-bronson">Archived</a> from the original on July 23, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">August 17,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DXnext%3A+Action+Bronson+%26%23124%3B+Check+Out+New+Hip+Hop+Artists+%26+Upcoming+Rappers&amp;rft.pub=HipHop+DX&amp;rft.date=2011-05-26&amp;rft.aulast=Tobias&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fdxnext%2Fid.204%2Ftitle.dxnext-action-bronson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/action-bronson-announces-girlfriends-pregnancy-with-beautiful-photo-news.94349.html">"Action Bronson Announces Girlfriend's Pregnancy With Beautiful Photo"</a>. <i>HotNewHipHop</i>. October 28, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Action+Bronson+Announces+Girlfriend%27s+Pregnancy+With+Beautiful+Photo&amp;rft.date=2019-10-28&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Faction-bronson-announces-girlfriends-pregnancy-with-beautiful-photo-news.94349.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Men&#39;s_Health-58"><span class="mw-cite-backlink">^ <a href="#cite_ref-Men&#39;s_Health_58-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Men&#39;s_Health_58-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDukoff2020" class="citation web cs1">Dukoff, Spencer (December 8, 2020). <a rel="nofollow" class="external text" href="https://www.menshealth.com/weight-loss/a34863593/action-bronson-weight-loss-125-pound-transformation-workout/">"Here's How Action Bronson Dropped Over 125 Pounds in 2020"</a>. <i>Men's Health</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Men%27s+Health&amp;rft.atitle=Here%27s+How+Action+Bronson+Dropped+Over+125+Pounds+in+2020&amp;rft.date=2020-12-08&amp;rft.aulast=Dukoff&amp;rft.aufirst=Spencer&amp;rft_id=https%3A%2F%2Fwww.menshealth.com%2Fweight-loss%2Fa34863593%2Faction-bronson-weight-loss-125-pound-transformation-workout%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHarper2020" class="citation web cs1">Harper, Rosario (April 13, 2020). <a rel="nofollow" class="external text" href="https://www.sohh.com/action-bronson-clocks-in-workout-goals-w-his-mini-me-my-workout-partner/">"Action Bronson Clocks In Workout Goals W/ His Mini-Me: "My Workout Partner"<span class="cs1-kern-right"></span>"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Action+Bronson+Clocks+In+Workout+Goals+W%2F+His+Mini-Me%3A+%22My+Workout+Partner%22&amp;rft.date=2020-04-13&amp;rft.aulast=Harper&amp;rft.aufirst=Rosario&amp;rft_id=https%3A%2F%2Fwww.sohh.com%2Faction-bronson-clocks-in-workout-goals-w-his-mini-me-my-workout-partner%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBjjTribes2021" class="citation web cs1">BjjTribes (June 30, 2021). <a rel="nofollow" class="external text" href="https://bjjtribes.com/rap-artist-action-bronson-begins-training-bjj-with-ryron-gracie/">"Rap Artist Action Bronson begins training BJJ with Ryron Gracie"</a>. <i>BjjTribes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 30,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BjjTribes&amp;rft.atitle=Rap+Artist+Action+Bronson+begins+training+BJJ+with+Ryron+Gracie&amp;rft.date=2021-06-30&amp;rft.au=BjjTribes&amp;rft_id=https%3A%2F%2Fbjjtribes.com%2Frap-artist-action-bronson-begins-training-bjj-with-ryron-gracie%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://jitsmagazine.com/rapper-action-bronson-starts-training-bjj/">"Rapper Action Bronson Starts Training BJJ"</a>. July 2021.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rapper+Action+Bronson+Starts+Training+BJJ&amp;rft.date=2021-07&amp;rft_id=https%3A%2F%2Fjitsmagazine.com%2Frapper-action-bronson-starts-training-bjj%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bet.com/shows/hip-hop-awards/2013/nominees/who-new-rookie-of-the-year.html">"Who New? Rookie of the Year"</a>. BET. September 23, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Who+New%3F+Rookie+of+the+Year&amp;rft.pub=BET&amp;rft.date=2013-09-23&amp;rft_id=http%3A%2F%2Fwww.bet.com%2Fshows%2Fhip-hop-awards%2F2013%2Fnominees%2Fwho-new-rookie-of-the-year.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAction+Bronson" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Action_Bronson&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://actionbronson.com/">Official website</a></span></span></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Action_Bronson" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: ;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Action_Bronson" title="Template:Action Bronson"><abbr title="View this template" style=";background: ;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Action_Bronson" title="Template talk:Action Bronson"><abbr title="Discuss this template" style=";background: ;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Action_Bronson&amp;action=edit"><abbr title="Edit this template" style=";background: ;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Action_Bronson" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Action Bronson</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div><a href="/wiki/Action_Bronson_discography" title="Action Bronson discography">Discography</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Dr._Lecter_(album)" title="Dr. Lecter (album)">Dr. Lecter</a></i></li>
+<li><i><a href="/wiki/Well-Done_(album)" title="Well-Done (album)">Well-Done</a></i></li>
+<li><i><a href="/wiki/Mr._Wonderful_(Action_Bronson_album)" title="Mr. Wonderful (Action Bronson album)">Mr. Wonderful</a></i></li>
+<li><i><a href="/wiki/Blue_Chips_7000" title="Blue Chips 7000">Blue Chips 7000</a></i></li>
+<li><i><a href="/wiki/White_Bronco_(album)" title="White Bronco (album)">White Bronco</a></i></li>
+<li><i><a href="/wiki/Only_for_Dolphins" title="Only for Dolphins">Only for Dolphins</a></i></li>
+<li><i><a href="/w/index.php?title=Cocodrillo_Turbo&amp;action=edit&amp;redlink=1" class="new" title="Cocodrillo Turbo (page does not exist)">Cocodrillo Turbo</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Saaab_Stories" title="Saaab Stories">Saaab Stories</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Mixtapes</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Rare_Chandeliers" title="Rare Chandeliers">Rare Chandeliers</a></i></li>
+<li><i><a href="/wiki/Blue_Chips_2" title="Blue Chips 2">Blue Chips 2</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Baby_Blue_(Action_Bronson_song)" title="Baby Blue (Action Bronson song)">Baby Blue</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Other songs</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/1_Train_(song)" title="1 Train (song)">1 Train</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">TV series</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Untitled_Action_Bronson_Show" title="The Untitled Action Bronson Show">The Untitled Action Bronson Show</a></i></li>
+<li><i><a href="/wiki/Fuck_That%E2%80%99s_Delicious" class="mw-redirect" title="Fuck That’s Delicious">Fuck That’s Delicious</a></i></li>
+<li><i><a href="/wiki/Traveling_the_Stars:_Action_Bronson_and_Friends_Watch_Ancient_Aliens" title="Traveling the Stars: Action Bronson and Friends Watch Ancient Aliens">Traveling the Stars: Action Bronson and Friends Watch Ancient Aliens</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2823641#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2823641#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q2823641#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000372401332">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/293132384">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/1029517290">Germany</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/031bc934-28c9-491a-8648-c078450187dc">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Action_Bronson&amp;oldid=1176146510">https://en.wikipedia.org/w/index.php?title=Action_Bronson&amp;oldid=1176146510</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1983_births" title="Category:1983 births">1983 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:21st-century_Albanian_rappers" title="Category:21st-century Albanian rappers">21st-century Albanian rappers</a></li><li><a href="/wiki/Category:21st-century_American_Jews" title="Category:21st-century American Jews">21st-century American Jews</a></li><li><a href="/wiki/Category:21st-century_American_male_singers" title="Category:21st-century American male singers">21st-century American male singers</a></li><li><a href="/wiki/Category:21st-century_American_singers" title="Category:21st-century American singers">21st-century American singers</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:American_male_chefs" title="Category:American male chefs">American male chefs</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:American_people_of_Albanian_descent" title="Category:American people of Albanian descent">American people of Albanian descent</a></li><li><a href="/wiki/Category:Atlantic_Records_artists" title="Category:Atlantic Records artists">Atlantic Records artists</a></li><li><a href="/wiki/Category:Bayside_High_School_(Queens)_alumni" title="Category:Bayside High School (Queens) alumni">Bayside High School (Queens) alumni</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Jewish_American_musicians" title="Category:Jewish American musicians">Jewish American musicians</a></li><li><a href="/wiki/Category:Jewish_rappers" title="Category:Jewish rappers">Jewish rappers</a></li><li><a href="/wiki/Category:Loma_Vista_Recordings_artists" title="Category:Loma Vista Recordings artists">Loma Vista Recordings artists</a></li><li><a href="/wiki/Category:Musicians_from_Flushing,_Queens" title="Category:Musicians from Flushing, Queens">Musicians from Flushing, Queens</a></li><li><a href="/wiki/Category:Rappers_from_New_York_City" title="Category:Rappers from New York City">Rappers from New York City</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_pending_changes_protected_pages" title="Category:Wikipedia pending changes protected pages">Wikipedia pending changes protected pages</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_October_2021" title="Category:Use mdy dates from October 2021">Use mdy dates from October 2021</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 19 September 2023, at 19:43<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Action_Bronson&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2389","wgBackendResponseTime":121,"wgPageParseReport":{"limitreport":{"cputime":"1.017","walltime":"1.238","ppvisitednodes":{"value":5284,"limit":1000000},"postexpandincludesize":{"value":138904,"limit":2097152},"templateargumentsize":{"value":5892,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":195553,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1122.776      1 -total"," 50.65%  568.645      1 Template:Reflist"," 38.35%  430.591     53 Template:Cite_web"," 17.32%  194.411      1 Template:Infobox_person","  7.06%   79.314      2 Template:Short_description","  6.55%   73.539      1 Template:Action_Bronson","  6.38%   71.596      1 Template:Navbox_musical_artist","  6.16%   69.202      1 Template:Navbox","  5.33%   59.878      1 Template:Authority_control","  4.19%   47.093      7 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.663","limit":"10.000"},"limitreport-memusage":{"value":14543236,"limit":52428800}},"cachereport":{"origin":"mw2302","timestamp":"20230919194309","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Action Bronson","url":"https:\/\/en.wikipedia.org\/wiki\/Action_Bronson","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2823641","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2823641","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-07-13T11:06:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/34\/Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg","headline":"American rapper and former chef"}</script>
+</body>
+</html>

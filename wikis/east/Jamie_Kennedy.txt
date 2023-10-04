@@ -1,0 +1,1375 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Jamie Kennedy - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"fa1c3940-adfd-4d4b-b234-01d18a612067","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jamie_Kennedy","wgTitle":"Jamie Kennedy","wgCurRevisionId":1174855234,"wgRevisionId":1174855234,"wgArticleId":559167,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with dead external links","Articles with dead external links from December 2017","Articles with permanently dead external links","Articles with short description","Short description matches Wikidata","Use mdy dates from February 2021","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from May 2016","Commons category link from Wikidata","Articles with FAST identifiers","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with BNF identifiers",
+"Articles with BNFdata identifiers","Articles with GND identifiers","Articles with LCCN identifiers","Articles with NKC identifiers","Articles with NTA identifiers","Articles with PLWABN identifiers","Articles with MusicBrainz identifiers","1970 births","Living people","20th-century American comedians","20th-century American male actors","20th-century American rappers","21st-century American comedians","21st-century American male actors","21st-century American rappers","Alumni of the British American Drama Academy","American male comedians","American male film actors","American male television actors","American male voice actors","East Coast hip hop musicians","Male actors from Pennsylvania","People from Upper Darby Township, Pennsylvania","Rappers from Philadelphia"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Jamie_Kennedy","wgRelevantArticleId":559167,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q355133","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,
+"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips",
+"ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jamie_Kennedy_Comic-Con_2012.jpg/1200px-Jamie_Kennedy_Comic-Con_2012.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1606">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jamie_Kennedy_Comic-Con_2012.jpg/800px-Jamie_Kennedy_Comic-Con_2012.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1071">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jamie_Kennedy_Comic-Con_2012.jpg/640px-Jamie_Kennedy_Comic-Con_2012.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="857">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Jamie Kennedy - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Jamie_Kennedy">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jamie_Kennedy&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jamie_Kennedy">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Jamie_Kennedy rootpage-Jamie_Kennedy skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jamie+Kennedy" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jamie+Kennedy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jamie+Kennedy" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jamie+Kennedy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Filmography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Filmography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Filmography</div>
+		</a>
+		
+		<ul id="toc-Filmography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Awards_and_nominations"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards_and_nominations">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Awards and nominations</div>
+		</a>
+		
+		<ul id="toc-Awards_and_nominations-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Jamie Kennedy</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 29 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-29" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">29 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D9%8A%D9%85%D9%8A_%D9%83%D9%8A%D9%86%D9%8A%D8%AF%D9%8A" title="جيمي كينيدي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%AC%DB%8C%D9%85%DB%8C_%DA%A9%D9%86%D8%AF%DB%8C" title="جیمی کندی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AC%DB%8C%D9%85%DB%8C_%DA%A9%D9%86%D8%AF%DB%8C" title="جیمی کندی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%9D%B4%EB%AF%B8_%EC%BC%80%EB%84%A4%EB%94%94" title="제이미 케네디 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8B%D5%A5%D5%B5%D5%B4%D5%AB_%D5%80%D5%A1%D6%80%D5%BE%D5%AB" title="Ջեյմի Հարվի – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AC%D9%8A%D9%85%D9%89_%D9%83%D9%8A%D9%86%D9%8A%D8%AF%D9%89" title="جيمى كينيدى – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%9F%E3%83%BC%E3%83%BB%E3%82%B1%E3%83%8D%E3%83%87%E3%82%A3" title="ジェイミー・ケネディ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D0%B8" title="Кеннеди, Джейми – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%96_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D1%96" title="Джеймі Кеннеді – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Jamie_Kennedy" title="Jamie Kennedy – Waray" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%82%91%E7%B1%B3%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA" title="傑米·肯尼迪 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q355133#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Jamie_Kennedy" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Jamie_Kennedy" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Jamie_Kennedy"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Jamie_Kennedy&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Jamie_Kennedy&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Jamie_Kennedy"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Jamie_Kennedy&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Jamie_Kennedy&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Jamie_Kennedy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Jamie_Kennedy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Jamie_Kennedy&amp;oldid=1174855234" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Jamie_Kennedy&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jamie_Kennedy&amp;id=1174855234&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q355133" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Jamie_Kennedy&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Jamie_Kennedy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Jamie_Kennedy" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American actor and comedian</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">For other people with the same name, see <a href="/wiki/James_Kennedy_(disambiguation)" class="mw-redirect mw-disambig" title="James Kennedy (disambiguation)">James Kennedy</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox biography vcard"><tbody><tr><th colspan="2" class="infobox-above" style="font-size:125%;"><div class="fn" style="display:inline">Jamie Kennedy</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Jamie_Kennedy_Comic-Con_2012.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jamie_Kennedy_Comic-Con_2012.jpg/220px-Jamie_Kennedy_Comic-Con_2012.jpg" decoding="async" width="220" height="294" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jamie_Kennedy_Comic-Con_2012.jpg/330px-Jamie_Kennedy_Comic-Con_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jamie_Kennedy_Comic-Con_2012.jpg/440px-Jamie_Kennedy_Comic-Con_2012.jpg 2x" data-file-width="1769" data-file-height="2368" /></a></span><div class="infobox-caption">Kennedy at the 2012 <a href="/wiki/San_Diego_Comic-Con_International" class="mw-redirect" title="San Diego Comic-Con International">Comic-Con</a></div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><div style="display:inline" class="nickname">James Harvey Kennedy</div><br /><span style="display:none"> (<span class="bday">1970-05-25</span>) </span>May 25, 1970<span class="noprint ForceAgeToShow"> (age&#160;53)</span><br /><div style="display:inline" class="birthplace"><a href="/wiki/Upper_Darby,_Pennsylvania" class="mw-redirect" title="Upper Darby, Pennsylvania">Upper Darby, Pennsylvania</a>, U.S.</div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role">Actor, comedian, screenwriter, producer</td></tr><tr><th scope="row" class="infobox-label">Years&#160;active</th><td class="infobox-data">1989–present</td></tr></tbody></table>
+<p><b>James Harvey Kennedy</b> (born May 25, 1970) is an American actor and comedian. He has played <a href="/wiki/List_of_Scream_(film_series)_characters#Randy_Meeks" title="List of Scream (film series) characters">Randy Meeks</a> in the <i><a href="/wiki/Scream_(franchise)" title="Scream (franchise)">Scream</a></i> franchise (1996–2000) and a multitude of characters in <i><a href="/wiki/The_Jamie_Kennedy_Experiment" title="The Jamie Kennedy Experiment">The Jamie Kennedy Experiment</a></i> (2002–2004) on <a href="/wiki/The_WB" title="The WB">The WB</a>. His other film roles include <i><a href="/wiki/Romeo_%2B_Juliet" title="Romeo + Juliet">Romeo + Juliet</a></i> (1996), <i><a href="/wiki/Bowfinger" title="Bowfinger">Bowfinger</a></i> (1999), <i><a href="/wiki/Malibu%27s_Most_Wanted" title="Malibu&#39;s Most Wanted">Malibu's Most Wanted</a></i> (2003), <i><a href="/wiki/Finding_Bliss" title="Finding Bliss">Finding Bliss</a></i> (2009), and <i><a href="/wiki/Good_Deeds" title="Good Deeds">Good Deeds</a></i> (2012).
+</p><p>He has starred in the <a href="/wiki/CBS" title="CBS">CBS</a> drama <i><a href="/wiki/Ghost_Whisperer" title="Ghost Whisperer">Ghost Whisperer</a></i> (2005–2010), provided <a href="/wiki/Voice_acting" title="Voice acting">voice-work</a> for <i><a href="/wiki/The_Cleveland_Show" title="The Cleveland Show">The Cleveland Show</a></i> (2009–2013) and regularly tours as a stand-up comedian and podcaster.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jamie_Kennedy&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Kennedy was born on May 25, 1970, in <a href="/wiki/Upper_Darby_Township,_Pennsylvania" title="Upper Darby Township, Pennsylvania">Upper Darby Township</a>, a suburb of <a href="/wiki/Philadelphia,_Pennsylvania" class="mw-redirect" title="Philadelphia, Pennsylvania">Philadelphia, Pennsylvania</a>. Kennedy was raised <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> He attended and graduated from <a href="/wiki/Monsignor_Bonner_High_School" title="Monsignor Bonner High School">Monsignor Bonner High School</a> in 1988. After high school, Kennedy began his career as a <a href="/wiki/Hollywood,_California" class="mw-redirect" title="Hollywood, California">Hollywood</a> extra. Meanwhile, he worked on voice impersonations.
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jamie_Kennedy&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Jamie_Kennedy_by_Gage_Skidmore_3.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jamie_Kennedy_by_Gage_Skidmore_3.jpg/170px-Jamie_Kennedy_by_Gage_Skidmore_3.jpg" decoding="async" width="170" height="211" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jamie_Kennedy_by_Gage_Skidmore_3.jpg/255px-Jamie_Kennedy_by_Gage_Skidmore_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jamie_Kennedy_by_Gage_Skidmore_3.jpg/340px-Jamie_Kennedy_by_Gage_Skidmore_3.jpg 2x" data-file-width="2120" data-file-height="2632" /></a><figcaption>Jamie Kennedy, 2010</figcaption></figure>
+<p>When Kennedy first arrived in <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, he became a professional <a href="/wiki/Cinema_of_the_United_States" title="Cinema of the United States">Hollywood</a> extra.
+</p><p>After a few years of struggling, Kennedy was unable to find an agent and worked as a host at <a href="/wiki/Red_Lobster" title="Red Lobster">Red Lobster</a>. He auditioned for over 80 commercials and could not book one. He then took a job as a <a href="/wiki/Telemarketing" title="Telemarketing">telemarketer</a> and learned that he had a talent for selling things. Kennedy then thought that if he could sell anything, "why not sell myself?", becoming his own agent.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2016)">citation needed</span></a></i>&#93;</sup>
+</p><p>Kennedy created a false persona, screen agent "Marty Power", to attract the attention of real agents and managers over the phone, who would later book his performances. He came to prominence in the late 1990s for playing Randy Meeks in the <a href="/wiki/Scream_(franchise)" title="Scream (franchise)"><i>Scream</i> film series</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> His lead role as Tim Avery in <i><a href="/wiki/Son_of_the_Mask" title="Son of the Mask">Son of the Mask</a></i> earned him a <a href="/wiki/Golden_Raspberry_Award_for_Worst_Actor" title="Golden Raspberry Award for Worst Actor">Golden Raspberry Award nomination for Worst Actor</a>, he would later voice his experiences with the film on his YouTube channel in the later years after its release.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The film would also go on to inspire Kennedy to host the 2007 documentary <i><a href="/wiki/Heckler_(film)" title="Heckler (film)">Heckler</a></i> after feeling hurt by the film's poor reception in which some reviewers attacked him personally.
+</p><p>Kennedy formed a production company called Wannabe Producers, alongside Josh<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2016)">citation needed</span></a></i>&#93;</sup> through which he has produced the shows <i><a href="/wiki/The_Jamie_Kennedy_Experiment" title="The Jamie Kennedy Experiment">The Jamie Kennedy Experiment</a></i>, <i><a href="/wiki/Blowin%27_Up" title="Blowin&#39; Up">Blowin' Up</a></i>, <i><a href="/wiki/The_Starlet" title="The Starlet">The Starlet</a></i>, and <i><a href="/wiki/Living_with_Fran" title="Living with Fran">Living with Fran</a></i> created by <a href="/wiki/David_Garrett_(screen_writer)" class="mw-redirect" title="David Garrett (screen writer)">David Garrett</a>. Following <i><a href="/wiki/Malibu%27s_Most_Wanted" title="Malibu&#39;s Most Wanted">Malibu's Most Wanted</a></i>, in which he both wrote and starred, Kennedy co-wrote the <a href="/wiki/MTV" title="MTV">MTV</a> show <i><a href="/wiki/Blowin%27_Up" title="Blowin&#39; Up">Blowin' Up</a></i> (2006) featuring his friend, <a href="/wiki/Stuart_Stone" title="Stuart Stone">Stu Stone</a>.
+</p><p>Kennedy lent his voice to the videogame <i><a href="/wiki/ESPN_NFL_2K5" title="ESPN NFL 2K5">ESPN NFL 2K5</a></i> as a celebrity adversary with his own football team, the Upper Darby <a href="/wiki/Cheesesteak" title="Cheesesteak">Cheesesteaks</a>. He is also unlockable as a free agent tight end in season mode. His stint as <a href="/wiki/Activision" title="Activision">Activision</a>'s emcee at <a href="/wiki/Electronic_Entertainment_Expo" class="mw-redirect" title="Electronic Entertainment Expo">Electronic Entertainment Expo</a> 2007, however, drew much criticism not only for his ignorance of the industry, but also for appearing to perform drunk as he insulted the audience.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> In a video uploaded to YouTube on June 14, 2021, Kennedy claimed that Activision had scrapped his script at the last minute and he was ad-libbing his jokes while suffering from <a href="/wiki/Occupational_burnout" title="Occupational burnout">burnout</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>While working on his film <i>Malibu's Most Wanted</i>, Kennedy wrote an autobiography titled, <i>Wannabe: A Hollywood Experiment</i>. The book chronicles his life in Hollywood as he attempts to become a star. It gives background on his life and family and quickly dives into his adventures. It tells of such things as Kennedy's living conditions in the Hollywood slums, his dilapidated car, and his kidney issues.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2016)">citation needed</span></a></i>&#93;</sup>
+</p><p>A performer of <a href="/wiki/Stand-up_comedy" title="Stand-up comedy">stand-up comedy</a>, he is also known for his sketch performances on his television reality show, <i><a href="/wiki/The_Jamie_Kennedy_Experiment" title="The Jamie Kennedy Experiment">The Jamie Kennedy Experiment</a></i>, which became the <a href="/wiki/The_WB" title="The WB">WB Network</a>'s highest-ranking new show in 2002, but which was cancelled in April 2004 due to falling viewership.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> In 2006, Jizzy Entertainment released <i><a href="/wiki/Unwashed:_The_Stand-Up_Special" class="mw-redirect" title="Unwashed: The Stand-Up Special">Unwashed: The Stand-Up Special</a>.</i> In 2008, Kennedy released the documentary <i><a href="/wiki/Heckler_(film)" title="Heckler (film)">Heckler</a>,</i> about the plight of stand-up comics versus their often-aggressive audiences.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> In 2007 and 2017, he made two appearances in <i><a href="/wiki/Criminal_Minds" title="Criminal Minds">Criminal Minds</a></i> as a cannibal satanist serial killer.
+</p><p>From 2008 to 2010, Kennedy played psychology professor Eli James in the <a href="/wiki/CBS" title="CBS">CBS</a> drama <i><a href="/wiki/Ghost_Whisperer" title="Ghost Whisperer">Ghost Whisperer</a></i>. From 2009 to 2013, he was in the TV series, <i><a href="/wiki/The_Cleveland_Show" title="The Cleveland Show">The Cleveland Show</a></i>, playing Roberta Tubbs' boyfriend.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>He also stars in <a href="/wiki/Nicktoons" title="Nicktoons">Nicktoons</a>' <i><a href="/wiki/Fanboy_%26_Chum_Chum" title="Fanboy &amp; Chum Chum">Fanboy &amp; Chum Chum</a></i> as Kyle, an insecure boy wizard who loathes the fun-loving Fanboy and Chum Chum, but who secretly yearns for their friendship. In April 2010, sources reported that Kennedy would very likely return to the <a href="/wiki/Scream_(franchise)" title="Scream (franchise)"><i>Scream</i> franchise</a> to star in the <a href="/wiki/Scream_4" title="Scream 4">fourth installment</a>;<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> however, according to <a href="/wiki/Scream_(franchise)" title="Scream (franchise)"><i>Scream</i></a> screenwriter <a href="/wiki/Kevin_Williamson_(screenwriter)" title="Kevin Williamson (screenwriter)">Kevin Williamson</a>, plans were never made for him to rejoin the franchise, attributing the misinformation to a fabrication by Kennedy.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>On December 31, 2012, Kennedy hosted and produced <i><a href="/wiki/First_Night_2013_with_Jamie_Kennedy" title="First Night 2013 with Jamie Kennedy">First Night 2013 with Jamie Kennedy</a></i>, a <a href="/wiki/New_Year%27s_Eve" title="New Year&#39;s Eve">New Year's Eve</a> television special widely considered <a href="/wiki/List_of_television_shows_considered_the_worst" class="mw-redirect" title="List of television shows considered the worst">one of the worst shows of all time</a>. His film <i><a href="/wiki/Lost_%26_Found_in_Armenia" title="Lost &amp; Found in Armenia">Lost &amp; Found in Armenia</a></i>, in which he plays an American tourist who ends up in an Armenian village, accused of being a Turkish spy, later opened to select theatres on June 7, 2013. His film <i><a href="/wiki/Buddy_Hutchins" title="Buddy Hutchins">Buddy Hutchins</a></i>, in which Kennedy plays a down-on-his-luck recovering alcoholic, was released in 2015.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> In 2015, he portrayed Frump in the Colton Tran adventure mystery film <i>Gloom</i> and Beach Patrolman Alex in Allegra Pictures' horror film <i>The Sand</i>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> In 2015, he also starred as Travis Welker in <i><a href="/wiki/Tremors_5:_Bloodlines" title="Tremors 5: Bloodlines">Tremors 5: Bloodlines</a></i><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> and as Rob in <i>Rivers 9</i>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>Kennedy played <a href="/wiki/NARAL_Pro-Choice_America" title="NARAL Pro-Choice America">NARAL Pro-Choice America</a> founder Larry Lader in the 2020 film <a href="/wiki/Roe_v._Wade_(film)" title="Roe v. Wade (film)"><i>Roe v. Wade</i></a>, which stars a predominantly <a href="/wiki/Conservatism_in_the_United_States" title="Conservatism in the United States">conservative</a> <a href="/wiki/Ensemble_cast" title="Ensemble cast">ensemble cast</a>.<sup id="cite_ref-wapo_17-0" class="reference"><a href="#cite_note-wapo-17">&#91;17&#93;</a></sup> In an interview with <i><a href="/wiki/The_Daily_Beast" title="The Daily Beast">The Daily Beast</a></i>, which noted the film depicts Lader as "a shady figure pulling strings from behind the scenes who treats abortions as a money-making operation," Kennedy said he appeared in the film to perform in a dramatic role that he is not normally offered, and personally identifies as <a href="/wiki/Abortion-rights_movements" title="Abortion-rights movements">pro-choice</a>, and that, "it’s also not fair for people to think that because I’m in a project with them that I’m like that, or that I believe in this stuff".<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jamie_Kennedy&amp;action=edit&amp;section=3" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Jennifer_Love_Hewitt_%26_Jamie_Kennedy_at_2009_Primetime_Emmy_Awards.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jennifer_Love_Hewitt_%26_Jamie_Kennedy_at_2009_Primetime_Emmy_Awards.jpg/150px-Jennifer_Love_Hewitt_%26_Jamie_Kennedy_at_2009_Primetime_Emmy_Awards.jpg" decoding="async" width="150" height="336" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jennifer_Love_Hewitt_%26_Jamie_Kennedy_at_2009_Primetime_Emmy_Awards.jpg/225px-Jennifer_Love_Hewitt_%26_Jamie_Kennedy_at_2009_Primetime_Emmy_Awards.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jennifer_Love_Hewitt_%26_Jamie_Kennedy_at_2009_Primetime_Emmy_Awards.jpg/300px-Jennifer_Love_Hewitt_%26_Jamie_Kennedy_at_2009_Primetime_Emmy_Awards.jpg 2x" data-file-width="1184" data-file-height="2652" /></a><figcaption>Kennedy with then-girlfriend Jennifer Love Hewitt at the 2009 <a href="/wiki/Primetime_Emmy_Awards" title="Primetime Emmy Awards">Primetime Emmy Awards</a></figcaption></figure>
+<p>Kennedy dated his <i>Ghost Whisperer</i> co-star <a href="/wiki/Jennifer_Love_Hewitt" title="Jennifer Love Hewitt">Jennifer Love Hewitt</a> from March 2009 to March 2010.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> 
+</p><p>Kennedy was active in <a href="/wiki/California" title="California">California</a>'s <a href="/wiki/Tourism" title="Tourism">tourism</a> campaign, having appeared in several commercials with <a href="/wiki/Governor_of_California" title="Governor of California">Governor</a> <a href="/wiki/Arnold_Schwarzenegger" title="Arnold Schwarzenegger">Arnold Schwarzenegger</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2016)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jamie_Kennedy&amp;action=edit&amp;section=4" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Role
+</th>
+<th class="unsortable">Notes
+</th></tr>
+<tr>
+<td>1989
+</td>
+<td><i><a href="/wiki/Dead_Poets_Society" title="Dead Poets Society">Dead Poets Society</a></i>
+</td>
+<td>Extra
+</td>
+<td>Uncredited<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">1996
+</td>
+<td><i><a href="/wiki/Romeo_%2B_Juliet" title="Romeo + Juliet">Romeo + Juliet</a></i>
+</td>
+<td><a href="/wiki/Characters_in_Romeo_and_Juliet#Gregory_and_Sampson" title="Characters in Romeo and Juliet">Sampson</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Scream_(1996_film)" title="Scream (1996 film)">Scream</a></i>
+</td>
+<td>Randy Meeks
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="7">1997
+</td>
+<td><i>Coax</i>
+</td>
+<td>Jamie
+</td>
+<td>Short film
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Bongwater_(film)" title="Bongwater (film)">Bongwater</a></i>
+</td>
+<td>Tommy
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/On_the_Edge_of_Innocence" title="On the Edge of Innocence">On the Edge of Innocence</a></i>
+</td>
+<td>Luke Canby
+</td>
+<td>TV movie
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Clockwatchers" title="Clockwatchers">Clockwatchers</a></i>
+</td>
+<td>Eddie
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Sparkler_(film)" title="Sparkler (film)">Sparkler</a></i>
+</td>
+<td>Trent
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Scream_2" title="Scream 2">Scream 2</a></i>
+</td>
+<td>Randy Meeks
+</td>
+<td><a href="/wiki/Blockbuster_Entertainment_Award" class="mw-redirect" title="Blockbuster Entertainment Award">Blockbuster Entertainment Award</a> for Favorite Supporting Actor – Horror
+</td></tr>
+<tr>
+<td><i><a href="/wiki/As_Good_as_It_Gets" title="As Good as It Gets">As Good as It Gets</a></i>
+</td>
+<td>Street Hustler
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="5">1998
+</td>
+<td><i>Stricken</i>
+</td>
+<td>Banyon
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Starstruck_(1998_film)" title="Starstruck (1998 film)">Starstruck</a></i>
+</td>
+<td>George Gordon Flynn
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>The Pass</i>
+</td>
+<td>Deputy Jim Banks
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Soundman</i>
+</td>
+<td>Frank's Assistant / Marty (voice)
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Enemy_of_the_State_(film)" title="Enemy of the State (film)">Enemy of the State</a></i>
+</td>
+<td>NSA Agent Jamie
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">1999
+</td>
+<td><i><a href="/wiki/Bowfinger" title="Bowfinger">Bowfinger</a></i>
+</td>
+<td>Dave
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Three_Kings_(1999_film)" title="Three Kings (1999 film)">Three Kings</a></i>
+</td>
+<td>Walter Wogaman
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="5">2000
+</td>
+<td><i>Road to Flin Flon</i>
+</td>
+<td>Brad
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Boiler_Room_(film)" title="Boiler Room (film)">Boiler Room</a></i>
+</td>
+<td>Adam
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Scream_3" title="Scream 3">Scream 3</a></i>
+</td>
+<td>Randy Meeks
+</td>
+<td>Cameo
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Bait_(2000_film)" title="Bait (2000 film)">Bait</a></i>
+</td>
+<td>Agent Blum
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><span data-sort-value="Specials, The"><span class="vcard"><span class="fn"><a href="/wiki/The_Specials_(2000_film)" title="The Specials (2000 film)">The Specials</a></span></span></span></i>
+</td>
+<td>Amok
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="5">2001
+</td>
+<td><i><a href="/wiki/Slacker_Cats" title="Slacker Cats">Slacker Cats</a></i>
+</td>
+<td>Buckley (voice)
+</td>
+<td>TV movie
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Dr._Dolittle_2" title="Dr. Dolittle 2">Dr. Dolittle 2</a></i>
+</td>
+<td>Various (voice)
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Jay_and_Silent_Bob_Strike_Back" title="Jay and Silent Bob Strike Back">Jay and Silent Bob Strike Back</a></i>
+</td>
+<td>Chaka's Production Assistant
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Max_Keeble%27s_Big_Move" title="Max Keeble&#39;s Big Move">Max Keeble's Big Move</a></i>
+</td>
+<td>Evil Ice Cream Man
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Pretty_When_You_Cry" title="Pretty When You Cry">Pretty When You Cry</a></i>
+</td>
+<td>Albert Straka
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2002
+</td>
+<td><i><a href="/wiki/Bug_(2002_film)" title="Bug (2002 film)">Bug</a></i>
+</td>
+<td>Dwight
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3">2003
+</td>
+<td><i><a href="/wiki/Malibu%27s_Most_Wanted" title="Malibu&#39;s Most Wanted">Malibu's Most Wanted</a></i>
+</td>
+<td>Brad 'B-Rad' Gluckman
+</td>
+<td>Also writer
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Sol_Goode" title="Sol Goode">Sol Goode</a></i>
+</td>
+<td>Justin Sax
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Harold_%26_Kumar_Go_to_White_Castle" title="Harold &amp; Kumar Go to White Castle">Harold &amp; Kumar Go to White Castle</a></i>
+</td>
+<td>Creepy Guy
+</td>
+<td>Uncredited
+</td></tr>
+<tr>
+<td rowspan="2">2005
+</td>
+<td><i><a href="/wiki/Son_of_the_Mask" title="Son of the Mask">Son of the Mask</a></i>
+</td>
+<td><a href="/wiki/The_Mask_(comics)" title="The Mask (comics)">Tim Avery / The Mask</a>
+</td>
+<td>Nominated—<a href="/wiki/Golden_Raspberry_Award_for_Worst_Actor" title="Golden Raspberry Award for Worst Actor">Golden Raspberry Award for Worst Actor</a><br />Nominated—<a href="/wiki/Golden_Raspberry_Award_for_Worst_Screen_Couple" class="mw-redirect" title="Golden Raspberry Award for Worst Screen Couple">Golden Raspberry Award for Worst Screen Couple</a> <small>(with anybody stuck sharing the screen with him)</small>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Dinotopia:_Quest_for_the_Ruby_Sunstone" class="mw-redirect" title="Dinotopia: Quest for the Ruby Sunstone">Dinotopia: Quest for the Ruby Sunstone</a></i>
+</td>
+<td>Spazz (voice)
+</td>
+<td>Direct-to-video
+</td></tr>
+<tr>
+<td rowspan="2">2006
+</td>
+<td><i><a href="/wiki/Farce_of_the_Penguins" title="Farce of the Penguins">Farce of the Penguins</a></i>
+</td>
+<td>Jamie (voice)
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Wild_%27n_Out" title="Wild &#39;n Out">Wild 'n Out</a></i>
+</td>
+<td>Himself
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="6">2007
+</td>
+<td><i>Me &amp; Lee?</i>
+</td>
+<td>Joel
+</td>
+<td>TV movie
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Kickin%27_It_Old_Skool" title="Kickin&#39; It Old Skool">Kickin' It Old Skool</a></i>
+</td>
+<td>Justin Schumacher
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Larry the Cable Guy's Christmas Spectacular</i>
+</td>
+<td><a href="/wiki/Ghost_of_Christmas_Past" title="Ghost of Christmas Past">Ghost of Christmas Past</a>
+</td>
+<td>TV movie
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Extreme_Movie" title="Extreme Movie">Extreme Movie</a></i>
+</td>
+<td>Mateus
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Hollywood_Residential" title="Hollywood Residential">Hollywood Residential</a></i>
+</td>
+<td>Himself
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Heckler_(film)" title="Heckler (film)">Heckler</a></i>
+</td>
+<td>Himself
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">2009
+</td>
+<td><i><a href="/wiki/Finding_Bliss" title="Finding Bliss">Finding Bliss</a></i>
+</td>
+<td>Dick Harder
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Curious_George_2:_Follow_That_Monkey!" title="Curious George 2: Follow That Monkey!">Curious George 2: Follow That Monkey!</a></i>
+</td>
+<td>Danno Wolfe (voice)
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2010
+</td>
+<td><i><a href="/wiki/Caf%C3%A9_(2010_film)" title="Café (2010 film)">Cafe</a></i>
+</td>
+<td>Dealer
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2011
+</td>
+<td><i>Spring Break '83</i>
+</td>
+<td>Ballzack
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="5">2012
+</td>
+<td><i><a href="/wiki/Bending_the_Rules" title="Bending the Rules">Bending the Rules</a></i>
+</td>
+<td>Theo Gold
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>The Patriot of America</i>
+</td>
+<td>Frank (voice)
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Reef_2:_High_Tide" title="The Reef 2: High Tide">The Reef 2: High Tide</a></i>
+</td>
+<td>Ronny (voice)
+</td>
+<td>Direct-to-video
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Good_Deeds" title="Good Deeds">Good Deeds</a></i>
+</td>
+<td>Mark Freeze
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Lost_%26_Found_in_Armenia" title="Lost &amp; Found in Armenia">Lost &amp; Found in Armenia</a></i>
+</td>
+<td>Bill
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td><i>Foreclosed</i>
+</td>
+<td>Forrest Hayes
+</td>
+<td>Lifetime Movie
+</td></tr>
+<tr>
+<td rowspan="4">2014
+</td>
+<td><i><a href="/wiki/The_Hungover_Games" title="The Hungover Games">The Hungover Games</a></i>
+</td>
+<td>Justmitch
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_After" title="The After">The After</a></i>
+</td>
+<td>David
+</td>
+<td>TV movie
+</td></tr>
+<tr>
+<td><i>Nowhere Safe</i>
+</td>
+<td>Kevin Carlisle
+</td>
+<td>TV movie
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Bermuda_Tentacles" title="Bermuda Tentacles">Bermuda Tentacles</a></i>
+</td>
+<td>Dr. Zimmern
+</td>
+<td>TV movie
+</td></tr>
+<tr>
+<td rowspan="4">2015
+</td>
+<td><i><a href="/wiki/Buddy_Hutchins" title="Buddy Hutchins">Buddy Hutchins</a></i>
+</td>
+<td>Buddy
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Other Plans</i>
+</td>
+<td>Nathan McKeon
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Tremors_5:_Bloodlines" title="Tremors 5: Bloodlines">Tremors 5: Bloodlines</a></i>
+</td>
+<td>Travis B. Welker
+</td>
+<td>Video
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Sand" title="The Sand">The Sand</a></i>
+</td>
+<td>Alex, Beach Patrol
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3">2016
+</td>
+<td><i>Drawn of the Dead</i>
+</td>
+<td>Adam Simmons (voice)
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mostly_Ghostly:_Have_You_Met_My_Ghoulfriend%3F#Sequel" title="Mostly Ghostly: Have You Met My Ghoulfriend?">Mostly Ghostly: One Night in Doom House</a></i>
+</td>
+<td>Simon
+</td>
+<td>Direct to Video
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Surviving_Compton:_Dre,_Suge_%26_Michel%27le" title="Surviving Compton: Dre, Suge &amp; Michel&#39;le">Surviving Compton: Dre, Suge &amp; Michel'le</a></i>
+</td>
+<td><a href="/wiki/Jerry_Heller" title="Jerry Heller">Jerry Heller</a>
+</td>
+<td>Lifetime Movie
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td><i>Walk of Fame</i>
+</td>
+<td>Hugo
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="4">2018
+</td>
+<td><i><a href="/wiki/Surviving_the_Wild_(2018_film)" class="mw-redirect" title="Surviving the Wild (2018 film)">Surviving the Wild</a></i>
+</td>
+<td>Kristopher
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Spinning_Man" title="Spinning Man">Spinning Man</a></i>
+</td>
+<td>Ross
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Tremors:_A_Cold_Day_in_Hell" title="Tremors: A Cold Day in Hell">Tremors: A Cold Day in Hell</a></i>
+</td>
+<td>Travis B. Welker
+</td>
+<td>Direct-to-Video
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Trick_(2019_film)" title="Trick (2019 film)">Trick</a></i>
+</td>
+<td>Dr. Steven
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">2020
+</td>
+<td><i><a href="/wiki/Roe_v._Wade_(film)" title="Roe v. Wade (film)">Roe v. Wade</a></i>
+</td>
+<td>Larry Lader
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Jamie Kennedy: Stoopid Smart</i>
+</td>
+<td>Himself
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2021
+</td>
+<td><i><a href="/wiki/Last_Call_(2021_film)" title="Last Call (2021 film)">Last Call</a></i>
+</td>
+<td>"Whitey"
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2022
+</td>
+<td><i><a href="/wiki/Scream_(2022_film)" title="Scream (2022 film)">Scream</a></i>
+</td>
+<td>Partygoer
+</td>
+<td>Voice cameo
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jamie_Kennedy&amp;action=edit&amp;section=5" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Blowin%27_Up_(album)" class="mw-redirect" title="Blowin&#39; Up (album)">Blowin' Up</a></i> (2006)</li></ul>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jamie_Kennedy&amp;action=edit&amp;section=6" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+
+<tbody><tr align="center">
+<th>Year
+</th>
+<th>Award
+</th>
+<th>Work
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td>1996
+</td>
+<td>Awards Circuit Community Awards for Best Cast Ensemble
+</td>
+<td><i><a href="/wiki/Romeo_%2B_Juliet" title="Romeo + Juliet">Romeo + Juliet</a></i>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td>1998
+</td>
+<td><a href="/wiki/Blockbuster_Entertainment_Award" class="mw-redirect" title="Blockbuster Entertainment Award">Blockbuster Entertainment Award</a> for Favorite Supporting Actor – Horror
+</td>
+<td><i><a href="/wiki/Scream_2" title="Scream 2">Scream 2</a></i>
+</td>
+<td style="background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;" class="yes table-yes2 notheme">Won
+</td></tr>
+<tr>
+<td>2003
+</td>
+<td><a href="/wiki/Teen_Choice_Award" class="mw-redirect" title="Teen Choice Award">Teen Choice Award</a>
+</td>
+<td><i><a href="/wiki/Malibu%27s_Most_Wanted" title="Malibu&#39;s Most Wanted">Malibu's Most Wanted</a></i>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td rowspan="2">2005
+</td>
+<td><a href="/wiki/Stinkers_Bad_Movie_Awards" title="Stinkers Bad Movie Awards">Stinkers Bad Movie Awards</a>-Worst Actor
+</td>
+<td rowspan="4"><i><a href="/wiki/Son_of_the_Mask" title="Son of the Mask">Son of the Mask</a></i>
+</td>
+<td style="background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;" class="yes table-yes2 notheme">Won
+</td></tr>
+<tr>
+<td><a href="/wiki/Stinkers_Bad_Movie_Awards" title="Stinkers Bad Movie Awards">Stinkers Bad Movie Awards</a>-Worst Screen Couple
+</td>
+<td style="background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;" class="yes table-yes2 notheme">Won
+</td></tr>
+<tr>
+<td rowspan="2">2006
+</td>
+<td><a href="/wiki/Golden_Raspberry_Award_for_Worst_Actor" title="Golden Raspberry Award for Worst Actor">Golden Raspberry Award for Worst Actor</a>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td><a href="/wiki/Golden_Raspberry_Award_for_Worst_Screen_Couple" class="mw-redirect" title="Golden Raspberry Award for Worst Screen Couple">Golden Raspberry Award for Worst Screen Couple</a>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jamie_Kennedy&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dailytargum.com/2.4987/kennedy-does-stand-up-1.1516586">Kennedy does stand-up</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110610161956/http://www.dailytargum.com/2.4987/kennedy-does-stand-up-1.1516586">Archived</a> June 10, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Dailytargum.com</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mensmagazineonline.com/jamie_kennedy.asp">Jamie Kennedy: Man-Child In The Promised Land | Mens Magazine Online</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080509143758/http://www.mensmagazineonline.com/jamie_kennedy.asp">Archived</a> May 9, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFBarry2006" class="citation news cs1">Barry, Rebecca (August 13, 2006). <a rel="nofollow" class="external text" href="http://www.nzherald.co.nz/lifestyle/news/article.cfm?c_id=6&amp;objectid=10395428">"A quick word with Jamie Kennedy"</a>. <a href="/wiki/The_New_Zealand_Herald" title="The New Zealand Herald">The New Zealand Herald</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 9,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+quick+word+with+Jamie+Kennedy&amp;rft.date=2006-08-13&amp;rft.aulast=Barry&amp;rft.aufirst=Rebecca&amp;rft_id=http%3A%2F%2Fwww.nzherald.co.nz%2Flifestyle%2Fnews%2Farticle.cfm%3Fc_id%3D6%26objectid%3D10395428&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://bloody-disgusting.com/interviews/3333303/interview-jamie-kennedy-talks-buddy-hutchins-tremors-5/">"Jamie Kennedy Talks 'Buddy Hutchins' and 'Tremors 5′"</a>. BloodyDisgusting.com. April 27, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jamie+Kennedy+Talks+%27Buddy+Hutchins%27+and+%27Tremors+5%E2%80%B2&amp;rft.pub=BloodyDisgusting.com&amp;rft.date=2010-04-27&amp;rft_id=http%3A%2F%2Fbloody-disgusting.com%2Finterviews%2F3333303%2Finterview-jamie-kennedy-talks-buddy-hutchins-tremors-5%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120228195941/http://www.razzies.com/forum/topic668_page1.html">"2005 RAZZIE Nominees &amp; "Winners"<span class="cs1-kern-right"></span>"</a>. Razzies.com. Archived from <a rel="nofollow" class="external text" href="http://razzies.com/forum/topic668_page1.html">the original</a> on February 28, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2005+RAZZIE+Nominees+%26+%22Winners%22&amp;rft.pub=Razzies.com&amp;rft_id=http%3A%2F%2Frazzies.com%2Fforum%2Ftopic668_page1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSliwinski2007" class="citation web cs1">Sliwinski, Alexander (July 19, 2007). <a rel="nofollow" class="external text" href="http://www.joystiq.com/2007/07/19/watch-activision-alienate-E3-audience-with-jamie-kennedy/">"Watch Activision alienate E3 audience with Jamie Kennedy"</a>. Joystiq<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Watch+Activision+alienate+E3+audience+with+Jamie+Kennedy&amp;rft.pub=Joystiq&amp;rft.date=2007-07-19&amp;rft.aulast=Sliwinski&amp;rft.aufirst=Alexander&amp;rft_id=http%3A%2F%2Fwww.joystiq.com%2F2007%2F07%2F19%2Fwatch-activision-alienate-E3-audience-with-jamie-kennedy%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKennedy" class="citation web cs1">Kennedy, Jamie. <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=PMZgiPyoqwU">"Jamie Kennedy Reacts to E3 TRAINWRECK"</a>. <i>YouTube</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=YouTube&amp;rft.atitle=Jamie+Kennedy+Reacts+to+E3+TRAINWRECK&amp;rft.aulast=Kennedy&amp;rft.aufirst=Jamie&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPMZgiPyoqwU&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://media.www.unewsonline.com/media/storage/paper953/news/2006/12/07/Entertainment/Jamie.Kennedy.Yuks.It.Up.Tonight.At.Slu-2527534.shtml">Jamie Kennedy review</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged December 2017">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.lvrj.com/neon/36992894.html">"Interview with Kennedy about Heckling"</a>. Lvrj.com<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Interview+with+Kennedy+about+Heckling&amp;rft.pub=Lvrj.com&amp;rft_id=http%3A%2F%2Fwww.lvrj.com%2Fneon%2F36992894.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081026174212/http://industry.visitcalifornia.com/AM/Template.cfm?Section=Press_Releases2">"California's new winter tourism ad to star Jamie Kennedy, Arnold Schwarzenegger"</a>. Industry.visitcalifornia.com. Archived from <a rel="nofollow" class="external text" href="http://industry.visitcalifornia.com/AM/Template.cfm?Section=Press_Releases2&amp;TEMPLATE=/CM/ContentDisplay.cfm&amp;CONTENTID=11439">the original</a> on October 26, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=California%27s+new+winter+tourism+ad+to+star+Jamie+Kennedy%2C+Arnold+Schwarzenegger&amp;rft.pub=Industry.visitcalifornia.com&amp;rft_id=http%3A%2F%2Findustry.visitcalifornia.com%2FAM%2FTemplate.cfm%3FSection%3DPress_Releases2%26TEMPLATE%3D%2FCM%2FContentDisplay.cfm%26CONTENTID%3D11439&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bloody-disgusting.com/news/19819">"Jamie Kennedy, Cinephile, Returning in 'Scream IV'<span class="cs1-kern-right"></span>"</a>. Bloody-disgusting.com. April 14, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jamie+Kennedy%2C+Cinephile%2C+Returning+in+%27Scream+IV%27&amp;rft.pub=Bloody-disgusting.com&amp;rft.date=2010-04-14&amp;rft_id=http%3A%2F%2Fwww.bloody-disgusting.com%2Fnews%2F19819&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.dreadcentral.com/news/37189/jamie-kennedy-not-back-scream-4">"Jamie Kennedy NOT Back for Scream 4!"</a>. <a href="/wiki/Dread_Central" title="Dread Central">Dread Central</a>. April 27, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jamie+Kennedy+NOT+Back+for+Scream+4%21&amp;rft.pub=Dread+Central&amp;rft.date=2010-04-27&amp;rft_id=http%3A%2F%2Fwww.dreadcentral.com%2Fnews%2F37189%2Fjamie-kennedy-not-back-scream-4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://renegadecinema.com/36106/interview-jamie-kennedy-buddy-hutchins">"Interview: Jamie Kennedy, 'Buddy Hutchins'<span class="cs1-kern-right"></span>"</a>. Renegade Cinema. February 21, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">February 21,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Interview%3A+Jamie+Kennedy%2C+%27Buddy+Hutchins%27&amp;rft.pub=Renegade+Cinema&amp;rft.date=2015-02-21&amp;rft_id=http%3A%2F%2Frenegadecinema.com%2F36106%2Finterview-jamie-kennedy-buddy-hutchins&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.dreadcentral.com/news/90104/exclusive-jamie-kennedy-talks-buddy-hutchins-chainsaws-tremors-5/">"Exclusive: Jamie Kennedy Talks Buddy Hutchins, Chainsaws, and Tremors 5"</a>. <i>dreadcentral.com</i>. February 18, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=dreadcentral.com&amp;rft.atitle=Exclusive%3A+Jamie+Kennedy+Talks+Buddy+Hutchins%2C+Chainsaws%2C+and+Tremors+5&amp;rft.date=2015-02-18&amp;rft_id=http%3A%2F%2Fwww.dreadcentral.com%2Fnews%2F90104%2Fexclusive-jamie-kennedy-talks-buddy-hutchins-chainsaws-tremors-5%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.dreadcentral.com/news/84440/tremors-5-shakes-rattles-rolls-october-2015/">"Tremors 5 Shakes, Rattles, and Rolls in October 2015"</a>. <i>dreadcentral.com</i>. January 7, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=dreadcentral.com&amp;rft.atitle=Tremors+5+Shakes%2C+Rattles%2C+and+Rolls+in+October+2015&amp;rft.date=2015-01-07&amp;rft_id=http%3A%2F%2Fwww.dreadcentral.com%2Fnews%2F84440%2Ftremors-5-shakes-rattles-rolls-october-2015%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Gingold, Michael (February 26, 2015). <a rel="nofollow" class="external text" href="http://www.fangoria.com/new/qa-jamie-kennedy-talks-buddy-hutchins-tremors-5-and-more/">"Jamie Kennedy Talks 'BUDDY HUTCHINS,' 'TREMORS 5' and More"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170908071312/http://www.fangoria.com/new/qa-jamie-kennedy-talks-buddy-hutchins-tremors-5-and-more/">Archived</a> September 8, 2017, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i><a href="/wiki/Fangoria" title="Fangoria">Fangoria</a></i>.</span>
+</li>
+<li id="cite_note-wapo-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-wapo_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAndrews2018" class="citation news cs1">Andrews, Travis M. (July 16, 2018). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/lifestyle/style/the-roe-v-wade-movie-has-an-all-star-conservative-cast-and-a-bone-to-pick-with-the-media/2018/07/16/bb4ab352-8912-11e8-85ae-511bc1146b0b_story.html?noredirect=on">"The 'Roe v. Wade' movie has an all-star cast"</a>. <i><a href="/wiki/Washington_Post" class="mw-redirect" title="Washington Post">Washington Post</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180718094046/https://www.washingtonpost.com/lifestyle/style/the-roe-v-wade-movie-has-an-all-star-conservative-cast-and-a-bone-to-pick-with-the-media/2018/07/16/bb4ab352-8912-11e8-85ae-511bc1146b0b_story.html?noredirect=on">Archived</a> from the original on July 18, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 18,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Washington+Post&amp;rft.atitle=The+%27Roe+v.+Wade%27+movie+has+an+all-star+cast&amp;rft.date=2018-07-16&amp;rft.aulast=Andrews&amp;rft.aufirst=Travis+M.&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Flifestyle%2Fstyle%2Fthe-roe-v-wade-movie-has-an-all-star-conservative-cast-and-a-bone-to-pick-with-the-media%2F2018%2F07%2F16%2Fbb4ab352-8912-11e8-85ae-511bc1146b0b_story.html%3Fnoredirect%3Don&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFStern2021" class="citation news cs1">Stern, Marlow (April 2, 2021). <a rel="nofollow" class="external text" href="https://www.thedailybeast.com/comedian-jamie-kennedy-on-how-he-ended-up-in-the-anti-abortion-propaganda-film-roe-v-wade">"Jamie Kennedy on How He Ended Up in an Anti-Abortion Film"</a>. <i>The Daily Beast</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 6,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Beast&amp;rft.atitle=Jamie+Kennedy+on+How+He+Ended+Up+in+an+Anti-Abortion+Film&amp;rft.date=2021-04-02&amp;rft.aulast=Stern&amp;rft.aufirst=Marlow&amp;rft_id=https%3A%2F%2Fwww.thedailybeast.com%2Fcomedian-jamie-kennedy-on-how-he-ended-up-in-the-anti-abortion-propaganda-film-roe-v-wade&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChiu2010" class="citation web cs1">Chiu, Alexis (March 12, 2010). <a rel="nofollow" class="external text" href="http://www.people.com/people/article/0,,20351495,00.html">"Jennifer Love Hewitt and Jamie Kennedy Split"</a>. <i><a href="/wiki/People_(magazine)" title="People (magazine)">People</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=People&amp;rft.atitle=Jennifer+Love+Hewitt+and+Jamie+Kennedy+Split&amp;rft.date=2010-03-12&amp;rft.aulast=Chiu&amp;rft.aufirst=Alexis&amp;rft_id=http%3A%2F%2Fwww.people.com%2Fpeople%2Farticle%2F0%2C%2C20351495%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt0097165/fullcredits">"Dead Poet's Society Full Cast &amp; Crew"</a>. <i>imdb</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 30,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=imdb&amp;rft.atitle=Dead+Poet%27s+Society+Full+Cast+%26+Crew&amp;rft_id=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0097165%2Ffullcredits&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJamie+Kennedy" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jamie_Kennedy&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Jamie_Kennedy" class="extiw" title="commons:Category:Jamie Kennedy">Jamie Kennedy</a></span>.</div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0005085/">Jamie Kennedy</a> at <a href="/wiki/IMDb_(identifier)" class="mw-redirect" title="IMDb (identifier)">IMDb</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q355133#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q355133#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q355133#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="http://id.worldcat.org/fast/410640/">FAST</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/000000011447175X">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/68542537">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb15043241j">France</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb15043241j">BnF data</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/141222220">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no98014515">United States</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0222109&amp;CON_LNG=ENG">Czech Republic</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p142902853">Netherlands</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://dbn.bn.org.pl/descriptor-details/9810548376505606">Poland</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/a1e1ceb3-0ca4-462d-9db6-8f3f3b8e7988">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2365
+Cached time: 20230919184219
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.701 seconds
+Real time usage: 0.881 seconds
+Preprocessor visited node count: 3671/1000000
+Post‐expand include size: 54889/2097152 bytes
+Template argument size: 5149/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 16/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 53655/5000000 bytes
+Lua time usage: 0.447/10.000 seconds
+Lua memory usage: 9734320/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  787.929      1 -total
+ 29.51%  232.501      1 Template:Reflist
+ 23.52%  185.359      1 Template:Infobox_person
+ 15.15%  119.394      1 Template:Authority_control
+ 14.01%  110.406      3 Template:Cite_news
+  9.67%   76.226     13 Template:Cite_web
+  9.31%   73.355      5 Template:Br_separated_entries
+  8.16%   64.266      4 Template:Citation_needed
+  7.89%   62.133      1 Template:Birth_date_and_age
+  7.71%   60.770      5 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:559167-0!canonical and timestamp 20230919184218 and revision id 1174855234. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jamie_Kennedy&amp;oldid=1174855234">https://en.wikipedia.org/w/index.php?title=Jamie_Kennedy&amp;oldid=1174855234</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1970_births" title="Category:1970 births">1970 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:20th-century_American_comedians" title="Category:20th-century American comedians">20th-century American comedians</a></li><li><a href="/wiki/Category:20th-century_American_male_actors" title="Category:20th-century American male actors">20th-century American male actors</a></li><li><a href="/wiki/Category:20th-century_American_rappers" title="Category:20th-century American rappers">20th-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_comedians" title="Category:21st-century American comedians">21st-century American comedians</a></li><li><a href="/wiki/Category:21st-century_American_male_actors" title="Category:21st-century American male actors">21st-century American male actors</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:Alumni_of_the_British_American_Drama_Academy" title="Category:Alumni of the British American Drama Academy">Alumni of the British American Drama Academy</a></li><li><a href="/wiki/Category:American_male_comedians" title="Category:American male comedians">American male comedians</a></li><li><a href="/wiki/Category:American_male_film_actors" title="Category:American male film actors">American male film actors</a></li><li><a href="/wiki/Category:American_male_television_actors" title="Category:American male television actors">American male television actors</a></li><li><a href="/wiki/Category:American_male_voice_actors" title="Category:American male voice actors">American male voice actors</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Male_actors_from_Pennsylvania" title="Category:Male actors from Pennsylvania">Male actors from Pennsylvania</a></li><li><a href="/wiki/Category:People_from_Upper_Darby_Township,_Pennsylvania" title="Category:People from Upper Darby Township, Pennsylvania">People from Upper Darby Township, Pennsylvania</a></li><li><a href="/wiki/Category:Rappers_from_Philadelphia" title="Category:Rappers from Philadelphia">Rappers from Philadelphia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2017" title="Category:Articles with dead external links from December 2017">Articles with dead external links from December 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_February_2021" title="Category:Use mdy dates from February 2021">Use mdy dates from February 2021</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2016" title="Category:Articles with unsourced statements from May 2016">Articles with unsourced statements from May 2016</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_FAST_identifiers" title="Category:Articles with FAST identifiers">Articles with FAST identifiers</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_NKC_identifiers" title="Category:Articles with NKC identifiers">Articles with NKC identifiers</a></li><li><a href="/wiki/Category:Articles_with_NTA_identifiers" title="Category:Articles with NTA identifiers">Articles with NTA identifiers</a></li><li><a href="/wiki/Category:Articles_with_PLWABN_identifiers" title="Category:Articles with PLWABN identifiers">Articles with PLWABN identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 11 September 2023, at 03:34<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jamie_Kennedy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2275","wgBackendResponseTime":139,"wgPageParseReport":{"limitreport":{"cputime":"0.701","walltime":"0.881","ppvisitednodes":{"value":3671,"limit":1000000},"postexpandincludesize":{"value":54889,"limit":2097152},"templateargumentsize":{"value":5149,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":53655,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  787.929      1 -total"," 29.51%  232.501      1 Template:Reflist"," 23.52%  185.359      1 Template:Infobox_person"," 15.15%  119.394      1 Template:Authority_control"," 14.01%  110.406      3 Template:Cite_news","  9.67%   76.226     13 Template:Cite_web","  9.31%   73.355      5 Template:Br_separated_entries","  8.16%   64.266      4 Template:Citation_needed","  7.89%   62.133      1 Template:Birth_date_and_age","  7.71%   60.770      5 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.447","limit":"10.000"},"limitreport-memusage":{"value":9734320,"limit":52428800}},"cachereport":{"origin":"mw2365","timestamp":"20230919184219","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Jamie Kennedy","url":"https:\/\/en.wikipedia.org\/wiki\/Jamie_Kennedy","sameAs":"http:\/\/www.wikidata.org\/entity\/Q355133","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q355133","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-28T04:04:35Z","dateModified":"2023-09-11T03:34:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9f\/Jamie_Kennedy_Comic-Con_2012.jpg","headline":"American actor and comedian"}</script>
+</body>
+</html>

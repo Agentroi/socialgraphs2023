@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Dave East - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"bd0ecd38-688e-481e-9baa-2c7324bd7c0b","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dave_East","wgTitle":"Dave East","wgCurRevisionId":1171164451,"wgRevisionId":1171164451,"wgArticleId":48029919,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles lacking reliable references","Articles lacking reliable references from July 2021","Articles with short description","Short description is different from Wikidata","Use mdy dates from April 2022","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from November 2022","Commons category link from Wikidata","Articles with VIAF identifiers","Articles with LCCN identifiers","Articles with Grammy identifiers","Articles with MusicBrainz identifiers","1988 births","Living people","21st-century American rappers",
+"21st-century American male musicians","African-American Muslims","American male rappers","American men's basketball players","American people of Barbadian descent","American rappers of Dominican Republic descent","Basketball players from New York City","Converts to Islam","Crips","Def Jam Recordings artists","East Coast hip hop musicians","People from East Harlem","People from Long Island City, Queens","Rappers from Manhattan","Rappers from New York City","Gangsta rappers","Richmond Spiders men's basketball players","Towson Tigers men's basketball players","21st-century African-American musicians","Hispanic and Latino American rappers"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Dave_East","wgRelevantArticleId":48029919,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,
+"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q21260700","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":
+"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/42/Dave_East_June_2017.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1952">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/42/Dave_East_June_2017.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1301">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="1041">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Dave East - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Dave_East">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dave_East&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dave_East">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dave_East rootpage-Dave_East skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dave+East" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dave+East" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dave+East" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dave+East" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-College_basketball_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#College_basketball_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>College basketball career</div>
+		</a>
+		
+			<button aria-controls="toc-College_basketball_career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle College basketball career subsection</span>
+			</button>
+		
+		<ul id="toc-College_basketball_career-sublist" class="vector-toc-list">
+			<li id="toc-Career_statistics"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Career_statistics">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Career statistics</div>
+			</a>
+			
+			<ul id="toc-Career_statistics-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-2010–2013:_Beginnings"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2010–2013:_Beginnings">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>2010–2013: Beginnings</div>
+			</a>
+			
+			<ul id="toc-2010–2013:_Beginnings-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2014–2016:_Mass_Appeal_signing_and_Kairi_Chanel"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2014–2016:_Mass_Appeal_signing_and_Kairi_Chanel">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>2014–2016: Mass Appeal signing and <i>Kairi Chanel</i></div>
+			</a>
+			
+			<ul id="toc-2014–2016:_Mass_Appeal_signing_and_Kairi_Chanel-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2017–2018:_Acting_debut_and_Paranoia_2"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2017–2018:_Acting_debut_and_Paranoia_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>2017–2018: Acting debut and <i>Paranoia 2</i></div>
+			</a>
+			
+			<ul id="toc-2017–2018:_Acting_debut_and_Paranoia_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2019–2021:_Survival_and_Karma_3"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2019–2021:_Survival_and_Karma_3">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>2019–2021: <i>Survival</i> and <i>Karma 3</i></div>
+			</a>
+			
+			<ul id="toc-2019–2021:_Survival_and_Karma_3-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2022:_Upcoming_releases"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2022:_Upcoming_releases">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.5</span>2022: Upcoming releases</div>
+			</a>
+			
+			<ul id="toc-2022:_Upcoming_releases-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Artistry"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Artistry">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Artistry</div>
+		</a>
+		
+		<ul id="toc-Artistry-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Filmography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Filmography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Filmography</div>
+		</a>
+		
+		<ul id="toc-Filmography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Awards_and_nominations"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards_and_nominations">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Awards and nominations</div>
+		</a>
+		
+		<ul id="toc-Awards_and_nominations-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Dave East</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 13 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-13" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">13 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%81_%D8%A5%D9%8A%D8%B3%D8%AA" title="ديف إيست – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%AF%DB%8C%D9%81_%D8%A7%DB%8C%D8%B3%D8%AA" title="دیف ایست – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Dave_East" title="Dave East – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Dave_East" title="Dave East – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Dave_East" title="Dave East – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Dave_East" title="Dave East – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Dave_East" title="Dave East – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B4%D5%A5%D5%B5%D5%BE_%D4%BB%D5%BD%D5%A9" title="Դեյվ Իսթ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Dave_East" title="Dave East – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Dave_East" title="Dave East – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Dave_East" title="Dave East – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Dave_East" title="Dave East – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Dave_East" title="Dave East – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21260700#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dave_East" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Dave_East" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dave_East"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dave_East&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dave_East&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Dave_East"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dave_East&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dave_East&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Dave_East" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Dave_East" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Dave_East&amp;oldid=1171164451" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Dave_East&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dave_East&amp;id=1171164451&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21260700" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Dave_East&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Dave_East&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Dave_East" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper (born 1988)</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Dave East</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Dave_East_June_2017.png" class="mw-file-description" title="Dave East in 2017"><img alt="Dave East in 2017" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dave_East_June_2017.png/220px-Dave_East_June_2017.png" decoding="async" width="220" height="358" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dave_East_June_2017.png/330px-Dave_East_June_2017.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dave_East_June_2017.png/440px-Dave_East_June_2017.png 2x" data-file-width="573" data-file-height="932" /></a></span><div class="infobox-caption">Dave East in 2017</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">David Lawrence Brewster Jr.</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1988-06-03</span>) </span>June 3, 1988<span class="noprint ForceAgeToShow"> (age&#160;35)</span><br />New York City, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>Rapper</li><li>songwriter</li><li>actor</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2007–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>From the Dirt</li><li><a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a></li><li><a href="/wiki/Mass_Appeal_Records" title="Mass Appeal Records">Mass Appeal</a></li></ul></div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://daveeastmusic.com">daveeastmusic<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>David Lawrence Brewster Jr.</b> (born June 3, 1988)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2022)">citation needed</span></a></i>&#93;</sup>, better known by his stage name <b>Dave East</b>, is an American rapper. East began his career in 2010, and gained attention in 2014 from his eighth mixtape, <i>Black Rose</i>. Its release garnered the attention of fellow New York rapper <a href="/wiki/Nas" title="Nas">Nas</a>, who later signed East to his record label, <a href="/wiki/Mass_Appeal_Records" title="Mass Appeal Records">Mass Appeal Records</a>, and later in conjunction with <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a>.
+</p><p>In 2016, East was chosen as part of the <a href="/wiki/XXL_(magazine)" title="XXL (magazine)"><i>XXL</i> magazine's</a> 2016 Freshman Class. His tenth mixtape, <i><a href="/wiki/Kairi_Chanel" title="Kairi Chanel">Kairi Chanel</a></i>, was released in the same year and peaked at number 38 on the <i><a href="/wiki/US_Billboard_200" class="mw-redirect" title="US Billboard 200">US Billboard 200</a></i>. His eleventh mixtape, <i><a href="/wiki/Paranoia:_A_True_Story" title="Paranoia: A True Story">Paranoia: A True Story</a></i>, was released in 2017 with features from Nas, <a href="/wiki/Wiz_Khalifa" title="Wiz Khalifa">Wiz Khalifa</a> and <a href="/wiki/Chris_Brown" title="Chris Brown">Chris Brown</a> amongst others and peaked at number 9 on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>. His debut studio album <i><a href="/wiki/Survival_(Dave_East_album)" title="Survival (Dave East album)">Survival</a></i> was released on November 8, 2019, and peaked at number 11 on the <i>Billboard</i> 200. He released the mixtape <i><a href="/wiki/Karma_3" title="Karma 3">Karma 3</a></i> in 2020, to critical acclaim and peaked at number 36 on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>.
+</p><p>East began his acting career in 2017, where he had a role as himself in <i><a href="/wiki/Being_Mary_Jane" title="Being Mary Jane">Being Mary Jane</a></i> and <i><a href="/wiki/The_Breaks_(TV_series)" title="The Breaks (TV series)">The Breaks</a></i>. He also had a supporting role in the Netflix film <i><a href="/wiki/Beats_(American_film)" class="mw-redirect" title="Beats (American film)">Beats</a></i> (2019) as "Mister Ford". His breakthrough acting role came in the <a href="/wiki/Hulu" title="Hulu">Hulu</a> series <i><a href="/wiki/Wu-Tang:_An_American_Saga" title="Wu-Tang: An American Saga">Wu-Tang: An American Saga</a></i> (2019) where he portrays <a href="/wiki/Method_Man" title="Method Man">Method Man</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>David Lawrence Brewster Jr. was born in New York City and spent his life between <a href="/wiki/East_Harlem" title="East Harlem">East Harlem</a> where his mother resided, and <a href="/wiki/Queensbridge_Houses" title="Queensbridge Houses">Queensbridge</a> where he lived with his aunt in his late adolescent life. The rapper is of <a href="/wiki/Barbadians" title="Barbadians">Bajan</a>, <a href="/wiki/Louisiana_Creole_people" title="Louisiana Creole people">Louisiana Creole</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and <a href="/wiki/People_of_the_Dominican_Republic" title="People of the Dominican Republic">Dominican</a> descent.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> He played basketball, and football at <a href="/wiki/Springbrook_High_School" title="Springbrook High School">Springbrook High School</a> in Silver Spring, MD near Washington, D.C.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Additionally, he played in the <a href="/wiki/Amateur_Athletic_Union" title="Amateur Athletic Union">Amateur Athletic Union</a> (AAU) with then-future NBA players <a href="/wiki/Ty_Lawson" title="Ty Lawson">Ty Lawson</a>, <a href="/wiki/Greivis_Vasquez" class="mw-redirect" title="Greivis Vasquez">Greivis Vasquez</a> and developed a close friendship with current <a href="/wiki/Phoenix_Suns" title="Phoenix Suns">Phoenix Suns</a> all-star <a href="/wiki/Kevin_Durant" title="Kevin Durant">Kevin Durant</a>.
+</p>
+<h2><span class="mw-headline" id="College_basketball_career">College basketball career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=2" title="Edit section: College basketball career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After Springbrook High School, East attended the <a href="/wiki/University_of_Richmond" title="University of Richmond">University of Richmond</a>, then transferred to <a href="/wiki/Towson_University" title="Towson University">Towson University</a> where he played basketball.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> While attending Towson, East had ongoing issues with coaching staff which ultimately led to his decision to leave the university. Shortly afterward, he started running into legal trouble in Baltimore, Maryland.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Career_statistics">Career statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=3" title="Edit section: Career statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="text-align:right;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Team
+</th>
+<th scope="col"><abbr title="Games played">GP</abbr>
+</th>
+<th scope="col"><abbr title="Games started">GS</abbr>
+</th>
+<th scope="col"><abbr title="Minutes per game">MPG</abbr>
+</th>
+<th scope="col"><abbr title="Field goal percentage">FG%</abbr>
+</th>
+<th scope="col"><abbr title="3-point field-goal percentage">3P%</abbr>
+</th>
+<th scope="col"><abbr title="Free-throw percentage">FT%</abbr>
+</th>
+<th scope="col"><abbr title="Rebounds per game">RPG</abbr>
+</th>
+<th scope="col"><abbr title="Assists per game">APG</abbr>
+</th>
+<th scope="col"><abbr title="Steals per game">SPG</abbr>
+</th>
+<th scope="col"><abbr title="Blocks per game">BPG</abbr>
+</th>
+<th scope="col"><abbr title="Points per game">PPG</abbr>
+</th></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2006%E2%80%9307_NCAA_Division_I_men%27s_basketball_season" title="2006–07 NCAA Division I men&#39;s basketball season">2006–07</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/Richmond_Spiders_men%27s_basketball" title="Richmond Spiders men&#39;s basketball">Richmond</a>
+</td>
+<td>13</td>
+<td><b>5</b></td>
+<td><b>16.7</b></td>
+<td><b>.365</b></td>
+<td><b>.389</b></td>
+<td>.583</td>
+<td><b>1.7</b></td>
+<td>.4</td>
+<td><b>.7</b></td>
+<td><b>.3</b></td>
+<td>4.1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2007%E2%80%9308_NCAA_Division_I_men%27s_basketball_season" title="2007–08 NCAA Division I men&#39;s basketball season">2007–08</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/Towson_Tigers_men%27s_basketball" title="Towson Tigers men&#39;s basketball">Towson</a>
+</td>
+<td style="text-align:center;" colspan="11"><span typeof="mw:File"><a href="/wiki/File:Redshirt.svg" class="mw-file-description" title="Redshirt"><img alt="Redshirt" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Redshirt.svg/15px-Redshirt.svg.png" decoding="async" width="15" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Redshirt.svg/23px-Redshirt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Redshirt.svg/30px-Redshirt.svg.png 2x" data-file-width="50" data-file-height="40" /></a></span> Redshirt
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2008%E2%80%9309_NCAA_Division_I_men%27s_basketball_season" title="2008–09 NCAA Division I men&#39;s basketball season">2008–09</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/Towson_Tigers_men%27s_basketball" title="Towson Tigers men&#39;s basketball">Towson</a>
+</td>
+<td><b>22</b></td>
+<td><b>5</b></td>
+<td>15.8</td>
+<td>.306</td>
+<td>.220</td>
+<td><b>.657</b></td>
+<td>1.7</td>
+<td><b>.7</b></td>
+<td>.5</td>
+<td>.2</td>
+<td>4.6
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2009%E2%80%9310_NCAA_Division_I_men%27s_basketball_season" title="2009–10 NCAA Division I men&#39;s basketball season">2009–10</a>
+</td>
+<td style="text-align:left;"><a href="/wiki/Towson_Tigers_men%27s_basketball" title="Towson Tigers men&#39;s basketball">Towson</a>
+</td>
+<td>10</td>
+<td>4</td>
+<td>16.3</td>
+<td>.347</td>
+<td>.300</td>
+<td>.625</td>
+<td><b>2.5</b></td>
+<td>.2</td>
+<td>.4</td>
+<td>.2</td>
+<td><b>4.8</b>
+</td></tr>
+<tr class="sortbottom">
+<td style="text-align:center;" colspan="2">Career
+</td>
+<td>45</td>
+<td>14</td>
+<td>16.2</td>
+<td>.330</td>
+<td>.293</td>
+<td>.636</td>
+<td>1.9</td>
+<td>.5</td>
+<td>.5</td>
+<td>.2</td>
+<td>4.6
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=4" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="2010.E2.80.932013:_Beginnings"></span><span class="mw-headline" id="2010–2013:_Beginnings">2010–2013: Beginnings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=5" title="Edit section: 2010–2013: Beginnings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2010, he released his first mixtape <i>Change of Plans</i> which gained him a little recognition.<sup id="cite_ref-plans_6-0" class="reference"><a href="#cite_note-plans-6">&#91;6&#93;</a></sup> He later released the mixtapes <i>Insomnia</i>, <i>American Greed</i>, <i>Don't Sleep</i> and <i>No Regrets</i>, solidifying his commitment to music.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> In 2013, East periodically sold drugs throughout Harlem to support himself and his music.<sup id="cite_ref-villagevoice_8-0" class="reference"><a href="#cite_note-villagevoice-8">&#91;8&#93;</a></sup> He then released his sixth mixtape <i>Gemini</i>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span id="2014.E2.80.932016:_Mass_Appeal_signing_and_Kairi_Chanel"></span><span class="mw-headline" id="2014–2016:_Mass_Appeal_signing_and_Kairi_Chanel">2014–2016: Mass Appeal signing and <i>Kairi Chanel</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=6" title="Edit section: 2014–2016: Mass Appeal signing and Kairi Chanel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2014, his music reached the ears of rapper, <a href="/wiki/Nas" title="Nas">Nas</a> who quickly looked for ways to contact East. Unbeknownst to Nas, East was close friends with Nas' younger brother and fellow rapper Jungle, who quickly introduced the two.<sup id="cite_ref-hiphopdx_10-0" class="reference"><a href="#cite_note-hiphopdx-10">&#91;10&#93;</a></sup> By the summer of 2014, East was the newest signee of Nas' new <a href="/wiki/Mass_Appeal_Records" title="Mass Appeal Records">Mass Appeal Records</a> along with <a href="/wiki/Bishop_Nehru" title="Bishop Nehru">Bishop Nehru</a>, <a href="/wiki/Fashawn" title="Fashawn">Fashawn</a>, <a href="/wiki/Boldy_James" title="Boldy James">Boldy James</a> and <a href="/wiki/Run_The_Jewels" class="mw-redirect" title="Run The Jewels">Run The Jewels</a>.<sup id="cite_ref-hiphopdx_10-1" class="reference"><a href="#cite_note-hiphopdx-10">&#91;10&#93;</a></sup> In July 2014, he released his seventh mixtape <i>Black Rose</i> through the label, which received favorable reviews from music critics.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> In 2015, he released his eighth mixtape <i>Hate Me Now</i> which gained great recognition which allowed him to gain key features from well respected emcees such as, <a href="/wiki/Pusha_T" title="Pusha T">Pusha T</a>, Nas, and two-thirds of <a href="/wiki/The_Lox" title="The Lox">The Lox</a>, <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a> and <a href="/wiki/Styles_P" title="Styles P">Styles P</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>In June 2016, <a href="/wiki/XXL_(magazine)" title="XXL (magazine)"><i>XXL</i> magazine</a> revealed their annual Freshman Class for 2016, which included East, along with <a href="/wiki/G_Herbo" title="G Herbo">G Herbo</a>, <a href="/wiki/21_Savage" title="21 Savage">21 Savage</a>, <a href="/wiki/Kodak_Black" title="Kodak Black">Kodak Black</a>, <a href="/wiki/Lil_Uzi_Vert" title="Lil Uzi Vert">Lil Uzi Vert</a>, <a href="/wiki/Lil_Yachty" title="Lil Yachty">Lil Yachty</a>, <a href="/wiki/Desiigner" title="Desiigner">Desiigner</a>, <a href="/wiki/Lil_Dicky" title="Lil Dicky">Lil Dicky</a>, <a href="/wiki/Denzel_Curry" title="Denzel Curry">Denzel Curry</a>, and <a href="/wiki/Anderson_Paak" class="mw-redirect" title="Anderson Paak">Anderson Paak</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> on July 7, 2016, East participated in the freshmen cypher along with Chicago's G Herbo hosted by Philadelphia's very own, <a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> In August 2016, he released a joint <a href="/wiki/Extended_play" title="Extended play">extended play</a> titled <i>Born Broke, Die Rich</i> with rapper Kur.<sup id="cite_ref-EP_17-0" class="reference"><a href="#cite_note-EP-17">&#91;17&#93;</a></sup> In September 2016, East was featured on the <a href="/wiki/2016_BET_Hip_Hop_Awards" title="2016 BET Hip Hop Awards">BET Hip Hop Awards</a> cypher alongside Young M.A., <a href="/wiki/Ms._Jade" title="Ms. Jade">Ms. Jade</a>, Kur and Sam Black.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> On September 29, 2016, he announced that he has signed a deal with <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a> with the deal negotiated by Hip-hop executive Steven "Steve-O" Carless <sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> and the next day released the mixtape, <i><a href="/wiki/Kairi_Chanel" title="Kairi Chanel">Kairi Chanel</a></i>,<sup id="cite_ref-kairi_20-0" class="reference"><a href="#cite_note-kairi-20">&#91;20&#93;</a></sup> which peaked at number 38 on the US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>.<sup id="cite_ref-B200_21-0" class="reference"><a href="#cite_note-B200-21">&#91;21&#93;</a></sup> Kairi Chanel featured a few notable names such as, <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>, <a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a>, <a href="/wiki/The_Diplomats" title="The Diplomats">The Diplomats</a>; <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a>, <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a>, and <a href="/wiki/2_Chainz" title="2 Chainz">2 Chainz</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<h3><span id="2017.E2.80.932018:_Acting_debut_and_Paranoia_2"></span><span class="mw-headline" id="2017–2018:_Acting_debut_and_Paranoia_2">2017–2018: Acting debut and <i>Paranoia 2</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=7" title="Edit section: 2017–2018: Acting debut and Paranoia 2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In January 2017, East made his acting debut, starring in <a href="/wiki/BET" title="BET">BET</a>'s <i><a href="/wiki/Being_Mary_Jane" title="Being Mary Jane">Being Mary Jane</a></i> series.<sup id="cite_ref-Bossip_23-0" class="reference"><a href="#cite_note-Bossip-23">&#91;23&#93;</a></sup> He later appeared in <a href="/wiki/Puma_(brand)" title="Puma (brand)">Puma</a>'s Tsugi Shinsei commercial and starred in rapper, <a href="/wiki/Trina" title="Trina">Trina</a>'s "It Ain't Me" music video.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> In August 2017, East released his the EP, <i><a href="/wiki/Paranoia:_A_True_Story" title="Paranoia: A True Story">Paranoia: A True Story</a></i>, supported by a few tracks such as the single "<a href="/w/index.php?title=Perfect_(Dave_East_song)&amp;action=edit&amp;redlink=1" class="new" title="Perfect (Dave East song) (page does not exist)">Perfect</a>" featuring American Singer, <a href="/wiki/Chris_Brown" title="Chris Brown">Chris Brown</a>, "Paranoia" along with <a href="/wiki/Jeezy" title="Jeezy">Jeezy</a>, and "Phone Jumpin" with <a href="/wiki/Wiz_Khalifa" title="Wiz Khalifa">Wiz Khalifa</a>. The EP peaked at number nine on the <i>Billboard</i> 200.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> Later in the year East released his 11th mixtape, <i>Karma</i> which was hosted by DJ Holiday. This was the beginning of the <i>Karma</i> series. This tape featured tracks such as "Militant" with Bronx rapper, <a href="/wiki/Don_Q_(rapper)" title="Don Q (rapper)">Don Q</a>. <a href="/wiki/Chris_Brown" title="Chris Brown">Chris Brown</a> also reappeared on "Bentley Truck" track which was also featured on the Karma tape. In September 2017, East hosted the first annual Goldie Awards, a DJ and producer battle set taking place in New York City.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>East started the new year by dropping his 12th mixtape <i><a href="/wiki/Paranoia_2" title="Paranoia 2">Paranoia 2</a></i>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> on January 15, 2018. In February 2018 is when the rapper started to network and reach endorsements that would later further his career. In February, East signed a sponsorship with <a href="/wiki/Belaire_Ros%C3%A9" title="Belaire Rosé">Belaire Rose</a>. The signing of this deal led up to a promotional music video for the brand. The track is titled, "Fresh Prince of Belaire" by Rick Ross which featured East.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> March 2018, East signed an endorsement deal with <a href="/wiki/New_Era_Cap_Company" title="New Era Cap Company">New Era Cap</a> launching his new "lifestyle" 59fifty fitted collection. Shortly after his newly found endorsement, East was featured in New Era's "Claim the Crown" commercial along with some of the top MLB stars such as, <a href="/wiki/Javier_B%C3%A1ez" title="Javier Báez">Javier Baez</a>, <a href="/wiki/Jos%C3%A9_Altuve" title="José Altuve">Jose Altuve</a>, and award-winning producer, <a href="/wiki/Mike_Will_Made_It" title="Mike Will Made It">Mike Will Made It</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> As things continued to look up for East, he released his 13th mixtape on July 27, 2018, which was titled <i>Karma 2</i>. This mixtape featured up-and-coming artists such as <a href="/wiki/Lil_Durk" title="Lil Durk">Lil Durk</a>, <a href="/wiki/Gunna_(rapper)" title="Gunna (rapper)">Gunna</a> and <a href="/wiki/BlocBoy_JB" title="BlocBoy JB">BlocBoy JB</a>. He also had features from his two lifetime friends <a href="/wiki/Kiing_Shooter" title="Kiing Shooter">Kiing Shooter</a> and Border Buck.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> Although this tape did not reach the same success as his first studio album, it still managed to peak at number 41 on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> East is known for putting out music more frequently than other artists. In the same calendar year, he released his 15th mixtape, <i>Beloved</i>, which saw him join his favorite MC, <a href="/wiki/Styles_P" title="Styles P">Styles P</a>. The tape exposed and expressed the gritty street life of New York City.
+</p>
+<h3><span id="2019.E2.80.932021:_Survival_and_Karma_3"></span><span class="mw-headline" id="2019–2021:_Survival_and_Karma_3">2019–2021: <i>Survival</i> and <i>Karma 3</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=8" title="Edit section: 2019–2021: Survival and Karma 3">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>East made his movie debut  in the Netflix film <i><a href="/wiki/Beats_(American_film)" class="mw-redirect" title="Beats (American film)">Beats</a></i> (2019) in which he had a supporting role as "Mister Ford". His breakthrough acting role came in the Hulu series <i><a href="/wiki/Wu-Tang:_An_American_Saga" title="Wu-Tang: An American Saga">Wu-Tang: An American Saga</a></i> (2019) where he portrays <a href="/wiki/Method_Man" title="Method Man">Method Man</a> as a series regular. In September 2019, it was confirmed that East would have a supporting role in the film <i><a href="/wiki/Boogie_(2021_film)" title="Boogie (2021 film)">Boogie</a></i> (2021).<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> After a night in Las Vegas gone wrong, East was pulled from the film. The role of "Monk" was recast and eventually played by <a href="/wiki/Pop_Smoke" title="Pop Smoke">Pop Smoke</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</p><p>In 2019, he was featured on the single "<a href="/wiki/Is_U_Down" class="mw-redirect" title="Is U Down">Is U Down</a>" by <a href="/wiki/Pvrx" title="Pvrx">Pvrx</a> and appeared as a guest vocalist on the single "Taxin" by <a href="/wiki/DJ_Shadow" title="DJ Shadow">DJ Shadow</a>.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup> He released a two part promotional release titled <i>Survival Pacc</i> with the singles "Everyday" featuring <a href="/wiki/Gunna_(rapper)" title="Gunna (rapper)">Gunna</a> on and "Wanna Be a G" featuring <a href="/wiki/Max_B" title="Max B">Max B</a> on August 1, 2019, as a pre-release for his debut album.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+On October 4, 2019, East released the single "Alone" featuring <a href="/wiki/Jacquees" title="Jacquees">Jacquees</a> to support the release of his then upcoming debut album. He released the album, <i><a href="/wiki/Survival_(Dave_East_album)" title="Survival (Dave East album)">Survival</a></i>, on November 8, 2019, through <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a>, <a href="/wiki/Mass_Appeal_Records" title="Mass Appeal Records">Mass Appeal Records</a>, and his own label From the Dirt.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> It features <a href="/wiki/Guest_appearance" title="Guest appearance">guest appearances</a> from <a href="/wiki/Teyana_Taylor" title="Teyana Taylor">Teyana Taylor</a>, <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a>, <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/The-Dream" title="The-Dream">The-Dream</a>, <a href="/wiki/Lil_Baby" title="Lil Baby">Lil Baby</a>, amongst others.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> East also started his first world tour in release of the album, titled the Survival Tour which spanned from November 22, 2019 — December 20, 2019.
+</p><p>On March 8, 2020, East announced that he was working on the third installment in the <i>Karma</i> series of mixtapes. The mixtape cover featured background images of East with the now late rappers <a href="/wiki/Nipsey_Hussle" title="Nipsey Hussle">Nipsey Hussle</a> and <a href="/wiki/Pop_Smoke" title="Pop Smoke">Pop Smoke</a>, and East stated that he and Nipsey were making plans to create a collaborative project prior to his death. The album was initially set to be titled <i>Thoughts of a Menace</i>, however it was changed to simply <i><a href="/wiki/Karma_3" title="Karma 3">Karma 3</a></i>. Like his previous album, it was released via Def Jam and Mass Appeal.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup> He released the lead single of the mixtape, "Really wit Me", on March 12, 2020. Numerous people, including <a href="/wiki/Korey_Wise" title="Korey Wise">Korey Wise</a> made a cameo in the music video.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> <i>Karma 3</i> was released on August 14, 2020,<sup id="cite_ref-K3_43-0" class="reference"><a href="#cite_note-K3-43">&#91;43&#93;</a></sup> to critical acclaim.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup> A deluxe version of the mixtape followed on October 23, 2020, with features from <a href="/wiki/Dej_Loaf" title="Dej Loaf">Dej Loaf</a>, <a href="/wiki/Junior_Reid" title="Junior Reid">Junior Reid</a>, <a href="/wiki/Chris_Brown" title="Chris Brown">Chris Brown</a> and <a href="/wiki/G_Herbo" title="G Herbo">G Herbo</a>, as well as the "Handsome" remix featuring <a href="/wiki/Jeezy" title="Jeezy">Jeezy</a>.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
+</p><p>On July 30, 2021, East and producer <a href="/wiki/Harry_Fraud" title="Harry Fraud">Harry Fraud</a> released a collaborative album titled <i>Hoffa</i>. That same year, he purchased a <a href="/wiki/Storefront" title="Storefront">storefront</a> in his hometown, and plans to open additional businesses.<sup id="cite_ref-BigBiz_46-0" class="reference"><a href="#cite_note-BigBiz-46">&#91;46&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2022:_Upcoming_releases">2022: Upcoming releases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=9" title="Edit section: 2022: Upcoming releases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a January 2022 interview with <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i>, East revealed he had been working on various projects, which he intends to release in the year, the first of which will be <i>Beloved 2</i>, a sequel to his 2018 joint-album with&#160;<a href="/wiki/Styles_P" title="Styles P">Styles P</a>. He also said his next solo project with Def Jam/Mass Appeal will likely be released in February or March. He also confirmed a follow-up to <i><a href="/wiki/Survival_(Dave_East_album)" title="Survival (Dave East album)">Survival</a></i>.<sup id="cite_ref-BigBiz_46-1" class="reference"><a href="#cite_note-BigBiz-46">&#91;46&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Artistry">Artistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=10" title="Edit section: Artistry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>East is known for his raw lyricism and dark storytelling about street life.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup> He is influenced by, <a href="/wiki/Styles_P" title="Styles P">Styles P</a>, <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>, <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a>, <a href="/wiki/Big_Pun" title="Big Pun">Big Pun</a>, <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a>, <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a>, <a href="/wiki/DMX_(rapper)" class="mw-redirect" title="DMX (rapper)">DMX</a>, <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac</a>, <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> and <a href="/wiki/The_Diplomats" title="The Diplomats">The Diplomats</a>.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=11" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>East as a teen joined the <a href="/wiki/Rollin%27_30s_Harlem_Crips" title="Rollin&#39; 30s Harlem Crips">Rollin' 30s Harlem Crips</a>, a subset of the larger <a href="/wiki/Crips" title="Crips">Crips</a> gang. East started serving a prison sentence, and during this time he converted to <a href="/wiki/Islam" title="Islam">Islam</a> and considered himself a Muslim.<sup id="cite_ref-villagevoice_8-1" class="reference"><a href="#cite_note-villagevoice-8">&#91;8&#93;</a></sup> Commenting on his conversion, East stated; "Islam really brought a discipline to my life that I didn't really have before... My old mindset was if they ain't helping me, I ain't helping them, but you can't live life that way."<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup> East has two daughters with Millie Colon, born in 2016 and 2020.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;53&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=12" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Dave_East_discography" title="Dave East discography">Dave East discography</a></div>
+<ul><li><i><a href="/wiki/Survival_(Dave_East_album)" title="Survival (Dave East album)">Survival</a></i> (2019)</li>
+<li><i><a href="/wiki/Fortune_Favors_The_Bold_(album)" class="mw-redirect" title="Fortune Favors The Bold (album)">Fortune Favors the Bold</a></i> (2023)</li></ul>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=13" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>Film
+</caption>
+<tbody><tr>
+<th>Year</th>
+<th>Title</th>
+<th>Role
+</th></tr>
+<tr>
+<td>2019</td>
+<td><i><a href="/wiki/Beats_(American_film)" class="mw-redirect" title="Beats (American film)">Beats</a></i><sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup></td>
+<td>Mister Ford
+</td></tr></tbody></table>
+<table class="wikitable">
+<caption>Television series
+</caption>
+<tbody><tr>
+<th>Year</th>
+<th>Title</th>
+<th>Role</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>2017</td>
+<td><i><a href="/wiki/Being_Mary_Jane" title="Being Mary Jane">Being Mary Jane</a></i><sup id="cite_ref-Bossip_23-1" class="reference"><a href="#cite_note-Bossip-23">&#91;23&#93;</a></sup></td>
+<td>Himself</td>
+<td>Episode: "Getting Nekkid"
+</td></tr>
+<tr>
+<td>2017</td>
+<td><i><a href="/wiki/The_Breaks_(TV_series)" title="The Breaks (TV series)">The Breaks</a></i><sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup></td>
+<td>Hashim</td>
+<td>Episode: "Under Pressure"
+</td></tr>
+<tr>
+<td>2019–2023</td>
+<td><i><a href="/wiki/Wu-Tang:_An_American_Saga" title="Wu-Tang: An American Saga">Wu Tang: An American Saga</a></i><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;56&#93;</a></sup></td>
+<td><a href="/wiki/Method_Man" title="Method Man">Shotgun/Method Man</a></td>
+<td>Series Regular
+</td></tr>
+<tr>
+<td>2020</td>
+<td><i><a href="/wiki/Ridiculousness_(TV_series)" title="Ridiculousness (TV series)">Ridiculousness</a></i>
+</td>
+<td>Himself
+</td>
+<td>Season 16, Episode 5
+</td></tr>
+<tr>
+<td>2021</td>
+<td><i><a href="/wiki/Dave_(TV_series)" title="Dave (TV series)">Dave</a></i>
+</td>
+<td>Himself
+</td>
+<td>Season 2, Episode 7
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=14" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Award
+</th>
+<th>Category
+</th>
+<th scope="col">Work
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td>2017
+</td>
+<td><a href="/wiki/BMI_Awards" class="mw-redirect" title="BMI Awards">BMI R&amp;B/Hip-Hop Awards</a><sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;57&#93;</a></sup>
+</td>
+<td>Social Star
+</td>
+<td>Himself
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td>2023
+</td>
+<td><a href="/wiki/65th_Annual_Grammy_Awards" title="65th Annual Grammy Awards">Grammy Awards</a><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">&#91;58&#93;</a></sup>
+</td>
+<td><a href="/wiki/Grammy_Award_for_Album_of_the_Year" title="Grammy Award for Album of the Year">Album of the Year</a>
+</td>
+<td><i><a href="/wiki/Good_Morning_Gorgeous" title="Good Morning Gorgeous">Good Morning Gorgeous (Deluxe)</a></i> <small>(as a featured artist)</small>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.netflix.com/title/80145087">"Rapture &#124; Netflix Official Site"</a>. <i>Netflix.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Netflix.com&amp;rft.atitle=Rapture+%26%23124%3B+Netflix+Official+Site&amp;rft_id=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F80145087&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation audio-visual cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Qse7G9XEYE4"><i>Dave East Spits Bars with Rosenberg on Real Late</i></a>. <i>YouTube</i>. December 11, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dave+East+Spits+Bars+with+Rosenberg+on+Real+Late&amp;rft.date=2014-12-11&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQse7G9XEYE4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2016/09/dave-east-kairi-chanel-mixtape/">"Stream Dave East's 'Kairi Chanel' Mixtape"</a>. <i>XXL</i>. September 30, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">January 27,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=Stream+Dave+East%27s+%27Kairi+Chanel%27+Mixtape&amp;rft.date=2016-09-30&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F09%2Fdave-east-kairi-chanel-mixtape%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.complex.com/sports/2020/08/dave-east-will-play-basketball-if-j-cole-makes-nba">"Dave East Says He's Going to Play Basketball If J. Cole Makes the NBA"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 5,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Dave+East+Says+He%27s+Going+to+Play+Basketball+If+J.+Cole+Makes+the+NBA&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fsports%2F2020%2F08%2Fdave-east-will-play-basketball-if-j-cole-makes-nba&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLuc_Belaire2018" class="citation cs2">Luc Belaire (April 30, 2018), <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=j7EJjvENZsI&amp;t=10s"><i>Dave East | Self Made Tastes Better, Episode 10</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">April 25,</span> 2019</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dave+East+%7C+Self+Made+Tastes+Better%2C+Episode+10&amp;rft.date=2018-04-30&amp;rft.au=Luc+Belaire&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dj7EJjvENZsI%26t%3D10s&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-plans-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-plans_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/dave-east-change-of-plans-hosted-by-dj-ill-will-and-dj-rockst-mixtape.2028.html">"Dave East – Change of Plans (Hosted by DJ Ill Will &amp; DJ Rockst"</a>. <i>HotNewHipHop</i>. July 15, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Dave+East+%E2%80%93+Change+of+Plans+%28Hosted+by+DJ+Ill+Will+%26+DJ+Rockst&amp;rft.date=2010-07-15&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fdave-east-change-of-plans-hosted-by-dj-ill-will-and-dj-rockst-mixtape.2028.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.indiehiphop.net/came-dave-east-story/">"How They Came Up: The Dave East Story"</a>. <i>Indie Hip Hop</i>. October 31, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Indie+Hip+Hop&amp;rft.atitle=How+They+Came+Up%3A+The+Dave+East+Story&amp;rft.date=2014-10-31&amp;rft_id=http%3A%2F%2Fwww.indiehiphop.net%2Fcame-dave-east-story%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-villagevoice-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-villagevoice_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-villagevoice_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.villagevoice.com/music/dave-east-has-harlem-nas-and-the-whole-city-behind-him-7704488">"Dave East Has Harlem, Nas, and the Whole City Behind Him"</a>. <i>Village Voice</i>. September 29, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Village+Voice&amp;rft.atitle=Dave+East+Has+Harlem%2C+Nas%2C+and+the+Whole+City+Behind+Him&amp;rft.date=2015-09-29&amp;rft_id=http%3A%2F%2Fwww.villagevoice.com%2Fmusic%2Fdave-east-has-harlem-nas-and-the-whole-city-behind-him-7704488&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/dave-east-gemini-mixtape.78630.html">"Dave East – Gemini (Hosted by Adrian Swish)"</a>. <i>HotNewHipHop</i>. April 15, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Dave+East+%E2%80%93+Gemini+%28Hosted+by+Adrian+Swish%29&amp;rft.date=2013-04-15&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fdave-east-gemini-mixtape.78630.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-hiphopdx-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-hiphopdx_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hiphopdx_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hiphopdx.com/news/id.35973/title.dave-east-details-signing-with-nas-mass-appeal">"Dave East Details Signing With Nas &amp; Mass Appeal"</a>. <i><a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a></i>. October 22, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Dave+East+Details+Signing+With+Nas+%26+Mass+Appeal&amp;rft.date=2015-10-22&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.35973%2Ftitle.dave-east-details-signing-with-nas-mass-appeal&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hiphopdx.com/news/id.30080/title.dave-east-black-rose-cover-art-tracklist-mixtape-stream">"Dave East "Black Rose" Cover Art, Tracklist &amp; Mixtape Stream"</a>. <i>HipHopDX</i>. August 5, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Dave+East+%22Black+Rose%22+Cover+Art%2C+Tracklist+%26+Mixtape+Stream&amp;rft.date=2014-08-05&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.30080%2Ftitle.dave-east-black-rose-cover-art-tracklist-mixtape-stream&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://thesource.com/2016/07/12/is-dave-east-destined-for-greatness/">"Is Dave East Destined For Greatness?"</a>. <i><a href="/wiki/The_Source" title="The Source">The Source</a></i>. July 12, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Source&amp;rft.atitle=Is+Dave+East+Destined+For+Greatness%3F&amp;rft.date=2016-07-12&amp;rft_id=http%3A%2F%2Fthesource.com%2F2016%2F07%2F12%2Fis-dave-east-destined-for-greatness%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.indiehiphop.net/came-dave-east-story/">"How They Came Up: The Dave East Story"</a>. <i>Indie Hip Hop</i>. October 31, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Indie+Hip+Hop&amp;rft.atitle=How+They+Came+Up%3A+The+Dave+East+Story&amp;rft.date=2014-10-31&amp;rft_id=http%3A%2F%2Fwww.indiehiphop.net%2Fcame-dave-east-story%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSchwartz2015" class="citation web cs1">Schwartz, Danny (October 1, 2015). <a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/dave-east-hate-me-now-new-mixtape.116055.html">"Dave East – Hate Me Now &#91;New Mixtape&#93;"</a>. <i>HotNewHipHop</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Dave+East+%E2%80%93+Hate+Me+Now+%5BNew+Mixtape%5D&amp;rft.date=2015-10-01&amp;rft.aulast=Schwartz&amp;rft.aufirst=Danny&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fdave-east-hate-me-now-new-mixtape.116055.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2016/06/xxl-freshman-class-cover-2016/">"2016 XXL Freshman Class Cover"</a>. <i>XXL</i>. June 13, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=2016+XXL+Freshman+Class+Cover&amp;rft.date=2016-06-13&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F06%2Fxxl-freshman-class-cover-2016%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFXXL2016" class="citation cs2">XXL (July 7, 2016), <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=aZHZDS2QkBo&amp;list=RDaZHZDS2QkBo&amp;start_radio=1"><i>G Herbo &amp; Dave East's 2016 XXL Freshmen Cypher</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">May 8,</span> 2019</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=G+Herbo+%26+Dave+East%27s+2016+XXL+Freshmen+Cypher&amp;rft.date=2016-07-07&amp;rft.au=XXL&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaZHZDS2QkBo%26list%3DRDaZHZDS2QkBo%26start_radio%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-EP-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-EP_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/stream-dave-east-and-kur-s-born-broke-die-rich-ep-news.23454.html">"Stream Dave East &amp; Kur's "Born Broke, Die Rich" EP"</a>. <i>HotNewHipHop</i>. August 12, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Stream+Dave+East+%26+Kur%27s+%22Born+Broke%2C+Die+Rich%22+EP&amp;rft.date=2016-08-12&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fstream-dave-east-and-kur-s-born-broke-die-rich-ep-news.23454.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hiphopdx.com/videos/id.24838/title.dave-east-young-m-a-more-trade-bars-on-2016-bet-cypher">"Dave East, Young M.A. &amp; More Trade Bars On 2016 BET Cypher"</a>. <i>HipHopDX</i>. October 4, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">October 12,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Dave+East%2C+Young+M.A.+%26+More+Trade+Bars+On+2016+BET+Cypher&amp;rft.date=2016-10-04&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Fvideos%2Fid.24838%2Ftitle.dave-east-young-m-a-more-trade-bars-on-2016-bet-cypher&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/hip-hop/7526307/dave-east-signs-to-def-jam">"Dave East Signs to Def Jam, Reveals Nas Will Executive Produce His Major Label Debut"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. September 29, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Dave+East+Signs+to+Def+Jam%2C+Reveals+Nas+Will+Executive+Produce+His+Major+Label+Debut&amp;rft.date=2016-09-29&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F7526307%2Fdave-east-signs-to-def-jam&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-kairi-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-kairi_20-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/stream-dave-easts-debut-album-kairi-chanel-news.24443.html">"Stream Dave East's Debut Album "Kairi Chanel"<span class="cs1-kern-right"></span>"</a>. <i>HotNewHipHop</i>. September 29, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Stream+Dave+East%27s+Debut+Album+%22Kairi+Chanel%22&amp;rft.date=2016-09-29&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fstream-dave-easts-debut-album-kairi-chanel-news.24443.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-B200-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-B200_21-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/6738447/dave-east/chart?f=305">"Dave East – Chart history"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 26,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Dave+East+%E2%80%93+Chart+history&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F6738447%2Fdave-east%2Fchart%3Ff%3D305&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Kairi_Chanel&amp;oldid=882916100">en:Kairi_Chanel,   oldid 882916100</a></span><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability#Wikipedia_and_sources_that_mirror_or_use_it" title="Wikipedia:Verifiability"><span title="This claim cites another Wikipedia article. Articles need references to reliable third-party sources. (July 2021)">circular reference</span></a></i>&#93;</sup></span>
+</li>
+<li id="cite_note-Bossip-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bossip_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bossip_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://bossip.com/1393805/watch-out-d-wade-rapper-dave-east-is-gabbys-guest-on-being-mary-jane-video/">"Watch Out D-Wade! Rapper Dave East Is Gabby's Guest On "Being Mary Jane" &#91;VIDEO&#93;"</a>. <i><a href="/wiki/Bossip" title="Bossip">Bossip</a></i>. December 31, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">January 26,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bossip&amp;rft.atitle=Watch+Out+D-Wade%21+Rapper+Dave+East+Is+Gabby%27s+Guest+On+%22Being+Mary+Jane%22+%5BVIDEO%5D&amp;rft.date=2016-12-31&amp;rft_id=https%3A%2F%2Fbossip.com%2F1393805%2Fwatch-out-d-wade-rapper-dave-east-is-gabbys-guest-on-being-mary-jane-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/lifestyle/2017/04/dave-east-stars-puma-tsugi-shinsei-lookbook/">"Dave East Stars in Puma's Brand New Tsugi Shinsei Lookbook"</a>. <i>XXL</i>. April 14, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">June 30,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=Dave+East+Stars+in+Puma%27s+Brand+New+Tsugi+Shinsei+Lookbook&amp;rft.date=2017-04-14&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Flifestyle%2F2017%2F04%2Fdave-east-stars-puma-tsugi-shinsei-lookbook%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.vibe.com/2017/06/trina-if-it-aint-me-video-k-michelle/">"Trina Releases "If It Ain't Me" Video With K. Michelle"</a>. <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i>. June 27, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">June 30,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vibe&amp;rft.atitle=Trina+Releases+%22If+It+Ain%27t+Me%22+Video+With+K.+Michelle&amp;rft.date=2017-06-27&amp;rft_id=http%3A%2F%2Fwww.vibe.com%2F2017%2F06%2Ftrina-if-it-aint-me-video-k-michelle%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/chart-beat/7942129/brand-new-first-number-1-album-billboard-200-chart-science-fiction">"Brand New Scores First No. 1 Album on Billboard 200 Chart With 'Science Fiction'<span class="cs1-kern-right"></span>"</a>. <i>Billboard</i>. August 27, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">August 28,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Brand+New+Scores+First+No.+1+Album+on+Billboard+200+Chart+With+%27Science+Fiction%27&amp;rft.date=2017-08-27&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fchart-beat%2F7942129%2Fbrand-new-first-number-1-album-billboard-200-chart-science-fiction&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/hip-hop/7717253/a-trak-goldie-awards-dave-east-interview">"A-Trak's Goldie Awards: Dave East to Host &amp; More Details"</a>. <i>Billboard</i>. June 6, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">June 30,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=A-Trak%27s+Goldie+Awards%3A+Dave+East+to+Host+%26+More+Details&amp;rft.date=2017-06-06&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F7717253%2Fa-trak-goldie-awards-dave-east-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://spinrilla.com/mixtapes/dave-east-paranoia-2">"Paranoia 2"</a>, <i>Spinrilla.com</i>, January 16, 2018<span class="reference-accessdate">, retrieved <span class="nowrap">May 8,</span> 2019</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Spinrilla.com&amp;rft.atitle=Paranoia+2&amp;rft.date=2018-01-16&amp;rft_id=https%3A%2F%2Fspinrilla.com%2Fmixtapes%2Fdave-east-paranoia-2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDave_East2018" class="citation cs2">Dave East (July 13, 2018), <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=_faCBWAmkgY"><i>Dave East &amp; Rick Ross – Fresh Prince of Belaire (Official Video)</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">May 8,</span> 2019</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dave+East+%26+Rick+Ross+%E2%80%93+Fresh+Prince+of+Belaire+%28Official+Video%29&amp;rft.date=2018-07-13&amp;rft.au=Dave+East&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_faCBWAmkgY&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190508220037/http://thefreshcommittee.com/2018/03/new-era-debuts-claim-crown-campaign-featuring-dave-east-mike-will-made/">"New Era Debuts "Claim The Croen" Campaign Featuring Dave East, Mike WiLL Made-It &amp; More"</a>. <i>The Fresh Committee</i>. March 6, 2018. Archived from <a rel="nofollow" class="external text" href="http://thefreshcommittee.com/2018/03/new-era-debuts-claim-crown-campaign-featuring-dave-east-mike-will-made/">the original</a> on May 8, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">May 8,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Fresh+Committee&amp;rft.atitle=New+Era+Debuts+%22Claim+The+Croen%22+Campaign+Featuring+Dave+East%2C+Mike+WiLL+Made-It+%26+More&amp;rft.date=2018-03-06&amp;rft_id=http%3A%2F%2Fthefreshcommittee.com%2F2018%2F03%2Fnew-era-debuts-claim-crown-campaign-featuring-dave-east-mike-will-made%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.datpiff.com/Dave-East-Karma-2-mixtape.903805.html">"Karma 2 Mixtape by Dave East Hosted by DJ Holiday"</a>. <i>Datpiff.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Datpiff.com&amp;rft.atitle=Karma+2+Mixtape+by+Dave+East+Hosted+by+DJ+Holiday&amp;rft_id=https%3A%2F%2Fwww.datpiff.com%2FDave-East-Karma-2-mixtape.903805.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/dave-east">"Dave East"</a>. <i>Billboard.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard.com&amp;rft.atitle=Dave+East&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fdave-east&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDay-Ramos2019" class="citation web cs1">Day-Ramos, Dino (September 13, 2019). <a rel="nofollow" class="external text" href="https://deadline.com/2019/09/eddie-huangs-boogie-cast-mike-moh-dave-east-taylor-paige-alexa-mareka-perry-yung-1202733910/">"Eddie Huang's 'Boogie' Rounds Out Cast With Mike Moh, Dave East, Perry Yung, Taylour Paige and Alexa Mareka"</a>. <i><a href="/wiki/Deadline_Hollywood" title="Deadline Hollywood">Deadline Hollywood</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 14,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Deadline+Hollywood&amp;rft.atitle=Eddie+Huang%27s+%27Boogie%27+Rounds+Out+Cast+With+Mike+Moh%2C+Dave+East%2C+Perry+Yung%2C+Taylour+Paige+and+Alexa+Mareka&amp;rft.date=2019-09-13&amp;rft.aulast=Day-Ramos&amp;rft.aufirst=Dino&amp;rft_id=https%3A%2F%2Fdeadline.com%2F2019%2F09%2Feddie-huangs-boogie-cast-mike-moh-dave-east-taylor-paige-alexa-mareka-perry-yung-1202733910%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.today.com/popculture/eddie-huang-says-casting-pop-smoke-boogie-was-blessing-t210946">"Eddie Huang says casting late rapper Pop Smoke in 'Boogie' was 'a blessing'<span class="cs1-kern-right"></span>"</a>. <i>Today.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 21,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Today.com&amp;rft.atitle=Eddie+Huang+says+casting+late+rapper+Pop+Smoke+in+%27Boogie%27+was+%27a+blessing%27&amp;rft_id=https%3A%2F%2Fwww.today.com%2Fpopculture%2Feddie-huang-says-casting-pop-smoke-boogie-was-blessing-t210946&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ew.com/movies/boogie-director-eddie-huang-on-pop-smoke-casting/">"<span class="cs1-kern-left"></span>'Boogie' director Eddie Huang explains how casting Pop Smoke was a last minute 'blessing'<span class="cs1-kern-right"></span>"</a>. <i>EW.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 21,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EW.com&amp;rft.atitle=%27Boogie%27+director+Eddie+Huang+explains+how+casting+Pop+Smoke+was+a+last+minute+%27blessing%27&amp;rft_id=https%3A%2F%2Few.com%2Fmovies%2Fboogie-director-eddie-huang-on-pop-smoke-casting%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlistein2019" class="citation magazine cs1">Blistein, Jon (September 20, 2019). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-news/dj-shadow-new-song-rosie-our-pathetic-age-887638/">"DJ Shadow Previews New Album 'Our Pathetic Age' With Hard-Hitting 'Rosie'<span class="cs1-kern-right"></span>"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 21,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=DJ+Shadow+Previews+New+Album+%27Our+Pathetic+Age%27+With+Hard-Hitting+%27Rosie%27&amp;rft.date=2019-09-20&amp;rft.aulast=Blistein&amp;rft.aufirst=Jon&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2Fdj-shadow-new-song-rosie-our-pathetic-age-887638%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.highsnobiety.com/p/dave-east-gunna-everyday-video/">"Dave East ft. Gunna "Everyday" Video: Watch It Here"</a>. <i>Highsnobiety.com</i>. August 30, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Highsnobiety.com&amp;rft.atitle=Dave+East+ft.+Gunna+%22Everyday%22+Video%3A+Watch+It+Here&amp;rft.date=2019-08-30&amp;rft_id=https%3A%2F%2Fwww.highsnobiety.com%2Fp%2Fdave-east-gunna-everyday-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://open.spotify.com/album/1TN1PfKVAme28YrCC31SBT">"Survival Pacc"</a>. August 2, 2019 &#8211; via open.spotify.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Survival+Pacc&amp;rft.date=2019-08-02&amp;rft_id=https%3A%2F%2Fopen.spotify.com%2Falbum%2F1TN1PfKVAme28YrCC31SBT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/hip-hop/8543005/dave-east-survival-interview">"Dave East 'Survival' Interview: Talks Debut Album, Nas and His Love For Acting"</a>. <i>Billboard.com</i>. November 7, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard.com&amp;rft.atitle=Dave+East+%27Survival%27+Interview%3A+Talks+Debut+Album%2C+Nas+and+His+Love+For+Acting&amp;rft.date=2019-11-07&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F8543005%2Fdave-east-survival-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.rap-up.com/2019/11/04/dave-east-survival-tracklisting/">"Dave East Reveals 'Survival' Tracklisting"</a>. <i>Rap-Up</i>. October 4, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">November 5,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rap-Up&amp;rft.atitle=Dave+East+Reveals+%27Survival%27+Tracklisting&amp;rft.date=2019-10-04&amp;rft_id=https%3A%2F%2Fwww.rap-up.com%2F2019%2F11%2F04%2Fdave-east-survival-tracklisting%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://allhiphop.com/news/dave-east-reveals-karma-3-album-cover-featuring-images-of-nipsey-hussle-pop-smoke-riU4iJKaRUyyGoukI3BOTQ">"Dave East Reveals 'Karma 3' Album Cover Featuring Images Of Nipsey Hussle &amp; Pop Smoke"</a>. <i>Allhiphop.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Allhiphop.com&amp;rft.atitle=Dave+East+Reveals+%27Karma+3%27+Album+Cover+Featuring+Images+Of+Nipsey+Hussle+%26+Pop+Smoke&amp;rft_id=https%3A%2F%2Fallhiphop.com%2Fnews%2Fdave-east-reveals-karma-3-album-cover-featuring-images-of-nipsey-hussle-pop-smoke-riU4iJKaRUyyGoukI3BOTQ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPowell2020" class="citation web cs1">Powell, Jon (March 13, 2020). <a rel="nofollow" class="external text" href="https://www.revolt.tv/new-music/2020/3/13/21178162/dave-east-really-wit-me-video">"Dave East prepares us for warmer weather with "Really Wit Me" video"</a>. <i>Revolt.tv</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Revolt.tv&amp;rft.atitle=Dave+East+prepares+us+for+warmer+weather+with+%22Really+Wit+Me%22+video&amp;rft.date=2020-03-13&amp;rft.aulast=Powell&amp;rft.aufirst=Jon&amp;rft_id=https%3A%2F%2Fwww.revolt.tv%2Fnew-music%2F2020%2F3%2F13%2F21178162%2Fdave-east-really-wit-me-video&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-K3-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-K3_43-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.rap-up.com/2020/08/11/dave-east-karma-3-tracklist/amp/">"Dave East Reveals 'Karma 3' Tracklist"</a>. <i><a href="/wiki/Rap-Up" title="Rap-Up">Rap-Up</a></i>. August 11, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">August 11,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rap-Up&amp;rft.atitle=Dave+East+Reveals+%27Karma+3%27+Tracklist&amp;rft.date=2020-08-11&amp;rft_id=https%3A%2F%2Fwww.rap-up.com%2F2020%2F08%2F11%2Fdave-east-karma-3-tracklist%2Famp%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.metacritic.com/music/karma-3-mixtape/dave-east/critic-reviews">"Critic Reviews for Karma 3 &#91;Mixtape&#93; – Metacritic"</a>. <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 24,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Critic+Reviews+for+Karma+3+%5BMixtape%5D+%E2%80%93+Metacritic&amp;rft.pub=Metacritic&amp;rft_id=https%3A%2F%2Fwww.metacritic.com%2Fmusic%2Fkarma-3-mixtape%2Fdave-east%2Fcritic-reviews&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGeorge2020" class="citation web cs1">George, Rachel (October 20, 2020). <a rel="nofollow" class="external text" href="http://abcnewsradioonline.com/music-news/2020/10/20/dave-east-shares-the-visual-for-his-single-envy.html">"Dave East shares the visual for his single, "Envy"<span class="cs1-kern-right"></span>"</a>. <i><a href="/wiki/ABC_News_Radio" title="ABC News Radio">ABC News Radio</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 22,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+News+Radio&amp;rft.atitle=Dave+East+shares+the+visual+for+his+single%2C+%22Envy%22&amp;rft.date=2020-10-20&amp;rft.aulast=George&amp;rft.aufirst=Rachel&amp;rft_id=http%3A%2F%2Fabcnewsradioonline.com%2Fmusic-news%2F2020%2F10%2F20%2Fdave-east-shares-the-visual-for-his-single-envy.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-BigBiz-46"><span class="mw-cite-backlink">^ <a href="#cite_ref-BigBiz_46-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BigBiz_46-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBrown2022" class="citation web cs1">Brown, Preezy (January 21, 2022). <a rel="nofollow" class="external text" href="https://www.vibe.com/features/editorial/dave-east-interview-1234643840/">"Dave East Is Ready For Big Business"</a>. <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 24,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vibe&amp;rft.atitle=Dave+East+Is+Ready+For+Big+Business&amp;rft.date=2022-01-21&amp;rft.aulast=Brown&amp;rft.aufirst=Preezy&amp;rft_id=https%3A%2F%2Fwww.vibe.com%2Ffeatures%2Feditorial%2Fdave-east-interview-1234643840%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.highsnobiety.com/2016/04/11/dave-east-all-the-way-up-remix/">"Dave East Reps Harlem in His Version of Fat Joe's "All The Way Up"<span class="cs1-kern-right"></span>"</a>. <i>Highsnobiety</i>. April 11, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Highsnobiety&amp;rft.atitle=Dave+East+Reps+Harlem+in+His+Version+of+Fat+Joe%27s+%22All+The+Way+Up%22&amp;rft.date=2016-04-11&amp;rft_id=http%3A%2F%2Fwww.highsnobiety.com%2F2016%2F04%2F11%2Fdave-east-all-the-way-up-remix%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160806000207/http://therapfest.com/2015/10/whoisdaveeast-echos-a-nostalgic-new-york-street-vibe-on-hate-me-now/">"Dave East Echoes A Nostalgic New York Street Vibe On 'Hate Me Now'<span class="cs1-kern-right"></span>"</a>. <i>TheRapfest</i>. October 12, 2015. Archived from <a rel="nofollow" class="external text" href="http://therapfest.com/2015/10/whoisdaveeast-echos-a-nostalgic-new-york-street-vibe-on-hate-me-now/">the original</a> on August 6, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TheRapfest&amp;rft.atitle=Dave+East+Echoes+A+Nostalgic+New+York+Street+Vibe+On+%27Hate+Me+Now%27&amp;rft.date=2015-10-12&amp;rft_id=http%3A%2F%2Ftherapfest.com%2F2015%2F10%2Fwhoisdaveeast-echos-a-nostalgic-new-york-street-vibe-on-hate-me-now%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://freshman.xxlmag.com/dave-east/">"Dave East – 2016 XXL Freshman Class"</a>. <i>XXL</i>. June 28, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=Dave+East+%E2%80%93+2016+XXL+Freshman+Class&amp;rft.date=2016-06-28&amp;rft_id=http%3A%2F%2Ffreshman.xxlmag.com%2Fdave-east%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://massappeal.com/mass-appeal-issue-56-on-deck/">"Mass Appeal — Mass Appeal Issue 56: On Deck"</a>. <i>Mass Appeal</i>. June 15, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Mass+Appeal&amp;rft.atitle=Mass+Appeal+%E2%80%94+Mass+Appeal+Issue+56%3A+On+Deck&amp;rft.date=2015-06-15&amp;rft_id=http%3A%2F%2Fmassappeal.com%2Fmass-appeal-issue-56-on-deck%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2017/03/dave-east-converting-islam-jail/">"Dave East Opens up About Converting to Islam After Being in Jail – XXL"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dave+East+Opens+up+About+Converting+to+Islam+After+Being+in+Jail+%E2%80%93+XXL&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2017%2F03%2Fdave-east-converting-islam-jail%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://icecreamconvos.com/baby-scoop-rapper-dave-east-welcomes-baby-girl/">"BABY SCOOP: Rapper Dave East Welcomes A Baby Girl"</a>. <i>Ice Cream Convos</i>. March 9, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">July 11,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ice+Cream+Convos&amp;rft.atitle=BABY+SCOOP%3A+Rapper+Dave+East+Welcomes+A+Baby+Girl&amp;rft.date=2016-03-09&amp;rft_id=http%3A%2F%2Ficecreamconvos.com%2Fbaby-scoop-rapper-dave-east-welcomes-baby-girl%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMiller2018" class="citation web cs1">Miller, Kai (June 9, 2018). <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2018/06/snoop-dogg-dave-east-cripn-4-life-video/">"Snoop Dogg and Dave East Rep Their Set in "Cripn 4 Life" Video"</a>. <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 5,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=Snoop+Dogg+and+Dave+East+Rep+Their+Set+in+%22Cripn+4+Life%22+Video&amp;rft.date=2018-06-09&amp;rft.aulast=Miller&amp;rft.aufirst=Kai&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2018%2F06%2Fsnoop-dogg-dave-east-cripn-4-life-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/anthony-anderson-uzo-aduba-dave-east-and-dreezy-star-in-netflixs-beats-news.80216.html">"Anthony Anderson, Uzo Aduba, Dave East, &amp; Dreezy Star In Netflix's "Beats"<span class="cs1-kern-right"></span>"</a>. <i>HotNewHipHop</i>. May 15, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">June 20,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Anthony+Anderson%2C+Uzo+Aduba%2C+Dave+East%2C+%26+Dreezy+Star+In+Netflix%27s+%22Beats%22&amp;rft.date=2019-05-15&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fanthony-anderson-uzo-aduba-dave-east-and-dreezy-star-in-netflixs-beats-news.80216.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.vh1.com/news/308048/the-breaks-nikki-jones-barry-fouray-video/">"The Beef Between Barry and Nikki Brews Over to Imani X and Dave East Makes His Debut on The Breaks"</a>. <i><a href="/wiki/VH1" title="VH1">VH1</a></i>. April 4, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=VH1&amp;rft.atitle=The+Beef+Between+Barry+and+Nikki+Brews+Over+to+Imani+X+and+Dave+East+Makes+His+Debut+on+The+Breaks&amp;rft.date=2017-04-04&amp;rft_id=http%3A%2F%2Fwww.vh1.com%2Fnews%2F308048%2Fthe-breaks-nikki-jones-barry-fouray-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://deadline.com/2019/03/wu-tang-an-american-saga-julian-elijah-martinez-dave-east-vinnie-pastore-join-cast-of-hulu-drama-series-craig-zisk-to-direct-1202569422//">"<span class="cs1-kern-left"></span>'Wu-Tang: An American Saga': Julian Elijah Martinez, Dave East &amp; Vinnie Pastore Join Cast Of Hulu Drama Series, Craig Zisk To Direct"</a>. <i><a href="/wiki/Deadline_Hollywood" title="Deadline Hollywood">Deadline Hollywood</a></i>. March 5, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">April 2,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Deadline+Hollywood&amp;rft.atitle=%27Wu-Tang%3A+An+American+Saga%27%3A+Julian+Elijah+Martinez%2C+Dave+East+%26+Vinnie+Pastore+Join+Cast+Of+Hulu+Drama+Series%2C+Craig+Zisk+To+Direct&amp;rft.date=2019-03-05&amp;rft_id=https%3A%2F%2Fdeadline.com%2F2019%2F03%2Fwu-tang-an-american-saga-julian-elijah-martinez-dave-east-vinnie-pastore-join-cast-of-hulu-drama-series-craig-zisk-to-direct-1202569422%2F%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.bmi.com/special/social_star_2017">"BMI Social Star Award 2017"</a>. <i><a href="/wiki/BMI_Awards" class="mw-redirect" title="BMI Awards">BMI Awards</a></i>. August 14, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">August 27,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BMI+Awards&amp;rft.atitle=BMI+Social+Star+Award+2017&amp;rft.date=2017-08-14&amp;rft_id=https%3A%2F%2Fwww.bmi.com%2Fspecial%2Fsocial_star_2017&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.grammy.com/news/2023-grammy-nominations-complete-winners-nominees-list">"2023 GRAMMY Nominations: See The Complete Nominees List"</a>. <i><a href="/wiki/GRAMMY.com" class="mw-redirect" title="GRAMMY.com">GRAMMY.com</a></i>. November 15, 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">January 16,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=GRAMMY.com&amp;rft.atitle=2023+GRAMMY+Nominations%3A+See+The+Complete+Nominees+List&amp;rft.date=2022-11-15&amp;rft_id=https%3A%2F%2Fwww.grammy.com%2Fnews%2F2023-grammy-nominations-complete-winners-nominees-list&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADave+East" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dave_East&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Dave_East" class="extiw" title="commons:Category:Dave East">Dave East</a></span>.</div></div>
+</div>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.daveeastmusic.com">Official website</a></span></span> <span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q21260700#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/mn0001201453">Dave East</a> at <a href="/wiki/AllMusic_(identifier)" class="mw-redirect" title="AllMusic (identifier)">AllMusic</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q21260700#P1728" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/3865520">Dave East</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q21260700#P1953" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://zulupop.com/tag/dave-east">Dave East</a> at Zulupop</li>
+<li><a rel="nofollow" class="external text" href="https://www.sports-reference.com/cbb/players/david-brewster-2.html">College basketball statistics</a> @ sports-reference.com</li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Dave_East" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Dave_East" title="Template:Dave East"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Dave_East" title="Template talk:Dave East"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Dave_East&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Dave_East" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Dave East</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div><a href="/wiki/Dave_East_discography" title="Dave East discography">Discography</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Survival_(Dave_East_album)" title="Survival (Dave East album)">Survival</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Mixtapes</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Hate_Me_Now_(mixtape)" title="Hate Me Now (mixtape)">Hate Me Now</a></i> (2015)</li>
+<li><i><a href="/wiki/Kairi_Chanel" title="Kairi Chanel">Kairi Chanel</a></i> (2016)</li>
+<li><i><a href="/wiki/Paranoia:_A_True_Story" title="Paranoia: A True Story">Paranoia: A True Story</a></i> (2017)</li>
+<li><i><a href="/wiki/Paranoia_2" title="Paranoia 2">Paranoia 2</a></i> (2018)</li>
+<li><i><a href="/wiki/Karma_3" title="Karma 3">Karma 3</a></i> (2020)</li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q21260700#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q21260700#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q21260700#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/8870149198312674940000">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2017042976">United States</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.grammy.com/grammys/artists/david-brewster/51626">Grammy Awards</a></span></li>
+<li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Dave East (US rapper)"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/21471bf5-567a-4e6a-b264-2514618d343f">MusicBrainz</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2378
+Cached time: 20230920005722
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.742 seconds
+Real time usage: 0.895 seconds
+Preprocessor visited node count: 4544/1000000
+Post‐expand include size: 124812/2097152 bytes
+Template argument size: 4333/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 175304/5000000 bytes
+Lua time usage: 0.460/10.000 seconds
+Lua memory usage: 10340186/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  809.884      1 -total
+ 41.24%  334.024      1 Template:Reflist
+ 26.21%  212.238     45 Template:Cite_web
+ 17.22%  139.474      1 Template:Infobox_musical_artist
+ 15.37%  124.465      1 Template:Infobox
+  7.22%   58.495      1 Template:Dave_East
+  7.01%   56.756      2 Template:Short_description
+  6.98%   56.495      1 Template:Navbox_musical_artist
+  6.67%   54.016      1 Template:Navbox
+  5.88%   47.591      2 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:48029919-0!canonical and timestamp 20230920005721 and revision id 1171164451. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dave_East&amp;oldid=1171164451">https://en.wikipedia.org/w/index.php?title=Dave_East&amp;oldid=1171164451</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1988_births" title="Category:1988 births">1988 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:African-American_Muslims" title="Category:African-American Muslims">African-American Muslims</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:American_men%27s_basketball_players" title="Category:American men&#039;s basketball players">American men's basketball players</a></li><li><a href="/wiki/Category:American_people_of_Barbadian_descent" title="Category:American people of Barbadian descent">American people of Barbadian descent</a></li><li><a href="/wiki/Category:American_rappers_of_Dominican_Republic_descent" title="Category:American rappers of Dominican Republic descent">American rappers of Dominican Republic descent</a></li><li><a href="/wiki/Category:Basketball_players_from_New_York_City" title="Category:Basketball players from New York City">Basketball players from New York City</a></li><li><a href="/wiki/Category:Converts_to_Islam" title="Category:Converts to Islam">Converts to Islam</a></li><li><a href="/wiki/Category:Crips" title="Category:Crips">Crips</a></li><li><a href="/wiki/Category:Def_Jam_Recordings_artists" title="Category:Def Jam Recordings artists">Def Jam Recordings artists</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:People_from_East_Harlem" title="Category:People from East Harlem">People from East Harlem</a></li><li><a href="/wiki/Category:People_from_Long_Island_City,_Queens" title="Category:People from Long Island City, Queens">People from Long Island City, Queens</a></li><li><a href="/wiki/Category:Rappers_from_Manhattan" title="Category:Rappers from Manhattan">Rappers from Manhattan</a></li><li><a href="/wiki/Category:Rappers_from_New_York_City" title="Category:Rappers from New York City">Rappers from New York City</a></li><li><a href="/wiki/Category:Gangsta_rappers" title="Category:Gangsta rappers">Gangsta rappers</a></li><li><a href="/wiki/Category:Richmond_Spiders_men%27s_basketball_players" title="Category:Richmond Spiders men&#039;s basketball players">Richmond Spiders men's basketball players</a></li><li><a href="/wiki/Category:Towson_Tigers_men%27s_basketball_players" title="Category:Towson Tigers men&#039;s basketball players">Towson Tigers men's basketball players</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li><li><a href="/wiki/Category:Hispanic_and_Latino_American_rappers" title="Category:Hispanic and Latino American rappers">Hispanic and Latino American rappers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_July_2021" title="Category:Articles lacking reliable references from July 2021">Articles lacking reliable references from July 2021</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2022" title="Category:Use mdy dates from April 2022">Use mdy dates from April 2022</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2022" title="Category:Articles with unsourced statements from November 2022">Articles with unsourced statements from November 2022</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_Grammy_identifiers" title="Category:Articles with Grammy identifiers">Articles with Grammy identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 19 August 2023, at 12:06<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dave_East&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2392","wgBackendResponseTime":141,"wgPageParseReport":{"limitreport":{"cputime":"0.742","walltime":"0.895","ppvisitednodes":{"value":4544,"limit":1000000},"postexpandincludesize":{"value":124812,"limit":2097152},"templateargumentsize":{"value":4333,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":175304,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  809.884      1 -total"," 41.24%  334.024      1 Template:Reflist"," 26.21%  212.238     45 Template:Cite_web"," 17.22%  139.474      1 Template:Infobox_musical_artist"," 15.37%  124.465      1 Template:Infobox","  7.22%   58.495      1 Template:Dave_East","  7.01%   56.756      2 Template:Short_description","  6.98%   56.495      1 Template:Navbox_musical_artist","  6.67%   54.016      1 Template:Navbox","  5.88%   47.591      2 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.460","limit":"10.000"},"limitreport-memusage":{"value":10340186,"limit":52428800}},"cachereport":{"origin":"mw2378","timestamp":"20230920005722","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dave East","url":"https:\/\/en.wikipedia.org\/wiki\/Dave_East","sameAs":"http:\/\/www.wikidata.org\/entity\/Q21260700","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q21260700","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-10-03T14:54:00Z","dateModified":"2023-08-19T12:06:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/42\/Dave_East_June_2017.png","headline":"American rapper"}</script>
+</body>
+</html>

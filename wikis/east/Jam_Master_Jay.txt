@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Jam Master Jay - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"dec4ddde-05b4-4352-961e-5b4ff2b06568","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jam_Master_Jay","wgTitle":"Jam Master Jay","wgCurRevisionId":1173961262,"wgRevisionId":1173961262,"wgArticleId":23727639,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Use mdy dates from April 2022","Articles with hCards","Short description is different from Wikidata","Pages using infobox musical artist with associated acts","Pages using embedded infobox templates with the title parameter","Commons category link from Wikidata","Official website different in Wikidata and Wikipedia","MusicBrainz artist different from Wikidata","Articles with MusicBrainz artist links","Articles with FAST identifiers","Articles with ISNI identifiers",
+"Articles with VIAF identifiers","Articles with BNE identifiers","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with GND identifiers","Articles with LCCN identifiers","Articles with NKC identifiers","Articles with NTA identifiers","Articles with MusicBrainz identifiers","Articles with SUDOC identifiers","1965 births","2002 deaths","2002 murders in the United States","20th-century American male musicians","African-American DJs","African-American male rappers","American male rappers","American beatboxers","American murder victims","American hip hop DJs","Andrew Jackson High School (Queens) alumni","Burials at Ferncliff Cemetery","Deaths by firearm in Queens, New York","East Coast hip hop musicians","Male murder victims","Murdered African-American people","People from Hollis, Queens","People murdered in New York City","Rappers from Brooklyn","Run-DMC members","Unsolved murders in the United States"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Jam_Master_Jay","wgRelevantArticleId":23727639,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q462735","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform",
+"platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/2a/Jam_Master_Jay.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1645">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jam_Master_Jay.png/800px-Jam_Master_Jay.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1097">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jam_Master_Jay.png/640px-Jam_Master_Jay.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="877">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Jam Master Jay - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Jam_Master_Jay">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jam_Master_Jay&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jam_Master_Jay">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Jam_Master_Jay rootpage-Jam_Master_Jay skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jam+Master+Jay" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jam+Master+Jay" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jam+Master+Jay" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jam+Master+Jay" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Death"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Death">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Death</div>
+		</a>
+		
+			<button aria-controls="toc-Death-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Death subsection</span>
+			</button>
+		
+		<ul id="toc-Death-sublist" class="vector-toc-list">
+			<li id="toc-2020_arrests"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2020_arrests">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>2020 arrests</div>
+			</a>
+			
+			<ul id="toc-2020_arrests-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Jam Master Jay</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 20 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-20" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">20 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%AC%D9%85_%D9%85%D8%B3%D8%AA%D8%B1_%D8%AC%DB%8C" title="جم مستر جی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D9%85_%D9%85%D8%B3%D8%AA%D8%B1_%D8%AC%DB%8C" title="جم مستر جی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%9E%BC_%EB%A7%88%EC%8A%A4%ED%84%B0_%EC%A0%9C%EC%9D%B4" title="잼 마스터 제이 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Jason_Mizell" title="Jason Mizell – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85_%D9%85%D8%A7%D8%B3%D8%AA%D8%B1_%D8%AC%D8%A7%D9%89" title="جام ماستر جاى – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%A0%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B8%E3%82%A7%E3%82%A4" title="ジャム・マスター・ジェイ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Jason_Mizell" title="Jason Mizell – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BC_%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D0%B5%D0%B9" title="Джем Мастер Джей – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Jam_Master_Jay" title="Jam Master Jay – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BC_%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D0%B5%D0%B9" title="Джем Майстер Джей – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q462735#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Jam_Master_Jay" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Jam_Master_Jay" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Jam_Master_Jay"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Jam_Master_Jay&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Jam_Master_Jay&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Jam_Master_Jay"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Jam_Master_Jay&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Jam_Master_Jay&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Jam_Master_Jay" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Jam_Master_Jay" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Jam_Master_Jay&amp;oldid=1173961262" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Jam_Master_Jay&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jam_Master_Jay&amp;id=1173961262&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q462735" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Jam_Master_Jay&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Jam_Master_Jay&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Jam_Master_Jay" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American hip hop musician (1965–2002)</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Jam Master Jay</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Jam_Master_Jay.png" class="mw-file-description" title="Jam Master Jay in 1985"><img alt="Jam Master Jay in 1985" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jam_Master_Jay.png/220px-Jam_Master_Jay.png" decoding="async" width="220" height="302" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jam_Master_Jay.png/330px-Jam_Master_Jay.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jam_Master_Jay.png/440px-Jam_Master_Jay.png 2x" data-file-width="1016" data-file-height="1393" /></a></span><div class="infobox-caption">Jam Master Jay in 1985</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Jason William Mizell</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname">DJ Jazzy Jase<br />Jam Master Funk</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none">(<span class="bday">1965-01-21</span>)</span>January 21, 1965<br />New York City, U.S.</td></tr><tr><th scope="row" class="infobox-label">Died</th><td class="infobox-data">October 30, 2002<span style="display:none">(2002-10-30)</span> (aged&#160;37)<br />New York City, U.S.
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"></td></tr><tr><th scope="row" class="infobox-label">Cause&#160;of death</th><td class="infobox-data">Murder (gunshot wound)</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a>, <a href="/wiki/Golden_age_hip_hop" title="Golden age hip hop">golden age hip hop</a>, <a href="/wiki/Rap_rock" title="Rap rock">rap rock</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><a href="/wiki/Disc_jockey" title="Disc jockey">Disc jockey</a>, <a href="/wiki/Hip_hop_producer" class="mw-redirect" title="Hip hop producer">producer</a></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note">Vocals, turntables</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1983–2002</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li><a href="/wiki/Jam_Master_Jay_Records" class="mw-redirect" title="Jam Master Jay Records">JMJ</a></li>
+<li><a href="/wiki/Profile_Records" title="Profile Records">Profile</a></li></ul>
+</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://jasonmizell.com">jasonmizell<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Jason William Mizell</b> (January 21, 1965 – October 30, 2002), better known by his stage name <b>Jam Master Jay</b>, was an American musician and DJ. He was the DJ of the influential <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> group <a href="/wiki/Run-DMC" title="Run-DMC">Run-DMC</a>. During the 1980s, Run-DMC became one of the biggest hip hop groups and are credited with breaking hip hop into mainstream music.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-stone_2-0" class="reference"><a href="#cite_note-stone-2">&#91;2&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jam_Master_Jay&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jason Mizell was born in <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, New York City,<sup id="cite_ref-mtvauto_3-0" class="reference"><a href="#cite_note-mtvauto-3">&#91;3&#93;</a></sup> the son of Jesse Mizell and Connie Thompson Mizell<sup id="cite_ref-villiage_4-0" class="reference"><a href="#cite_note-villiage-4">&#91;4&#93;</a></sup> (later Connie Mizell-Perry)<sup id="cite_ref-official_foundation_5-0" class="reference"><a href="#cite_note-official_foundation-5">&#91;5&#93;</a></sup> whose other children are Marvin L. Thompson and Bonita Jones.<sup id="cite_ref-villiage_4-1" class="reference"><a href="#cite_note-villiage-4">&#91;4&#93;</a></sup>
+</p><p>At age three, Jason began playing trumpet. He learned to play bass, guitar, and drums. He performed at his church and in various bands prior to discovering <a href="/wiki/Turntablism" title="Turntablism">turntablism</a>.<sup id="cite_ref-villiage_4-2" class="reference"><a href="#cite_note-villiage-4">&#91;4&#93;</a></sup> After he and his family moved to <a href="/wiki/Hollis,_Queens" title="Hollis, Queens">Hollis, Queens</a>, New York City, in 1975 at the age of 10, he discovered the turntables and started DJing at the age of 13.<sup id="cite_ref-mtvauto_3-1" class="reference"><a href="#cite_note-mtvauto-3">&#91;3&#93;</a></sup><sup id="cite_ref-villiage_4-3" class="reference"><a href="#cite_note-villiage-4">&#91;4&#93;</a></sup>  He was high school friends with <a href="/wiki/DJ_Hurricane" title="DJ Hurricane">Wendell "DJ Hurricane" Fite</a>, known for his 13-year collaboration with <a href="/wiki/The_Beastie_Boys" class="mw-redirect" title="The Beastie Boys">The Beastie Boys</a>.<sup id="cite_ref-Owen2003_6-0" class="reference"><a href="#cite_note-Owen2003-6">&#91;6&#93;</a></sup>
+</p><p>As a teenager, Mizell was involved with a group that committed residential <a href="/wiki/Burglaries" class="mw-redirect" title="Burglaries">burglaries</a>.<sup id="cite_ref-Owen2003_6-1" class="reference"><a href="#cite_note-Owen2003-6">&#91;6&#93;</a></sup> An encounter with an armed security guard frightened him into stopping the burglaries, and as an adult he was known for discouraging criminal activities among his friends and family.<sup id="cite_ref-Owen2003_6-2" class="reference"><a href="#cite_note-Owen2003-6">&#91;6&#93;</a></sup>
+</p><p>For a time, he lived in <a href="/wiki/Atlantic_City,_New_Jersey" title="Atlantic City, New Jersey">Atlantic City, New Jersey</a>, where turntablism pioneer DJ Def Lou Hauck <sup id="cite_ref-mtvauto_3-2" class="reference"><a href="#cite_note-mtvauto-3">&#91;3&#93;</a></sup><sup id="cite_ref-djtimes_7-0" class="reference"><a href="#cite_note-djtimes-7">&#91;7&#93;</a></sup> taught him to <a href="/wiki/Crossfade_(audio_engineering)" class="mw-redirect" title="Crossfade (audio engineering)">crossfade</a>.<sup id="cite_ref-mtvauto_3-3" class="reference"><a href="#cite_note-mtvauto-3">&#91;3&#93;</a></sup><sup id="cite_ref-djtimes_7-1" class="reference"><a href="#cite_note-djtimes-7">&#91;7&#93;</a></sup> He caught on quickly because of his musical experience and after a year of DJing he felt that he was good enough to play in front of people.<sup id="cite_ref-mtvauto_3-4" class="reference"><a href="#cite_note-mtvauto-3">&#91;3&#93;</a></sup><sup id="cite_ref-djtimes_7-2" class="reference"><a href="#cite_note-djtimes-7">&#91;7&#93;</a></sup> Originally calling himself Jazzy Jase, he attended high school at <a href="/wiki/Andrew_Jackson_High_School_(Queens)" title="Andrew Jackson High School (Queens)">Andrew Jackson High School</a> in New York City's Queens.<sup id="cite_ref-villiage_4-4" class="reference"><a href="#cite_note-villiage-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jam_Master_Jay&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He first started playing at parks and later played at bars. He also began throwing small parties around the area.<sup id="cite_ref-djtimes_7-3" class="reference"><a href="#cite_note-djtimes-7">&#91;7&#93;</a></sup> Once he got a pair of <a href="/wiki/Technics_SL-1200" title="Technics SL-1200">Technics 1200s</a>, he improved rapidly, since he was able to practice at night with headphones on when he was supposed to be sleeping.<sup id="cite_ref-djtimes_7-4" class="reference"><a href="#cite_note-djtimes-7">&#91;7&#93;</a></sup>
+</p><p>Mizell became a DJ because he "just wanted to be a part of the band".<sup id="cite_ref-djtimes_7-5" class="reference"><a href="#cite_note-djtimes-7">&#91;7&#93;</a></sup><sup id="cite_ref-cnn1_8-0" class="reference"><a href="#cite_note-cnn1-8">&#91;8&#93;</a></sup> Prior to joining Run-D.M.C., he played bass and drums in several <a href="/wiki/Garage_bands" class="mw-redirect" title="Garage bands">garage bands</a>. In 1982, he joined <a href="/wiki/Joseph_Simmons" title="Joseph Simmons">Joseph "Run" Simmons</a> and <a href="/wiki/Darryl_McDaniels" title="Darryl McDaniels">Darryl "D.M.C." McDaniels</a> just after they graduated from high school and agreed to DJ for them because he wanted to be part of the band.<sup id="cite_ref-mtvauto_3-5" class="reference"><a href="#cite_note-mtvauto-3">&#91;3&#93;</a></sup><sup id="cite_ref-cnn1_8-1" class="reference"><a href="#cite_note-cnn1-8">&#91;8&#93;</a></sup> On Run-D.M.C's album <i><a href="/wiki/Raising_Hell_(album)" title="Raising Hell (album)">Raising Hell</a></i>, Mizell played keyboards, bass, and live drums in addition to his turntable work.<sup id="cite_ref-mtvauto_3-6" class="reference"><a href="#cite_note-mtvauto-3">&#91;3&#93;</a></sup> Mizell remained in his childhood neighborhood in Hollis, Queens his entire life.
+</p><p>In 1989, Mizell established <a href="/wiki/Jam_Master_Jay_Records" class="mw-redirect" title="Jam Master Jay Records">Jam Master Jay Records</a>. The label is most known for signing <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> and <a href="/wiki/Onyx_(band)" class="mw-redirect" title="Onyx (band)">Onyx</a>. Jam Master Jay Records folded after Jason Mizell was murdered on October 30, 2002.
+</p><p>Mizell's legacy includes the Scratch DJ Academy in <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a>. Founded in 2002, the year of his death, the academy was created to "provide unparalleled education and access to the art form of the DJ and producer."<sup id="cite_ref-scratch_9-0" class="reference"><a href="#cite_note-scratch-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jam_Master_Jay&amp;action=edit&amp;section=3" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jam Master Jay was related to the <a href="/wiki/Mizell_Brothers" title="Mizell Brothers">Mizell Brothers</a>, a popular production team for <a href="/wiki/Gary_Bartz" title="Gary Bartz">Gary Bartz</a>, <a href="/wiki/Johnny_%22Hammond%22_Smith" title="Johnny &quot;Hammond&quot; Smith">Johnny "Hammond" Smith</a>, and others.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>On consecutive Christmas holidays, Mizell survived a car accident and a gunshot wound to the leg, respectively.<sup id="cite_ref-djtimes_7-6" class="reference"><a href="#cite_note-djtimes-7">&#91;7&#93;</a></sup> The car accident occurred in the early morning hours of December 26, 1987, in the <a href="/wiki/West_Village" title="West Village">West Village</a> of Manhattan.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>Jam Master Jay was the father of three sons: Jason Mizell Jr. (who performs as <a href="/wiki/DJ_Jam_Master_J%27Son" title="DJ Jam Master J&#39;Son">DJ Jam Master J'Son</a>), Jesse Mizell, and TJ Mizell (also a DJ),<sup id="cite_ref-villiage_4-5" class="reference"><a href="#cite_note-villiage-4">&#91;4&#93;</a></sup><sup id="cite_ref-TJ_12-0" class="reference"><a href="#cite_note-TJ-12">&#91;12&#93;</a></sup><sup id="cite_ref-growing_13-0" class="reference"><a href="#cite_note-growing-13">&#91;13&#93;</a></sup> and a daughter, Tyra Myricks (born August 1992).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jam_Master_Jay&amp;action=edit&amp;section=4" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"><table class="infobox vevent"><tbody><tr><th colspan="2" class="infobox-above summary" style="font-size:125%;">Murder of Jam Master Jay</th></tr><tr><th scope="row" class="infobox-label">Location</th><td class="infobox-data location">New York City, U.S.</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td class="infobox-data"><a class="external text" href="https://geohack.toolforge.org/geohack.php?params=40_42%27_24.9_N_73_47_42.5_W">40°42'24.9"N 73°47'42.5"W</a></td></tr><tr><th scope="row" class="infobox-label">Date</th><td class="infobox-data">October&#160;30, 2002<span class="noprint">&#59;&#32;20 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2002-10-30</span>)</span> <br />7:30 p.m. (<a href="/wiki/Eastern_Time_Zone" title="Eastern Time Zone">EST</a>)</td></tr><tr><th scope="row" class="infobox-label">Target</th><td class="infobox-data">Jason William Mizell, <abbr title="also known as">a.k.a.</abbr>&#160;Jam Master Jay</td></tr><tr><th scope="row" class="infobox-label"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Attack type</div></th><td class="infobox-data">Murder by shooting</td></tr><tr><th scope="row" class="infobox-label">Deaths</th><td class="infobox-data">1 (Jason William Mizell, <abbr title="also known as">a.k.a.</abbr>&#160;Jam Master Jay)</td></tr><tr><th scope="row" class="infobox-label">Injured</th><td class="infobox-data">1 (Urieco Rincon)</td></tr><tr><th scope="row" class="infobox-label">Motive</th><td class="infobox-data">Allegedly a drug dispute
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"><br /></td></tr><tr><th scope="row" class="infobox-label">Trial</th><td class="infobox-data" style="text-align: left;">Scheduled for November 2023<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row" class="infobox-label">Accused</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist">
+<ul><li>Karl Jordan Jr.</li>
+<li>Ronald Washington</li>
+<li>Jay Bryant</li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Charges</th><td class="infobox-data">
+<ul><li><a href="/wiki/Murder_(United_States_law)" class="mw-redirect" title="Murder (United States law)">Murder</a> while engaged in <a href="/wiki/Illegal_drug_trade_in_the_United_States" title="Illegal drug trade in the United States">narcotics trafficking</a></li>
+<li><a href="/wiki/Gun_violence_in_the_United_States" title="Gun violence in the United States">Firearm-related</a> murder<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></li></ul>
+</td></tr></tbody></table>
+<p>On Wednesday, October 30, 2002, at 7:30 pm,<sup id="cite_ref-cnn3_17-0" class="reference"><a href="#cite_note-cnn3-17">&#91;17&#93;</a></sup> Mizell was fatally shot in New York City in his recording studio on <a href="/wiki/Merrick_Boulevard" class="mw-redirect" title="Merrick Boulevard">Merrick Boulevard</a> in <a href="/wiki/Jamaica,_Queens" title="Jamaica, Queens">Jamaica, Queens</a>. Another person in the room, 25-year-old Urieco Rincon, was shot in the ankle and survived.<sup id="cite_ref-mtv_18-0" class="reference"><a href="#cite_note-mtv-18">&#91;18&#93;</a></sup> Following Mizell's death, several artists expressed their grief for the loss in the hip hop community and remembered him for his influence on music and the genre.<sup id="cite_ref-cnn2_19-0" class="reference"><a href="#cite_note-cnn2-19">&#91;19&#93;</a></sup> Mizell was buried at <a href="/wiki/Ferncliff_Cemetery_and_Mausoleum" class="mw-redirect" title="Ferncliff Cemetery and Mausoleum">Ferncliff Cemetery and Mausoleum</a> in <a href="/wiki/Hartsdale,_New_York" title="Hartsdale, New York">Hartsdale, New York</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>In 2003, <a href="/wiki/Kenneth_McGriff" title="Kenneth McGriff">Kenneth McGriff</a>, a convicted drug dealer and longtime friend of <a href="/wiki/Murder_Inc._Records" title="Murder Inc. Records">Murder Inc. Records</a> founders Irving "<a href="/wiki/Irv_Gotti" title="Irv Gotti">Irv Gotti</a>" Lorenzo and his older brother Christopher, were investigated for targeting Mizell because the DJ defied an industry blacklist of rapper <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> that was imposed because of "<a href="/wiki/Ghetto_Qur%27an_(Forgive_Me)" title="Ghetto Qur&#39;an (Forgive Me)">Ghetto Qu'ran</a>", a song 50 Cent wrote about McGriff's drug history.<sup id="cite_ref-50cent_21-0" class="reference"><a href="#cite_note-50cent-21">&#91;21&#93;</a></sup>
+</p><p>In December 2003, <i><a href="/wiki/Playboy" title="Playboy">Playboy</a></i> magazine published an article by investigative journalist Frank Owen, "The Last Days of Jam Master Jay", which traced the murder to a drug deal gone bad.<sup id="cite_ref-Owen2003_6-3" class="reference"><a href="#cite_note-Owen2003-6">&#91;6&#93;</a></sup> Owen said he uncovered evidence Mizell, not normally involved in crime as an adult, had turned to <a href="/wiki/Cocaine" title="Cocaine">cocaine</a> distribution to pay mounting bills. Mizell owed substantial debts to the <a href="/wiki/Internal_Revenue_Service" title="Internal Revenue Service">Internal Revenue Service</a>, among others, after his music career stalled in the late 1990s. According to Owen, several sources indicated Mizell traveled to Washington, D.C., on July 31, 2002, to obtain 10 kilograms (22&#160;lb) of cocaine valued at about a quarter-million dollars from a trafficker known as "Uncle". Mizell reportedly agreed to pay for the drugs in about a week. However, Mizell failed to repay Uncle, who allegedly arranged to have Mizell murdered.
+</p><p>In April 2007, federal prosecutors named Ronald Washington as an accomplice in the murder.<sup id="cite_ref-msnbc_22-0" class="reference"><a href="#cite_note-msnbc-22">&#91;22&#93;</a></sup> Washington also is a suspect in the 1995 murder of <a href="/wiki/Stretch_(rapper)" title="Stretch (rapper)">Randy "Stretch" Walker</a>, a former close associate of rapper <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a>, who was also murdered.<sup id="cite_ref-msnbc_22-1" class="reference"><a href="#cite_note-msnbc-22">&#91;22&#93;</a></sup> According to court papers filed by the prosecution, Washington allegedly "pointed his gun at those present in the studio, ordered them to get on the ground and provided cover for his associate to shoot and kill Jason Mizell." However, he was never convicted.<sup id="cite_ref-msnbc_22-2" class="reference"><a href="#cite_note-msnbc-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p><p>In 2018, <a href="/wiki/Netflix" title="Netflix">Netflix</a> released a documentary analyzing the circumstances of his murder.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> <i><a href="/wiki/ReMastered:_Who_Killed_Jam_Master_Jay%3F" title="ReMastered: Who Killed Jam Master Jay?">ReMastered: Who Killed Jam Master Jay?</a></i>, the third episode of Netflix's <i>ReMastered</i> music documentary series, interviews several of Mizell's friends, family members and acquaintances who share stories they have heard regarding suspects in his murder.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> The documentary does not come to a conclusion regarding who the murderer(s) are.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> Also in 2018, former prosecutor <a href="/wiki/Marcia_Clark" title="Marcia Clark">Marcia Clark</a> featured Jam Master Jay's murder in an episode of her series <i>Marcia Clark Investigates The First 48</i> on <a href="/wiki/A%26E_(TV_network)" title="A&amp;E (TV network)">A&amp;E</a> where she examined several scenarios and suspects for the murder. She spoke to former Run DMC road manager Darren "Big D" Jordan, who denied allegations of involvement made against him by Ronald Washington. Clark further interviewed Owen, who stood by his 2003 article as largely accurate and stated he did not know who shot Mizell but believed the murder was facilitated by Mizell's close friend Ronald Washington.
+</p>
+<h3><span class="mw-headline" id="2020_arrests">2020 arrests</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jam_Master_Jay&amp;action=edit&amp;section=5" title="Edit section: 2020 arrests">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2020, Ronald Washington and Karl Jordan Jr. were indicted for Mizell's murder. The indictment alleges that Mizell had recently acquired 10 kilograms (22&#160;lb) of cocaine from a distributor based in Maryland. Mizell, Washington, and Jordan had an agreement to sell the cocaine on consignment, but Mizell cut the two men out after a dispute.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> Washington had been considered a suspect very early in the investigation,<sup id="cite_ref-2007_timeline_28-0" class="reference"><a href="#cite_note-2007_timeline-28">&#91;28&#93;</a></sup> and Jordan had been charged in August 2003 with attempted murder after shooting Mizell's nephew, Rodney Jones, in the leg.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p><p>Washington and Jordan Jr. pled not guilty. In November 2021, it was announced that federal prosecutors would not seek the <a href="/wiki/Capital_punishment_by_the_United_States_federal_government" title="Capital punishment by the United States federal government">death penalty</a> if they are convicted, and that prosecutors would instead seek <a href="/wiki/Life_imprisonment" title="Life imprisonment">life imprisonment</a> without the possibility of <a href="/wiki/Parole" title="Parole">parole</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> In October 2022, the trial was scheduled to begin on February 20, 2023.<sup id="cite_ref-Mwanza_31-0" class="reference"><a href="#cite_note-Mwanza-31">&#91;31&#93;</a></sup> Prosecutors assert that Jordan Jr. admitted to the crime in a conversation.<sup id="cite_ref-Mwanza_31-1" class="reference"><a href="#cite_note-Mwanza-31">&#91;31&#93;</a></sup> The trial is currently scheduled for November 2023.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jam_Master_Jay&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_unsolved_murders_(21st_century)" class="mw-redirect" title="List of unsolved murders (21st century)">List of unsolved murders</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jam_Master_Jay&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://arts.guardian.co.uk/features/story/0,,1821231,00.html">"The 50 albums that changed music"</a>, No.&#160;40: Run D.M.C.: <i>Run D.M.C.</i> (1984), <i><a href="/wiki/The_Observer" title="The Observer">The Observer</a></i>, July 16, 2006.</span>
+</li>
+<li id="cite_note-stone-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-stone_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060521064711/http://www.rollingstone.com/news/story/5940042/48_rundmc/">The Immortals – The Greatest Artists of All Time: 48) Run–DMC</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Published April 15, 2004.</span>
+</li>
+<li id="cite_note-mtvauto-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-mtvauto_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mtvauto_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mtvauto_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-mtvauto_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-mtvauto_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-mtvauto_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-mtvauto_3-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mtv.com/music/artist/jam_master_jay/artist.jhtml">"Jam Master Jay"</a>. <i>mtv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mtv.com&amp;rft.atitle=Jam+Master+Jay&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fmusic%2Fartist%2Fjam_master_jay%2Fartist.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-villiage-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-villiage_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-villiage_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-villiage_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-villiage_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-villiage_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-villiage_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAllen2002" class="citation news cs1">Allen, Harry (November 5, 2002). <a rel="nofollow" class="external text" href="http://www.villagevoice.com/news/jam-master-jay-19652002-6412061">"Jam Master Jay, 1965–2002"</a>. <i><a href="/wiki/Village_Voice" class="mw-redirect" title="Village Voice">Village Voice</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Village+Voice&amp;rft.atitle=Jam+Master+Jay%2C+1965%E2%80%932002&amp;rft.date=2002-11-05&amp;rft.aulast=Allen&amp;rft.aufirst=Harry&amp;rft_id=http%3A%2F%2Fwww.villagevoice.com%2Fnews%2Fjam-master-jay-19652002-6412061&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-official_foundation-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-official_foundation_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://jammasterjay.info/">"Jam Master Jay – Official Foundation"</a>. <i>jammasterjay.info</i>. Jam Master Jay Foundation for Youth, Inc. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">January 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=jammasterjay.info&amp;rft.atitle=Jam+Master+Jay+%E2%80%93+Official+Foundation&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fjammasterjay.info%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Owen2003-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Owen2003_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Owen2003_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Owen2003_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Owen2003_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Owen, Frank (2003). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130726024814/http://frankowen.net/golden-oldies/">The Last Days of Jam Master Jay</a>, fxowen.com</span>
+</li>
+<li id="cite_note-djtimes-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-djtimes_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-djtimes_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-djtimes_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-djtimes_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-djtimes_7-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-djtimes_7-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-djtimes_7-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070225094601/http://www.djtimes.com/original/djmag/jun00/JamMasterJay.htm">"Interview with <i>DJ Times</i>, 2000"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.djtimes.com/original/djmag/jun00/JamMasterJay.htm">the original</a> on February 25, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">February 8,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Interview+with+DJ+Times%2C+2000&amp;rft_id=http%3A%2F%2Fwww.djtimes.com%2Foriginal%2Fdjmag%2Fjun00%2FJamMasterJay.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-cnn1-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-cnn1_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cnn1_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://archives.cnn.com/2002/SHOWBIZ/Music/10/31/obit.jam.master.jay/">"CNN – Breaking News, Latest News and Videos"</a>. <i>CNN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN&amp;rft.atitle=CNN+%E2%80%93+Breaking+News%2C+Latest+News+and+Videos&amp;rft_id=http%3A%2F%2Farchives.cnn.com%2F2002%2FSHOWBIZ%2FMusic%2F10%2F31%2Fobit.jam.master.jay%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-scratch-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-scratch_9-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160323205029/https://scratch.com/flash/index.html?flapage=legacy">"Scratch DJ Academy"</a>. <i>scratch.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.scratch.com/flash/index.html?flaPage=legacy">the original</a> on March 23, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=scratch.com&amp;rft.atitle=Scratch+DJ+Academy&amp;rft_id=http%3A%2F%2Fwww.scratch.com%2Fflash%2Findex.html%3FflaPage%3Dlegacy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRollins2016" class="citation web cs1">Rollins, Riz (July 25, 2016). <a rel="nofollow" class="external text" href="http://www.cityartsmagazine.com/roots-and-branches/">"Roots and Branches"</a>. <i>cityartsmagazine.com</i>. Encore Media Group<span class="reference-accessdate">. Retrieved <span class="nowrap">February 18,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cityartsmagazine.com&amp;rft.atitle=Roots+and+Branches&amp;rft.date=2016-07-25&amp;rft.aulast=Rollins&amp;rft.aufirst=Riz&amp;rft_id=http%3A%2F%2Fwww.cityartsmagazine.com%2Froots-and-branches%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.newspapers.com/clip/112294686/run-dmc-member-raps-head-in-car-accident/">"Run-DMC member raps head in car accident"</a>. <i><a href="/wiki/Daily_Breeze" title="Daily Breeze">Daily Breeze</a></i>. <a href="/wiki/Torrance,_California" title="Torrance, California">Torrance, California</a>. December 27, 1987. p.&#160;A2<span class="reference-accessdate">. Retrieved <span class="nowrap">October 30,</span> 2022</span> &#8211; via newspapers.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Daily+Breeze&amp;rft.atitle=Run-DMC+member+raps+head+in+car+accident&amp;rft.pages=A2&amp;rft.date=1987-12-27&amp;rft_id=https%3A%2F%2Fwww.newspapers.com%2Fclip%2F112294686%2Frun-dmc-member-raps-head-in-car-accident%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-TJ-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-TJ_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCushman2015" class="citation web cs1">Cushman, Camille (July 15, 2015). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161231171918/https://www.insomniac.com/media/getting-know-tj-mizell-aap-fergs-tour-dj-and-son-jam-master-jay">"Getting to Know TJ Mizell, A$AP Ferg's Tour DJ and Son of Jam Master Jay"</a>. <i>insomniac.com</i>. Archived from <a rel="nofollow" class="external text" href="https://www.insomniac.com/media/getting-know-tj-mizell-aap-fergs-tour-dj-and-son-jam-master-jay">the original</a> on December 31, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">January 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=insomniac.com&amp;rft.atitle=Getting+to+Know+TJ+Mizell%2C+A%24AP+Ferg%27s+Tour+DJ+and+Son+of+Jam+Master+Jay&amp;rft.date=2015-07-15&amp;rft.aulast=Cushman&amp;rft.aufirst=Camille&amp;rft_id=https%3A%2F%2Fwww.insomniac.com%2Fmedia%2Fgetting-know-tj-mizell-aap-fergs-tour-dj-and-son-jam-master-jay&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-growing-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-growing_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLyle2016" class="citation news cs1">Lyle, Ashley (October 12, 2016). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/hip-hop/7540942/jam-master-jay-tj-mizell-growing-up-hip-hop-asap-ferg-dj">"Jam Master Jay's Son TJ Mizell Talks 'Growing Up Hip Hop' Season 2 &amp; Being A$AP Ferg's DJ"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Jam+Master+Jay%27s+Son+TJ+Mizell+Talks+%27Growing+Up+Hip+Hop%27+Season+2+%26+Being+A%24AP+Ferg%27s+DJ&amp;rft.date=2016-10-12&amp;rft.aulast=Lyle&amp;rft.aufirst=Ashley&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F7540942%2Fjam-master-jay-tj-mizell-growing-up-hip-hop-asap-ferg-dj&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170109033615/http://www.jammasterjay.info/Tyra-Myricks.asp">"Tyra Myricks"</a>. <i>jammasterjay.info</i>. Jam Master Jay Foundation for Youth, Inc. 2015. Archived from <a rel="nofollow" class="external text" href="http://jammasterjay.info/Tyra-Myricks.asp">the original</a> on January 9, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">January 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=jammasterjay.info&amp;rft.atitle=Tyra+Myricks&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fjammasterjay.info%2FTyra-Myricks.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/pro/jam-master-jay-alleged-killers-trial-judge-run-dmc/">"Jam Master Jay's Alleged Killers Must Face Trial, Judge Says"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Jam+Master+Jay%27s+Alleged+Killers+Must+Face+Trial%2C+Judge+Says&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fpro%2Fjam-master-jay-alleged-killers-trial-judge-run-dmc%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.justice.gov/usao-edny/press-release/file/1305371/download">"Jordan and Washington Indictment"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jordan+and+Washington+Indictment&amp;rft_id=https%3A%2F%2Fwww.justice.gov%2Fusao-edny%2Fpress-release%2Ffile%2F1305371%2Fdownload&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-cnn3-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-cnn3_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.cnn.com/2002/US/Northeast/10/31/run.dmc.killing/index.html">"Run-DMC DJ slain in recording studio – Nov. 1, 2002"</a>. <i>CNN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN&amp;rft.atitle=Run-DMC+DJ+slain+in+recording+studio+%E2%80%93+Nov.+1%2C+2002&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2002%2FUS%2FNortheast%2F10%2F31%2Frun.dmc.killing%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-mtv-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-mtv_18-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1458435/20021030/run_dmc.jhtml">"Jam Master Jay, Run-DMC DJ, Killed In Shooting"</a>. <i>mtv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mtv.com&amp;rft.atitle=Jam+Master+Jay%2C+Run-DMC+DJ%2C+Killed+In+Shooting&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1458435%2F20021030%2Frun_dmc.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-cnn2-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-cnn2_19-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061213203657/http://archives.cnn.com/2002/SHOWBIZ/Music/10/31/jmj.rappers.react/">"CNN – Breaking News, Latest News and Videos"</a>. <i>CNN</i>. Archived from <a rel="nofollow" class="external text" href="http://archives.cnn.com/2002/SHOWBIZ/Music/10/31/jmj.rappers.react/">the original</a> on December 13, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN&amp;rft.atitle=CNN+%E2%80%93+Breaking+News%2C+Latest+News+and+Videos&amp;rft_id=http%3A%2F%2Farchives.cnn.com%2F2002%2FSHOWBIZ%2FMusic%2F10%2F31%2Fjmj.rappers.react%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140415231347/http://www.ferncliffcemetery.com/about/celebrities.php?ip=8">"Celebrities &amp; Notables – Ferncliff"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ferncliffcemetery.com/about/celebrities.php?ip=8">the original</a> on April 15, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Celebrities+%26+Notables+%E2%80%93+Ferncliff&amp;rft_id=http%3A%2F%2Fwww.ferncliffcemetery.com%2Fabout%2Fcelebrities.php%3Fip%3D8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-50cent-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-50cent_21-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.cbsnews.com/stories/2005/09/07/entertainment/main822172.shtml">"Feds Lay Out Alleged 50 Cent Plot"</a>. <i>CBS News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CBS+News&amp;rft.atitle=Feds+Lay+Out+Alleged+50+Cent+Plot&amp;rft_id=http%3A%2F%2Fwww.cbsnews.com%2Fstories%2F2005%2F09%2F07%2Fentertainment%2Fmain822172.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-msnbc-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-msnbc_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-msnbc_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-msnbc_22-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130925123423/http://www.today.com/id/18159877">"Suspect named in '02 slaying of Jam Master Jay"</a>. <i>Today.com</i>. April 17, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.today.com/id/18159877">the original</a> on September 25, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Today.com&amp;rft.atitle=Suspect+named+in+%2702+slaying+of+Jam+Master+Jay&amp;rft.date=2007-04-17&amp;rft_id=http%3A%2F%2Fwww.today.com%2Fid%2F18159877&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://newsone.com/1594265/unsolved-hip-hop-murders-rap/">"The Top 5 Unsolved Hip-Hop Murders"</a>. <i>newsone.com</i>. October 24, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=newsone.com&amp;rft.atitle=The+Top+5+Unsolved+Hip-Hop+Murders&amp;rft.date=2011-10-24&amp;rft_id=http%3A%2F%2Fnewsone.com%2F1594265%2Funsolved-hip-hop-murders-rap%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFReed2018" class="citation magazine cs1">Reed, Ryan (November 28, 2018). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/tv/tv-news/netflix-remastered-trailer-who-killed-jam-master-jay-760981/">"Netflix's 'Remastered': Watch Trailer for 'Who Killed Jam Master Jay?'<span class="cs1-kern-right"></span>"</a>. <i>Rolling Stone</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 31,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Netflix%27s+%27Remastered%27%3A+Watch+Trailer+for+%27Who+Killed+Jam+Master+Jay%3F%27&amp;rft.date=2018-11-28&amp;rft.aulast=Reed&amp;rft.aufirst=Ryan&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Ftv%2Ftv-news%2Fnetflix-remastered-trailer-who-killed-jam-master-jay-760981%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://decider.com/2018/12/14/remastered-who-killed-jam-master-jay-review/">"<span class="cs1-kern-left"></span>'ReMastered: Who Killed Jam Master Jay?' on Netflix Examines Murder Of Renowned Run-D.M.C. DJ"</a>. <i>Decider</i>. December 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">January 31,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Decider&amp;rft.atitle=%27ReMastered%3A+Who+Killed+Jam+Master+Jay%3F%27+on+Netflix+Examines+Murder+Of+Renowned+Run-D.M.C.+DJ&amp;rft.date=2018-12-14&amp;rft_id=https%3A%2F%2Fdecider.com%2F2018%2F12%2F14%2Fremastered-who-killed-jam-master-jay-review%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.dailydot.com/upstream/netflix-remastered-who-killed-jam-master-jay-review/">"<span class="cs1-kern-left"></span>'ReMastered: Who Killed Jam Master Jay?' dives a little too deep into conspiracy"</a>. <i>The Daily Dot</i>. December 8, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">January 31,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Daily+Dot&amp;rft.atitle=%27ReMastered%3A+Who+Killed+Jam+Master+Jay%3F%27+dives+a+little+too+deep+into+conspiracy&amp;rft.date=2018-12-08&amp;rft_id=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Fnetflix-remastered-who-killed-jam-master-jay-review%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSouthallRashbaum2020" class="citation news cs1">Southall, Ashley; Rashbaum, William K. (August 17, 2020). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2020/08/17/nyregion/Jam-master-Jay-murder-arrests.html">"2 Are Arrested in Killing of Jam Master Jay, Hip-Hop Pioneer"</a>. <i>The New York Times</i>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0362-4331">0362-4331</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 17,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=2+Are+Arrested+in+Killing+of+Jam+Master+Jay%2C+Hip-Hop+Pioneer&amp;rft.date=2020-08-17&amp;rft.issn=0362-4331&amp;rft.aulast=Southall&amp;rft.aufirst=Ashley&amp;rft.au=Rashbaum%2C+William+K.&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2020%2F08%2F17%2Fnyregion%2FJam-master-Jay-murder-arrests.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2007_timeline-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-2007_timeline_28-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKaufman2007" class="citation news cs1">Kaufman, Gil (December 7, 2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071213002705/http://www.mtv.com/news/articles/1576088/20071207/jam_master_jay.jhtml">"Jam Master Jay's Murder: A Timeline And The Key Players"</a>. MTV News. Archived from <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1576088/20071207/jam_master_jay.jhtml">the original</a> on December 13, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">August 17,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Jam+Master+Jay%27s+Murder%3A+A+Timeline+And+The+Key+Players&amp;rft.date=2007-12-07&amp;rft.aulast=Kaufman&amp;rft.aufirst=Gil&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1576088%2F20071207%2Fjam_master_jay.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFReid2003" class="citation news cs1">Reid, Shaheem (August 20, 2003). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20030822050254/http://www.mtv.com/news/articles/1477088/08202003/run_dmc.jhtml">"Suspect Arrested In Shooting Of Jam Master Jay's Nephew"</a>. <a href="/wiki/MTV_News" title="MTV News">MTV News</a>. Archived from <a rel="nofollow" class="external text" href="http://www.mtv.com/news/1477088/suspect-arrested-in-shooting-of-jam-master-jays-nephew/">the original</a> on August 22, 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">August 17,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Suspect+Arrested+In+Shooting+Of+Jam+Master+Jay%27s+Nephew&amp;rft.date=2003-08-20&amp;rft.aulast=Reid&amp;rft.aufirst=Shaheem&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2F1477088%2Fsuspect-arrested-in-shooting-of-jam-master-jays-nephew%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://abc7ny.com/11213582/">"Jam Master Jay accused killers will not face death penalty if convicted"</a>. <i>ABC7 New York</i>. November 9, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">November 22,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC7+New+York&amp;rft.atitle=Jam+Master+Jay+accused+killers+will+not+face+death+penalty+if+convicted&amp;rft.date=2021-11-09&amp;rft_id=https%3A%2F%2Fabc7ny.com%2F11213582%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Mwanza-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mwanza_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mwanza_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMwanza_Mwanza2022" class="citation news cs1">Mwanza Mwanza, Willy (October 22, 2022). <a rel="nofollow" class="external text" href="https://eurweb.com/2022/10/23/man-charged-with-killing-jam-master-jay-to-face-trial/">"Man Charged With Killing Jam Master Jay to Face Trial – He Allegedly Admitted to the Murder"</a>. <i>eurweb.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 30,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=eurweb.com&amp;rft.atitle=Man+Charged+With+Killing+Jam+Master+Jay+to+Face+Trial+%E2%80%93+He+Allegedly+Admitted+to+the+Murder&amp;rft.date=2022-10-22&amp;rft.aulast=Mwanza+Mwanza&amp;rft.aufirst=Willy&amp;rft_id=https%3A%2F%2Feurweb.com%2F2022%2F10%2F23%2Fman-charged-with-killing-jam-master-jay-to-face-trial%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://allhiphop.com/news/key-witness-in-jam-master-jay-case-turns-up-dead-feds-seek-to-expedite-trial/">"Witness In Jam Master Jay Case Turns Up Dead; Feds Seek To Expedite Trial"</a>. February 10, 2023.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Witness+In+Jam+Master+Jay+Case+Turns+Up+Dead%3B+Feds+Seek+To+Expedite+Trial&amp;rft.date=2023-02-10&amp;rft_id=https%3A%2F%2Fallhiphop.com%2Fnews%2Fkey-witness-in-jam-master-jay-case-turns-up-dead-feds-seek-to-expedite-trial%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJam+Master+Jay" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jam_Master_Jay&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Jam_Master_Jay" class="extiw" title="commons:Category:Jam Master Jay">Jam Master Jay</a></span>.</div></div>
+</div>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190120043311/http://www.jasonmizell.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.findagrave.com/memorial/6898008">Jam Master Jay</a> at <a href="/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/Jason+Mizell">Jam Master Jay</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/90b676fd-b67f-430e-9ccb-5361964d3b4b">Jam Master Jay</a> discography at <a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Run-DMC" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Run-DMC" title="Template:Run-DMC"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Run-DMC" title="Template talk:Run-DMC"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Run-DMC&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Run-DMC" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Run-DMC" title="Run-DMC">Run-DMC</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a href="/wiki/Joseph_Simmons" title="Joseph Simmons">DJ Run</a></b></li>
+<li><b><a href="/wiki/Darryl_McDaniels" title="Darryl McDaniels">D.M.C.</a></b></li></ul>
+<ul><li><a class="mw-selflink selflink">Jam Master Jay</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Run-D.M.C._(album)" title="Run-D.M.C. (album)">Run-D.M.C.</a></i></li>
+<li><i><a href="/wiki/King_of_Rock" title="King of Rock">King of Rock</a></i></li>
+<li><i><a href="/wiki/Raising_Hell_(album)" title="Raising Hell (album)">Raising Hell</a></i></li>
+<li><i><a href="/wiki/Tougher_Than_Leather" title="Tougher Than Leather">Tougher Than Leather</a></i></li>
+<li><i><a href="/wiki/Back_from_Hell" title="Back from Hell">Back from Hell</a></i></li>
+<li><i><a href="/wiki/Down_with_the_King_(album)" title="Down with the King (album)">Down with the King</a></i></li>
+<li><i><a href="/wiki/Crown_Royal_(album)" title="Crown Royal (album)">Crown Royal</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Together_Forever:_Greatest_Hits_1983%E2%80%931991" title="Together Forever: Greatest Hits 1983–1991">Together Forever: Greatest Hits 1983–1991</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_(Run-D.M.C._album)" title="Greatest Hits (Run-D.M.C. album)">Greatest Hits</a></i></li>
+<li><i><a href="/wiki/The_Best_of_Run-DMC" title="The Best of Run-DMC">The Best of Run-DMC</a></i></li>
+<li><i><a href="/wiki/Ultimate_Run-D.M.C." title="Ultimate Run-D.M.C.">Ultimate Run-D.M.C.</a></i></li>
+<li><i><a href="/wiki/High_Profile:_The_Original_Rhymes" title="High Profile: The Original Rhymes">High Profile: The Original Rhymes</a></i></li>
+<li><i><a href="/wiki/The_Essential_Run-D.M.C." title="The Essential Run-D.M.C.">The Essential Run-D.M.C.</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Live albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Live_at_Montreux_2001" title="Live at Montreux 2001">Live at Montreux 2001</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/It%27s_Like_That_(Run-D.M.C._song)" title="It&#39;s Like That (Run-D.M.C. song)">It's Like That</a>"</li>
+<li>"<a href="/wiki/Sucker_M.C.%27s" title="Sucker M.C.&#39;s">Sucker M.C.'s</a> (Krush-Groove 1)"</li>
+<li>"<a href="/wiki/Hard_Times_(Run-D.M.C._song)" title="Hard Times (Run-D.M.C. song)">Hard Times</a>"</li>
+<li>"<a href="/wiki/Rock_Box" title="Rock Box">Rock Box</a>"</li>
+<li>"<a href="/wiki/King_of_Rock_(song)" title="King of Rock (song)">King of Rock</a>"</li>
+<li>"<a href="/wiki/You_Talk_Too_Much_(Run-DMC_song)" title="You Talk Too Much (Run-DMC song)">You Talk Too Much</a>"</li>
+<li>"<a href="/wiki/Can_You_Rock_It_Like_This" title="Can You Rock It Like This">Can You Rock It Like This</a>"</li>
+<li>"<a href="/wiki/My_Adidas" title="My Adidas">My Adidas</a>"</li>
+<li>"<a href="/wiki/Walk_This_Way#Run-D.M.C._version" title="Walk This Way">Walk This Way</a>"</li>
+<li>"<a href="/wiki/You_Be_Illin%27" title="You Be Illin&#39;">You Be Illin'</a> "</li>
+<li>"<a href="/wiki/It%27s_Tricky" title="It&#39;s Tricky">It's Tricky</a>"</li>
+<li>"<a href="/wiki/Christmas_in_Hollis" title="Christmas in Hollis">Christmas in Hollis</a>"</li>
+<li>"<a href="/wiki/I%27m_Not_Going_Out_Like_That" title="I&#39;m Not Going Out Like That">I'm Not Going Out Like That</a>"</li>
+<li>"<a href="/wiki/Mary,_Mary_(song)#Run-D.M.C._version" title="Mary, Mary (song)">Mary, Mary</a>"</li>
+<li>"<a href="/wiki/Run%27s_House_(song)" title="Run&#39;s House (song)">Run's House</a>"</li>
+<li>"<a href="/wiki/Pause_(Run-D.M.C._song)" title="Pause (Run-D.M.C. song)">Pause</a>"</li>
+<li>"<a href="/wiki/What%27s_It_All_About_(song)" title="What&#39;s It All About (song)">What's It All About</a>"</li>
+<li>"<a href="/wiki/Faces_(Run-D.M.C._song)" title="Faces (Run-D.M.C. song)">Faces</a>"</li>
+<li>"<a href="/wiki/Ooh,_Whatcha_Gonna_Do" title="Ooh, Whatcha Gonna Do">Ooh, Whatcha Gonna Do</a>"</li>
+<li>"<a href="/wiki/Down_with_the_King_(song)" title="Down with the King (song)">Down with the King</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Run-DMC_discography" title="Run-DMC discography">Discography</a></li>
+<li><i><a href="/wiki/Run%27s_House" title="Run&#39;s House">Run's House</a></i></li>
+<li><i><a href="/wiki/Distortion_(Joseph_Simmons_album)" title="Distortion (Joseph Simmons album)">Distortion</a></i></li>
+<li><i><a href="/wiki/Checks_Thugs_and_Rock_n_Roll" title="Checks Thugs and Rock n Roll">Checks Thugs and Rock N Roll</a></i></li>
+<li><a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a></li>
+<li><a href="/wiki/Russell_Simmons_Music_Group" class="mw-redirect" title="Russell Simmons Music Group">Russell Simmons Music Group</a></li>
+<li><a href="/wiki/Diggy_Simmons" title="Diggy Simmons">Diggy</a></li>
+<li>Together Forever Tour</li>
+<li><a href="/wiki/Mizell_Brothers" title="Mizell Brothers">Mizell Brothers</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Rock_and_Roll_Hall_of_Fame_–_Class_of_2009" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:2009_Rock_and_Roll_Hall_of_Fame" title="Template:2009 Rock and Roll Hall of Fame"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2009_Rock_and_Roll_Hall_of_Fame" title="Template talk:2009 Rock and Roll Hall of Fame"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2009_Rock_and_Roll_Hall_of_Fame&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Rock_and_Roll_Hall_of_Fame_–_Class_of_2009" style="font-size:114%;margin:0 4em"><a href="/wiki/Rock_and_Roll_Hall_of_Fame" title="Rock and Roll Hall of Fame">Rock and Roll Hall of Fame</a> – <a href="/wiki/List_of_Rock_and_Roll_Hall_of_Fame_inductees" title="List of Rock and Roll Hall of Fame inductees">Class of 2009</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Performers</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><b><a href="/wiki/Jeff_Beck" title="Jeff Beck">Jeff Beck</a></b></li>
+<li><b><a href="/wiki/Little_Anthony_and_the_Imperials" title="Little Anthony and the Imperials">Little Anthony and the Imperials</a></b>
+<ul><li><a href="/w/index.php?title=Clarence_Collins&amp;action=edit&amp;redlink=1" class="new" title="Clarence Collins (page does not exist)">Clarence Collins</a>, <a href="/wiki/Anthony_Gourdine" class="mw-redirect" title="Anthony Gourdine">Anthony Gourdine</a>, <a href="/w/index.php?title=Tracy_Lord_(musician)&amp;action=edit&amp;redlink=1" class="new" title="Tracy Lord (musician) (page does not exist)">Tracy Lord</a>, <a href="/w/index.php?title=Glouster_%22Nat%22_Rogers&amp;action=edit&amp;redlink=1" class="new" title="Glouster &quot;Nat&quot; Rogers (page does not exist)">Glouster "Nat" Rogers</a>, <a href="/wiki/Sammy_Strain" title="Sammy Strain">Sammy Strain</a>, <a href="/w/index.php?title=Ernest_Wright_Jr.&amp;action=edit&amp;redlink=1" class="new" title="Ernest Wright Jr. (page does not exist)">Ernest Wright Jr.</a></li></ul></li>
+<li><b><a href="/wiki/Metallica" title="Metallica">Metallica</a></b>
+<ul><li><a href="/wiki/Cliff_Burton" title="Cliff Burton">Cliff Burton</a>, <a href="/wiki/Kirk_Hammett" title="Kirk Hammett">Kirk Hammett</a>, <a href="/wiki/James_Hetfield" title="James Hetfield">James Hetfield</a>, <a href="/wiki/Jason_Newsted" title="Jason Newsted">Jason Newsted</a>, <a href="/wiki/Robert_Trujillo" title="Robert Trujillo">Robert Trujillo</a>, <a href="/wiki/Lars_Ulrich" title="Lars Ulrich">Lars Ulrich</a></li></ul></li>
+<li><b><a href="/wiki/Run-DMC" title="Run-DMC">Run-DMC</a></b>
+<ul><li><a class="mw-selflink selflink">Jam Master Jay</a>, <a href="/wiki/Darryl_McDaniels" title="Darryl McDaniels">Darryl McDaniels</a>, <a href="/wiki/Joseph_Simmons" title="Joseph Simmons">Joseph Simmons</a></li></ul></li>
+<li><b><a href="/wiki/Bobby_Womack" title="Bobby Womack">Bobby Womack</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Early influences</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><b><a href="/wiki/Wanda_Jackson" title="Wanda Jackson">Wanda Jackson</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sidemen</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><b><a href="/wiki/Bill_Black" title="Bill Black">Bill Black</a></b></li>
+<li><b><a href="/wiki/D._J._Fontana" title="D. J. Fontana">D. J. Fontana</a></b></li>
+<li><b><a href="/wiki/Spooner_Oldham" title="Spooner Oldham">Spooner Oldham</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q462735#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q462735#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q462735#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="http://id.worldcat.org/fast/494109/">FAST</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000066362240">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/22333713">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX1580896">Spain</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb139499207">France</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb139499207">BnF data</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/130255580">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2003047633">United States</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0101966&amp;CON_LNG=ENG">Czech Republic</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p241392527">Netherlands</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/bb229712-e010-45b5-872b-3256f66d459c">MusicBrainz</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/157863069">IdRef</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2316
+Cached time: 20230919220758
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.648 seconds
+Real time usage: 0.798 seconds
+Preprocessor visited node count: 5812/1000000
+Post‐expand include size: 106558/2097152 bytes
+Template argument size: 7475/2097152 bytes
+Highest expansion depth: 20/100
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 113068/5000000 bytes
+Lua time usage: 0.362/10.000 seconds
+Lua memory usage: 12595689/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  713.753      1 -total
+ 32.37%  231.073      2 Template:Infobox
+ 29.26%  208.816      1 Template:Reflist
+ 27.37%  195.338      1 Template:Infobox_musical_artist
+ 19.39%  138.426     20 Template:Cite_web
+ 18.48%  131.907      7 Template:Br_separated_entries
+ 10.44%   74.537      1 Template:Infobox_person
+  7.79%   55.629      1 Template:Infobox_civilian_attack
+  7.66%   54.646      2 Template:Short_description
+  6.66%   47.510      1 Template:Run-D.M.C.
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23727639-0!canonical and timestamp 20230919220757 and revision id 1173961262. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jam_Master_Jay&amp;oldid=1173961262">https://en.wikipedia.org/w/index.php?title=Jam_Master_Jay&amp;oldid=1173961262</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1965_births" title="Category:1965 births">1965 births</a></li><li><a href="/wiki/Category:2002_deaths" title="Category:2002 deaths">2002 deaths</a></li><li><a href="/wiki/Category:2002_murders_in_the_United_States" title="Category:2002 murders in the United States">2002 murders in the United States</a></li><li><a href="/wiki/Category:20th-century_American_male_musicians" title="Category:20th-century American male musicians">20th-century American male musicians</a></li><li><a href="/wiki/Category:African-American_DJs" title="Category:African-American DJs">African-American DJs</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:American_beatboxers" title="Category:American beatboxers">American beatboxers</a></li><li><a href="/wiki/Category:American_murder_victims" title="Category:American murder victims">American murder victims</a></li><li><a href="/wiki/Category:American_hip_hop_DJs" title="Category:American hip hop DJs">American hip hop DJs</a></li><li><a href="/wiki/Category:Andrew_Jackson_High_School_(Queens)_alumni" title="Category:Andrew Jackson High School (Queens) alumni">Andrew Jackson High School (Queens) alumni</a></li><li><a href="/wiki/Category:Burials_at_Ferncliff_Cemetery" title="Category:Burials at Ferncliff Cemetery">Burials at Ferncliff Cemetery</a></li><li><a href="/wiki/Category:Deaths_by_firearm_in_Queens,_New_York" title="Category:Deaths by firearm in Queens, New York">Deaths by firearm in Queens, New York</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Male_murder_victims" title="Category:Male murder victims">Male murder victims</a></li><li><a href="/wiki/Category:Murdered_African-American_people" title="Category:Murdered African-American people">Murdered African-American people</a></li><li><a href="/wiki/Category:People_from_Hollis,_Queens" title="Category:People from Hollis, Queens">People from Hollis, Queens</a></li><li><a href="/wiki/Category:People_murdered_in_New_York_City" title="Category:People murdered in New York City">People murdered in New York City</a></li><li><a href="/wiki/Category:Rappers_from_Brooklyn" title="Category:Rappers from Brooklyn">Rappers from Brooklyn</a></li><li><a href="/wiki/Category:Run-DMC_members" title="Category:Run-DMC members">Run-DMC members</a></li><li><a href="/wiki/Category:Unsolved_murders_in_the_United_States" title="Category:Unsolved murders in the United States">Unsolved murders in the United States</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2022" title="Category:Use mdy dates from April 2022">Use mdy dates from April 2022</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Pages_using_embedded_infobox_templates_with_the_title_parameter" title="Category:Pages using embedded infobox templates with the title parameter">Pages using embedded infobox templates with the title parameter</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:MusicBrainz_artist_different_from_Wikidata" title="Category:MusicBrainz artist different from Wikidata">MusicBrainz artist different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_artist_links" title="Category:Articles with MusicBrainz artist links">Articles with MusicBrainz artist links</a></li><li><a href="/wiki/Category:Articles_with_FAST_identifiers" title="Category:Articles with FAST identifiers">Articles with FAST identifiers</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNE_identifiers" title="Category:Articles with BNE identifiers">Articles with BNE identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_NKC_identifiers" title="Category:Articles with NKC identifiers">Articles with NKC identifiers</a></li><li><a href="/wiki/Category:Articles_with_NTA_identifiers" title="Category:Articles with NTA identifiers">Articles with NTA identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Articles_with_SUDOC_identifiers" title="Category:Articles with SUDOC identifiers">Articles with SUDOC identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 5 September 2023, at 12:30<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jam_Master_Jay&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2329","wgBackendResponseTime":118,"wgPageParseReport":{"limitreport":{"cputime":"0.648","walltime":"0.798","ppvisitednodes":{"value":5812,"limit":1000000},"postexpandincludesize":{"value":106558,"limit":2097152},"templateargumentsize":{"value":7475,"limit":2097152},"expansiondepth":{"value":20,"limit":100},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":113068,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  713.753      1 -total"," 32.37%  231.073      2 Template:Infobox"," 29.26%  208.816      1 Template:Reflist"," 27.37%  195.338      1 Template:Infobox_musical_artist"," 19.39%  138.426     20 Template:Cite_web"," 18.48%  131.907      7 Template:Br_separated_entries"," 10.44%   74.537      1 Template:Infobox_person","  7.79%   55.629      1 Template:Infobox_civilian_attack","  7.66%   54.646      2 Template:Short_description","  6.66%   47.510      1 Template:Run-D.M.C."]},"scribunto":{"limitreport-timeusage":{"value":"0.362","limit":"10.000"},"limitreport-memusage":{"value":12595689,"limit":52428800}},"cachereport":{"origin":"mw2316","timestamp":"20230919220758","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Jam Master Jay","url":"https:\/\/en.wikipedia.org\/wiki\/Jam_Master_Jay","sameAs":"http:\/\/www.wikidata.org\/entity\/Q462735","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q462735","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-10-31T14:50:32Z","dateModified":"2023-09-05T12:30:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2a\/Jam_Master_Jay.png","headline":"American hip hop musician (1965\u20132002)"}</script>
+</body>
+</html>

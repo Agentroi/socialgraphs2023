@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Ice Spice - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"7c3cfc2a-82c3-4dc4-8fc7-375199cf3a83","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ice_Spice","wgTitle":"Ice Spice","wgCurRevisionId":1176203218,"wgRevisionId":1176203218,"wgArticleId":71771980,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Wikipedia pages semi-protected against vandalism","Use American English from January 2023","All Wikipedia articles written in American English","Use mdy dates from April 2023","Articles with hCards","Commons category link from Wikidata","SoundCloud ID same as Wikidata","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with MusicBrainz identifiers","2000 births","Living people","21st-century American songwriters","21st-century African-American musicians",
+"21st-century African-American women","21st-century American LGBT people","21st-century American women rappers","African–Hispanic and Latino American relations","African-American women rappers","African-American women songwriters","American LGBT songwriters","American rappers of Dominican Republic descent","Drill musicians","East Coast hip hop musicians","LGBT people from New York (state)","LGBT rappers","Queer songwriters","Rappers from the Bronx","State University of New York at Purchase alumni","LGBT African Americans","LGBT Hispanic and Latino American people","Hispanic and Latino American women","Hispanic and Latino American rappers","College women's volleyball players in the United States","Capitol Records artists"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Ice_Spice","wgRelevantArticleId":71771980,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],
+"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q114114977","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":
+false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/65/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1584">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png/800px-Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1056">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png/640px-Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="845">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Ice Spice - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Ice_Spice">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ice_Spice">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ice_Spice rootpage-Ice_Spice skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ice+Spice" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ice+Spice" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ice+Spice" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ice+Spice" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life_and_education"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life_and_education">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life and education</div>
+		</a>
+		
+		<ul id="toc-Early_life_and_education-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-2021–2022:_Career_beginnings"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2021–2022:_Career_beginnings">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>2021–2022: Career beginnings</div>
+			</a>
+			
+			<ul id="toc-2021–2022:_Career_beginnings-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2022–present:_Breakthrough_with_Like…?"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2022–present:_Breakthrough_with_Like…?">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>2022–present: Breakthrough with <i>Like…?</i></div>
+			</a>
+			
+			<ul id="toc-2022–present:_Breakthrough_with_Like…?-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Artistry"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Artistry">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Artistry</div>
+		</a>
+		
+			<button aria-controls="toc-Artistry-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Artistry subsection</span>
+			</button>
+		
+		<ul id="toc-Artistry-sublist" class="vector-toc-list">
+			<li id="toc-Influences"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Influences">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Influences</div>
+			</a>
+			
+			<ul id="toc-Influences-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Tours"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Tours">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Tours</div>
+		</a>
+		
+		<ul id="toc-Tours-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Awards_and_nominations"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards_and_nominations">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Awards and nominations</div>
+		</a>
+		
+		<ul id="toc-Awards_and_nominations-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Ice Spice</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 25 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-25" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">25 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%8A%D8%B3_%D8%B3%D8%A8%D8%A7%D9%8A%D8%B3" title="ايس سبايس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A2%DB%8C%D8%B3_%D8%A7%D8%B3%D9%BE%D8%A7%DB%8C%D8%B3" title="آیس اسپایس – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EC%8A%A4_%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8A%A4" title="아이스 스파이스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ha mw-list-item"><a href="https://ha.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target"><span>Hausa</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%99%D7%A1_%D7%A1%D7%A4%D7%99%D7%99%D7%A1" title="אייס ספייס – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B8%8B%E0%B9%8C" title="ไอซ์สไปซ์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Ice_Spice" title="Ice Spice – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%86%B0%E8%BE%A3%E5%A6%B9" title="冰辣妹 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q114114977#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Ice_Spice" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Ice_Spice" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Ice_Spice"><span>Read</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Ice_Spice&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Ice_Spice&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Ice_Spice"><span>Read</span></a></li><li id="ca-more-viewsource" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Ice_Spice&amp;action=edit"><span>View source</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Ice_Spice&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Ice_Spice" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Ice_Spice" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Ice_Spice&amp;oldid=1176203218" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Ice_Spice&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ice_Spice&amp;id=1176203218&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q114114977" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Ice_Spice&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Ice_Spice&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Ice_Spice" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-pp-default" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected until August 25, 2024 at 17:20 UTC, due to vandalism"><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper (born 2000)</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Ice_Spice_(disambiguation)" class="mw-disambig" title="Ice Spice (disambiguation)">Ice Spice (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+
+
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Ice Spice</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_(cropped_V2)_2022.png" class="mw-file-description" title="Ice Spice in 2022"><img alt="Ice Spice in 2022" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png/220px-Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png" decoding="async" width="220" height="290" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png/330px-Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png/440px-Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png 2x" data-file-width="909" data-file-height="1200" /></a></span><div class="infobox-caption">Ice Spice in 2022</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Isis Naija Gaston<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">2000-01-01</span>) </span>January 1, 2000<span class="noprint ForceAgeToShow"> (age&#160;23)</span><br />New York City, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li>
+<li><a href="/wiki/Drill_music" title="Drill music">drill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li>Rapper</li>
+<li>songwriter</li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2021–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li><a href="/wiki/10K_Projects" title="10K Projects">10K Projects</a></li>
+<li><a href="/wiki/Capitol_Records" title="Capitol Records">Capitol</a></li>
+<li><a href="/wiki/Polydor_Records" title="Polydor Records">Polydor</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ul>
+</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="https://icespicemusic.com/">icespicemusic<wbr />.com</a></span> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q114114977#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"></td></tr><tr><td colspan="2" class="infobox-full-data"><span typeof="mw:File"><a href="/wiki/File:Ice-spice-logo.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ice-spice-logo.png/150px-Ice-spice-logo.png" decoding="async" width="150" height="125" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/2/27/Ice-spice-logo.png 1.5x" data-file-width="167" data-file-height="139" /></a></span></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Isis Naija Gaston</b> (born January<span class="nowrap">&#160;</span>1, 2000), known professionally as <b>Ice Spice</b>, is an American rapper. She grew up in <a href="/wiki/The_Bronx" title="The Bronx">the Bronx</a>, New York City, and began her career in 2021 after meeting record producer RiotUSA.
+</p><p>Ice Spice rose to prominence in late 2022 with her song "<a href="/wiki/Munch_(Feelin%27_U)" title="Munch (Feelin&#39; U)">Munch (Feelin' U)</a>", which achieved viral popularity on <a href="/wiki/TikTok" title="TikTok">TikTok</a>. She followed it up with singles "<a href="/wiki/Bikini_Bottom_(song)" title="Bikini Bottom (song)">Bikini Bottom</a>" and "<a href="/wiki/In_Ha_Mood" title="In Ha Mood">In Ha Mood</a>", leading up to her debut <a href="/wiki/Extended_play" title="Extended play">extended play</a>, <i><a href="/wiki/Like..%3F" title="Like..?">Like..?</a></i> (2023). She achieved her first entry on the US <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> chart with the <a href="/wiki/Lil_Tjay" title="Lil Tjay">Lil Tjay</a> collaboration "<a href="/wiki/Gangsta_Boo_(song)" title="Gangsta Boo (song)">Gangsta Boo</a>". Her collaborations "<a href="/wiki/Boy%27s_a_Liar#Remix" title="Boy&#39;s a Liar">Boy's a Liar Pt. 2</a>" (with <a href="/wiki/PinkPantheress" title="PinkPantheress">PinkPantheress</a>), "<a href="/wiki/Princess_Diana_(song)" title="Princess Diana (song)">Princess Diana</a>" (with <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a>), "<a href="/wiki/Karma_(Taylor_Swift_song)" title="Karma (Taylor Swift song)">Karma</a>" (with <a href="/wiki/Taylor_Swift" title="Taylor Swift">Taylor Swift</a>), and "<a href="/wiki/Barbie_World" title="Barbie World">Barbie World</a>" (with Minaj and <a href="/wiki/Aqua_(band)" title="Aqua (band)">Aqua</a>) have all peaked within the top 10 of the Hot 100; as such, Ice Spice became the artist with the most Hot 100 top-five singles in 2023. 
+</p><p>Music journalists have noted Ice Spice's relaxed rapping style. In 2023, <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> described her as a "<a href="/wiki/Breakout_star" class="mw-redirect" title="Breakout star">breakout star</a>".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Publications such as <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> and <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> have dubbed her "<a href="/wiki/Honorific_nicknames_in_popular_music" title="Honorific nicknames in popular music">rap's new princess</a>".<sup id="cite_ref-Mamo_4-0" class="reference"><a href="#cite_note-Mamo-4">&#91;4&#93;</a></sup> She has been honored with the <a href="/wiki/MTV_Video_Music_Award_for_Best_New_Artist" title="MTV Video Music Award for Best New Artist">MTV Video Music Award for Best New Artist</a>, and the Impact Award from the <a href="/wiki/BMI_Film_%26_TV_Awards" title="BMI Film &amp; TV Awards">BMI R&amp;B/Hip-Hop Awards</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life_and_education">Early life and education</span></h2>
+<p>Isis Naija Gaston was born on January 1, 2000, in <a href="/wiki/The_Bronx" title="The Bronx">the Bronx</a>, New York City,<sup id="cite_ref-rollingstone_6-0" class="reference"><a href="#cite_note-rollingstone-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-NYT_8-0" class="reference"><a href="#cite_note-NYT-8">&#91;8&#93;</a></sup> where she was raised in the <a href="/wiki/Fordham_Road" title="Fordham Road">Fordham Road</a> neighborhood. She is the oldest of five siblings.<sup id="cite_ref-intery_9-0" class="reference"><a href="#cite_note-intery-9">&#91;9&#93;</a></sup> Her father, Joseph Gaston, who was a former <a href="/wiki/Underground_hip_hop" title="Underground hip hop">underground rapper</a>, is African-American, while her mother, Charina Almanzar, who  worked at a <a href="/wiki/Car_dealership" title="Car dealership">car dealership</a> and gave birth to Gaston at age 17, is <a href="/wiki/People_of_the_Dominican_Republic" title="People of the Dominican Republic">Dominican</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> The two first met at a <a href="/wiki/McDonald%27s" title="McDonald&#39;s">McDonald's</a><sup id="cite_ref-audiomack_11-0" class="reference"><a href="#cite_note-audiomack-11">&#91;11&#93;</a></sup> and divorced when Gaston was two years old.<sup id="cite_ref-complex1_12-0" class="reference"><a href="#cite_note-complex1-12">&#91;12&#93;</a></sup><sup id="cite_ref-bbrookie_13-0" class="reference"><a href="#cite_note-bbrookie-13">&#91;13&#93;</a></sup><sup id="cite_ref-nojump_14-0" class="reference"><a href="#cite_note-nojump-14">&#91;14&#93;</a></sup><sup id="cite_ref-intery_9-1" class="reference"><a href="#cite_note-intery-9">&#91;9&#93;</a></sup>
+</p><p>Because her parents were frequently busy working, she spent much of her childhood with her grandparents and cousins.<sup id="cite_ref-intery_9-2" class="reference"><a href="#cite_note-intery-9">&#91;9&#93;</a></sup> She went to school in the Bronx until she was sent to <a href="/wiki/Sacred_Heart_High_School_(Yonkers,_New_York)" title="Sacred Heart High School (Yonkers, New York)">Sacred Heart High School</a>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> a Catholic high school in <a href="/wiki/Yonkers,_New_York" title="Yonkers, New York">Yonkers</a>.<sup id="cite_ref-nojump_14-1" class="reference"><a href="#cite_note-nojump-14">&#91;14&#93;</a></sup> At age seven, she took a liking to <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> after listening to rappers like <a href="/wiki/Lil%27_Kim" title="Lil&#39; Kim">Lil' Kim</a>, <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a>, and others and wrote <a href="/wiki/Poetry" title="Poetry">poetry</a> and <a href="/wiki/Freestyle_rap" title="Freestyle rap">freestyle raps</a> from elementary school to high school. In an interview with <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>, Ice explained that she grew up listening to the likes of <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> and <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a> because of her father's rap background.<sup id="cite_ref-Mamo_4-1" class="reference"><a href="#cite_note-Mamo-4">&#91;4&#93;</a></sup> She would type out lyrics in the <a href="/wiki/Notes_(Apple)" title="Notes (Apple)">Notes</a> app of her iPhone, listening to hip-hop instrumentals and rapping out loud to them.<sup id="cite_ref-High_2023_16-0" class="reference"><a href="#cite_note-High_2023-16">&#91;16&#93;</a></sup><sup id="cite_ref-girlsunited_17-0" class="reference"><a href="#cite_note-girlsunited-17">&#91;17&#93;</a></sup><sup id="cite_ref-bbrookie_13-1" class="reference"><a href="#cite_note-bbrookie-13">&#91;13&#93;</a></sup> "When I saw Nicki [Minaj], I was so mesmerized," Ice Spice explained. "She's the first female rapper that I seen. And ever since then, I was kinda set on what I wanted to be." She chose Ice Spice as her stage name while she was a freshman in high school.<sup id="cite_ref-High_2023_16-1" class="reference"><a href="#cite_note-High_2023-16">&#91;16&#93;</a></sup>
+</p><p>Ice Spice graduated from Sacred Heart High in 2018 and attended <a href="/wiki/State_University_of_New_York_at_Purchase" title="State University of New York at Purchase">State University of New York at Purchase</a>, where she was a defensive specialist on the school's volleyball team and studied biology.<sup id="cite_ref-High_2023_16-2" class="reference"><a href="#cite_note-High_2023-16">&#91;16&#93;</a></sup><sup id="cite_ref-Issawi_2023_18-0" class="reference"><a href="#cite_note-Issawi_2023-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><sup id="cite_ref-Purchase_bio_20-0" class="reference"><a href="#cite_note-Purchase_bio-20">&#91;20&#93;</a></sup> In seven matches, she had two kills and nine digs in the 2018 season.<sup id="cite_ref-Purchase_bio_20-1" class="reference"><a href="#cite_note-Purchase_bio-20">&#91;20&#93;</a></sup>
+</p><p>Around her sophomore year, Ice Spice dropped out of SUNY Purchase, explaining that she did not believe the school was the right fit for her and attributing her "strenuous commute" for leaving college.<sup id="cite_ref-High_2023_16-3" class="reference"><a href="#cite_note-High_2023-16">&#91;16&#93;</a></sup>
+</p><p>As the eldest sister of her four siblings, Ice Spice was their <i><a href="/wiki/De_facto" title="De facto">de facto</a></i> protector.<sup id="cite_ref-Issawi_2023_18-1" class="reference"><a href="#cite_note-Issawi_2023-18">&#91;18&#93;</a></sup> She supported herself as a cashier at <a href="/wiki/Wendy%27s" title="Wendy&#39;s">Wendy's</a> and <a href="/wiki/Gap_Inc." title="Gap Inc.">The Gap</a>.<sup id="cite_ref-High_2023_16-4" class="reference"><a href="#cite_note-High_2023-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span></h2>
+<h3><span id="2021.E2.80.932022:_Career_beginnings"></span><span class="mw-headline" id="2021–2022:_Career_beginnings">2021–2022: Career beginnings</span></h3>
+<p>Ice Spice started rapping in 2021 after meeting with a record producer, RiotUSA, while she was attending State University of New York at Purchase.<sup id="cite_ref-:0_21-0" class="reference"><a href="#cite_note-:0-21">&#91;21&#93;</a></sup> He produced her debut song, "Bully Freestyle", released in March 2021 after a video of Ice Spice doing the "<a href="/wiki/Buss_It" title="Buss It">Buss It</a>" challenge went viral on <a href="/wiki/Twitter" title="Twitter">Twitter</a>.<sup id="cite_ref-audiomack_11-1" class="reference"><a href="#cite_note-audiomack-11">&#91;11&#93;</a></sup> Her song "Name of Love" gained traction on <a href="/wiki/SoundCloud" title="SoundCloud">SoundCloud</a>, which led to her becoming popular on <a href="/wiki/Instagram" title="Instagram">Instagram</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<h3><span id="2022.E2.80.93present:_Breakthrough_with_Like.E2.80.A6.3F"></span><span class="mw-headline" id="2022–present:_Breakthrough_with_Like…?">2022–present: Breakthrough with <i>Like…?</i></span></h3>
+<p>On August 10, 2022, Ice Spice released her song "<a href="/wiki/Munch_(Feelin%27_U)" title="Munch (Feelin&#39; U)">Munch (Feelin' U)</a>", accompanied with a video distributed by <a href="/wiki/WorldStarHipHop" title="WorldStarHipHop">WorldStarHipHop</a>,<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> as the lead single from her then-untitled debut <a href="/wiki/Extended_play" title="Extended play">extended play</a>, <i><a href="/wiki/Like..%3F" title="Like..?">Like..?</a></i>. The song gained popularity after getting support from <a href="/wiki/Drake_(musician)" title="Drake (musician)">Drake</a>, who played the song on his <a href="/wiki/Sirius_XM" title="Sirius XM">Sirius XM</a> radio station, Sound 42.<sup id="cite_ref-complex1_12-1" class="reference"><a href="#cite_note-complex1-12">&#91;12&#93;</a></sup> It subsequently went viral on Twitter and <a href="/wiki/TikTok" title="TikTok">TikTok</a>, and charted on <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s <a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Songs</a> and <a href="/wiki/Bubbling_Under_Hot_100" title="Bubbling Under Hot 100">Bubbling Under Hot 100</a> charts.<sup id="cite_ref-rollingstone2_24-0" class="reference"><a href="#cite_note-rollingstone2-24">&#91;24&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-bbrookie_13-2" class="reference"><a href="#cite_note-bbrookie-13">&#91;13&#93;</a></sup> In September 2022, Ice Spice appeared as a featured artist on the song "One Time" by <a href="/wiki/B-Lovee" title="B-Lovee">B-Lovee</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> Later that month, she signed a record deal with <a href="/wiki/10K_Projects" title="10K Projects">10K Projects</a> and <a href="/wiki/Capitol_Records" title="Capitol Records">Capitol Records</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> On October 28, she released the single "<a href="/wiki/Bikini_Bottom_(song)" title="Bikini Bottom (song)">Bikini Bottom</a>".<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> Ice Spice's debut EP, <i><a href="/wiki/Like..%3F" title="Like..?">Like..?</a></i>, was released on January 20, 2023, and included the singles "Munch (Feelin' U)", "Bikini Bottom", and "<a href="/wiki/In_Ha_Mood" title="In Ha Mood">In Ha Mood</a>".<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V7_2022.png" class="mw-file-description"><img alt="Ice Spice performing" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V7_2022.png/230px-Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V7_2022.png" decoding="async" width="230" height="129" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V7_2022.png/345px-Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V7_2022.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V7_2022.png/460px-Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V7_2022.png 2x" data-file-width="3840" data-file-height="2160" /></a><figcaption>Ice Spice performing in 2022</figcaption></figure>
+<p>In February 2023, Ice Spice collaborated with <a href="/wiki/Lil_Tjay" title="Lil Tjay">Lil Tjay</a> on the tribute single "<a href="/wiki/Gangsta_Boo_(song)" title="Gangsta Boo (song)">Gangsta Boo</a>" to the late <a href="/wiki/Gangsta_Boo" title="Gangsta Boo">rapper of the same name</a>, which became her first song on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> at No. 82.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> On February 3, 2023, the remix of singer <a href="/wiki/PinkPantheress" title="PinkPantheress">PinkPantheress</a>'s song, "<a href="/wiki/Boy%27s_a_Liar#Boy&#39;s_a_Liar_Pt._2" title="Boy&#39;s a Liar">Boy's a Liar Pt. 2</a>" featuring Ice Spice and the corresponding music video were released. The song peaked at No. 3 on the <i>Billboard</i> Hot 100, the highest charting position for either artist at the time.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> In April 2023, she released the remix of "<a href="/wiki/Princess_Diana_(song)" title="Princess Diana (song)">Princess Diana</a>" with <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a>.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> The song peaked at number four on the Hot 100, earning Ice Spice her second top-ten hit on the chart and the twenty second top-ten hit for Minaj.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> On May 24, 2023, a remix of <a href="/wiki/Taylor_Swift" title="Taylor Swift">Taylor Swift</a>'s "<a href="/wiki/Karma_(Taylor_Swift_song)" title="Karma (Taylor Swift song)">Karma</a>" featuring Ice Spice, was announced for release on May 26, 2023. The remix is a bonus track on the special editions of Swift's tenth studio album, <i><a href="/wiki/Midnights" title="Midnights">Midnights</a></i> (2022).<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> A music video for the remix, featuring Swift and Ice Spice, was released on May 27. <i><a href="/wiki/Pitchfork_(website)" title="Pitchfork (website)">Pitchfork</a></i> described 2023 as the breakout year of Ice Spice.<sup id="cite_ref-:1_35-0" class="reference"><a href="#cite_note-:1-35">&#91;35&#93;</a></sup> "Karma" peaked at number two on the Hot 100, making Ice Spice the artist with the most Hot 100 top-five singles in 2023.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup> The deluxe version of <i>Like..?</i>, featuring five new tracks, was released on July 21, 2023.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Artistry">Artistry</span></h2>
+<p>Ice Spice's music is primarily <a href="/wiki/Brooklyn_drill" title="Brooklyn drill">Bronx</a> <a href="/wiki/Drill_music" title="Drill music">drill</a>.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> Her name came from a "finsta" (fake Instagram account) she made at age 14.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> She has said she writes all her own lyrics.<sup id="cite_ref-intery_9-3" class="reference"><a href="#cite_note-intery-9">&#91;9&#93;</a></sup> 
+</p>
+<h3><span class="mw-headline" id="Influences">Influences</span></h3>
+<p>She was first inspired to start rapping by <a href="/wiki/Sheff_G" title="Sheff G">Sheff G</a> and <a href="/wiki/Pop_Smoke" title="Pop Smoke">Pop Smoke</a>, and has listed <a href="/wiki/Lil%27_Kim" title="Lil&#39; Kim">Lil' Kim</a>, <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a>, <a href="/wiki/Cardi_B" title="Cardi B">Cardi B</a>, <a href="/wiki/Foxy_Brown_(rapper)" title="Foxy Brown (rapper)">Foxy Brown</a>, and <a href="/wiki/Remy_Ma" title="Remy Ma">Remy Ma</a> as musical influences due to their New York roots.<sup id="cite_ref-nojump_14-2" class="reference"><a href="#cite_note-nojump-14">&#91;14&#93;</a></sup><sup id="cite_ref-complex1_12-2" class="reference"><a href="#cite_note-complex1-12">&#91;12&#93;</a></sup><sup id="cite_ref-intery_9-4" class="reference"><a href="#cite_note-intery-9">&#91;9&#93;</a></sup> She has also called <a href="/wiki/Erykah_Badu" title="Erykah Badu">Erykah Badu</a>, <a href="/wiki/Rihanna" title="Rihanna">Rihanna</a>, <a href="/wiki/Taylor_Swift" title="Taylor Swift">Taylor Swift</a>, and <a href="/wiki/Lauryn_Hill" title="Lauryn Hill">Lauryn Hill</a> inspirations because of their "graceful angelic vibe of timeless beauty".<sup id="cite_ref-bbrookie_13-3" class="reference"><a href="#cite_note-bbrookie-13">&#91;13&#93;</a></sup> 
+</p><p>Talking to <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> in 2022, Ice Spice recalled: “When I was 13 or 14, I was playing [<a href="/wiki/The_1975" title="The 1975">The 1975</a>] all the time. It was my shit, I think it’s because they’re from Europe and he [<a href="/wiki/Matty_Healy" title="Matty Healy">Matty Healy</a>] has that accent. It was a thing for me...”<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span></h2>
+<p>Ice Spice is bisexual.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> She currently lives in <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Ice_Spice_discography" title="Ice Spice discography">Ice Spice discography</a></div>
+<p><b>Extended plays</b>
+</p>
+<ul><li><i><a href="/wiki/Like..%3F" title="Like..?">Like..?</a></i> (2023)</li></ul>
+<h2><span class="mw-headline" id="Tours">Tours</span></h2>
+<p><b>Supporting</b>
+</p>
+<ul><li><a href="/wiki/Doja_Cat" title="Doja Cat">Doja Cat</a> – <a href="/wiki/The_Scarlet_Tour" title="The Scarlet Tour">The Scarlet Tour</a> (2023)<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+<table class="wikitable sortable plainrowheaders">
+<tbody><tr>
+<th scope="col">Award
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Category
+</th>
+<th scope="col">Nominee(s)
+</th>
+<th scope="col">Result
+</th>
+<th scope="col" class="unsortable"><abbr title="References">Ref.</abbr>
+</th></tr>
+<tr>
+<th rowspan="2" scope="row"><a href="/wiki/Spotify#Platforms" title="Spotify">All-Rap Caviar</a>
+</th>
+<td rowspan="2">2023
+</td>
+<td>Rookie of The Year
+</td>
+<td rowspan="2">Herself
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td>
+<td rowspan="2"><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Second Team
+</td>
+<td style="background: #BFD; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Honoured
+</td></tr>
+<tr>
+<th scope="row" rowspan="4"><a href="/wiki/BET_Awards" title="BET Awards">BET Awards</a>
+</th>
+<td rowspan="4"><a href="/wiki/BET_Awards_2023" title="BET Awards 2023">2023</a>
+</td>
+<td><a href="/wiki/BET_Award_for_Best_Female_Hip_Hop_Artist" title="BET Award for Best Female Hip Hop Artist">Best Female Hip Hop Artist</a>
+</td>
+<td rowspan="2">Herself
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td>
+<td rowspan="4"><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/BET_Award_for_Best_New_Artist" title="BET Award for Best New Artist">Best New Artist</a>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td><a href="/wiki/BET_Award_for_Best_Collaboration" title="BET Award for Best Collaboration">Best Collaboration</a>
+</td>
+<td rowspan="2">"<a href="/wiki/Boy%27s_a_Liar" title="Boy&#39;s a Liar">Boy's a Liar Pt. 2</a>" <span style="font-size:85%;">(with <a href="/wiki/PinkPantheress" title="PinkPantheress">PinkPantheress</a>)</span>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td><a href="/wiki/BET_Her_Award" title="BET Her Award">BET Her</a>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<th scope="row" rowspan="2"><a href="/wiki/BET_Hip_Hop_Awards" title="BET Hip Hop Awards">BET Hip-Hop Awards</a>
+</th>
+<td rowspan="2"><a href="/wiki/2023_BET_Hip_Hop_Awards" title="2023 BET Hip Hop Awards">2023</a>
+</td>
+<td>Best Collaboration
+</td>
+<td>"Princess Diana" <small>(with <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a>)</small>
+</td>
+<td style="background: #FFD; vertical-align: middle; text-align: center;" class="partial table-partial">Pending
+</td>
+<td rowspan="2"><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Best Breakthrough Hip-Hop Artist
+</td>
+<td>Herself
+</td>
+<td style="background: #FFD; vertical-align: middle; text-align: center;" class="partial table-partial">Pending
+</td></tr>
+<tr>
+<th rowspan="1" scope="row"><a href="/wiki/Billboard_(magazine)#Listicles" title="Billboard (magazine)"><i>Billboard</i>'s R&amp;B/Hip-Hop Power Players</a>
+</th>
+<td>2023
+</td>
+<td>Rookie of The Year
+</td>
+<td>Herself
+</td>
+<td style="background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;" class="yes table-yes2 notheme">Won
+</td>
+<td><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup>
+</td></tr>
+<tr>
+<th rowspan="1" scope="row"><a href="/wiki/Broadcast_Music,_Inc." title="Broadcast Music, Inc.">BMI </a> R&amp;B/Hip-Hop Awards
+</th>
+<td>2023
+</td>
+<td>Impact Award
+</td>
+<td>Herself
+</td>
+<td style="background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;" class="yes table-yes2 notheme">Won
+</td>
+<td><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup>
+</td></tr>
+<tr>
+<th rowspan="4" scope="row"><a href="/wiki/MTV_Video_Music_Awards" title="MTV Video Music Awards">MTV Video Music Awards</a>
+</th>
+<td rowspan="4"><a href="/wiki/2023_MTV_Video_Music_Awards" title="2023 MTV Video Music Awards">2023</a>
+</td>
+<td><a href="/wiki/MTV_Video_Music_Award_for_Best_New_Artist" title="MTV Video Music Award for Best New Artist">Best New Artist</a>
+</td>
+<td>Herself
+</td>
+<td style="background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;" class="yes table-yes2 notheme">Won
+</td>
+<td rowspan="2"><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Best Push Performance
+</td>
+<td>"<a href="/wiki/Princess_Diana_(song)" title="Princess Diana (song)">Princess Diana</a>"
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/MTV_Video_Music_Award_for_Song_of_Summer" title="MTV Video Music Award for Song of Summer">Song of Summer</a>
+</td>
+<td>"<a href="/wiki/Barbie_World" title="Barbie World">Barbie World</a>" <span style="font-size:85%;">(with <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a> and <a href="/wiki/Aqua_(band)" title="Aqua (band)">Aqua</a>)</span>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td>
+<td rowspan="2" style="text-align:center;"><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Karma_(Taylor_Swift_song)" title="Karma (Taylor Swift song)">Karma</a>" <span style="font-size:85%;">(with <a href="/wiki/Taylor_Swift" title="Taylor Swift">Taylor Swift</a>)</span>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<th scope="row" rowspan="2"><a href="/wiki/Streamy_Awards" title="Streamy Awards">Streamy Awards</a>
+</th>
+<td rowspan="2"><a href="/wiki/13th_Streamy_Awards" title="13th Streamy Awards">2023</a>
+</td>
+<td rowspan="2">Sound of the Year
+</td>
+<td>"Boy's a Liar Pt. 2" <small>("with PinkPantheress)</small>
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td>
+<td rowspan="2"><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/In_Ha_Mood" title="In Ha Mood">In Ha Mood</a>"
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ascap.com/repertory#/ace/search/workID/918947099">"Be A Lady"</a>. <i>ASCAP</i>. American Society of Composers, Authors and Publishers. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190330145422/https://www.ascap.com/repertory#/ace/search/workID/918947099">Archived</a> from the original on March 30, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">March 13,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ASCAP&amp;rft.atitle=Be+A+Lady&amp;rft_id=https%3A%2F%2Fwww.ascap.com%2Frepertory%23%2Face%2Fsearch%2FworkID%2F918947099&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.polydor.co.uk/artists/">"Polydor Records Artists"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 16,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Polydor+Records+Artists&amp;rft_id=https%3A%2F%2Fwww.polydor.co.uk%2Fartists%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://time.com/6257685/ice-spice-tik-tok-billboard/">"Why Rapper Ice Spice Is Suddenly Everywhere"</a>. <i>Time</i>. February 23, 2023. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303033942/https://time.com/6257685/ice-spice-tik-tok-billboard/">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">February 24,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Time&amp;rft.atitle=Why+Rapper+Ice+Spice+Is+Suddenly+Everywhere&amp;rft.date=2023-02-23&amp;rft_id=https%3A%2F%2Ftime.com%2F6257685%2Fice-spice-tik-tok-billboard%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Mamo-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mamo_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mamo_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMamo2023" class="citation magazine cs1">Mamo, Heran (May 11, 2023). <a rel="nofollow" class="external text" href="https://www.billboard.com/music/features/ice-spice-munch-rapper-princess-diana-billboard-cover-story-interview-1235325827/">"The New 'Princess' of Rap: How Ice Spice Exploded Into Stardom"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 12,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=The+New+%27Princess%27+of+Rap%3A+How+Ice+Spice+Exploded+Into+Stardom&amp;rft.date=2023-05-11&amp;rft.aulast=Mamo&amp;rft.aufirst=Heran&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Ffeatures%2Fice-spice-munch-rapper-princess-diana-billboard-cover-story-interview-1235325827%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGrein2023" class="citation web cs1">Grein, Paul (September 7, 2023). <a rel="nofollow" class="external text" href="https://www.billboard.com/music/awards/ice-spice-bmi-impact-award-2023-rb-hip-hop-awards-1235408623/">"Ice Spice Receives BMI Impact Award at 2023 R&amp;B/Hip-Hop Awards"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 11,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Ice+Spice+Receives+BMI+Impact+Award+at+2023+R%26B%2FHip-Hop+Awards&amp;rft.date=2023-09-07&amp;rft.aulast=Grein&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fawards%2Fice-spice-bmi-impact-award-2023-rb-hip-hop-awards-1235408623%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-rollingstone-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-rollingstone_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIhaza2022" class="citation magazine cs1">Ihaza, Jeff (October 14, 2022). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-features/munch-rapper-ice-spice-1234608104/">"How Ice Spice Added a Touch of Zest to New York's Drill Scene slatt"</a>. <i>Rolling Stone</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303034033/https://www.rollingstone.com/music/music-features/munch-rapper-ice-spice-1234608104/">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">October 15,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=How+Ice+Spice+Added+a+Touch+of+Zest+to+New+York%27s+Drill+Scene+slatt&amp;rft.date=2022-10-14&amp;rft.aulast=Ihaza&amp;rft.aufirst=Jeff&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-features%2Fmunch-rapper-ice-spice-1234608104%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTrammell2023" class="citation web cs1">Trammell, Matthew (March 13, 2023). <a rel="nofollow" class="external text" href="https://www.dazeddigital.com/music/article/58390/1/ice-spice-dazed-spring-2023-interview?amp=1">"Ice Spice: the people's princess"</a>. Daze Media<span class="reference-accessdate">. Retrieved <span class="nowrap">May 28,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ice+Spice%3A+the+people%27s+princess&amp;rft.pub=Daze+Media&amp;rft.date=2023-03-13&amp;rft.aulast=Trammell&amp;rft.aufirst=Matthew&amp;rft_id=https%3A%2F%2Fwww.dazeddigital.com%2Fmusic%2Farticle%2F58390%2F1%2Fice-spice-dazed-spring-2023-interview%3Famp%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-NYT-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYT_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCaramanica2023" class="citation news cs1"><a href="/wiki/Jon_Caramanica" title="Jon Caramanica">Caramanica, Jon</a> (January 20, 2023). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2023/01/20/arts/music/ice-spice-like.html">"Ice Spice Broke Out With 'Munch.' Rap's New Princess Is Just Warming Up"</a>. <i>The New York Times</i>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0362-4331">0362-4331</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303035452/https://www.nytimes.com/2023/01/20/arts/music/ice-spice-like.html">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">January 21,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Ice+Spice+Broke+Out+With+%27Munch.%27+Rap%27s+New+Princess+Is+Just+Warming+Up.&amp;rft.date=2023-01-20&amp;rft.issn=0362-4331&amp;rft.aulast=Caramanica&amp;rft.aufirst=Jon&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2023%2F01%2F20%2Farts%2Fmusic%2Fice-spice-like.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-intery-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-intery_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-intery_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-intery_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-intery_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-intery_9-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLent2022" class="citation web cs1">Lent, Caitlin (December 1, 2022). <a rel="nofollow" class="external text" href="https://www.interviewmagazine.com/music/ice-spice-is-rethinking-rap-stardom">"Ice Spice Is Rethinking Rap Stardom"</a>. <i><a href="/wiki/Interview_(magazine)" title="Interview (magazine)">Interview</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303034246/https://www.interviewmagazine.com/music/ice-spice-is-rethinking-rap-stardom">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">December 5,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Interview&amp;rft.atitle=Ice+Spice+Is+Rethinking+Rap+Stardom&amp;rft.date=2022-12-01&amp;rft.aulast=Lent&amp;rft.aufirst=Caitlin&amp;rft_id=https%3A%2F%2Fwww.interviewmagazine.com%2Fmusic%2Fice-spice-is-rethinking-rap-stardom&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRamos2022" class="citation web cs1">Ramos, Danteé (November 16, 2022). <a rel="nofollow" class="external text" href="https://news.yahoo.com/ice-spice-reveals-shes-nigerian-162444917.html">"Ice Spice Reveals She's Nigerian And Dominican After Fan Says She 'Looks So Igbo'<span class="cs1-kern-right"></span>"</a>. <a href="/wiki/Yahoo!_News" title="Yahoo! News">Yahoo! News</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303034348/https://news.yahoo.com/ice-spice-reveals-shes-nigerian-162444917.html">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">January 25,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ice+Spice+Reveals+She%27s+Nigerian+And+Dominican+After+Fan+Says+She+%27Looks+So+Igbo%27&amp;rft.pub=Yahoo%21+News&amp;rft.date=2022-11-16&amp;rft.aulast=Ramos&amp;rft.aufirst=Dante%C3%A9&amp;rft_id=https%3A%2F%2Fnews.yahoo.com%2Fice-spice-reveals-shes-nigerian-162444917.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-audiomack-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-audiomack_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-audiomack_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFVerma2022" class="citation web cs1">Verma, Millan (July 7, 2022). <a rel="nofollow" class="external text" href="https://audiomack.com/world/post/ice-spice-interview">"<span class="cs1-kern-left"></span>"I Must Be Doing Something Right": An Interview With Ice Spice"</a>. <i><a href="/wiki/Audiomack" title="Audiomack">Audiomack</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303034451/https://audiomack.com/world/post/ice-spice-interview">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">December 5,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Audiomack&amp;rft.atitle=%22I+Must+Be+Doing+Something+Right%22%3A+An+Interview+With+Ice+Spice&amp;rft.date=2022-07-07&amp;rft.aulast=Verma&amp;rft.aufirst=Millan&amp;rft_id=https%3A%2F%2Faudiomack.com%2Fworld%2Fpost%2Fice-spice-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-complex1-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-complex1_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-complex1_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-complex1_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGardnerFifeAguilar2022" class="citation web cs1">Gardner, Alex; Fife, Carter; Aguilar, Andrea (August 30, 2022). <a rel="nofollow" class="external text" href="https://www.complex.com/pigeons-and-planes/best-new-artists-august-2022/ice-spice">"Best New Artists of the Month"</a>. <i>Pigeons &amp; Planes</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20221001202843/https://www.complex.com/pigeons-and-planes/best-new-artists-august-2022/ice-spice">Archived</a> from the original on October 1, 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">September 18,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pigeons+%26+Planes&amp;rft.atitle=Best+New+Artists+of+the+Month&amp;rft.date=2022-08-30&amp;rft.aulast=Gardner&amp;rft.aufirst=Alex&amp;rft.au=Fife%2C+Carter&amp;rft.au=Aguilar%2C+Andrea&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fpigeons-and-planes%2Fbest-new-artists-august-2022%2Fice-spice&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-bbrookie-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbrookie_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbrookie_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bbrookie_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bbrookie_13-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRouhani2022" class="citation magazine cs1">Rouhani, Neena (October 26, 2022). <a rel="nofollow" class="external text" href="https://www.billboard.com/music/rb-hip-hop/ice-spice-rb-hip-hop-rookie-of-the-month-october-interview-1235160589/">"Ice Spice: October R&amp;B/Hip-Hop Rookie of the Month"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303034747/https://www.billboard.com/music/rb-hip-hop/ice-spice-rb-hip-hop-rookie-of-the-month-october-interview-1235160589/">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">December 5,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Ice+Spice%3A+October+R%26B%2FHip-Hop+Rookie+of+the+Month&amp;rft.date=2022-10-26&amp;rft.aulast=Rouhani&amp;rft.aufirst=Neena&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Frb-hip-hop%2Fice-spice-rb-hip-hop-rookie-of-the-month-october-interview-1235160589%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-nojump-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-nojump_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nojump_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nojump_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation audio-visual cs1">Black Dave (host) (May 15, 2022). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=H91MADIRsQM&amp;ab_channel=NoJumper"><i>Ice Spice on Becoming The Female Face of Bronx Drill</i></a> (YouTube video). <a href="/wiki/Adam22" title="Adam22">No Jumper</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220923223912/https://www.youtube.com/watch?v=H91MADIRsQM&amp;ab_channel=NoJumper">Archived</a> from the original on September 23, 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ice+Spice+on+Becoming+The+Female+Face+of+Bronx+Drill&amp;rft.pub=No+Jumper&amp;rft.date=2022-05-15&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH91MADIRsQM%26ab_channel%3DNoJumper&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDarden2023" class="citation web cs1">Darden, Ebro (January 27, 2023). <a rel="nofollow" class="external text" href="https://podcasts.apple.com/us/podcast/bonus-ice-spice-on-upbringing-drake-cardi-b-acting-new-ep/id1236941416?i=1000596961689">"BONUS: Ice Spice On Upbringing, Drake, Cardi B, Acting, + New EP!"</a>. <i><a href="/wiki/Apple_Podcasts" title="Apple Podcasts">Apple Podcasts</a></i>. <a href="/wiki/WQHT" title="WQHT">Hot 97</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303034842/https://podcasts.apple.com/us/podcast/bonus-ice-spice-on-upbringing-drake-cardi-b-acting-new-ep/id1236941416?i=1000596961689">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">January 31,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Apple+Podcasts&amp;rft.atitle=BONUS%3A+Ice+Spice+On+Upbringing%2C+Drake%2C+Cardi+B%2C+Acting%2C+%2B+New+EP%21&amp;rft.date=2023-01-27&amp;rft.aulast=Darden&amp;rft.aufirst=Ebro&amp;rft_id=https%3A%2F%2Fpodcasts.apple.com%2Fus%2Fpodcast%2Fbonus-ice-spice-on-upbringing-drake-cardi-b-acting-new-ep%2Fid1236941416%3Fi%3D1000596961689&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-High_2023-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-High_2023_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-High_2023_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-High_2023_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-High_2023_16-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-High_2023_16-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHigh2023" class="citation web cs1">High, Kemet (January 16, 2023). <a rel="nofollow" class="external text" href="https://www.xxlmag.com/ice-spice-interview/">"Ice Spice Feels Like a Star But She's Got a Long Way to Go Before She's Satisfied"</a>. <i>XXL Mag</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230317162056/https://www.xxlmag.com/ice-spice-interview/">Archived</a> from the original on March 17, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">March 17,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=Ice+Spice+Feels+Like+a+Star+But+She%27s+Got+a+Long+Way+to+Go+Before+She%27s+Satisfied&amp;rft.date=2023-01-16&amp;rft.aulast=High&amp;rft.aufirst=Kemet&amp;rft_id=https%3A%2F%2Fwww.xxlmag.com%2Fice-spice-interview%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-girlsunited-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-girlsunited_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBrown2022" class="citation web cs1">Brown, D'Shonda (September 16, 2022). <a rel="nofollow" class="external text" href="https://girlsunited.essence.com/article/gu-jams-ice-spice/">"GU Jams: We Know We're Not The Only Ones Feeling Ice Spice"</a>. <i>Girls United</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303034923/https://girlsunited.essence.com/article/gu-jams-ice-spice/">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Girls+United&amp;rft.atitle=GU+Jams%3A+We+Know+We%27re+Not+The+Only+Ones+Feeling+Ice+Spice&amp;rft.date=2022-09-16&amp;rft.aulast=Brown&amp;rft.aufirst=D%27Shonda&amp;rft_id=https%3A%2F%2Fgirlsunited.essence.com%2Farticle%2Fgu-jams-ice-spice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Issawi_2023-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Issawi_2023_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Issawi_2023_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIssawi2023" class="citation web cs1">Issawi, Danya (February 1, 2023). <a rel="nofollow" class="external text" href="https://www.thecut.com/article/ice-spice-rapper-nyc-profile.html">"The Cool Tang of Ice Spice"</a>. <i>The Cut</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230310182352/https://www.thecut.com/article/ice-spice-rapper-nyc-profile.html">Archived</a> from the original on March 10, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">March 10,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Cut&amp;rft.atitle=The+Cool+Tang+of+Ice+Spice&amp;rft.date=2023-02-01&amp;rft.aulast=Issawi&amp;rft.aufirst=Danya&amp;rft_id=https%3A%2F%2Fwww.thecut.com%2Farticle%2Fice-spice-rapper-nyc-profile.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.purchasecollegeathletics.com/sports/womens-volleyball/roster/2018">"2018 Women's Volleyball Roster"</a>. SUNY Purchase<span class="reference-accessdate">. Retrieved <span class="nowrap">June 17,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2018+Women%27s+Volleyball+Roster&amp;rft.pub=SUNY+Purchase&amp;rft_id=https%3A%2F%2Fwww.purchasecollegeathletics.com%2Fsports%2Fwomens-volleyball%2Froster%2F2018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Purchase_bio-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Purchase_bio_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Purchase_bio_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.purchasecollegeathletics.com/sports/womens-volleyball/roster/isis-gaston/2239">"Isis Gaston"</a>. SUNY Purchase<span class="reference-accessdate">. Retrieved <span class="nowrap">June 17,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Isis+Gaston&amp;rft.pub=SUNY+Purchase&amp;rft_id=https%3A%2F%2Fwww.purchasecollegeathletics.com%2Fsports%2Fwomens-volleyball%2Froster%2Fisis-gaston%2F2239&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_21-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPierre2022" class="citation web cs1">Pierre, Alphonse (September 2, 2022). <a rel="nofollow" class="external text" href="https://pitchfork.com/thepitch/ice-spice-munch-feelin-u-is-the-new-york-rap-song-of-the-summer-weve-been-waiting-for/">"Ice Spice's "Munch (Feelin' U)" Is the New York Rap Song of the Summer We've Been Waiting For"</a>. <i><a href="/wiki/Pitchfork_(website)" title="Pitchfork (website)">Pitchfork</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303035007/https://pitchfork.com/thepitch/ice-spice-munch-feelin-u-is-the-new-york-rap-song-of-the-summer-weve-been-waiting-for/">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork&amp;rft.atitle=Ice+Spice%27s+%22Munch+%28Feelin%27+U%29%22+Is+the+New+York+Rap+Song+of+the+Summer+We%27ve+Been+Waiting+For&amp;rft.date=2022-09-02&amp;rft.aulast=Pierre&amp;rft.aufirst=Alphonse&amp;rft_id=https%3A%2F%2Fpitchfork.com%2Fthepitch%2Fice-spice-munch-feelin-u-is-the-new-york-rap-song-of-the-summer-weve-been-waiting-for%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation audio-visual cs1">P, Gabe (host) (May 17, 2022). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=NPcB6BTMrV8&amp;ab_channel=OnTheRadarRadio"><i>Ice Spice On Toosii Cosign, Teases Music w/ Dusty Locane, Shani Boni, "Name Of Love" Blowing Up</i></a> (YouTube video). On the Radar. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220923223907/https://www.youtube.com/watch?v=NPcB6BTMrV8&amp;ab_channel=OnTheRadarRadio">Archived</a> from the original on September 23, 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ice+Spice+On+Toosii+Cosign%2C+Teases+Music+w%2F+Dusty+Locane%2C+Shani+Boni%2C+%22Name+Of+Love%22+Blowing+Up&amp;rft.pub=On+the+Radar&amp;rft.date=2022-05-17&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNPcB6BTMrV8%26ab_channel%3DOnTheRadarRadio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hitsdailydouble.com/news%26id%3D332950%26title%3DWORLDSTARS-ICE-SPICE-HEATS-UP">"Worldstar's Ice Spice Heats up"</a>. <i><a href="/wiki/Hits_(magazine)" title="Hits (magazine)">Hits Daily Double</a></i>. September 15, 2022. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230324032143/https://hitsdailydouble.com/news%26id%3D332950%26title%3DWORLDSTARS-ICE-SPICE-HEATS-UP">Archived</a> from the original on March 24, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">May 27,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hits+Daily+Double&amp;rft.atitle=Worldstar%27s+Ice+Spice+Heats+up&amp;rft.date=2022-09-15&amp;rft_id=https%3A%2F%2Fhitsdailydouble.com%2Fnews%2526id%253D332950%2526title%253DWORLDSTARS-ICE-SPICE-HEATS-UP&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-rollingstone2-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-rollingstone2_24-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGee2022" class="citation magazine cs1">Gee, Andre (September 15, 2022). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-features/new-york-sample-drill-ice-spice-1234592671/">"Meet the Artists Taking New York Drill in a New Direction"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220917065517/https://www.rollingstone.com/music/music-features/new-york-sample-drill-ice-spice-1234592671/">Archived</a> from the original on September 17, 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">September 18,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Meet+the+Artists+Taking+New+York+Drill+in+a+New+Direction&amp;rft.date=2022-09-15&amp;rft.aulast=Gee&amp;rft.aufirst=Andre&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-features%2Fnew-york-sample-drill-ice-spice-1234592671%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRichards2022" class="citation news cs1">Richards, Chris (September 27, 2022). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/music/2022/09/27/ice-spice-munch-feelin-u-review/">"Ice Spice raps like she's in her own head. Is she in yours yet?"</a>. <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220927102532/https://www.washingtonpost.com/music/2022/09/27/ice-spice-munch-feelin-u-review/">Archived</a> from the original on September 27, 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Washington+Post&amp;rft.atitle=Ice+Spice+raps+like+she%27s+in+her+own+head.+Is+she+in+yours+yet%3F&amp;rft.date=2022-09-27&amp;rft.aulast=Richards&amp;rft.aufirst=Chris&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fmusic%2F2022%2F09%2F27%2Fice-spice-munch-feelin-u-review%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRose2022" class="citation web cs1">Rose, Jordan (September 16, 2022). <a rel="nofollow" class="external text" href="https://www.complex.com/music/best-new-music-sept-16/blood-orange-something-you-know">"The Best New Music This Week: EST Gee, Blood Orange, Symba, and More"</a>. <i><a href="/wiki/Complex_Networks" title="Complex Networks">Complex</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220920172423/https://www.complex.com/music/best-new-music-sept-16/blood-orange-something-you-know">Archived</a> from the original on September 20, 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">September 18,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=The+Best+New+Music+This+Week%3A+EST+Gee%2C+Blood+Orange%2C+Symba%2C+and+More&amp;rft.date=2022-09-16&amp;rft.aulast=Rose&amp;rft.aufirst=Jordan&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fbest-new-music-sept-16%2Fblood-orange-something-you-know&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFStutz2022" class="citation magazine cs1">Stutz, Colin (September 30, 2022). <a rel="nofollow" class="external text" href="https://www.billboard.com/pro/ice-spice-blondshell-d4vd-record-deals-inside-track/">"Inside Track: Music Biz Gets Back-to-School With Exec Moves, Deals for Ice Spice, Blondshell, d4vd &amp; More"</a>. <i>Billboard</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230126232248/https://www.billboard.com/pro/ice-spice-blondshell-d4vd-record-deals-inside-track/">Archived</a> from the original on January 26, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">October 15,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Inside+Track%3A+Music+Biz+Gets+Back-to-School+With+Exec+Moves%2C+Deals+for+Ice+Spice%2C+Blondshell%2C+d4vd+%26+More&amp;rft.date=2022-09-30&amp;rft.aulast=Stutz&amp;rft.aufirst=Colin&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fpro%2Fice-spice-blondshell-d4vd-record-deals-inside-track%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMcCafferty2022" class="citation news cs1">McCafferty, Kenna (October 28, 2022). <a rel="nofollow" class="external text" href="https://www.papermag.com/ice-spice-bikini-bottom-2658566618.html">"Ice Spice's 'Bikini Bottom' is Topping TikTok"</a>. <i><a href="/wiki/Paper_(magazine)" title="Paper (magazine)">Paper</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20221028221315/https://www.papermag.com/ice-spice-bikini-bottom-2658566618.html">Archived</a> from the original on October 28, 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">October 29,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Paper&amp;rft.atitle=Ice+Spice%27s+%27Bikini+Bottom%27+is+Topping+TikTok&amp;rft.date=2022-10-28&amp;rft.aulast=McCafferty&amp;rft.aufirst=Kenna&amp;rft_id=https%3A%2F%2Fwww.papermag.com%2Fice-spice-bikini-bottom-2658566618.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFEspinoza2023" class="citation web cs1">Espinoza, Joshua (January 20, 2023). <a rel="nofollow" class="external text" href="https://www.complex.com/music/ice-spice-like-ep-stream">"Ice Spice Drops 'Like..?' EP f/ Hit Single "Munch (Feelin' U)" and Lil Tjay Collab"</a>. <i><a href="/wiki/Complex_Networks" title="Complex Networks">Complex Networks</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230130025100/https://www.complex.com/music/ice-spice-like-ep-stream">Archived</a> from the original on January 30, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">January 20,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex+Networks&amp;rft.atitle=Ice+Spice+Drops+%27Like..%3F%27+EP+f%2F+Hit+Single+%22Munch+%28Feelin%27+U%29%22+and+Lil+Tjay+Collab&amp;rft.date=2023-01-20&amp;rft.aulast=Espinoza&amp;rft.aufirst=Joshua&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fice-spice-like-ep-stream&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMcIntyre2023" class="citation web cs1">McIntyre, Hugh (February 16, 2023). <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/hughmcintyre/2023/02/16/ice-spice-has-gone-from-rising-hip-hop-talent-to-reliable-charting-hitmaker-in-just-one-month/?sh=2eb8849278ef">"Ice Spice Has Gone From Rising Hip-Hop Talent To Reliable, Charting Hitmaker In Just One Month"</a>. <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230220142103/https://www.forbes.com/sites/hughmcintyre/2023/02/16/ice-spice-has-gone-from-rising-hip-hop-talent-to-reliable-charting-hitmaker-in-just-one-month/?sh=2eb8849278ef">Archived</a> from the original on February 20, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">February 20,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Forbes&amp;rft.atitle=Ice+Spice+Has+Gone+From+Rising+Hip-Hop+Talent+To+Reliable%2C+Charting+Hitmaker+In+Just+One+Month&amp;rft.date=2023-02-16&amp;rft.aulast=McIntyre&amp;rft.aufirst=Hugh&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fhughmcintyre%2F2023%2F02%2F16%2Fice-spice-has-gone-from-rising-hip-hop-talent-to-reliable-charting-hitmaker-in-just-one-month%2F%3Fsh%3D2eb8849278ef&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAniftosLipshutzMamoUnterberger2023" class="citation magazine cs1">Aniftos, Rania; Lipshutz, Jason; Mamo, Heran; Unterberger, Andrew; Werthman, Christine (February 14, 2023). <a rel="nofollow" class="external text" href="https://www.billboard.com/music/chart-beat/pinkpantheress-ice-spice-boys-a-liar-five-burning-questions-1235254175/">"Five Burning Questions: PinkPantheress &amp; Ice Spice's 'Boy's a Liar' Debuts at No. 14 on the Hot 100"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230224012321/https://www.billboard.com/music/chart-beat/pinkpantheress-ice-spice-boys-a-liar-five-burning-questions-1235254175/">Archived</a> from the original on February 24, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">February 20,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Five+Burning+Questions%3A+PinkPantheress+%26+Ice+Spice%27s+%27Boy%27s+a+Liar%27+Debuts+at+No.+14+on+the+Hot+100&amp;rft.date=2023-02-14&amp;rft.aulast=Aniftos&amp;rft.aufirst=Rania&amp;rft.au=Lipshutz%2C+Jason&amp;rft.au=Mamo%2C+Heran&amp;rft.au=Unterberger%2C+Andrew&amp;rft.au=Werthman%2C+Christine&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fchart-beat%2Fpinkpantheress-ice-spice-boys-a-liar-five-burning-questions-1235254175%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMadarang2023" class="citation magazine cs1">Madarang, Charisma (April 14, 2023). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-news/ice-spice-nicki-minaj-princess-diana-remix-1234714905/">"Ice Spice and Nicki Minaj Drop Ode to British Royal With 'Princess Diana' Remix"</a>. <i>Rolling Stone</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 23,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Ice+Spice+and+Nicki+Minaj+Drop+Ode+to+British+Royal+With+%27Princess+Diana%27+Remix&amp;rft.date=2023-04-14&amp;rft.aulast=Madarang&amp;rft.aufirst=Charisma&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2Fice-spice-nicki-minaj-princess-diana-remix-1234714905%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTrust2023" class="citation magazine cs1">Trust, Gary (April 24, 2023). <a rel="nofollow" class="external text" href="https://www.billboard.com/music/chart-beat/sza-kill-bill-number-one-hot-100-ice-spice-nicki-minaj-top-10-1235313955/">"SZA Scores Her First Billboard Hot 100 No. 1 With 'Kill Bill'<span class="cs1-kern-right"></span>"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 23,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=SZA+Scores+Her+First+Billboard+Hot+100+No.+1+With+%27Kill+Bill%27&amp;rft.date=2023-04-24&amp;rft.aulast=Trust&amp;rft.aufirst=Gary&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fchart-beat%2Fsza-kill-bill-number-one-hot-100-ice-spice-nicki-minaj-top-10-1235313955%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWillman2023" class="citation web cs1">Willman, Chris (May 24, 2023). <a rel="nofollow" class="external text" href="https://variety.com/2023/music/news/taylor-swift-ice-spice-midnights-til-dawn-edition-lana-del-rey-exclusive-vault-track-1235624159/">"Taylor Swift Announces 'Midnights' Deluxe Album With Ice Spice and More Lana Del Rey"</a>. <i>Variety</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 24,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Variety&amp;rft.atitle=Taylor+Swift+Announces+%27Midnights%27+Deluxe+Album+With+Ice+Spice+and+More+Lana+Del+Rey&amp;rft.date=2023-05-24&amp;rft.aulast=Willman&amp;rft.aufirst=Chris&amp;rft_id=https%3A%2F%2Fvariety.com%2F2023%2Fmusic%2Fnews%2Ftaylor-swift-ice-spice-midnights-til-dawn-edition-lana-del-rey-exclusive-vault-track-1235624159%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-:1_35-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCorcoran2023" class="citation web cs1">Corcoran, Nina (May 27, 2023). <a rel="nofollow" class="external text" href="https://pitchfork.com/news/watch-taylor-swift-and-ice-spice-in-new-karma-video/">"Watch Taylor Swift and Ice Spice in New "Karma" Video"</a>. <i>Pitchfork</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 27,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork&amp;rft.atitle=Watch+Taylor+Swift+and+Ice+Spice+in+New+%22Karma%22+Video&amp;rft.date=2023-05-27&amp;rft.aulast=Corcoran&amp;rft.aufirst=Nina&amp;rft_id=https%3A%2F%2Fpitchfork.com%2Fnews%2Fwatch-taylor-swift-and-ice-spice-in-new-karma-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBadewa2023" class="citation web cs1">Badewa, Collins (June 8, 2023). <a rel="nofollow" class="external text" href="https://www.stylerave.com/ice-spice-top-5-hits/">"Rave News Digest: Ice Spice Hits Milestone On Billboard Hot 100, Rema, Davido Make Spotify's 2023 'Songs of Summer' Predictions, Messi + More"</a>. <i>Style Rave</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Style+Rave&amp;rft.atitle=Rave+News+Digest%3A+Ice+Spice+Hits+Milestone+On+Billboard+Hot+100%2C+Rema%2C+Davido+Make+Spotify%27s+2023+%27Songs+of+Summer%27+Predictions%2C+Messi+%2B+More&amp;rft.date=2023-06-08&amp;rft.aulast=Badewa&amp;rft.aufirst=Collins&amp;rft_id=https%3A%2F%2Fwww.stylerave.com%2Fice-spice-top-5-hits%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlistein2023" class="citation magazine cs1">Blistein, Jon (July 21, 2023). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-news/ice-spice-like-deluxe-edition-new-songs-1234793140/">"Ice Spice Delivers Deluxe Edition of 'Like..?' With Four New Songs"</a>. <i>Rolling Stone</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 21,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Ice+Spice+Delivers+Deluxe+Edition+of+%27Like..%3F%27+With+Four+New+Songs&amp;rft.date=2023-07-21&amp;rft.aulast=Blistein&amp;rft.aufirst=Jon&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2Fice-spice-like-deluxe-edition-new-songs-1234793140%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRenshaw2022" class="citation web cs1">Renshaw, David (August 12, 2022). <a rel="nofollow" class="external text" href="https://www.thefader.com/2022/08/12/ice-spice-munch-feelin-u">"Song You Need: Ice Spice's "Munch (Feelin' U)" is the defiant sound of moving on"</a>. <i><a href="/wiki/The_Fader" title="The Fader">The Fader</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303035209/https://www.instagram.com/p/ClUGOcjuUkI/embed/?cr=1&amp;v=14&amp;wp=525&amp;rd=https%3A%2F%2Fwww.thefader.com&amp;rp=%2F2022%2F08%2F12%2Fice-spice-munch-feelin-u">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Fader&amp;rft.atitle=Song+You+Need%3A+Ice+Spice%27s+%22Munch+%28Feelin%27+U%29%22+is+the+defiant+sound+of+moving+on&amp;rft.date=2022-08-12&amp;rft.aulast=Renshaw&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.thefader.com%2F2022%2F08%2F12%2Fice-spice-munch-feelin-u&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCaramanica2022" class="citation web cs1"><a href="/wiki/Jon_Caramanica" title="Jon Caramanica">Caramanica, Jon</a> (September 22, 2022). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2022/09/22/arts/music/popcast-live-new-artists.html">"Popcast Live! The New Faces of 2022"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303035616/https://www.nytimes.com/2022/09/22/arts/music/popcast-live-new-artists.html">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Popcast+Live%21+The+New+Faces+of+2022&amp;rft.date=2022-09-22&amp;rft.aulast=Caramanica&amp;rft.aufirst=Jon&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2022%2F09%2F22%2Farts%2Fmusic%2Fpopcast-live-new-artists.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKolgraf2022" class="citation web cs1">Kolgraf, Jackie (October 12, 2022). <a rel="nofollow" class="external text" href="https://blog.siriusxm.com/first-alert-ice-spice/">"<span class="cs1-kern-left"></span>'First Alert': Ice Spice Reveals What a Munch Is and the Inspiration Behind Her Artist Name"</a>. <i><a href="/wiki/SiriusXM" class="mw-redirect" title="SiriusXM">SiriusXM</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230303035341/https://blog.siriusxm.com/first-alert-ice-spice/">Archived</a> from the original on March 3, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">October 15,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SiriusXM&amp;rft.atitle=%27First+Alert%27%3A+Ice+Spice+Reveals+What+a+Munch+Is+and+the+Inspiration+Behind+Her+Artist+Name&amp;rft.date=2022-10-12&amp;rft.aulast=Kolgraf&amp;rft.aufirst=Jackie&amp;rft_id=https%3A%2F%2Fblog.siriusxm.com%2Ffirst-alert-ice-spice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMattise2022" class="citation magazine cs1">Mattise, Nathan (November 23, 2022). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-news/with-her-emmy-life-in-10-songs-em-ice-spice-remains-unapologetically-1234635618/">"With her My Life in 10 Songs, Ice Spice Remains Unapologetically Herself"</a>. <i>Rolling Stone</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=With+her+My+Life+in+10+Songs%2C+Ice+Spice+Remains+Unapologetically+Herself&amp;rft.date=2022-11-23&amp;rft.aulast=Mattise&amp;rft.aufirst=Nathan&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2Fwith-her-emmy-life-in-10-songs-em-ice-spice-remains-unapologetically-1234635618%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hypebae.com/2023/6/ice-spice-music-interview-sexuality-bisexual-lgbtq-bronx-rapper">"Ice Spice Details How Her Music Transcends Gender"</a>. <i>Hypebae</i>. June 13, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">August 17,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hypebae&amp;rft.atitle=Ice+Spice+Details+How+Her+Music+Transcends+Gender&amp;rft.date=2023-06-13&amp;rft_id=https%3A%2F%2Fhypebae.com%2F2023%2F6%2Fice-spice-music-interview-sexuality-bisexual-lgbtq-bronx-rapper&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"> <a rel="nofollow" class="external free" href="https://www.thecut.com/article/ice-spice-rapper-nyc-profile.html">https://www.thecut.com/article/ice-spice-rapper-nyc-profile.html</a></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://variety.com/2023/music/news/doja-cat-ice-spice-doechii-scarlet-tour-dates-1235651310/">"Doja Cat Announces 'The Scarlet Tour' With Support From Ice Spice and Doechii"</a>. <i><a href="/wiki/Variety_(magazine)" title="Variety (magazine)">Variety</a></i>. June 23, 2023.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Variety&amp;rft.atitle=Doja+Cat+Announces+%27The+Scarlet+Tour%27+With+Support+From+Ice+Spice+and+Doechii&amp;rft.date=2023-06-23&amp;rft_id=https%3A%2F%2Fvariety.com%2F2023%2Fmusic%2Fnews%2Fdoja-cat-ice-spice-doechii-scarlet-tour-dates-1235651310%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGrant2023" class="citation web cs1">Grant, Shawn (July 20, 2023). <a rel="nofollow" class="external text" href="https://newsroom.spotify.com/2023-07-31/the-2023-all-rapcaviar-winners-are-here/">"Spotify's All-RapCaviar Announces MVP &amp; Rookie of the Year Nominees - The Source"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 27,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Spotify%27s+All-RapCaviar+Announces+MVP+%26+Rookie+of+the+Year+Nominees+-+The+Source&amp;rft.date=2023-07-20&amp;rft.aulast=Grant&amp;rft.aufirst=Shawn&amp;rft_id=https%3A%2F%2Fnewsroom.spotify.com%2F2023-07-31%2Fthe-2023-all-rapcaviar-winners-are-here%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFNordyke2023" class="citation web cs1">Nordyke, Kimberly (June 26, 2023). <a rel="nofollow" class="external text" href="https://www.hollywoodreporter.com/news/music-news/2023-bet-awards-full-winners-list-1235523420/">"BET Awards: Winners List"</a>. <i><a href="/wiki/The_Hollywood_Reporter" title="The Hollywood Reporter">The Hollywood Reporter</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230629021040/https://www.hollywoodreporter.com/news/music-news/2023-bet-awards-full-winners-list-1235523420/">Archived</a> from the original on June 29, 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">July 21,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft.atitle=BET+Awards%3A+Winners+List&amp;rft.date=2023-06-26&amp;rft.aulast=Nordyke&amp;rft.aufirst=Kimberly&amp;rft_id=https%3A%2F%2Fwww.hollywoodreporter.com%2Fnews%2Fmusic-news%2F2023-bet-awards-full-winners-list-1235523420%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGrein2023" class="citation web cs1">Grein, Paul (September 7, 2023). <a rel="nofollow" class="external text" href="https://www.billboard.com/music/awards/2023-bet-hip-hop-awards-nominations-full-list-cardi-b-21-savage-1235407999/">"Cardi B &amp; 21 Savage Lead Nominations for 2023 BET Hip Hop Awards: Full List"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 7,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Cardi+B+%26+21+Savage+Lead+Nominations+for+2023+BET+Hip+Hop+Awards%3A+Full+List&amp;rft.date=2023-09-07&amp;rft.aulast=Grein&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fawards%2F2023-bet-hip-hop-awards-nominations-full-list-cardi-b-21-savage-1235407999%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFuentes2023" class="citation web cs1">Fuentes, Emily (August 9, 2023). <a rel="nofollow" class="external text" href="https://www.billboard.com/video/ice-spice-rookie-of-the-year-award-rnb-hip-hop-power-players-live-2023/">"Ice Spice Accepts the Rookie of The Year Award | R&amp;B Hip-Hop Power Players &amp; Live 2023"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 9,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Ice+Spice+Accepts+the+Rookie+of+The+Year+Award+%7C+R%26B+Hip-Hop+Power+Players+%26+Live+2023&amp;rft.date=2023-08-09&amp;rft.aulast=Fuentes&amp;rft.aufirst=Emily&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fvideo%2Fice-spice-rookie-of-the-year-award-rnb-hip-hop-power-players-live-2023%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGrein2023" class="citation web cs1">Grein, Paul (September 7, 2023). <a rel="nofollow" class="external text" href="https://www.billboard.com/music/awards/ice-spice-bmi-impact-award-2023-rb-hip-hop-awards-1235408623/">"Ice Spice Receives BMI Impact Award at 2023 R&amp;B/Hip-Hop Awards"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 10,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Ice+Spice+Receives+BMI+Impact+Award+at+2023+R%26B%2FHip-Hop+Awards&amp;rft.date=2023-09-07&amp;rft.aulast=Grein&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fawards%2Fice-spice-bmi-impact-award-2023-rb-hip-hop-awards-1235408623%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlistein2023" class="citation web cs1">Blistein, Jon (August 8, 2023). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-news/mtv-vma-2023-nominations-list-1234802544/">"Taylor Swift, SZA, Doja Cat Lead 2023 MTV VMA Nominations"</a>. <i>Rolling Stone</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 8,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Taylor+Swift%2C+SZA%2C+Doja+Cat+Lead+2023+MTV+VMA+Nominations&amp;rft.date=2023-08-08&amp;rft.aulast=Blistein&amp;rft.aufirst=Jon&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2Fmtv-vma-2023-nominations-list-1234802544%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBrathwaite2023" class="citation web cs1">Brathwaite, Lester Fabian (September 1, 2023). <a rel="nofollow" class="external text" href="https://ew.com/mtv-video-music-awards/2023-mtv-vmas-song-of-the-summer-nominees/">"Renaissance vs. Eras: Beyoncé and Taylor Swift to Duke It Out over Show of the Summer at MTV VMAs"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 1,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Entertainment+Weekly&amp;rft.atitle=Renaissance+vs.+Eras%3A+Beyonc%C3%A9+and+Taylor+Swift+to+Duke+It+Out+over+Show+of+the+Summer+at+MTV+VMAs&amp;rft.date=2023-09-01&amp;rft.aulast=Brathwaite&amp;rft.aufirst=Lester+Fabian&amp;rft_id=https%3A%2F%2Few.com%2Fmtv-video-music-awards%2F2023-mtv-vmas-song-of-the-summer-nominees%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSpangler2023" class="citation web cs1">Spangler, Todd (July 24, 2023). <a rel="nofollow" class="external text" href="https://variety.com/2023/digital/news/streamy-awards-nominations-2023-list-1235677786/">"Streamy Awards 2023 Nominations Announced, MrBeast Leads With 5 Nods"</a>. <i><a href="/wiki/Variety_(magazine)" title="Variety (magazine)">Variety</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 24,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Variety&amp;rft.atitle=Streamy+Awards+2023+Nominations+Announced%2C+MrBeast+Leads+With+5+Nods&amp;rft.date=2023-07-24&amp;rft.aulast=Spangler&amp;rft.aufirst=Todd&amp;rft_id=https%3A%2F%2Fvariety.com%2F2023%2Fdigital%2Fnews%2Fstreamy-awards-nominations-2023-list-1235677786%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIce+Spice" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Ice_Spice" class="extiw" title="commons:Category:Ice Spice">Ice Spice</a></span>.</div></div>
+</div>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://icespicemusic.com/">Official website</a></span></span> <span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q114114977#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.facebook.com/icespicemusic1">Ice Spice</a> on <a href="/wiki/Facebook" title="Facebook">Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="https://soundcloud.com/icespiceee">Ice Spice</a> on <a href="/wiki/SoundCloud" title="SoundCloud">SoundCloud</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Ice_Spice" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Ice_Spice" title="Template:Ice Spice"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ice_Spice" title="Template talk:Ice Spice"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Ice_Spice&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Ice_Spice" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Ice Spice</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><a href="/wiki/Ice_Spice_discography" title="Ice Spice discography">Discography</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Like..%3F" title="Like..?">Like..?</a></i> (2023)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Munch_(Feelin%27_U)" title="Munch (Feelin&#39; U)">Munch (Feelin' U)</a>"</li>
+<li>"<a href="/wiki/Bikini_Bottom_(song)" title="Bikini Bottom (song)">Bikini Bottom</a>"</li>
+<li>"<a href="/wiki/In_Ha_Mood" title="In Ha Mood">In Ha Mood</a>"</li>
+<li>"<a href="/wiki/Boy%27s_a_Liar#Remix" title="Boy&#39;s a Liar">Boy's a Liar Pt. 2</a>"</li>
+<li>"<a href="/wiki/Princess_Diana_(song)" title="Princess Diana (song)">Princess Diana</a>"</li>
+<li>"<a href="/wiki/Barbie_World" title="Barbie World">Barbie World</a>"</li>
+<li>"<a href="/wiki/Deli_(Ice_Spice_song)" title="Deli (Ice Spice song)">Deli</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Featured singles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Karma_(Taylor_Swift_song)" title="Karma (Taylor Swift song)">Karma</a>" (remix)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Other songs</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Gangsta_Boo_(song)" title="Gangsta Boo (song)">Gangsta Boo</a>"</li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q114114977#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q114114977#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q114114977#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/000000050917248X">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/9168507804948492447">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Ice Spice"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/6f2c949d-9540-4421-bf02-27ae27e00e33">MusicBrainz</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2319
+Cached time: 20230920051818
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.687 seconds
+Real time usage: 0.840 seconds
+Preprocessor visited node count: 4648/1000000
+Post‐expand include size: 135334/2097152 bytes
+Template argument size: 4609/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 177089/5000000 bytes
+Lua time usage: 0.421/10.000 seconds
+Lua memory usage: 10483402/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  759.221      1 -total
+ 40.40%  306.756      1 Template:Reflist
+ 25.72%  195.271     35 Template:Cite_web
+ 19.00%  144.223      1 Template:Infobox_musical_artist
+ 18.21%  138.246      2 Template:Infobox
+  7.43%   56.383      2 Template:Short_description
+  6.53%   49.591     11 Template:Cite_magazine
+  6.24%   47.404      1 Template:Ice_Spice
+  6.09%   46.220      1 Template:Navbox_musical_artist
+  5.87%   44.575      1 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:71771980-0!canonical and timestamp 20230920051817 and revision id 1176203218. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ice_Spice&amp;oldid=1176203218">https://en.wikipedia.org/w/index.php?title=Ice_Spice&amp;oldid=1176203218</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2000_births" title="Category:2000 births">2000 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:21st-century_American_songwriters" title="Category:21st-century American songwriters">21st-century American songwriters</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_women" title="Category:21st-century African-American women">21st-century African-American women</a></li><li><a href="/wiki/Category:21st-century_American_LGBT_people" title="Category:21st-century American LGBT people">21st-century American LGBT people</a></li><li><a href="/wiki/Category:21st-century_American_women_rappers" title="Category:21st-century American women rappers">21st-century American women rappers</a></li><li><a href="/wiki/Category:African%E2%80%93Hispanic_and_Latino_American_relations" title="Category:African–Hispanic and Latino American relations">African–Hispanic and Latino American relations</a></li><li><a href="/wiki/Category:African-American_women_rappers" title="Category:African-American women rappers">African-American women rappers</a></li><li><a href="/wiki/Category:African-American_women_songwriters" title="Category:African-American women songwriters">African-American women songwriters</a></li><li><a href="/wiki/Category:American_LGBT_songwriters" title="Category:American LGBT songwriters">American LGBT songwriters</a></li><li><a href="/wiki/Category:American_rappers_of_Dominican_Republic_descent" title="Category:American rappers of Dominican Republic descent">American rappers of Dominican Republic descent</a></li><li><a href="/wiki/Category:Drill_musicians" title="Category:Drill musicians">Drill musicians</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:LGBT_people_from_New_York_(state)" title="Category:LGBT people from New York (state)">LGBT people from New York (state)</a></li><li><a href="/wiki/Category:LGBT_rappers" title="Category:LGBT rappers">LGBT rappers</a></li><li><a href="/wiki/Category:Queer_songwriters" title="Category:Queer songwriters">Queer songwriters</a></li><li><a href="/wiki/Category:Rappers_from_the_Bronx" title="Category:Rappers from the Bronx">Rappers from the Bronx</a></li><li><a href="/wiki/Category:State_University_of_New_York_at_Purchase_alumni" title="Category:State University of New York at Purchase alumni">State University of New York at Purchase alumni</a></li><li><a href="/wiki/Category:LGBT_African_Americans" title="Category:LGBT African Americans">LGBT African Americans</a></li><li><a href="/wiki/Category:LGBT_Hispanic_and_Latino_American_people" title="Category:LGBT Hispanic and Latino American people">LGBT Hispanic and Latino American people</a></li><li><a href="/wiki/Category:Hispanic_and_Latino_American_women" title="Category:Hispanic and Latino American women">Hispanic and Latino American women</a></li><li><a href="/wiki/Category:Hispanic_and_Latino_American_rappers" title="Category:Hispanic and Latino American rappers">Hispanic and Latino American rappers</a></li><li><a href="/wiki/Category:College_women%27s_volleyball_players_in_the_United_States" title="Category:College women&#039;s volleyball players in the United States">College women's volleyball players in the United States</a></li><li><a href="/wiki/Category:Capitol_Records_artists" title="Category:Capitol Records artists">Capitol Records artists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_pages_semi-protected_against_vandalism" title="Category:Wikipedia pages semi-protected against vandalism">Wikipedia pages semi-protected against vandalism</a></li><li><a href="/wiki/Category:Use_American_English_from_January_2023" title="Category:Use American English from January 2023">Use American English from January 2023</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2023" title="Category:Use mdy dates from April 2023">Use mdy dates from April 2023</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:SoundCloud_ID_same_as_Wikidata" title="Category:SoundCloud ID same as Wikidata">SoundCloud ID same as Wikidata</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 20 September 2023, at 05:18<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ice_Spice&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2276","wgBackendResponseTime":138,"wgPageParseReport":{"limitreport":{"cputime":"0.687","walltime":"0.840","ppvisitednodes":{"value":4648,"limit":1000000},"postexpandincludesize":{"value":135334,"limit":2097152},"templateargumentsize":{"value":4609,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":177089,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  759.221      1 -total"," 40.40%  306.756      1 Template:Reflist"," 25.72%  195.271     35 Template:Cite_web"," 19.00%  144.223      1 Template:Infobox_musical_artist"," 18.21%  138.246      2 Template:Infobox","  7.43%   56.383      2 Template:Short_description","  6.53%   49.591     11 Template:Cite_magazine","  6.24%   47.404      1 Template:Ice_Spice","  6.09%   46.220      1 Template:Navbox_musical_artist","  5.87%   44.575      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.421","limit":"10.000"},"limitreport-memusage":{"value":10483402,"limit":52428800}},"cachereport":{"origin":"mw2319","timestamp":"20230920051818","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ice Spice","url":"https:\/\/en.wikipedia.org\/wiki\/Ice_Spice","sameAs":"http:\/\/www.wikidata.org\/entity\/Q114114977","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q114114977","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2022-09-16T19:27:34Z","dateModified":"2023-09-20T05:18:15Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/65\/Ice_Spice_Next_Wav_by_Keinoflo_uploaded_by_James_Tamim_V4_%28cropped_V2%29_2022.png","headline":"American rapper"}</script>
+</body>
+</html>

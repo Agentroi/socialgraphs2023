@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Ash Riser - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"638c2880-9d96-480f-8c01-f1d959aa4c48","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ash_Riser","wgTitle":"Ash Riser","wgCurRevisionId":1170984198,"wgRevisionId":1170984198,"wgArticleId":46720243,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from August 2020","Articles with dead external links from October 2016","Articles with permanently dead external links","CS1 maint: others in cite AV media (notes)","Use mdy dates from March 2023","Articles with short description","Short description is different from Wikidata","Short description matches Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","Official website different in Wikidata and Wikipedia","Articles with MusicBrainz identifiers","1989 births",
+"2021 deaths","21st-century American singers","American male singer-songwriters","American rock singers","American rock songwriters","Alternative hip hop musicians","Alternative rock guitarists","Lead guitarists","American alternative rock musicians","American hip hop record producers","American hip hop singers","American electronic musicians","Singer-songwriters from California","Musicians from Redondo Beach, California","West Coast hip hop musicians","Remixers","American audio engineers","21st-century American guitarists","Guitarists from California","American male guitarists","Engineers from California","Record producers from California","21st-century American male singers","Dubstep musicians","Trap musicians (EDM)","Grammy Award winners for rap music"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Ash_Riser","wgRelevantArticleId":46720243,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q19938351","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,
+"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart",
+"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Ash Riser - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Ash_Riser">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ash_Riser&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ash_Riser">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ash_Riser rootpage-Ash_Riser skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ash+Riser" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ash+Riser" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ash+Riser" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ash+Riser" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Life_and_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Life_and_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Life and career</div>
+		</a>
+		
+		<ul id="toc-Life_and_career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Death"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Death">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Death</div>
+		</a>
+		
+		<ul id="toc-Death-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-EPs"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#EPs">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>EPs</div>
+			</a>
+			
+			<ul id="toc-EPs-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>Singles</div>
+			</a>
+			
+			<ul id="toc-Singles-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Guest_appearances"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Guest_appearances">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>Guest appearances</div>
+			</a>
+			
+			<ul id="toc-Guest_appearances-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Remixes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Remixes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.5</span>Remixes</div>
+			</a>
+			
+			<ul id="toc-Remixes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Awards_and_nominations"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards_and_nominations">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Awards and nominations</div>
+		</a>
+		
+			<button aria-controls="toc-Awards_and_nominations-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Awards and nominations subsection</span>
+			</button>
+		
+		<ul id="toc-Awards_and_nominations-sublist" class="vector-toc-list">
+			<li id="toc-Grammy_Awards"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Grammy_Awards">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Grammy Awards</div>
+			</a>
+			
+			<ul id="toc-Grammy_Awards-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Further_reading"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Further_reading">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Further reading</div>
+		</a>
+		
+		<ul id="toc-Further_reading-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Ash Riser</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 2 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-2" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">2 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Ash_Riser" title="Ash Riser – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D8%B4%D8%AA%D8%B1%D9%88%D8%A8%D9%88%D8%AA" title="اشتروبوت – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19938351#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Ash_Riser" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Ash_Riser" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Ash_Riser"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Ash_Riser&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Ash_Riser&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Ash_Riser"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Ash_Riser&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Ash_Riser&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Ash_Riser" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Ash_Riser" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Ash_Riser&amp;oldid=1170984198" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Ash_Riser&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ash_Riser&amp;id=1170984198&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19938351" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Ash_Riser&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Ash_Riser&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American singer-songwriter (1989–2021)</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Ash Riser</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Ash Winston Riser</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname">Ashtrobot</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none">(<span class="bday">1989-08-28</span>)</span>August 28, 1989<br /><a href="/wiki/Redondo_Beach,_California" title="Redondo Beach, California">Redondo Beach, California</a>, United States</td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data">Los Angeles, California, United States</td></tr><tr><th scope="row" class="infobox-label">Died</th><td class="infobox-data">June 12, 2021<span style="display:none">(2021-06-12)</span> (aged&#160;31)<br />Los Angeles, California, United States</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/Electronic_music" title="Electronic music">Electronic</a></li><li><a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a></li><li><a href="/wiki/Bass_music" title="Bass music">bass</a></li><li><a href="/wiki/Dubstep" title="Dubstep">dubstep</a></li><li>rock</li><li><a href="/wiki/Trap_music_(EDM)" class="mw-redirect" title="Trap music (EDM)">trap</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Singer</li><li>songwriter</li><li>record producer</li><li>guitarist</li><li><a href="/wiki/Rapping" title="Rapping">rapper</a></li><li>disc jockey</li><li><a href="/wiki/Mastering_engineer" title="Mastering engineer">mastering engineer</a></li><li><a href="/wiki/Mixing_engineer" title="Mixing engineer">mixing engineer</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Vocals</li><li>guitar</li><li><a href="/wiki/Sampler_(musical_instrument)" title="Sampler (musical instrument)">sampler</a></li><li><a href="/wiki/Rhythm_machine" class="mw-redirect" title="Rhythm machine">rhythm machine</a></li><li><a href="/wiki/Drum_machine" title="Drum machine">drum machine</a></li><li><a href="/wiki/Digital_audio_workstation" title="Digital audio workstation">digital audio workstation</a></li><li>keyboards</li><li>synthesizer</li><li>bass guitar</li><li>percussion</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2004–2021</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Archwood</li><li>D.R.E.A.M. Brigade</li><li>Buygore</li><li>Bennu</li></ul></div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://www.ashriser.tv//">www<wbr />.ashriser<wbr />.tv<wbr />//</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Ash Winston Riser</b> (August 29, 1989 – June 12, 2021),<sup id="cite_ref-death_1-0" class="reference"><a href="#cite_note-death-1">&#91;1&#93;</a></sup> also known by his former stage name <b>Ashtrobot</b>, was an American recording artist and music producer. Born and raised in California, he embarked on his music career when he was 15 years old, forming a rock band called Pistol Pistol (stylized P!stol P!stol). Due to differences between members, the band broke up in 2009 and Riser subsequently began to put his focus on music production, fusing <a href="/wiki/Electronic_music" title="Electronic music">electronic</a> and <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop music</a>, among other genres. Riser later began working with longtime friend, <a href="/wiki/Derek_%22MixedByAli%22_Ali" class="mw-redirect" title="Derek &quot;MixedByAli&quot; Ali">Derek Ali</a> of <a href="/wiki/Top_Dawg_Entertainment" title="Top Dawg Entertainment">Top Dawg Entertainment</a>, who introduced him to West Coast rapper <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a>, with whom he began heavily collaborating. Riser would go on to sign a record deal with Israeli music producer <a href="/wiki/Borgore" title="Borgore">Borgore</a>'s record label, Buygore and also had a production deal with Chest Rockwell Entertainment. During his life, Riser had played multiple sold-out shows with fellow label-mates and musicians such as ETC! ETC!, Kennedy Jones, <a href="/wiki/Ookay" title="Ookay">Ookay</a>, Protohype and <a href="/wiki/Dirtyphonics" title="Dirtyphonics">Dirtyphonics</a>. In 2016, Riser received a <a href="/wiki/Grammy_Award" class="mw-redirect" title="Grammy Award">Grammy Award</a> for his contributions on Kendrick Lamar's <i><a href="/wiki/To_Pimp_a_Butterfly" title="To Pimp a Butterfly">To Pimp a Butterfly</a>.</i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Life_and_career">Life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=1" title="Edit section: Life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ash Winston Riser was born on August 29, 1989, in <a href="/wiki/Redondo_Beach,_California" title="Redondo Beach, California">Redondo Beach, California</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> It was here he first encountered music and founded his rock band, Pistol Pistol (stylized P!stol P!stol), at the young age of 15. The band, which he formed with high-school classmates, initially started out as a <a href="/wiki/Cover_band" title="Cover band">cover band</a>, <a href="/wiki/Cover_(music)" class="mw-redirect" title="Cover (music)">covering</a> songs by <a href="/wiki/Weezer" title="Weezer">Weezer</a> and <a href="/wiki/The_Strokes" title="The Strokes">The Strokes</a>, among other bands.<sup id="cite_ref-TS_4-0" class="reference"><a href="#cite_note-TS-4">&#91;4&#93;</a></sup> His first serious music project [P!stol P!stol], was a great success with appearances on <i>The Drop</i> on <a href="/wiki/S%C3%AD_TV" class="mw-redirect" title="Sí TV">Sí TV</a> and music featured on <a href="/wiki/ESPN" title="ESPN">ESPN</a>. During their time together, P!stol P!stol released an album titled <i>The Cause</i>.<sup id="cite_ref-TS_4-1" class="reference"><a href="#cite_note-TS-4">&#91;4&#93;</a></sup> However, due to differences between members, the band broke up in 2009.<sup id="cite_ref-TS_4-2" class="reference"><a href="#cite_note-TS-4">&#91;4&#93;</a></sup> Since the break-up of his band, he decided to spend countless hours in the studio perfecting his style and sound, producing <a href="/wiki/Bass_music" title="Bass music">bass music</a>.<sup id="cite_ref-TS_4-3" class="reference"><a href="#cite_note-TS-4">&#91;4&#93;</a></sup>
+</p><p>While focusing on music production after P!stol P!stol's disbandment, Riser got a phone call from his longtime high-school friend, Derek Ali, better known as <a href="/wiki/MixedByAli" class="mw-redirect" title="MixedByAli">MixedByAli</a>, the in-house <a href="/wiki/Mixing_engineer" title="Mixing engineer">mixing engineer</a> of West Coast indie record label, <a href="/wiki/Top_Dawg_Entertainment" title="Top Dawg Entertainment">Top Dawg Entertainment</a> (TDE). Ali asked Riser to come by the studio and record vocals with an artist he was producing for named <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a>, a <a href="/wiki/Compton,_California" title="Compton, California">Compton</a>-based rapper. Lamar and Riser had an instant musical synergy, with Lamar finding Riser's voice to be very original and complementary to his own. Lamar appreciated that Riser used his voice as a musical instrument to add more soul to tracks.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> In 2009, Riser was featured on Lamar's debut <a href="/wiki/Extended_play" title="Extended play">extended play</a> (EP), <i><a href="/wiki/Kendrick_Lamar_(EP)" title="Kendrick Lamar (EP)">Kendrick Lamar</a></i>, on a <a href="/wiki/Bonus_track" class="mw-redirect" title="Bonus track">bonus track</a> titled "Determined". Lamar and Riser collaborated again in 2010, for Lamar's <i><a href="/wiki/Overly_Dedicated" title="Overly Dedicated">Overly Dedicated</a></i> project, appearing on the song "Barbed Wire". In 2011, Riser was featured on Lamar's <i><a href="/wiki/Section.80" title="Section.80">Section.80</a></i> project, lending his vocals on the tracks, "Keisha's Song" and "Ronald Reagan Era".
+</p><p>In July 2011, Riser released an EP under his label, D.R.E.A.M. Brigade Recordings. The EP, titled <i>21st Century Electric Church Music</i>, is a collection of songs compiled by different artists and includes Riser's song, "Ghetto Blastuh".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Riser then began collaborating with Lamar's <a href="/wiki/Black_Hippy" title="Black Hippy">Black Hippy</a> cohort and TDE label-mate, <a href="/wiki/Ab-Soul" title="Ab-Soul">Ab-Soul</a>. Riser was featured on "Beautiful Death", from Ab-Soul's 2012 project, <i><a href="/wiki/Control_System" title="Control System">Control System</a></i>. In 2013, Riser signed a recording contract with Israeli music producer <a href="/wiki/Borgore" title="Borgore">Borgore</a>'s record label Buygore, as well as his management company, Buygore Management. Around that time, Riser also signed a production deal with Chest Rockwell Entertainment, founded by Greg Ogan and Spencer Neezy. On April 22, 2015, Riser released an EP titled <i>Modern Medicine</i>, which he <a href="/wiki/Audio_mixing_(recorded_music)" title="Audio mixing (recorded music)">mixed</a>, <a href="/wiki/Audio_mastering" class="mw-redirect" title="Audio mastering">mastered</a>, produced and recorded by himself.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> In June 2015, when asked if he was still with Buygore, Riser responded with: "not since 2014".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>On June 22, 2016, Riser released his third EP that year, titled <i>R.I.S.E.</i>, which includes productions from <a href="/wiki/808_Mafia" title="808 Mafia">808 Mafia</a>, <a href="/wiki/Metro_Boomin" title="Metro Boomin">Metro Boomin</a>, <a href="/wiki/Sonny_Digital" title="Sonny Digital">Sonny Digital</a>, <a href="/wiki/TM88" title="TM88">TM88</a> and <a href="/wiki/Zaytoven" title="Zaytoven">Zaytoven</a>.<sup id="cite_ref-rise_11-0" class="reference"><a href="#cite_note-rise-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=2" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Riser was one month away from releasing his second studio album, <i>H.O.P.E.</i>, when he unexpectedly died in the early hours of June 12, 2021. His death was a shock across the Los Angeles music scene, and several of his fellow musicians paid tribute to him.<sup id="cite_ref-death_1-1" class="reference"><a href="#cite_note-death-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=3" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=4" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of studio albums, with selected details
+</caption>
+<tbody><tr>
+<th scope="col" style="width:11em;">Title
+</th>
+<th scope="col" style="width:16em;">Album details
+</th></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/Ghosts_(Ash_Riser_album)" title="Ghosts (Ash Riser album)">Ghosts</a></i>
+</th>
+<td>
+<ul><li>Released: July 7, 2017</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>H.O.P.E.</i>
+</th>
+<td>
+<ul><li>To be released</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital download, <a href="/wiki/Streaming_(music)" class="mw-redirect" title="Streaming (music)">streaming</a></li></ul>
+</td></tr>
+
+</tbody></table>
+<h3><span class="mw-headline" id="EPs">EPs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=5" title="Edit section: EPs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of extended plays, with selected details
+</caption>
+<tbody><tr>
+<th scope="col" style="width:11em;">Title
+</th>
+<th scope="col" style="width:16em;">Album details
+</th></tr>
+<tr>
+<th scope="row"><i>Doc Brown and the Kid</i><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: August 29, 2012</li>
+<li>Label: Archwood Music, D.R.E.A.M</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Vs. The World EP Pt. 1</i><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: September 9, 2013</li>
+<li>Label: <a href="/wiki/Self-released" class="mw-redirect" title="Self-released">Self-released</a></li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Vs. The World EP Pt. 2</i><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: September 16, 2013</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Modern Medicine</i><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: April 22, 2015</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Home</i><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: January 7, 2016</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Late Praise</i><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: June 20, 2016</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>R.I.S.E.</i><sup id="cite_ref-rise_11-1" class="reference"><a href="#cite_note-rise-11">&#91;11&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: June 22, 2016</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>On Everything</i><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><br /><span style="font-size:85%;">(with Don Alfonso)</span>
+</th>
+<td>
+<ul><li>Released: April 18, 2018</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Ssssh</i><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: April 21, 2021</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital download</li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=6" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>As lead artist</dt></dl>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of singles as lead artist, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" style="width:16em;">Title
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Album
+</th></tr>
+<tr>
+<th scope="row">"Ghetto Blastuh"
+</th>
+<td rowspan="1">2011
+</td>
+<td><i>21st Century Electric Church Music</i>
+</td></tr>
+<tr>
+<th scope="row">"160 Levels"<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><br /><span style="font-size:85%;">(with Mychael K)</span>
+</th>
+<td rowspan="1">2012
+</td>
+<td rowspan="1" data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">non-album single
+</td></tr>
+<tr>
+<th scope="row">"Moon Cry"<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup><br /><span style="font-size:85%;">(featuring Papo and <a href="/wiki/Mike_G" class="mw-redirect" title="Mike G">Mike G</a>)</span>
+</th>
+<td rowspan="1">2017
+</td>
+<td><i>Ghosts</i>
+</td></tr>
+<tr>
+<th scope="row">"Impressed"<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</th>
+<td rowspan="4">2018
+</td>
+<td rowspan="4" data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">non-album singles
+</td></tr>
+<tr>
+<th scope="row">"Howl"<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"20 Something"<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Hallelujah"<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</th></tr>
+</tbody></table>
+<dl><dt>As featured artist</dt></dl>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of singles as featured artist, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" style="width:16em;">Title
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Album
+</th></tr>
+<tr>
+<th scope="row">"Rock Me"<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><br /><span style="font-size:85%;">(Chris Moody featuring Ashtrobot)</span>
+</th>
+<td rowspan="1">2012
+</td>
+<td><i>The Beginning</i>
+</td></tr>
+<tr>
+<th scope="row">"Get Sore"<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup><br /><span style="font-size:85%;">(Atom Pushers &amp; Choppa Dunks featuring Ash Riser)</span>
+</th>
+<td rowspan="1">2014
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">non-album single
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Guest_appearances">Guest appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=7" title="Edit section: Guest appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of non-single guest appearances, with other performing artists, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" style="width:20em;">Title
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Other performer(s)
+</th>
+<th scope="col">Album
+</th></tr>
+<tr>
+<th scope="row">"Follow Me"<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</th>
+<td rowspan="2">2009
+</td>
+<td rowspan="1"><a href="/wiki/Jupiter_Rising" title="Jupiter Rising">Jupiter Rising</a>
+</td>
+<td rowspan="1"><i><a href="/wiki/The_Quiet_Hype" title="The Quiet Hype">The Quiet Hype</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Determined"<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</th>
+<td rowspan="4"><a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a>
+</td>
+<td rowspan="1"><i><a href="/wiki/The_Kendrick_Lamar_EP" class="mw-redirect" title="The Kendrick Lamar EP">The Kendrick Lamar EP</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Barbed Wire"<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</th>
+<td rowspan="1">2010
+</td>
+<td rowspan="1"><i><a href="/wiki/Overly_Dedicated" title="Overly Dedicated">Overly Dedicated</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Ronald Reagan Era"<sup id="cite_ref-s8_31-0" class="reference"><a href="#cite_note-s8-31">&#91;31&#93;</a></sup>
+</th>
+<td rowspan="2">2011
+</td>
+<td rowspan="2"><i><a href="/wiki/Section.80" title="Section.80">Section.80</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Keisha's Song (Her Pain)"<sup id="cite_ref-s8_31-1" class="reference"><a href="#cite_note-s8-31">&#91;31&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Beautiful Death"<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</th>
+<td rowspan="2">2012
+</td>
+<td rowspan="1"><a href="/wiki/Ab-Soul" title="Ab-Soul">Ab-Soul</a>, <a href="/wiki/Punch_(rapper)" title="Punch (rapper)">Punch</a>
+</td>
+<td rowspan="1"><i><a href="/wiki/Control_System" title="Control System">Control System</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Erykah's Lament"<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</th>
+<td rowspan="1"><a href="/wiki/Tae_Beast" class="mw-redirect" title="Tae Beast">Tae Beast</a>, Ben Freedlander
+</td>
+<td rowspan="1"><i>The Tae Beast Tape 2</i>
+</td></tr>
+<tr>
+<th scope="row">"Honeymoon"<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</th>
+<td rowspan="2">2014
+</td>
+<td rowspan="1">Champagne Drip
+</td>
+<td rowspan="1"><i>Bikini Radio</i>
+</td></tr>
+<tr>
+<th scope="row">"Never Wanna Leave"<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</th>
+<td rowspan="1">Sikdope
+</td>
+<td rowspan="1" data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"<a href="/wiki/Wesley%27s_Theory" class="mw-redirect" title="Wesley&#39;s Theory">Wesley's Theory</a>"<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</th>
+<td rowspan="3">2015
+</td>
+<td rowspan="1">Kendrick Lamar
+</td>
+<td rowspan="1"><i><a href="/wiki/To_Pimp_a_Butterfly" title="To Pimp a Butterfly">To Pimp a Butterfly</a></i>
+</td></tr>
+<tr>
+<th scope="row">"London to LA"<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</th>
+<td>Swindle
+</td>
+<td><i>Peace, Love &amp; Music</i>
+</td></tr>
+<tr>
+<th scope="row">"God Said Trap (King Trappy III)"<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</th>
+<td><a href="/wiki/Jay_IDK" class="mw-redirect" title="Jay IDK">Jay IDK</a>
+</td>
+<td><i>SubTrap</i>
+</td></tr>
+<tr>
+<th scope="row">"Leave It Behind"<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</th>
+<td rowspan="1">2016
+</td>
+<td rowspan="1"><a href="/w/index.php?title=Virtual_riot&amp;action=edit&amp;redlink=1" class="new" title="Virtual riot (page does not exist)">Virtual riot</a>, <a href="/wiki/12th_Planet_(musician)" title="12th Planet (musician)">12th Planet</a>
+</td>
+<td rowspan="1"><i>Chemistry EP</i>
+</td></tr>
+<tr>
+<th scope="row">"Long Way Down"<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</th>
+<td rowspan="1">2018
+</td>
+<td>Sahtyre
+</td>
+<td><i>The Gorgeous Darkness</i>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Remixes">Remixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=8" title="Edit section: Remixes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>2010</dt></dl>
+<ul><li>"Glaciers <small>(Ashtrobot remix)"</small> by <a href="/wiki/Her_Majesty_%26_the_Wolves" title="Her Majesty &amp; the Wolves">Her Majesty &amp; the Wolves</a><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup></li></ul>
+<dl><dt>2011</dt></dl>
+<ul><li>"When I Look At You <small>(Ashtrobot remix)"</small> by <a href="/wiki/Emalkay" title="Emalkay">Emalkay</a><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup></li>
+<li>"<a href="/wiki/She_Will" title="She Will">She Will</a> <small>(Ashtrobot remix)"</small> by <a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup></li>
+<li>"Beg for Mercy <small>(Ashtrobot remix)"</small> by <a href="/wiki/Adam_Lambert" title="Adam Lambert">Adam Lambert</a><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup></li>
+<li>"Purple Swag <small>(Ashtrobot remix)"</small> by <a href="/wiki/ASAP_Rocky" title="ASAP Rocky">ASAP Rocky</a><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup></li></ul>
+<dl><dt>2014</dt></dl>
+<ul><li>"Oakland <small>(Ash Riser remix)"</small> by Vell<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup></li>
+<li>"<a href="/wiki/No_Type" title="No Type">No Type</a> <small>(Ash Riser remix)"</small> by <a href="/wiki/Rae_Sremmurd" title="Rae Sremmurd">Rae Sremmurd</a><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup></li></ul>
+<dl><dt>2015</dt></dl>
+<ul><li>"Run Ricky Run <small>(Ashtrobot remix)"</small> by Manolo Rose<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=9" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Grammy_Awards">Grammy Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=10" title="Edit section: Grammy Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Year
+</th>
+<th>Nominated work
+</th>
+<th>Award
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td><a href="/wiki/58th_Annual_Grammy_Awards" title="58th Annual Grammy Awards">2016</a>
+</td>
+<td><i><a href="/wiki/To_Pimp_a_Butterfly" title="To Pimp a Butterfly">To Pimp a Butterfly</a></i> <small>(as background vocalist)</small>
+</td>
+<td><a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Best Rap Album</a>
+</td>
+<td style="background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;" class="yes table-yes2 notheme">Won
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-death-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-death_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-death_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thefocus.news/music/ash-riser-death/">"RIP Ash Riser: Death of producer rocks LA music scene"</a>. June 13, 2021.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RIP+Ash+Riser%3A+Death+of+producer+rocks+LA+music+scene&amp;rft.date=2021-06-13&amp;rft_id=https%3A%2F%2Fwww.thefocus.news%2Fmusic%2Fash-riser-death%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://soundbetter.com/profiles/273443-ash-riser">"Ash Riser on SoundBetter"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ash+Riser+on+SoundBetter&amp;rft_id=https%3A%2F%2Fsoundbetter.com%2Fprofiles%2F273443-ash-riser&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.facebook.com/ASHRISERMUSIC/posts/893257357368965">"ASH RISER"</a>. <i>Facebook.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Facebook.com&amp;rft.atitle=ASH+RISER&amp;rft_id=https%3A%2F%2Fwww.facebook.com%2FASHRISERMUSIC%2Fposts%2F893257357368965&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-TS-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-TS_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TS_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TS_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-TS_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150520144746/http://www.trapstyle.com/2014/08/29/trapstyles-qa-with-buygore-dream-brigades-ash-riser/">"TrapStyle's Q&amp;A with Buygore &amp; DREAM Brigade's Ash Riser TrapStyle &#124; More Than Music"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.trapstyle.com/2014/08/29/trapstyles-qa-with-buygore-dream-brigades-ash-riser/">the original</a> on May 20, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">May 20,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TrapStyle%27s+Q%26A+with+Buygore+%26+DREAM+Brigade%27s+Ash+Riser+TrapStyle+%26%23124%3B+More+Than+Music&amp;rft_id=http%3A%2F%2Fwww.trapstyle.com%2F2014%2F08%2F29%2Ftrapstyles-qa-with-buygore-dream-brigades-ash-riser%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=1uiXjaDf-bQ">"Kendrick Lamar "co-signs" Ash Riser"</a>. YouTube<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kendrick+Lamar+%22co-signs%22+Ash+Riser&amp;rft.pub=YouTube&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1uiXjaDf-bQ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/21st-century-electric-church-music-ep/447830909">"21st Century Electric Church Music – EP by Various Artists"</a>. <i>Music.apple.com</i>. July 4, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Music.apple.com&amp;rft.atitle=21st+Century+Electric+Church+Music+%E2%80%93+EP+by+Various+Artists&amp;rft.date=2011-07-04&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2F21st-century-electric-church-music-ep%2F447830909&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150427085354/http://bluntiq.com/2015/04/23/ash-riser-modern-medicine-ep/">"Ash Riser – Modern Medicine (EP) – BLUNTIQ"</a>. Archived from <a rel="nofollow" class="external text" href="http://bluntiq.com/2015/04/23/ash-riser-modern-medicine-ep/">the original</a> on April 27, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">May 16,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ash+Riser+%E2%80%93+Modern+Medicine+%28EP%29+%E2%80%93+BLUNTIQ&amp;rft_id=http%3A%2F%2Fbluntiq.com%2F2015%2F04%2F23%2Fash-riser-modern-medicine-ep%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304205835/http://www.thecomeupshow.com/2015/04/28/mixtape-ash-riser-modern-medicine-prod-ash-riser/">"&#91;Mixtape&#93; Ash Riser- "Modern Medicine" (Prod. Ash Riser) – the Come up Show"</a>. Archived from <a rel="nofollow" class="external text" href="http://thecomeupshow.com/2015/04/28/mixtape-ash-riser-modern-medicine-prod-ash-riser/">the original</a> on March 4, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">May 16,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%26%2391%3BMixtape%26%2393%3B+Ash+Riser-+%22Modern+Medicine%22+%28Prod.+Ash+Riser%29+%E2%80%93+the+Come+up+Show&amp;rft_id=http%3A%2F%2Fthecomeupshow.com%2F2015%2F04%2F28%2Fmixtape-ash-riser-modern-medicine-prod-ash-riser%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150518110151/http://mitchelldeguzman.com/new-mixtape-ash-riser-modern-medicine-ep/">"NEW MIXTAPE: Ash Riser – MODERN MEDICINE EP &#124; Mitchell DeGuzman"</a>. Archived from <a rel="nofollow" class="external text" href="http://mitchelldeguzman.com/new-mixtape-ash-riser-modern-medicine-ep/">the original</a> on May 18, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">May 16,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NEW+MIXTAPE%3A+Ash+Riser+%E2%80%93+MODERN+MEDICINE+EP+%26%23124%3B+Mitchell+DeGuzman&amp;rft_id=http%3A%2F%2Fmitchelldeguzman.com%2Fnew-mixtape-ash-riser-modern-medicine-ep%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://twitter.com/ASHRISER/status/605462403837362176">https://twitter.com/ASHRISER/status/605462403837362176</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged August 2020">dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-rise-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-rise_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rise_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hiphopdx.com/singles/id.34123/title.dxclusive-ash-riser-unveils-r-i-s-e-ep">"DXclusive: Ash Riser Unveils "R.I.S.E." EP"</a>. <i>HipHopDX</i>. June 22, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=DXclusive%3A+Ash+Riser+Unveils+%22R.I.S.E.%22+EP&amp;rft.date=2016-06-22&amp;rft_id=https%3A%2F%2Fhiphopdx.com%2Fsingles%2Fid.34123%2Ftitle.dxclusive-ash-riser-unveils-r-i-s-e-ep&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/doc-brown-and-the-kid-ep/557565502">"Doc Brown and the Kid – EP by Ash Riser"</a>. <i>Music.apple.com</i>. August 29, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Music.apple.com&amp;rft.atitle=Doc+Brown+and+the+Kid+%E2%80%93+EP+by+Ash+Riser&amp;rft.date=2012-08-29&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fdoc-brown-and-the-kid-ep%2F557565502&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://soundcloud.com/buygore/sets/ash-riser-vs-the-world-ep-pt-1">"Ash Riser – VS The World EP Pt.1"</a>. <i>SoundCloud.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SoundCloud.com&amp;rft.atitle=Ash+Riser+%E2%80%93+VS+The+World+EP+Pt.1&amp;rft_id=https%3A%2F%2Fsoundcloud.com%2Fbuygore%2Fsets%2Fash-riser-vs-the-world-ep-pt-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://soundcloud.com/buygore/sets/ash-riser-vs-the-world-ep-pt-2">"Ash Riser – VS The World EP Pt.2"</a>. <i>SoundCloud.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SoundCloud.com&amp;rft.atitle=Ash+Riser+%E2%80%93+VS+The+World+EP+Pt.2&amp;rft_id=https%3A%2F%2Fsoundcloud.com%2Fbuygore%2Fsets%2Fash-riser-vs-the-world-ep-pt-2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://str8outdaden.com/2015/04/22/ash-riser-modern-medicine-ep/">"Ash Riser: Modern Medicine EP"</a>. <i>Str8outdaden.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Str8outdaden.com&amp;rft.atitle=Ash+Riser%3A+Modern+Medicine+EP&amp;rft_id=https%3A%2F%2Fstr8outdaden.com%2F2015%2F04%2F22%2Fash-riser-modern-medicine-ep%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160108065055/http://lunchroomraps.com/2016/01/07/ash-riser-home-ep/">"Ash Riser – HOME (EP) &#124; Lunchroomraps"</a>. Archived from <a rel="nofollow" class="external text" href="http://lunchroomraps.com/2016/01/07/ash-riser-home-ep/">the original</a> on January 8, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">February 14,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ash+Riser+%E2%80%93+HOME+%28EP%29+%26%23124%3B+Lunchroomraps&amp;rft_id=http%3A%2F%2Flunchroomraps.com%2F2016%2F01%2F07%2Fash-riser-home-ep%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hiphopdx.com/singles/id.34101/title.ash-riser-releases-late-praise-ep">"Ash Riser Releases "Late Praise" EP"</a>. <i>HipHopDX.com</i>. June 20, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX.com&amp;rft.atitle=Ash+Riser+Releases+%22Late+Praise%22+EP&amp;rft.date=2016-06-20&amp;rft_id=https%3A%2F%2Fhiphopdx.com%2Fsingles%2Fid.34101%2Ftitle.ash-riser-releases-late-praise-ep&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.amazon.com/Everything-Explicit-Ash-Riser-Alfonso/dp/B07C44L3MN">"On Everything"</a>. <i>Amazon</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Amazon&amp;rft.atitle=On+Everything&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2FEverything-Explicit-Ash-Riser-Alfonso%2Fdp%2FB07C44L3MN&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/ph/album/ssssh-ep/1559984608">"SSSSH – EP by Ash Riser"</a>. April 21, 2021.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SSSSH+%E2%80%93+EP+by+Ash+Riser&amp;rft.date=2021-04-21&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fph%2Falbum%2Fssssh-ep%2F1559984608&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/160-levels-single/556837836">"Get millions of songs. All ad-free"</a>. <i>Music.apple.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Music.apple.com&amp;rft.atitle=Get+millions+of+songs.+All+ad-free.&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2F160-levels-single%2F556837836&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/moon-cry-feat-papo-mike-g-single/1232811761">"Moon Cry (Feat. Papo &amp; Mike G) – Single by Ash Riser"</a>. June 9, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Moon+Cry+%28Feat.+Papo+%26+Mike+G%29+%E2%80%93+Single+by+Ash+Riser&amp;rft.date=2017-06-09&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fmoon-cry-feat-papo-mike-g-single%2F1232811761&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/impressed-single/1416871148">"Impressed – Single by Ash Riser"</a>. July 27, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Impressed+%E2%80%93+Single+by+Ash+Riser&amp;rft.date=2018-07-27&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fimpressed-single%2F1416871148&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/howl-single/1425056343">"Howl – Single by Ash Riser"</a>. August 17, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Howl+%E2%80%93+Single+by+Ash+Riser&amp;rft.date=2018-08-17&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fhowl-single%2F1425056343&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/20-something-single/1428543284">"20 Something – Single by Ash Riser"</a>. August 29, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=20+Something+%E2%80%93+Single+by+Ash+Riser&amp;rft.date=2018-08-29&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2F20-something-single%2F1428543284&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/hallelujah-single/1435522859">"Hallelujah – Single by Ash Riser"</a>. September 17, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hallelujah+%E2%80%93+Single+by+Ash+Riser&amp;rft.date=2018-09-17&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fhallelujah-single%2F1435522859&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.discogs.com/Chris-Moody-feat-Ashtrobot-Rock-Me/release/3999599">"Chris Moody feat. Ashtrobot – Rock Me"</a>. <i>Discogs.com</i>. January 24, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Discogs.com&amp;rft.atitle=Chris+Moody+feat.+Ashtrobot+%E2%80%93+Rock+Me&amp;rft.date=2012-01-24&amp;rft_id=https%3A%2F%2Fwww.discogs.com%2FChris-Moody-feat-Ashtrobot-Rock-Me%2Frelease%2F3999599&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/get-sore-feat-ash-riser-single/828786946">"Get Sore (feat. Ash Riser) – Single by Atom Pushers &amp; Choppa Dunks"</a>. <i>Music.apple.com</i>. March 11, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Music.apple.com&amp;rft.atitle=Get+Sore+%28feat.+Ash+Riser%29+%E2%80%93+Single+by+Atom+Pushers+%26+Choppa+Dunks&amp;rft.date=2014-03-11&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fget-sore-feat-ash-riser-single%2F828786946&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.allmusic.com/album/the-quiet-hype-mw0000811287">"The Quiet Hype – Jupiter Rising &#124; Songs, Reviews, Credits &#124; AllMusic"</a>. <i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=The+Quiet+Hype+%E2%80%93+Jupiter+Rising+%26%23124%3B+Songs%2C+Reviews%2C+Credits+%26%23124%3B+AllMusic&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Falbum%2Fthe-quiet-hype-mw0000811287&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/11120/kendrick_lamar_ep.html">"Kendrick Lamar EP Mixtape Hosted by Unknown"</a>. <i>LiveMixtapes.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LiveMixtapes.com&amp;rft.atitle=Kendrick+Lamar+EP+Mixtape+Hosted+by+Unknown&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F11120%2Fkendrick_lamar_ep.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171109054224/http://indy.livemixtapes.com/mixtapes/12425/kendrick_lamar_overly_dedicated.html">"Kendrick Lamar – Overly Dedicated – Unknown"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.indy.livemixtapes.com/mixtapes/12425/kendrick_lamar_overly_dedicated.html">the original</a> on November 9, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kendrick+Lamar+%E2%80%93+Overly+Dedicated+%E2%80%93+Unknown&amp;rft_id=http%3A%2F%2Fwww.indy.livemixtapes.com%2Fmixtapes%2F12425%2Fkendrick_lamar_overly_dedicated.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-s8-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-s8_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-s8_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.allmusic.com/album/section80-mw0002186545">"Section.80 – Kendrick Lamar &#124; Songs, Reviews, Credits &#124; AllMusic"</a>. <i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Section.80+%E2%80%93+Kendrick+Lamar+%26%23124%3B+Songs%2C+Reviews%2C+Credits+%26%23124%3B+AllMusic&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Falbum%2Fsection80-mw0002186545&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.allmusic.com/album/control-system-mw0002381456">"Control System – Ab-Soul &#124; Songs, Reviews, Credits &#124; AllMusic"</a>. <i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Control+System+%E2%80%93+Ab-Soul+%26%23124%3B+Songs%2C+Reviews%2C+Credits+%26%23124%3B+AllMusic&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Falbum%2Fcontrol-system-mw0002381456&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://taebeastproducer.bandcamp.com/track/-feat-ash-riser-ben-freedlander">http://taebeastproducer.bandcamp.com/track/-feat-ash-riser-ben-freedlander</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged October 2016">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.malaysiansafari.com/2014/music/bikini-radio-ep-out-now-free-download/">http://www.malaysiansafari.com/2014/music/bikini-radio-ep-out-now-free-download/</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged August 2020">dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.complex.com/music/2014/09/sikdope-ft-ash-riser-never-wanna-leave-vip">"PREMIERE: Sikdope ft. Ash Riser – "Never Wanna Leave (VIP)"<span class="cs1-kern-right"></span>"</a>. <i>Complex.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex.com&amp;rft.atitle=PREMIERE%3A+Sikdope+ft.+Ash+Riser+%E2%80%93+%22Never+Wanna+Leave+%28VIP%29%22&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2F2014%2F09%2Fsikdope-ft-ash-riser-never-wanna-leave-vip&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation AV-media-notes cs1"><a rel="nofollow" class="external text" href="https://www.scribd.com/doc/259619383"><i>Digital Booklet – To Pimp a Butterfly</i></a> (Media notes). Kendrick Lamar. <a href="/wiki/Top_Dawg_Entertainment" title="Top Dawg Entertainment">Top Dawg Entertainment</a>. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Digital+Booklet+%E2%80%93+To+Pimp+a+Butterfly&amp;rft.pub=Top+Dawg+Entertainment&amp;rft.date=2015&amp;rft_id=https%3A%2F%2Fwww.scribd.com%2Fdoc%2F259619383&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_AV_media_notes" title="Template:Cite AV media notes">cite AV media notes</a>}}</code>:  CS1 maint: others in cite AV media (notes) (<a href="/wiki/Category:CS1_maint:_others_in_cite_AV_media_(notes)" title="Category:CS1 maint: others in cite AV media (notes)">link</a>)</span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/peace-love-music/1017817400">"Peace, Love &amp; Music by Swindle"</a>. <i>Music.apple.com</i>. September 25, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Music.apple.com&amp;rft.atitle=Peace%2C+Love+%26+Music+by+Swindle&amp;rft.date=2015-09-25&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fpeace-love-music%2F1017817400&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/35853/jay-idk-subtrap.html">"Jay IDK – Subtrap Mixtape"</a>. <i>LiveMixtapes.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LiveMixtapes.com&amp;rft.atitle=Jay+IDK+%E2%80%93+Subtrap+Mixtape&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F35853%2Fjay-idk-subtrap.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/gb/album/chemistry-ep/1101326333">"Get millions of songs. All ad-free"</a>. <i>Music.apple.com</i>. May 2, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Music.apple.com&amp;rft.atitle=Get+millions+of+songs.+All+ad-free.&amp;rft.date=2016-05-02&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fgb%2Falbum%2Fchemistry-ep%2F1101326333&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://belowsystem.bandcamp.com/album/the-gorgeous-darkness">"The Gorgeous Darkness, by Sahtyre"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Gorgeous+Darkness%2C+by+Sahtyre&amp;rft_id=https%3A%2F%2Fbelowsystem.bandcamp.com%2Falbum%2Fthe-gorgeous-darkness&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://wn.com/Glaciers_Hmatw_Ashtrobot_Remix">"Glaciers Hmatw Ashtrobot Remix"</a>. <i>Wn.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wn.com&amp;rft.atitle=Glaciers+Hmatw+Ashtrobot+Remix&amp;rft_id=https%3A%2F%2Fwn.com%2FGlaciers_Hmatw_Ashtrobot_Remix&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=17mUvIGWyBI">"EMALKAY When I look at you ASHTROBOT REMIX"</a>. YouTube<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EMALKAY+When+I+look+at+you+ASHTROBOT+REMIX&amp;rft.pub=YouTube&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D17mUvIGWyBI&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=zjs1B96WIC0">"Lil Wayne ft. Drake- She Will &#91;Ashtrobot Remix&#93;"</a>. YouTube<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lil+Wayne+ft.+Drake-+She+Will+%5BAshtrobot+Remix%5D&amp;rft.pub=YouTube&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dzjs1B96WIC0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/beg-for-mercy/735159503">"Get millions of songs. All ad-free"</a>. <i>Music.apple.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Music.apple.com&amp;rft.atitle=Get+millions+of+songs.+All+ad-free.&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fbeg-for-mercy%2F735159503&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.askmeaboutmymusic.com/post/8899008514/purple-swag-ashtrobot-remix-purple-swag-asap">http://www.askmeaboutmymusic.com/post/8899008514/purple-swag-ashtrobot-remix-purple-swag-asap</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged August 2020">dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://runthetrap.com/2014/08/29/vell-oakland-feat-dj-mustard-ash-riser-remix/">"Vell – OAKLAND Feat. DJ Mustard (Ash Riser Remix)"</a>. <i>Runthetrap.com</i>. August 29, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Runthetrap.com&amp;rft.atitle=Vell+%E2%80%93+OAKLAND+Feat.+DJ+Mustard+%28Ash+Riser+Remix%29&amp;rft.date=2014-08-29&amp;rft_id=https%3A%2F%2Frunthetrap.com%2F2014%2F08%2F29%2Fvell-oakland-feat-dj-mustard-ash-riser-remix%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=gvK7tlJ5wVU">"&#91;Trap&#93; Rae Sremmurd – No Type (Ash Riser Remix)"</a>. YouTube<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%5BTrap%5D+Rae+Sremmurd+%E2%80%93+No+Type+%28Ash+Riser+Remix%29&amp;rft.pub=YouTube&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgvK7tlJ5wVU&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mediafire.com/file/8ajyz7y7220i91m/run_ricky_run_ashtrob_remix.aif/file">"run ricky run ashtrob remix"</a>. <i>MediaFire.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MediaFire.com&amp;rft.atitle=run+ricky+run+ashtrob+remix&amp;rft_id=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F8ajyz7y7220i91m%2Frun_ricky_run_ashtrob_remix.aif%2Ffile&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAsh+Riser" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.ashriser.tv/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/mn0001055655">Ash Riser</a> at <a href="/wiki/AllMusic_(identifier)" class="mw-redirect" title="AllMusic (identifier)">AllMusic</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/mn0002897619">Ashtrobot</a> at <a href="/wiki/AllMusic_(identifier)" class="mw-redirect" title="AllMusic (identifier)">AllMusic</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/1437320-Ash-Riser">Ash Riser</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/2992837-Ashtrobot">Ashtrobot</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/user/PISTOLPISTOL420"><span class="plainlinks">Ash Riser</span>'s channel</a> on <a href="/wiki/YouTube_user_(identifier)" class="mw-redirect" title="YouTube user (identifier)">YouTube</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/user/ashtroBIZZLE"><span class="plainlinks">Ashtrobot</span>'s channel</a> on <a href="/wiki/YouTube_user_(identifier)" class="mw-redirect" title="YouTube user (identifier)">YouTube</a></li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ash_Riser&amp;action=edit&amp;section=13" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://voyagela.com/interview/meet-ash-riser-ash-riser-downtown/">Meet Ash Riser</a>. <i>VoyageLA</i>. Retrieved June 29, 2021</li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: Artists <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q19938351#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/02ad42aa-ae57-4e35-b4b6-8e6697df6edb">MusicBrainz</a></span>
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/4f1871b5-384d-42e1-8780-256bc072e789">2</a></span></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2336
+Cached time: 20230920010250
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.568 seconds
+Real time usage: 0.690 seconds
+Preprocessor visited node count: 3932/1000000
+Post‐expand include size: 89513/2097152 bytes
+Template argument size: 6299/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 133497/5000000 bytes
+Lua time usage: 0.365/10.000 seconds
+Lua memory usage: 9181915/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  629.713      1 -total
+ 51.41%  323.752      1 Template:Reflist
+ 37.95%  238.964     43 Template:Cite_web
+ 23.30%  146.692      1 Template:Infobox_musical_artist
+ 20.61%  129.778      1 Template:Infobox
+  8.02%   50.485      2 Template:Br_separated_entries
+  7.35%   46.269      1 Template:Authority_control
+  6.66%   41.928      4 Template:Dead_link
+  6.65%   41.869      2 Template:Short_description
+  6.01%   37.874      5 Template:Hlist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:46720243-0!canonical and timestamp 20230920010249 and revision id 1170984198. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ash_Riser&amp;oldid=1170984198">https://en.wikipedia.org/w/index.php?title=Ash_Riser&amp;oldid=1170984198</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1989_births" title="Category:1989 births">1989 births</a></li><li><a href="/wiki/Category:2021_deaths" title="Category:2021 deaths">2021 deaths</a></li><li><a href="/wiki/Category:21st-century_American_singers" title="Category:21st-century American singers">21st-century American singers</a></li><li><a href="/wiki/Category:American_male_singer-songwriters" title="Category:American male singer-songwriters">American male singer-songwriters</a></li><li><a href="/wiki/Category:American_rock_singers" title="Category:American rock singers">American rock singers</a></li><li><a href="/wiki/Category:American_rock_songwriters" title="Category:American rock songwriters">American rock songwriters</a></li><li><a href="/wiki/Category:Alternative_hip_hop_musicians" title="Category:Alternative hip hop musicians">Alternative hip hop musicians</a></li><li><a href="/wiki/Category:Alternative_rock_guitarists" title="Category:Alternative rock guitarists">Alternative rock guitarists</a></li><li><a href="/wiki/Category:Lead_guitarists" title="Category:Lead guitarists">Lead guitarists</a></li><li><a href="/wiki/Category:American_alternative_rock_musicians" title="Category:American alternative rock musicians">American alternative rock musicians</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:American_hip_hop_singers" title="Category:American hip hop singers">American hip hop singers</a></li><li><a href="/wiki/Category:American_electronic_musicians" title="Category:American electronic musicians">American electronic musicians</a></li><li><a href="/wiki/Category:Singer-songwriters_from_California" title="Category:Singer-songwriters from California">Singer-songwriters from California</a></li><li><a href="/wiki/Category:Musicians_from_Redondo_Beach,_California" title="Category:Musicians from Redondo Beach, California">Musicians from Redondo Beach, California</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:Remixers" title="Category:Remixers">Remixers</a></li><li><a href="/wiki/Category:American_audio_engineers" title="Category:American audio engineers">American audio engineers</a></li><li><a href="/wiki/Category:21st-century_American_guitarists" title="Category:21st-century American guitarists">21st-century American guitarists</a></li><li><a href="/wiki/Category:Guitarists_from_California" title="Category:Guitarists from California">Guitarists from California</a></li><li><a href="/wiki/Category:American_male_guitarists" title="Category:American male guitarists">American male guitarists</a></li><li><a href="/wiki/Category:Engineers_from_California" title="Category:Engineers from California">Engineers from California</a></li><li><a href="/wiki/Category:Record_producers_from_California" title="Category:Record producers from California">Record producers from California</a></li><li><a href="/wiki/Category:21st-century_American_male_singers" title="Category:21st-century American male singers">21st-century American male singers</a></li><li><a href="/wiki/Category:Dubstep_musicians" title="Category:Dubstep musicians">Dubstep musicians</a></li><li><a href="/wiki/Category:Trap_musicians_(EDM)" title="Category:Trap musicians (EDM)">Trap musicians (EDM)</a></li><li><a href="/wiki/Category:Grammy_Award_winners_for_rap_music" title="Category:Grammy Award winners for rap music">Grammy Award winners for rap music</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_August_2020" title="Category:Articles with dead external links from August 2020">Articles with dead external links from August 2020</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2016" title="Category:Articles with dead external links from October 2016">Articles with dead external links from October 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:CS1_maint:_others_in_cite_AV_media_(notes)" title="Category:CS1 maint: others in cite AV media (notes)">CS1 maint: others in cite AV media (notes)</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_March_2023" title="Category:Use mdy dates from March 2023">Use mdy dates from March 2023</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 18 August 2023, at 09:52<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ash_Riser&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2303","wgBackendResponseTime":108,"wgPageParseReport":{"limitreport":{"cputime":"0.568","walltime":"0.690","ppvisitednodes":{"value":3932,"limit":1000000},"postexpandincludesize":{"value":89513,"limit":2097152},"templateargumentsize":{"value":6299,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":133497,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  629.713      1 -total"," 51.41%  323.752      1 Template:Reflist"," 37.95%  238.964     43 Template:Cite_web"," 23.30%  146.692      1 Template:Infobox_musical_artist"," 20.61%  129.778      1 Template:Infobox","  8.02%   50.485      2 Template:Br_separated_entries","  7.35%   46.269      1 Template:Authority_control","  6.66%   41.928      4 Template:Dead_link","  6.65%   41.869      2 Template:Short_description","  6.01%   37.874      5 Template:Hlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.365","limit":"10.000"},"limitreport-memusage":{"value":9181915,"limit":52428800}},"cachereport":{"origin":"mw2336","timestamp":"20230920010250","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ash Riser","url":"https:\/\/en.wikipedia.org\/wiki\/Ash_Riser","sameAs":"http:\/\/www.wikidata.org\/entity\/Q19938351","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q19938351","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-05-16T11:14:49Z","dateModified":"2023-08-18T09:52:52Z","headline":"musical artist"}</script>
+</body>
+</html>

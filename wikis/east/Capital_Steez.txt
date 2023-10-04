@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Capital Steez - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"779cac26-316d-4ad8-84e3-bdcd5de295b8","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Capital_Steez","wgTitle":"Capital Steez","wgCurRevisionId":1174368369,"wgRevisionId":1174368369,"wgArticleId":40841303,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Use American English from August 2016","All Wikipedia articles written in American English","Use mdy dates from August 2016","Articles with hCards","Short description is different from Wikidata","Articles with MusicBrainz identifiers","1993 births","2012 deaths","African-American male rappers","American male rappers","American rappers of Jamaican descent","East Coast hip hop musicians","Musicians from Flatbush, Brooklyn","Rappers from Brooklyn","Songwriters from New York (state)",
+"Suicides by jumping in New York City","Pro Era artists","Underground rappers","Edward R. Murrow High School alumni","2012 suicides","African-American songwriters","21st-century African-American musicians","American male songwriters","Beast Coast members"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Capital_Steez","wgRelevantArticleId":40841303,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English",
+"wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q15122641","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":
+"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/1/1f/CapitalSteezHypetrak.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1349">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/1/1f/CapitalSteezHypetrak.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="900">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="720">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Capital Steez - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Capital_Steez">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Capital_Steez&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Capital_Steez">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Capital_Steez rootpage-Capital_Steez skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Capital+Steez" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Capital+Steez" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Capital+Steez" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Capital+Steez" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-2008–2011:_Career_beginnings"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2008–2011:_Career_beginnings">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>2008–2011: Career beginnings</div>
+			</a>
+			
+			<ul id="toc-2008–2011:_Career_beginnings-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2012:_AmeriKKKan_Korruption_and_rise_in_popularity"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2012:_AmeriKKKan_Korruption_and_rise_in_popularity">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>2012: <i>AmeriKKKan Korruption</i> and rise in popularity</div>
+			</a>
+			
+			<ul id="toc-2012:_AmeriKKKan_Korruption_and_rise_in_popularity-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Death_and_posthumous_works"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Death_and_posthumous_works">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Death and posthumous works</div>
+		</a>
+		
+		<ul id="toc-Death_and_posthumous_works-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Legacy"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Legacy">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Legacy</div>
+		</a>
+		
+			<button aria-controls="toc-Legacy-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Legacy subsection</span>
+			</button>
+		
+		<ul id="toc-Legacy-sublist" class="vector-toc-list">
+			<li id="toc-Comments_by_other_rappers"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Comments_by_other_rappers">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>Comments by other rappers</div>
+			</a>
+			
+			<ul id="toc-Comments_by_other_rappers-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.2</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Collaborations"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Collaborations">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.3</span>Collaborations</div>
+			</a>
+			
+			<ul id="toc-Collaborations-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Music_videos"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Music_videos">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.4</span>Music videos</div>
+			</a>
+			
+			<ul id="toc-Music_videos-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Capital Steez</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 5 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-5" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">5 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Capital_Steez" title="Capital Steez – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Capital_Steez" title="Capital Steez – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Capital_Steez" title="Capital Steez – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Capital_Steez" title="Capital Steez – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Capital_Steez" title="Capital Steez – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15122641#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Capital_Steez" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Capital_Steez" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Capital_Steez"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Capital_Steez&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Capital_Steez&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Capital_Steez"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Capital_Steez&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Capital_Steez&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Capital_Steez" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Capital_Steez" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Capital_Steez&amp;oldid=1174368369" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Capital_Steez&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Capital_Steez&amp;id=1174368369&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15122641" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Capital_Steez&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Capital_Steez&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper (1993–2012)</div>
+<p class="mw-empty-elt">
+
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Capital STEEZ</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:CapitalSteezHypetrak.jpg" class="mw-file-description" title="Capital Steez in 2012"><img alt="Capital Steez in 2012" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1f/CapitalSteezHypetrak.jpg/220px-CapitalSteezHypetrak.jpg" decoding="async" width="220" height="247" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/1/1f/CapitalSteezHypetrak.jpg 1.5x" data-file-width="297" data-file-height="334" /></a></span><div class="infobox-caption">Capital Steez in 2012</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Courtney Everald Dewar Jr.</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li>Steelo</li>
+<li>King Steelo</li>
+<li>King Capital</li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none">(<span class="bday">1993-07-07</span>)</span>July 7, 1993<br /><a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, New York, U.S.</td></tr><tr><th scope="row" class="infobox-label">Died</th><td class="infobox-data"><span class="nowrap">December 23, 2012<span style="display:none">(2012-12-23)</span> (aged&#160;19)</span><br /><a href="/wiki/Manhattan" title="Manhattan">Manhattan</a>, New York, U.S.<sup id="cite_ref-complex_1-0" class="reference"><a href="#cite_note-complex-1">&#91;1&#93;</a></sup>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"></td></tr><tr><th scope="row" class="infobox-label">Cause&#160;of death</th><td class="infobox-data"><a href="/wiki/Jumper_(person)" class="mw-redirect" title="Jumper (person)">Suicide by jumping</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Rapper</li><li>songwriter</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2008–2012</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><a href="/wiki/Cinematic_Music_Group" title="Cinematic Music Group">Cinematic</a><sup id="cite_ref-label_2-0" class="reference"><a href="#cite_note-label-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label">Formerly of</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li><a href="/wiki/Pro_Era" title="Pro Era">Pro Era</a></li>
+<li><a href="/wiki/Beast_Coast" title="Beast Coast">Beast Coast</a></li></ul>
+</div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Courtney Everald Dewar Jr.</b> (July 7, 1993 – December 23, 2012), better known by his <a href="/wiki/Stage_name" title="Stage name">stage name</a> <b>Capital Steez</b> (stylized as <b>Capital STEEZ</b>), was an American rapper from <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, New York. He was a founder of the Brooklyn-based rap collective <a href="/wiki/Pro_Era" title="Pro Era">Pro Era</a>, along with childhood friend <a href="/wiki/Joey_Badass" title="Joey Badass">Joey Bada$$</a>.<sup id="cite_ref-LA_Weekly_3-0" class="reference"><a href="#cite_note-LA_Weekly-3">&#91;3&#93;</a></sup><sup id="cite_ref-The_Fader_4-0" class="reference"><a href="#cite_note-The_Fader-4">&#91;4&#93;</a></sup><sup id="cite_ref-billboard_5-0" class="reference"><a href="#cite_note-billboard-5">&#91;5&#93;</a></sup> Capital Steez was also a co-founder of the <a href="/wiki/Beast_Coast" title="Beast Coast">Beast Coast</a> movement, which consists of three main groups based in <a href="/wiki/Flatbush,_Brooklyn" title="Flatbush, Brooklyn">Flatbush</a>: Pro Era, <a href="/wiki/Flatbush_Zombies" title="Flatbush Zombies">Flatbush Zombies</a>, and <a href="/wiki/The_Underachievers" title="The Underachievers">The Underachievers</a>. Capital Steez died by <a href="/wiki/Suicide" title="Suicide">suicide</a> on December 24, 2012, after jumping from the roof of the Cinematic Music Group headquarters aged 19.<sup id="cite_ref-pitchfork_6-0" class="reference"><a href="#cite_note-pitchfork-6">&#91;6&#93;</a></sup><sup id="cite_ref-allhiphop_7-0" class="reference"><a href="#cite_note-allhiphop-7">&#91;7&#93;</a></sup> Both Pro Era and Beast Coast went on to gain international success in the years following his death.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Courtney Everald Dewar Jr. was born in New York City to <a href="/wiki/Jamaicans" title="Jamaicans">Jamaican</a> parents. His father died when he was three years old.<sup id="cite_ref-The_Fader_4-1" class="reference"><a href="#cite_note-The_Fader-4">&#91;4&#93;</a></sup> Dewar attended Public School 222 Elementary School in <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, and he formed his first rap group with close friend Jakk the Rhymer (real name Jahkari Jack) in the fourth grade.
+</p><p>Dewar attended <a href="/wiki/Edward_R._Murrow_High_School" title="Edward R. Murrow High School">Edward R. Murrow High School</a> and classmates remembered him as a "smiling kid with a short afro and skinny jeans" who made friends quickly, skated, smoked <a href="/wiki/Cannabis" title="Cannabis">cannabis</a> frequently and was a <a href="/wiki/Sneakerhead" class="mw-redirect" title="Sneakerhead">sneakerhead</a>.<sup id="cite_ref-The_Fader_4-2" class="reference"><a href="#cite_note-The_Fader-4">&#91;4&#93;</a></sup>
+</p><p>Raised as a Christian, Dewar abandoned those beliefs during high school, instead beginning to favor <a href="/wiki/Rastafari" title="Rastafari">Rastafari</a> which would later come to be a core part of his life. Dewar's beliefs changed once again as he began watching Spirit Science: a popular YouTube series dealing with metaphysical and spiritual theories.<sup id="cite_ref-:0_8-0" class="reference"><a href="#cite_note-:0-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="2008.E2.80.932011:_Career_beginnings"></span><span class="mw-headline" id="2008–2011:_Career_beginnings">2008–2011: Career beginnings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=3" title="Edit section: 2008–2011: Career beginnings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jamal Dewar began rapping in 2008, forming a group with Jakk the Rhymer called The 3rd Kind. The duo released their first mixtape, <i>The Yellow Tape</i>, in the same year.
+</p><p>In the spring of 2011, while studying at <a href="/wiki/Edward_R._Murrow_High_School" title="Edward R. Murrow High School">Edward R. Murrow High School</a> in <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, Capital STEEZ and producer Powers Pleasant formed <a href="/wiki/Pro_Era" title="Pro Era">Pro Era</a>. The group was conceived while the pair were on their way home from a STEEZ performance at a local <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a> cafe, which a number of friends including <a href="/wiki/Joey_Badass" title="Joey Badass">Joey Bada$$</a> and <a href="/wiki/Dirty_Sanchez_(rapper)" class="mw-redirect" title="Dirty Sanchez (rapper)">Dirty Sanchez</a> also attended to show support.<sup id="cite_ref-LA_Weekly_3-1" class="reference"><a href="#cite_note-LA_Weekly-3">&#91;3&#93;</a></sup><sup id="cite_ref-The_Fader_4-3" class="reference"><a href="#cite_note-The_Fader-4">&#91;4&#93;</a></sup>
+</p><p>Capital STEEZ is credited with being the person who coined the term "Beast Coast Movement", a name for the rise in popularity of East Coast hip-hop groups such as Pro Era, <a href="/wiki/The_Underachievers" title="The Underachievers">The Underachievers</a>, and <a href="/wiki/Flatbush_Zombies" title="Flatbush Zombies">Flatbush Zombies</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> The three groups all come from Brooklyn and frequently use the phrase Beast Coast in songs and on concert flyers.
+</p>
+<h3><span class="mw-headline" id="2012:_AmeriKKKan_Korruption_and_rise_in_popularity">2012: <i>AmeriKKKan Korruption</i> and rise in popularity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=4" title="Edit section: 2012: AmeriKKKan Korruption and rise in popularity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On February 23, 2012, Joey Bada$$ and Capital STEEZ uploaded "Survival Tactics" to YouTube. He was listed in "The 25 Best Rap Lines of 2012" by <i><a href="/wiki/Spin_(magazine)" title="Spin (magazine)">Spin</a></i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-spin_11-0" class="reference"><a href="#cite_note-spin-11">&#91;11&#93;</a></sup>
+</p><p>Capital STEEZ released his first solo mixtape, <i>AmeriKKKan Korruption</i>, on April 7, 2012, with 14 tracks. The mixtape has received universal acclaim since its release. A "reloaded" version with seven additional tracks was released on October 10, 2012. The tape now runs 21 tracks in total and features many of his Pro Era teammates, such as <a href="/wiki/CJ_Fly" title="CJ Fly">CJ Fly</a>, Chuck Strangers, Joey Bada$$, Dirty Sanchez, and Jakk the Rhymer. The mixtape contains production from <a href="/wiki/Madlib" title="Madlib">Madlib</a>, <a href="/wiki/MF_DOOM" class="mw-redirect" title="MF DOOM">MF DOOM</a>, <a href="/wiki/Free_the_Robots" title="Free the Robots">Free the Robots</a>, <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, <a href="/wiki/Knxwledge" title="Knxwledge">Knxwledge</a>, <a href="/wiki/Ant_(producer)" title="Ant (producer)">Ant</a> of <a href="/wiki/Atmosphere_(music_group)" title="Atmosphere (music group)">Atmosphere</a>, <a href="/wiki/J._Rawls" title="J. Rawls">J. Rawls</a>, Tommy Mas, the Entreproducers, and also contains production from fellow <a href="/wiki/Pro_Era" title="Pro Era">Pro Era</a> members, Joey Bada$$, <a href="/wiki/Kirk_Knight" title="Kirk Knight">Kirk Knight</a>, and Bruce Leekix.
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=5" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Steez's spiritual outlook included elements of <a href="/wiki/Kemetism" title="Kemetism">Egyptian mysticism</a>, <a href="/wiki/Numerology" title="Numerology">numerology</a>, <a href="/wiki/Astral_projection" title="Astral projection">astral projection</a> and the Indian <a href="/wiki/Chakra" title="Chakra">chakra</a> system. He considered himself one of the <a href="/wiki/Indigo_children" title="Indigo children">Indigo children</a> and allegedly believed he was a being of a higher dimension.<sup id="cite_ref-The_Fader_4-4" class="reference"><a href="#cite_note-The_Fader-4">&#91;4&#93;</a></sup>  Steez was infatuated with <a href="/wiki/47_(number)" title="47 (number)">the number 47</a> and what it meant spiritually. He believed the number 47 was the "perfect expression of balance in the world", representing the tension between the heart and the brain (the fourth and seventh <a href="/wiki/Chakra" title="Chakra">chakra</a>, respectively.) The number featured on the cover of <i>AmeriKKKan Korruption</i>, stylized to resemble a swastika.<sup id="cite_ref-The_Fader_4-5" class="reference"><a href="#cite_note-The_Fader-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Death_and_posthumous_works">Death and posthumous works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=6" title="Edit section: Death and posthumous works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On the night of December 23, 2012, Capital Steez made his way to the rooftop of the <a href="/wiki/Cinematic_Music_Group" title="Cinematic Music Group">Cinematic Music Group</a> headquarters in <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a>’s <a href="/wiki/Flatiron_District" title="Flatiron District">Flatiron District</a>, where he texted a few of his closest friends to tell them that he loved them, and at 11:59 p.m. EST, posted a <a href="/wiki/Twitter" title="Twitter">tweet</a> saying, "The end."<sup id="cite_ref-The_end_tweett_12-0" class="reference"><a href="#cite_note-The_end_tweett-12">&#91;12&#93;</a></sup> He died by suicide by jumping off the building later that night.<sup id="cite_ref-xxlmag.com_13-0" class="reference"><a href="#cite_note-xxlmag.com-13">&#91;13&#93;</a></sup><sup id="cite_ref-The_Fader_4-6" class="reference"><a href="#cite_note-The_Fader-4">&#91;4&#93;</a></sup>
+</p><p>In late April 2013, <a href="/wiki/Joey_Badass" title="Joey Badass">Joey Badass</a> announced that a Capital Steez album entitled <i>King Capital</i> would soon be released.<sup id="cite_ref-kingcapital_14-0" class="reference"><a href="#cite_note-kingcapital-14">&#91;14&#93;</a></sup> On July 7, 2013, Pro Era released the song "King Steelo" from the upcoming posthumous album.<sup id="cite_ref-kingsteelo_15-0" class="reference"><a href="#cite_note-kingsteelo-15">&#91;15&#93;</a></sup>
+</p><p>On December 24, 2013, the first anniversary of his death, Pro Era released a music video for his song, "47 Piiirates".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> On August 26, 2016, the official Pro Era <a href="/wiki/YouTube" title="YouTube">YouTube</a> channel released an animated music video for his song, "Herban Legend", which premiered at the second annual Steez Day Concert in <a href="/wiki/Los_Angeles,_California" class="mw-redirect" title="Los Angeles, California">Los Angeles, California</a>, on July 7, 2016.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>On June 12, 2017, Capital Steez's Twitter account posted for the first time since his death tweeting: "The Beginning". Fans immediately realized the tweet was referencing Steez's "The End" tweet, which he tweeted moments before jumping to his death on December 23, 2012. This tweet caused fans and music journalists to speculate the release date for Steez's posthumous album <i>King Capital</i>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> It was announced by Joey Bada$$ and Capital Steez's family members at the 2017 Steez Day Concert in July that the album would be released on December 23, 2017, the fifth anniversary of the rapper's death. However, Joey Bada$$ took to Instagram to tell fans that the album would be delayed yet again due to "business legalities and sample clearances."<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>On January 2, 2018, Joey Bada$$ replied to various fans' tweets about Pro Era's release schedule for the year. Among his tweets, Bada$$ told fans he is working on putting Capital Steez's <i>AmeriKKKan Korruption</i> mixtape on <a href="/wiki/Spotify" title="Spotify">Spotify</a> (and potentially other streaming services) and hoping to finally release the <i>King Capital</i> album later in the year.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p><i>King Capital</i> remains unreleased.
+</p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=7" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In May 2015, Joey Bada$$ announced that Pro Era would hold a "STEEZ Day Festival" to be hosted annually on July 7, Capital STEEZ's birthday, with all proceeds going to the late rapper's family.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> The inaugural festival was held in <a href="/wiki/Central_Park" title="Central Park">Central Park</a> in New York City,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> while the 2016 festival took place in Los Angeles.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p><p>In December 2017, Joey Bada$$ unveiled a customized chain depicting Capital STEEZ's face in a similar vein of a <a href="/wiki/Jesus_piece_(jewelry)" title="Jesus piece (jewelry)">Jesus Piece</a>. The piece was dubbed the "Steezus Piece" chain and was custom made by Greg Yuna.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p>On July 7, 2022, which would have been Steez's 29th birthday, Joey Bada$$ released the song <i>Survivors Guilt</i>, a tribute to Steez and his cousin Junior B. The song was later included on his album <a href="/wiki/2000_(Joey_Badass_album)" title="2000 (Joey Badass album)"><i>2000</i></a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Comments_by_other_rappers">Comments by other rappers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=8" title="Edit section: Comments by other rappers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On March 2, 2016, fellow Brooklyn rapper <a href="/wiki/Troy_Ave" title="Troy Ave">Troy Ave</a>, in the midst of a feud with Joey Bada$$, commented on the death of Capital Steez on <i>Sway in the Morning</i>, stating: "He didn't pass away; he killed himself. There's a difference. He took his own life. God gave you life, it ain't your right to take that. That's a fact. I got niggas in jail who got life sentences, they might as well be dead. They could've traded their life for his."<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> Troy Ave then received heavy criticism from both fans and fellow artists, including <a href="/wiki/ASAP_Mob" title="ASAP Mob">A$AP Ant</a>, <a href="/wiki/ASAP_Twelvyy" title="ASAP Twelvyy">A$AP Twelvyy</a><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> and <a href="/wiki/Styles_P" title="Styles P">Styles P</a> who wrote, amongst a series of other tweets: "If you never experienced a family [member] committing suicide you have no fukn [sic] idea about that pain. NONE." Troy Ave later apologized on Twitter for the remarks.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> In an interview on <a href="/wiki/DJ_Vlad" title="DJ Vlad">VladTV</a>, Brooklyn rapper <a href="/wiki/Maino_(rapper)" title="Maino (rapper)">Maino</a> stated that mentioning Capital Steez's suicide was "a bit much".<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=9" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=10" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>King Capital</i> (TBA)</li></ul>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=11" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>AmeriKKKan Korruption</i> (2012)</li>
+<li><i>AmeriKKKan Korruption: Reloaded</i> (2012)</li></ul>
+<h3><span class="mw-headline" id="Collaborations">Collaborations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=12" title="Edit section: Collaborations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>The Yellow Tape</i> <span style="font-size:85%;">(with Jakk the Rhymer as The 3rd Kind)</span> (2009)</li>
+<li><i>The Secc$ TaP.E.</i> <span style="font-size:85%;">(with Pro Era)</span> (2012)</li>
+<li><i>P.E.E.P.: The aPROcalypse</i> <span style="font-size:85%;">(with Pro Era)</span> (2012)</li></ul>
+<h3><span class="mw-headline" id="Music_videos">Music videos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=13" title="Edit section: Music videos">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Title
+</th>
+<th scope="col">Director
+</th></tr>
+<tr>
+<td>2010
+</td>
+<th scope="row">"Stars"
+</th>
+<td>Powers Pleasant
+</td></tr>
+<tr>
+<td rowspan="4">2012
+</td>
+<th scope="row">"Survival Tactics" <span style="font-size:85%;">(<a href="/wiki/Joey_Badass" title="Joey Badass">Joey Bada$$</a> featuring Capital STEEZ)</span>
+</th>
+<td>Creative Control
+</td></tr>
+<tr>
+<th scope="row">"Vibe Ratings"
+</th>
+<td>DC Khaled
+</td></tr>
+<tr>
+<th scope="row">"Free the Robots"
+</th>
+<td>KRSP
+</td></tr>
+<tr>
+<th scope="row">"Swank Sinatra" <span style="font-size:85%;">(<a href="/wiki/Dyme-A-Duzin" title="Dyme-A-Duzin">Dyme-A-Duzin</a> featuring Joey Bada$$, Capital STEEZ and <a href="/wiki/CJ_Fly" title="CJ Fly">CJ Fly</a>)</span>
+</th>
+<td>R.B. Umali
+</td></tr>
+<tr>
+<td rowspan="3">2013
+</td>
+<th scope="row">"135"
+</th>
+<td>Solace
+</td></tr>
+<tr>
+<th scope="row">"Apex"
+</th></tr>
+<tr>
+<th scope="row">"47 Piiirates" <span style="font-size:85%;">(featuring <a href="/wiki/Dirty_Sanchez_(rapper)" class="mw-redirect" title="Dirty Sanchez (rapper)">Dirty Sanchez</a>)</span>
+</th>
+<td>Karmaloop
+</td></tr>
+<tr>
+<td>2016
+</td>
+<th scope="row">"Herban Legend"
+</th>
+<td>The Family
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Capital_Steez&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-complex-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-complex_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.complex.com/music/2012/12/rip-remembering-capital-steez-1993-2012">"RIP: Remembering Capital Steez, 1993-2012"</a>. <i>Complex.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex.com&amp;rft.atitle=RIP%3A+Remembering+Capital+Steez%2C+1993-2012&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2F2012%2F12%2Frip-remembering-capital-steez-1993-2012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-label-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-label_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://cinematicworldwide.com/">"Cinematic Music Group"</a>. <i>Cinematicworldwide.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cinematicworldwide.com&amp;rft.atitle=Cinematic+Music+Group&amp;rft_id=https%3A%2F%2Fcinematicworldwide.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-LA_Weekly-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-LA_Weekly_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LA_Weekly_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMahadevan2016" class="citation web cs1">Mahadevan, Tara (July 5, 2016). <a rel="nofollow" class="external text" href="http://www.laweekly.com/music/joey-bada-and-pro-era-turn-tragedy-into-celebration-with-their-annual-steez-day-festival-7093577">"Joey Bada$$ and Pro Era Turn Tragedy Into Celebration With Their Annual Steez Day Festival"</a>. <i><a href="/wiki/LA_Weekly" title="LA Weekly">LA Weekly</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LA+Weekly&amp;rft.atitle=Joey+Bada%24%24+and+Pro+Era+Turn+Tragedy+Into+Celebration+With+Their+Annual+Steez+Day+Festival&amp;rft.date=2016-07-05&amp;rft.aulast=Mahadevan&amp;rft.aufirst=Tara&amp;rft_id=http%3A%2F%2Fwww.laweekly.com%2Fmusic%2Fjoey-bada-and-pro-era-turn-tragedy-into-celebration-with-their-annual-steez-day-festival-7093577&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-The_Fader-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Fader_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Fader_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-The_Fader_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-The_Fader_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-The_Fader_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-The_Fader_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-The_Fader_4-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRosenberg2013" class="citation web cs1">Rosenberg, Eli (November 26, 2013). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160830232255/http://www.thefader.com/2013/11/26/capital-steez-king-capital">"Capital STEEZ: King Capital"</a>. <i><a href="/wiki/The_Fader" title="The Fader">The Fader</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.thefader.com/2013/11/26/capital-steez-king-capital">the original</a> on August 30, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">August 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Fader&amp;rft.atitle=Capital+STEEZ%3A+King+Capital&amp;rft.date=2013-11-26&amp;rft.aulast=Rosenberg&amp;rft.aufirst=Eli&amp;rft_id=http%3A%2F%2Fwww.thefader.com%2F2013%2F11%2F26%2Fcapital-steez-king-capital&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-billboard-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-billboard_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/the-juice/1481255/rapper-capital-steez-of-pro-era-dead-at-19">"Rapper Capital Steez of Pro Era Dead at 19"</a>. <i>Billboard.com</i>. December 23, 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard.com&amp;rft.atitle=Rapper+Capital+Steez+of+Pro+Era+Dead+at+19&amp;rft.date=2012-12-23&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fthe-juice%2F1481255%2Frapper-capital-steez-of-pro-era-dead-at-19&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-pitchfork-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-pitchfork_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://pitchfork.com/news/49008-joey-bada-collaborator-capital-steez-of-pro-era-has-died/">"Joey Bada$$ Collaborator Capital STEEZ of Pro Era Has Died"</a>. <i>Pitchfork.com</i>. December 24, 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork.com&amp;rft.atitle=Joey+Bada%24%24+Collaborator+Capital+STEEZ+of+Pro+Era+Has+Died&amp;rft.date=2012-12-24&amp;rft_id=https%3A%2F%2Fpitchfork.com%2Fnews%2F49008-joey-bada-collaborator-capital-steez-of-pro-era-has-died%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-allhiphop-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-allhiphop_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190404072534/https://allhiphop.com/news/joey-bada-confirms-capital-steez-death-was-self-inflicted-w1LpBGFsp0up3oLK_Gm5HQ/">"Joey Bada$$ Confirms Capital STEEZ Death Was 'Self-inflicted'<span class="cs1-kern-right"></span>"</a>. <i>Allhiphop.com</i>. Archived from <a rel="nofollow" class="external text" href="https://allhiphop.com/news/joey-bada-confirms-capital-steez-death-was-self-inflicted-w1LpBGFsp0up3oLK_Gm5HQ">the original</a> on April 4, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">March 10,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Allhiphop.com&amp;rft.atitle=Joey+Bada%24%24+Confirms+Capital+STEEZ+Death+Was+%27Self-inflicted%27&amp;rft_id=https%3A%2F%2Fallhiphop.com%2Fnews%2Fjoey-bada-confirms-capital-steez-death-was-self-inflicted-w1LpBGFsp0up3oLK_Gm5HQ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://studybreaks.com/2017/08/23/capital-steez-new-york-rap-hip-hop-pro-era/">"The Life and Death of Capital STEEZ"</a>. <i>Study Breaks</i>. August 23, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Study+Breaks&amp;rft.atitle=The+Life+and+Death+of+Capital+STEEZ&amp;rft.date=2017-08-23&amp;rft_id=https%3A%2F%2Fstudybreaks.com%2F2017%2F08%2F23%2Fcapital-steez-new-york-rap-hip-hop-pro-era%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://studybreaks.com/news-politics/capital-steez-new-york-rap-hip-hop-pro-era/">"The Life and Death of Capital STEEZ"</a>. August 23, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Life+and+Death+of+Capital+STEEZ&amp;rft.date=2017-08-23&amp;rft_id=https%3A%2F%2Fstudybreaks.com%2Fnews-politics%2Fcapital-steez-new-york-rap-hip-hop-pro-era%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2013/07/pro-era-family-tree-meet-the-brooklyn-hip-hop-crew-spearheaded-by-joey-badass/3/">"Pro Era Family Tree: Meet The Brooklyn Hip-Hop Crew Spearheaded By Joey Bada$$"</a>. <i>Xxlmag.com</i>. July 30, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Xxlmag.com&amp;rft.atitle=Pro+Era+Family+Tree%3A+Meet+The+Brooklyn+Hip-Hop+Crew+Spearheaded+By+Joey+Bada%24%24&amp;rft.date=2013-07-30&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2013%2F07%2Fpro-era-family-tree-meet-the-brooklyn-hip-hop-crew-spearheaded-by-joey-badass%2F3%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-spin-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-spin_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.spin.com/2012/12/best-rap-hip-hop-lines-2012/121221-capital-steez/">"<span class="cs1-kern-left"></span>"They say hard work pays off / Well tell the Based God don't quit his day job" SPIN"</a>. <i>Spin.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Spin.com&amp;rft.atitle=%22They+say+hard+work+pays+off+%2F+Well+tell+the+Based+God+don%27t+quit+his+day+job%22+SPIN&amp;rft_id=https%3A%2F%2Fwww.spin.com%2F2012%2F12%2Fbest-rap-hip-hop-lines-2012%2F121221-capital-steez%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-The_end_tweett-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_end_tweett_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130101062759/https://twitter.com/CapitalSTEEZ_">"KING CAPITAL $TEEZ"</a>. <i>Twitter</i>. Archived from <a rel="nofollow" class="external text" href="https://twitter.com/CapitalSTEEZ_">the original</a> on January 1, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Twitter&amp;rft.atitle=KING+CAPITAL+%24TEEZ&amp;rft_id=https%3A%2F%2Ftwitter.com%2FCapitalSTEEZ_&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-xxlmag.com-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-xxlmag.com_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFEmmanuel_C.M.2013" class="citation web cs1">Emmanuel C.M. (December 24, 2013). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140724162303/http://www.xxlmag.com/news/hip-hop-today/2013/12/rip-capital-steez-july-7-1993-december-24-2012/">"RIP Capital STEEZ (July 7, 1993 - December 24, 2012) - XXL"</a>. Xxlmag.com. Archived from <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/hip-hop-today/2013/12/rip-capital-steez-july-7-1993-december-24-2012/">the original</a> on July 24, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">August 13,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RIP+Capital+STEEZ+%28July+7%2C+1993+-+December+24%2C+2012%29+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2013-12-24&amp;rft.au=Emmanuel+C.M.&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2Fhip-hop-today%2F2013%2F12%2Frip-capital-steez-july-7-1993-december-24-2012%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-kingcapital-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-kingcapital_14-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190330205355/https://www.hotnewhiphop.com/joey-badass-announces-album-title-capital-steez-mixtape-news.5337.html">"Joey Bada$$ Announces Debut Album Title, Capital STEEZ Mixtape"</a>. <i>HotNewHipHop.com</i>. Archived from <a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/joey-badass-announces-album-title-capital-steez-mixtape-news.5337.html">the original</a> on March 30, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">March 10,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop.com&amp;rft.atitle=Joey+Bada%24%24+Announces+Debut+Album+Title%2C+Capital+STEEZ+Mixtape&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fjoey-badass-announces-album-title-capital-steez-mixtape-news.5337.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-kingsteelo-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-kingsteelo_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRys2013" class="citation web cs1">Rys, Dan (July 8, 2013). <a rel="nofollow" class="external text" href="https://www.xxlmag.com/rap-music/new-music/2013/07/capital-steez-king-steelo/">"Capital STEEZ, "King STEELO" - XXL"</a>. <i>XXL Mag</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=Capital+STEEZ%2C+%22King+STEELO%22+-+XXL&amp;rft.date=2013-07-08&amp;rft.aulast=Rys&amp;rft.aufirst=Dan&amp;rft_id=https%3A%2F%2Fwww.xxlmag.com%2Frap-music%2Fnew-music%2F2013%2F07%2Fcapital-steez-king-steelo%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/1720940/joey-badass-capital-steez-album-release/">"Joey Bada$$ Thinks 'The World Ain't Ready' For Posthumous Capital STEEZ Album"</a>. <i>MTV News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 8,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MTV+News&amp;rft.atitle=Joey+Bada%24%24+Thinks+%27The+World+Ain%27t+Ready%27+For+Posthumous+Capital+STEEZ+Album&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2F1720940%2Fjoey-badass-capital-steez-album-release%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=6BUg8MqAB0E">"Official Pro Era 'Herban Legend' video release"</a>. Pro Era. August 26, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">August 29,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Official+Pro+Era+%27Herban+Legend%27+video+release&amp;rft.pub=Pro+Era&amp;rft.date=2016-08-26&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6BUg8MqAB0E&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBerry2017" class="citation web cs1">Berry, Peter A. (June 12, 2017). <a rel="nofollow" class="external text" href="https://www.xxlmag.com/news/2017/06/capital-steez-twitter-account-tweets-first-thing-five-years/">"Capital Steez's Twitter Account Tweets First Thing in Almost Five Years - XXL"</a>. <i>XXL Mag</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=Capital+Steez%27s+Twitter+Account+Tweets+First+Thing+in+Almost+Five+Years+-+XXL&amp;rft.date=2017-06-12&amp;rft.aulast=Berry&amp;rft.aufirst=Peter+A.&amp;rft_id=https%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2017%2F06%2Fcapital-steez-twitter-account-tweets-first-thing-five-years%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIndia2017" class="citation web cs1">India, Lindsey (December 12, 2017). <a rel="nofollow" class="external text" href="https://www.xxlmag.com/news/2017/12/capital-steez-posthumous-album-delayed/">"Capital Steez's Posthumous Album Gets Delayed"</a>. <i>Xxlmag.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Xxlmag.com&amp;rft.atitle=Capital+Steez%27s+Posthumous+Album+Gets+Delayed&amp;rft.date=2017-12-12&amp;rft.aulast=India&amp;rft.aufirst=Lindsey&amp;rft_id=https%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2017%2F12%2Fcapital-steez-posthumous-album-delayed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hiphopdx.com/news/id.45599/title.joey-badass-outlines-pro-eras-robust-2018-lineup">"Joey Bada$$ Outlines Pro Era's Robust 2018 Lineup"</a>. <i>HipHopDX.com</i>. January 3, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX.com&amp;rft.atitle=Joey+Bada%24%24+Outlines+Pro+Era%27s+Robust+2018+Lineup&amp;rft.date=2018-01-03&amp;rft_id=https%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.45599%2Ftitle.joey-badass-outlines-pro-eras-robust-2018-lineup&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bet.com/news/music/2015/05/07/joey-badass-announces-steez-day-festival.html">"Joey Bada$$ Is Putting on a Festival to Honor Capital Steez"</a>. <a href="/wiki/BET" title="BET">BET</a>. May 7, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">August 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Joey+Bada%24%24+Is+Putting+on+a+Festival+to+Honor+Capital+Steez&amp;rft.pub=BET&amp;rft.date=2015-05-07&amp;rft_id=http%3A%2F%2Fwww.bet.com%2Fnews%2Fmusic%2F2015%2F05%2F07%2Fjoey-badass-announces-steez-day-festival.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHarris2015" class="citation web cs1">Harris, Christopher (June 18, 2015). <a rel="nofollow" class="external text" href="http://hiphopdx.com/news/id.33747/title.joey-bada-announces-first-annual-steez-day-festival">"Joey Bada$$ Announces First-Annual "Steez Day" Festival; New Flyer Released"</a>. <i><a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Joey+Bada%24%24+Announces+First-Annual+%22Steez+Day%22+Festival%3B+New+Flyer+Released&amp;rft.date=2015-06-18&amp;rft.aulast=Harris&amp;rft.aufirst=Christopher&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.33747%2Ftitle.joey-bada-announces-first-annual-steez-day-festival&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRys2016" class="citation magazine cs1">Rys, Dan (May 19, 2016). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/hip-hop/7378197/joey-badass-pro-era-second-annual-steez-day">"Joey Bada$$ &amp; Pro Era Bringing Second Annual 'Steez Day' Festival to Los Angeles"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Joey+Bada%24%24+%26+Pro+Era+Bringing+Second+Annual+%27Steez+Day%27+Festival+to+Los+Angeles&amp;rft.date=2016-05-19&amp;rft.aulast=Rys&amp;rft.aufirst=Dan&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F7378197%2Fjoey-badass-pro-era-second-annual-steez-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.complex.com/music/2017/12/joey-badass-capital-steez-medallion">"Joey Badass Honors the Late Capital Steez With a 'Steezus Piece' Chain"</a>. <i>Complex.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex.com&amp;rft.atitle=Joey+Badass+Honors+the+Late+Capital+Steez+With+a+%27Steezus+Piece%27+Chain&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2F2017%2F12%2Fjoey-badass-capital-steez-medallion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.complex.com/music/joey-badass-survivors-guilt-capital-steez">"Joey Badass Shares New Song "Survivor's Guilt" Dedicated to Capital Steez"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 18,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Joey+Badass+Shares+New+Song+%22Survivor%27s+Guilt%22+Dedicated+to+Capital+Steez&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fjoey-badass-survivors-guilt-capital-steez&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMadden2016" class="citation web cs1">Madden, Sidney (March 1, 2016). <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2016/03/troy-ave-joey-badass-capital-steez-lyrics/">"Troy Ave Speaks on Capital Steez Diss: "Don't Play With Me"<span class="cs1-kern-right"></span>"</a>. <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 1,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=Troy+Ave+Speaks+on+Capital+Steez+Diss%3A+%22Don%27t+Play+With+Me%22&amp;rft.date=2016-03-01&amp;rft.aulast=Madden&amp;rft.aufirst=Sidney&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F03%2Ftroy-ave-joey-badass-capital-steez-lyrics%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKyles2016" class="citation web cs1">Kyles, Yohance (March 2, 2016). <a rel="nofollow" class="external text" href="http://allhiphop.com/2016/03/02/asap-mob-twelvy-ant-troy-ave-joey-badass-capital-steez/">"A$AP Mob Members Blast Troy Ave For Disrespecting Capital STEEZ; Troy Defends Dissing The Late Rapper"</a>. <i><a href="/wiki/AllHipHop" title="AllHipHop">AllHipHop</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 31,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllHipHop&amp;rft.atitle=A%24AP+Mob+Members+Blast+Troy+Ave+For+Disrespecting+Capital+STEEZ%3B+Troy+Defends+Dissing+The+Late+Rapper&amp;rft.date=2016-03-02&amp;rft.aulast=Kyles&amp;rft.aufirst=Yohance&amp;rft_id=http%3A%2F%2Fallhiphop.com%2F2016%2F03%2F02%2Fasap-mob-twelvy-ant-troy-ave-joey-badass-capital-steez%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKyles2016" class="citation web cs1">Kyles, Yohance (March 3, 2016). <a rel="nofollow" class="external text" href="http://allhiphop.com/2016/03/03/troy-ave-apologizes-for-suicide-comments-responds-to-joey-bada-exposing-his-old-tweets-about-nas/">"Troy Ave Apologizes For Suicide Comments &amp; Responds To Joey Bada$$ Exposing His Old Tweets About Nas"</a>. <i><a href="/wiki/AllHipHop" title="AllHipHop">AllHipHop</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 31,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllHipHop&amp;rft.atitle=Troy+Ave+Apologizes+For+Suicide+Comments+%26+Responds+To+Joey+Bada%24%24+Exposing+His+Old+Tweets+About+Nas&amp;rft.date=2016-03-03&amp;rft.aulast=Kyles&amp;rft.aufirst=Yohance&amp;rft_id=http%3A%2F%2Fallhiphop.com%2F2016%2F03%2F03%2Ftroy-ave-apologizes-for-suicide-comments-responds-to-joey-bada-exposing-his-old-tweets-about-nas%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRathon2016" class="citation web cs1">Rathon, Rocko (March 3, 2016). <a rel="nofollow" class="external text" href="http://thesource.com/2016/03/03/styles-p-educates-troy-ave-on-twitter-regarding-his-suicide-comments/">"Styles P Educates Troy Ave On Twitter Regarding His Suicide Comments"</a>. <i><a href="/wiki/The_Source" title="The Source">The Source</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 1,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Source&amp;rft.atitle=Styles+P+Educates+Troy+Ave+On+Twitter+Regarding+His+Suicide+Comments&amp;rft.date=2016-03-03&amp;rft.aulast=Rathon&amp;rft.aufirst=Rocko&amp;rft_id=http%3A%2F%2Fthesource.com%2F2016%2F03%2F03%2Fstyles-p-educates-troy-ave-on-twitter-regarding-his-suicide-comments%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=C7LqI78Rh28">"Maino: Troy Ave Dissing Capital Steez's Suicide Took Joey Bada$$ Beef Too Far"</a>. <a href="/wiki/DJ_Vlad" title="DJ Vlad">VladTV</a> / <a href="/wiki/YouTube" title="YouTube">YouTube</a>. April 5, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 1,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Maino%3A+Troy+Ave+Dissing+Capital+Steez%27s+Suicide+Took+Joey+Bada%24%24+Beef+Too+Far&amp;rft.pub=VladTV+%2F+YouTube&amp;rft.date=2016-04-05&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC7LqI78Rh28&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACapital+Steez" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: Artists <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q15122641#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/b05f021e-0d47-4eb1-bd67-1e553486c9c7">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<p><a rel="nofollow" class="external text" href="http://www.thefader.com/2013/11/26/capital-steez-king-capital">Capital STEEZ: King Capital</a>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2311
+Cached time: 20230920001319
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.444 seconds
+Real time usage: 0.538 seconds
+Preprocessor visited node count: 3721/1000000
+Post‐expand include size: 64569/2097152 bytes
+Template argument size: 3361/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 97675/5000000 bytes
+Lua time usage: 0.250/10.000 seconds
+Lua memory usage: 8936837/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  495.473      1 -total
+ 37.47%  185.640      1 Template:Infobox_musical_artist
+ 36.85%  182.565      1 Template:Reflist
+ 34.51%  170.976      1 Template:Infobox
+ 29.59%  146.615     28 Template:Cite_web
+ 24.88%  123.296      7 Template:Br_separated_entries
+ 14.28%   70.770      1 Template:Infobox_person
+ 11.51%   57.030      2 Template:Short_description
+  8.91%   44.132      1 Template:Authority_control
+  6.50%   32.196      4 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40841303-0!canonical and timestamp 20230920001318 and revision id 1174368369. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Capital_Steez&amp;oldid=1174368369">https://en.wikipedia.org/w/index.php?title=Capital_Steez&amp;oldid=1174368369</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1993_births" title="Category:1993 births">1993 births</a></li><li><a href="/wiki/Category:2012_deaths" title="Category:2012 deaths">2012 deaths</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:American_rappers_of_Jamaican_descent" title="Category:American rappers of Jamaican descent">American rappers of Jamaican descent</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Musicians_from_Flatbush,_Brooklyn" title="Category:Musicians from Flatbush, Brooklyn">Musicians from Flatbush, Brooklyn</a></li><li><a href="/wiki/Category:Rappers_from_Brooklyn" title="Category:Rappers from Brooklyn">Rappers from Brooklyn</a></li><li><a href="/wiki/Category:Songwriters_from_New_York_(state)" title="Category:Songwriters from New York (state)">Songwriters from New York (state)</a></li><li><a href="/wiki/Category:Suicides_by_jumping_in_New_York_City" title="Category:Suicides by jumping in New York City">Suicides by jumping in New York City</a></li><li><a href="/wiki/Category:Pro_Era_artists" title="Category:Pro Era artists">Pro Era artists</a></li><li><a href="/wiki/Category:Underground_rappers" title="Category:Underground rappers">Underground rappers</a></li><li><a href="/wiki/Category:Edward_R._Murrow_High_School_alumni" title="Category:Edward R. Murrow High School alumni">Edward R. Murrow High School alumni</a></li><li><a href="/wiki/Category:2012_suicides" title="Category:2012 suicides">2012 suicides</a></li><li><a href="/wiki/Category:African-American_songwriters" title="Category:African-American songwriters">African-American songwriters</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li><li><a href="/wiki/Category:American_male_songwriters" title="Category:American male songwriters">American male songwriters</a></li><li><a href="/wiki/Category:Beast_Coast_members" title="Category:Beast Coast members">Beast Coast members</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_American_English_from_August_2016" title="Category:Use American English from August 2016">Use American English from August 2016</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_August_2016" title="Category:Use mdy dates from August 2016">Use mdy dates from August 2016</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 8 September 2023, at 01:10<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Capital_Steez&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2331","wgBackendResponseTime":121,"wgPageParseReport":{"limitreport":{"cputime":"0.444","walltime":"0.538","ppvisitednodes":{"value":3721,"limit":1000000},"postexpandincludesize":{"value":64569,"limit":2097152},"templateargumentsize":{"value":3361,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":97675,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  495.473      1 -total"," 37.47%  185.640      1 Template:Infobox_musical_artist"," 36.85%  182.565      1 Template:Reflist"," 34.51%  170.976      1 Template:Infobox"," 29.59%  146.615     28 Template:Cite_web"," 24.88%  123.296      7 Template:Br_separated_entries"," 14.28%   70.770      1 Template:Infobox_person"," 11.51%   57.030      2 Template:Short_description","  8.91%   44.132      1 Template:Authority_control","  6.50%   32.196      4 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.250","limit":"10.000"},"limitreport-memusage":{"value":8936837,"limit":52428800}},"cachereport":{"origin":"mw2311","timestamp":"20230920001319","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Capital Steez","url":"https:\/\/en.wikipedia.org\/wiki\/Capital_Steez","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15122641","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15122641","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-10-20T03:16:47Z","dateModified":"2023-09-08T01:10:08Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1f\/CapitalSteezHypetrak.jpg","headline":"American rapper (1993\u20132012)"}</script>
+</body>
+</html>

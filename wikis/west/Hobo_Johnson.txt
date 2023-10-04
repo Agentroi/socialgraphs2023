@@ -1,0 +1,1185 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Hobo Johnson - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"2c5801ab-e3b8-456a-9786-962e8df3a520","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hobo_Johnson","wgTitle":"Hobo Johnson","wgCurRevisionId":1175285363,"wgRevisionId":1175285363,"wgArticleId":57040810,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Wikipedia pending changes protected pages","Use mdy dates from April 2018","Short description is different from Wikidata","Articles with hCards","Articles with hAudio microformats","All articles lacking reliable references","Articles lacking reliable references from March 2023","Official website different in Wikidata and Wikipedia","Articles with ISNI identifiers","Articles with MusicBrainz identifiers","Rappers from Sacramento, California","West Coast hip hop musicians","Living people",
+"American rappers of Mexican descent","American musicians of Portuguese descent","21st-century American rappers","1994 births","Reprise Records artists","Warner Records artists","People from Loomis, California"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Hobo_Johnson","wgRelevantArticleId":57040810,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgStableRevisionId":1175285363,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English",
+"wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q51077506","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","ext.tmh.player.styles":"ready","codex-search-styles":"ready",
+"skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","codex-styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.tmh.player","mediawiki.page.media","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%2Ccodex-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.tmh.player.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hobo_Johnson_%2845668161975%29.jpg/1200px-Hobo_Johnson_%2845668161975%29.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1073">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hobo_Johnson_%2845668161975%29.jpg/800px-Hobo_Johnson_%2845668161975%29.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="716">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hobo_Johnson_%2845668161975%29.jpg/640px-Hobo_Johnson_%2845668161975%29.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="572">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Hobo Johnson - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Hobo_Johnson">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hobo_Johnson&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hobo_Johnson">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hobo_Johnson rootpage-Hobo_Johnson skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hobo+Johnson" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hobo+Johnson" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hobo+Johnson" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hobo+Johnson" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Music_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Music_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Music career</div>
+		</a>
+		
+			<button aria-controls="toc-Music_career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Music career subsection</span>
+			</button>
+		
+		<ul id="toc-Music_career-sublist" class="vector-toc-list">
+			<li id="toc-Early_work_and_The_Rise_of_Hobo_Johnson_(2015–2017)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Early_work_and_The_Rise_of_Hobo_Johnson_(2015–2017)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Early work and <i>The Rise of Hobo Johnson</i> (2015–2017)</div>
+			</a>
+			
+			<ul id="toc-Early_work_and_The_Rise_of_Hobo_Johnson_(2015–2017)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Tiny_Desk_Concert,_&quot;Peach_Scone&quot;,_and_The_Fall_of_Hobo_Johnson_(2018–2019)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Tiny_Desk_Concert,_&quot;Peach_Scone&quot;,_and_The_Fall_of_Hobo_Johnson_(2018–2019)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Tiny Desk Concert, "Peach Scone", and <i>The Fall of Hobo Johnson</i> (2018–2019)</div>
+			</a>
+			
+			<ul id="toc-Tiny_Desk_Concert,_&quot;Peach_Scone&quot;,_and_The_Fall_of_Hobo_Johnson_(2018–2019)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-The_Revenge_of_Hobo_Johnson,_Hobo_Johnson_Alienates_His_Fanbase,_and_hiatus_(2021–present)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#The_Revenge_of_Hobo_Johnson,_Hobo_Johnson_Alienates_His_Fanbase,_and_hiatus_(2021–present)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span><i>The Revenge of Hobo Johnson</i>, <i>Hobo Johnson Alienates His Fanbase</i>, and hiatus (2021–present)</div>
+			</a>
+			
+			<ul id="toc-The_Revenge_of_Hobo_Johnson,_Hobo_Johnson_Alienates_His_Fanbase,_and_hiatus_(2021–present)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Hobo_Johnson_&amp;_the_LoveMakers"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Hobo_Johnson_&amp;_the_LoveMakers">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Hobo Johnson & the LoveMakers</div>
+		</a>
+		
+		<ul id="toc-Hobo_Johnson_&amp;_the_LoveMakers-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Singles</div>
+			</a>
+			
+			<ul id="toc-Singles-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Music_videos"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Music_videos">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>Music videos</div>
+			</a>
+			
+			<ul id="toc-Music_videos-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-As_a_featured_artist"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#As_a_featured_artist">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4</span>As a featured artist</div>
+			</a>
+			
+			<ul id="toc-As_a_featured_artist-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Hobo Johnson</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 2 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-2" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">2 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Hobo_Johnson" title="Hobo Johnson – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Hobo_Johnson" title="Hobo Johnson – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q51077506#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Hobo_Johnson" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Hobo_Johnson" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Hobo_Johnson"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Hobo_Johnson&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Hobo_Johnson"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Hobo_Johnson&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Hobo_Johnson" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Hobo_Johnson" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Hobo_Johnson&amp;oldid=1175285363" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Hobo_Johnson&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hobo_Johnson&amp;id=1175285363&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q51077506" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Hobo_Johnson&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Hobo_Johnson&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Hobo_Johnson" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-pp-autoreview" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/Wikipedia:Protection_policy#pending" title="All edits by unregistered and new users are subject to review prior to becoming visible to unregistered users"><img alt="Page protected with pending changes" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/20px-Pending-protection-shackle.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/30px-Pending-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/40px-Pending-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint"><div class="flaggedrevs_short_basic"><span title='Changes must be reviewed before being displayed on this page.' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' title='show/hide details' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">This is the <a href="/wiki/Wikipedia:Pending_changes" title="Wikipedia:Pending changes">latest accepted revision</a>, <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:Log&amp;type=review&amp;page=Hobo_Johnson">reviewed</a> on <i>14 September 2023</i>.</div>
+</div>
+</div>
+</div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American hip hop artist</div>
+<p class="mw-empty-elt">
+
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Hobo Johnson</div></th></tr><tr><td colspan="2" class="infobox-image"><span typeof="mw:File"><a href="/wiki/File:Hobo_Johnson_(45668161975).jpg" class="mw-file-description" title="Hobo Johnson performing at Falls Festival in Byron Bay, 2018"><img alt="Hobo Johnson performing at Falls Festival in Byron Bay, 2018" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hobo_Johnson_%2845668161975%29.jpg/200px-Hobo_Johnson_%2845668161975%29.jpg" decoding="async" width="200" height="179" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hobo_Johnson_%2845668161975%29.jpg/300px-Hobo_Johnson_%2845668161975%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hobo_Johnson_%2845668161975%29.jpg/400px-Hobo_Johnson_%2845668161975%29.jpg 2x" data-file-width="3618" data-file-height="3236" /></a></span><div class="infobox-caption">Hobo Johnson performing at <a href="/wiki/Falls_Festival" title="Falls Festival">Falls Festival</a> in <a href="/wiki/Byron_Bay" title="Byron Bay">Byron Bay</a>, 2018</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Frank Lopes Jr.</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1994-12-22</span>) </span>December 22, 1994<span class="noprint ForceAgeToShow"> (age&#160;28)</span></td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li><a href="/wiki/Emo_rap" title="Emo rap">Emo rap</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></li>
+<li><a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a></li>
+<li><a href="/wiki/Spoken_word" title="Spoken word">spoken word</a></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role">Vocalist</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2015–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li><a href="/wiki/Reprise_Records" title="Reprise Records">Reprise</a></li>
+<li><a href="/wiki/Warner_Records" title="Warner Records">Warner</a></li></ul>
+</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://hobojohnson.com">hobojohnson<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Frank Lopes Jr.</b> (born December 22, 1994), known professionally as <b>Hobo Johnson</b>, is an American vocalist and frontman of Hobo Johnson &amp; the LoveMakers.<sup id="cite_ref-insightmusic-063017c_2-0" class="reference"><a href="#cite_note-insightmusic-063017c-2">&#91;2&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lopes is a Mexican/<a href="/wiki/Portuguese_Americans" title="Portuguese Americans">Portuguese-American</a> from <a href="/wiki/California" title="California">California</a>.<sup id="cite_ref-Vulture_3-0" class="reference"><a href="#cite_note-Vulture-3">&#91;3&#93;</a></sup> When he was 19, he was kicked out of his house by his father and subsequently lived in his car.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> For a stretch of time, Lopes worked at a pizza restaurant in <a href="/wiki/Sacramento,_California" title="Sacramento, California">Sacramento</a>, but he soon quit to pursue his passion for music.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> He is a fan of the <a href="/wiki/Sacramento_Kings" title="Sacramento Kings">Sacramento Kings</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and has referenced them in the lyrics to his song "Sacramento Kings Anthem (We're Not That Bad)", written about the struggles the Kings have in the NBA.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Music_career">Music career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=2" title="Edit section: Music career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Early_work_and_The_Rise_of_Hobo_Johnson_.282015.E2.80.932017.29"></span><span class="mw-headline" id="Early_work_and_The_Rise_of_Hobo_Johnson_(2015–2017)">Early work and <i>The Rise of Hobo Johnson</i> (2015–2017)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=3" title="Edit section: Early work and The Rise of Hobo Johnson (2015–2017)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At age 15, Lopes began performing music and hip-hop.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-insightmusic-063017c_2-1" class="reference"><a href="#cite_note-insightmusic-063017c-2">&#91;2&#93;</a></sup> He came up with his stage name "Homeless Johnson" but soon made it "Hobo Johnson" while living in his car, a 1994 <a href="/wiki/Toyota_Corolla" title="Toyota Corolla">Toyota Corolla</a>, and named his 2015 debut album in honor of his car.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Starting in December 2016, he released a series of live recordings on YouTube subtitled "Live from <a href="/wiki/Oak_Park,_Sacramento,_California" title="Oak Park, Sacramento, California">Oak Park</a>".<sup id="cite_ref-sacbee_article212117874_11-0" class="reference"><a href="#cite_note-sacbee_article212117874-11">&#91;11&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><style data-mw-deduplicate="TemplateStyles:r1096940132">.mw-parser-output .listen .side-box-text{line-height:1.1em}.mw-parser-output .listen-plain{border:none;background:transparent}.mw-parser-output .listen-embedded{width:100%;margin:0;border-width:1px 0 0 0;background:transparent}.mw-parser-output .listen-header{padding:2px}.mw-parser-output .listen-embedded .listen-header{padding:2px 0}.mw-parser-output .listen-file-header{padding:4px 0}.mw-parser-output .listen .description{padding-top:2px}.mw-parser-output .listen .mw-tmh-player{max-width:100%}@media(max-width:719px){.mw-parser-output .listen{clear:both}}@media(min-width:720px){.mw-parser-output .listen:not(.listen-noimage){width:320px}.mw-parser-output .listen-left{overflow:visible;float:left}.mw-parser-output .listen-center{float:none;margin-left:auto;margin-right:auto}}</style><div class="side-box side-box-right listen noprint"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><figure class="mw-halign-center" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" decoding="async" width="50" height="50" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" data-file-width="160" data-file-height="160" /></span><figcaption></figcaption></figure></div>
+<div class="side-box-text plainlist"><div class="haudio">
+<div class="listen-file-header"><a href="/wiki/File:Peach_Scone.ogg" title="File:Peach Scone.ogg">"Peach Scone"</a></div>
+<div><span typeof="mw:File"><span><audio id="mwe_player_0" controls="" preload="none" class="mw-file-element" width="232" style="width:232px;" data-durationhint="24" data-mwtitle="Peach_Scone.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/1/1d/Peach_Scone.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (114 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" /><source src="//upload.wikimedia.org/wikipedia/en/transcoded/1/1d/Peach_Scone.ogg/Peach_Scone.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" /></audio></span></span></div>
+<div class="description">A 24-second sample of a live rendition of the single "Peach Scone." Hobo Johnson &amp; the LoveMakers performed the song for the 2018 <a href="/wiki/NPR" title="NPR">NPR</a> <a href="/wiki/Tiny_Desk_Concerts" class="mw-redirect" title="Tiny Desk Concerts">Tiny Desk Contest</a>. The video clip of the performance was filmed in a backyard and went viral.</div></div></div></div>
+<div class="side-box-abovebelow"><hr /><i class="selfreference">Problems playing this file? See <a href="/wiki/Help:Media" title="Help:Media">media help</a>.</i></div>
+</div>
+<p>In 2016, he released the album <i>The Rise of Hobo Johnson</i> independently, but later created a new version of the album in 2017 which had changes to the production and a different tracklist. After the release of the second version of "The Rise Of Hobo Johnson", Lopes signed to Reprise Records. That year, he won four Sacramento Area Music Awards: Artist of the Year, Best Hip-Hop/Rap, Best Emcee and Best New Artist.<sup id="cite_ref-insightmusic-063017c_2-2" class="reference"><a href="#cite_note-insightmusic-063017c-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span id="Tiny_Desk_Concert.2C_.22Peach_Scone.22.2C_and_The_Fall_of_Hobo_Johnson_.282018.E2.80.932019.29"></span><span class="mw-headline" id="Tiny_Desk_Concert,_&quot;Peach_Scone&quot;,_and_The_Fall_of_Hobo_Johnson_(2018–2019)">Tiny Desk Concert, "Peach Scone", and <i>The Fall of Hobo Johnson</i> (2018–2019)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=4" title="Edit section: Tiny Desk Concert, &quot;Peach Scone&quot;, and The Fall of Hobo Johnson (2018–2019)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/The_Fall_of_Hobo_Johnson" title="The Fall of Hobo Johnson">The Fall of Hobo Johnson</a></div>
+<p>Hobo Johnson and the LoveMakers released a music video on Facebook as part of <a href="/wiki/NPR" title="NPR">NPR</a>'s <a href="/wiki/Tiny_Desk_Concert" class="mw-redirect" title="Tiny Desk Concert">Tiny Desk Contest</a> on March 7, 2018.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> The song "Peach Scone" collected millions of views in just a few weeks.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Following the attention of the "Peach Scone" video, their album <i>The Rise of Hobo Johnson</i> charted at #11 on the <a href="/wiki/Top_Heatseekers" class="mw-redirect" title="Top Heatseekers"><i>Billboard</i> Heatseekers Chart</a> for the week ending March 31, 2018.<sup id="cite_ref-Heat_15-0" class="reference"><a href="#cite_note-Heat-15">&#91;15&#93;</a></sup> At this time, Lopes also drew criticism from the Sacramento chapter of <a href="/wiki/Black_Lives_Matter" title="Black Lives Matter">Black Lives Matter</a>, who accused him of using Oak Park's name without consent and of cultural appropriation.<sup id="cite_ref-sacbee_article212117874_11-1" class="reference"><a href="#cite_note-sacbee_article212117874-11">&#91;11&#93;</a></sup> On May 12, they staged a small protest that delayed the beginning of his sold-out show at Sacramento's Ace of Spades nightclub.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>While not winning the Tiny Desk Contest, Hobo Johnson &amp; the LoveMakers appeared on Tiny Desk on an episode released on September 12, 2018.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>In 2018, the band toured North America and Europe and appeared at Australia's <a href="/wiki/Falls_Festival" title="Falls Festival">Falls Music &amp; Arts Festival</a>. In 2019, the band appeared at <a href="/wiki/Bonnaroo_Music_Festival" title="Bonnaroo Music Festival">Bonnaroo Music and Arts Festival</a> in Manchester, Tennessee.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>In 2019 he released the singles "Typical Story" and "UglyKid" from the album <i><a href="/wiki/The_Fall_of_Hobo_Johnson" title="The Fall of Hobo Johnson">The Fall of Hobo Johnson</a></i>, which was released by Warner Records on September 13, 2019.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> That same day, EA Sports released the video game <i><a href="/wiki/NHL_20" title="NHL 20">NHL 20</a></i>,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> which featured the single "Typical Story" on its soundtrack.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h3><span id="The_Revenge_of_Hobo_Johnson.2C_Hobo_Johnson_Alienates_His_Fanbase.2C_and_hiatus_.282021.E2.80.93present.29"></span><span class="mw-headline" id="The_Revenge_of_Hobo_Johnson,_Hobo_Johnson_Alienates_His_Fanbase,_and_hiatus_(2021–present)"><i>The Revenge of Hobo Johnson</i>, <i>Hobo Johnson Alienates His Fanbase</i>, and hiatus (2021–present)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=5" title="Edit section: The Revenge of Hobo Johnson, Hobo Johnson Alienates His Fanbase, and hiatus (2021–present)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lopes released the single "I Want to See the World" in June, 2021. He announced that the album <i>The Revenge of Hobo Johnson</i> would follow later that month.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+<i>The Revenge of Hobo Johnson</i> was subsequently released on June 23, 2021.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> On August 1, 2021 he released the album <i>Hobo Johnson Alienates His Fanbase</i>.<sup id="cite_ref-Iowa_24-0" class="reference"><a href="#cite_note-Iowa-24">&#91;24&#93;</a></sup>
+</p><p>In 2022, Lopes canceled several upcoming tours and broke up the LoveMakers band, citing a focus on school over music.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources"><span title="The material near this tag may rely on an unreliable source. (March 2023)">unreliable source?</span></a></i>&#93;</sup>
+</p><p>In 2023, Lopes began performing shows again and released a new song on Instagram and YouTube, titled <i>Sacramento 12 Step.</i><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p>
+<h2><span id="Hobo_Johnson_.26_the_LoveMakers"></span><span class="mw-headline" id="Hobo_Johnson_&amp;_the_LoveMakers">Hobo Johnson &amp; the LoveMakers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=6" title="Edit section: Hobo Johnson &amp; the LoveMakers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Hobo_Johnson_at_the_House_of_Blues_Cleveland.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hobo_Johnson_at_the_House_of_Blues_Cleveland.jpg/220px-Hobo_Johnson_at_the_House_of_Blues_Cleveland.jpg" decoding="async" width="220" height="293" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hobo_Johnson_at_the_House_of_Blues_Cleveland.jpg/330px-Hobo_Johnson_at_the_House_of_Blues_Cleveland.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hobo_Johnson_at_the_House_of_Blues_Cleveland.jpg/440px-Hobo_Johnson_at_the_House_of_Blues_Cleveland.jpg 2x" data-file-width="1536" data-file-height="2048" /></a><figcaption>Hobo Johnson performing at the <a href="/wiki/House_of_Blues" title="House of Blues">House of Blues</a> in <a href="/wiki/Cleveland" title="Cleveland">Cleveland</a>, 2018.</figcaption></figure>
+<p><b>Current members</b><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<ul><li>Frank Lopes Jr. – lead vocals, guitar, keyboards, production</li>
+<li>Derek Lynch – guitar</li>
+<li>Jordan Moore – guitar, keyboards</li>
+<li>David Baez-Lopez – bass guitar</li>
+<li>Ben Lerch – drums</li>
+<li>Jmsey – keyboard, guitar</li></ul>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=7" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"><table class="infobox"><tbody><tr><th colspan="2" class="infobox-above"><span class="fn">Hobo Johnson discography</span></th></tr><tr><th scope="row" class="infobox-label" style="background:#DADCED;">Studio albums</th><td class="infobox-data" style="background:#E6E8FA; text-align:center;">5</td></tr><tr><th scope="row" class="infobox-label" style="background:#DADCED;">Music videos</th><td class="infobox-data" style="background:#E6E8FA; text-align:center;">14</td></tr><tr><th scope="row" class="infobox-label" style="background:#DADCED;">Singles</th><td class="infobox-data" style="background:#E6E8FA; text-align:center;">8</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=8" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders">
+
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:12em;">Title
+</th>
+<th scope="col" rowspan="2" style="width:19em;">Details
+</th>
+<th scope="col" colspan="3">Chart positions
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Billboard_200" title="Billboard 200">US</a>
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Top_Heatseekers" class="mw-redirect" title="Top Heatseekers">US Heat.</a>
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK</a>
+</th></tr>
+<tr>
+<th scope="row"><i>Hobo Johnsons 94 Corolla</i>
+</th>
+<td>
+<ul><li>Released: October 14, 2015</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital</li></ul>
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td></tr>
+<tr>
+<th scope="row"><i>The Rise of Hobo Johnson</i>
+</th>
+<td>
+<ul><li>Released: November 7, 2017 (Originally self-released in 2016)</li>
+<li>Label: <a href="/wiki/Reprise_Records" title="Reprise Records">Reprise</a></li>
+<li>Formats: Digital, CD, vinyl</li></ul>
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">11<sup id="cite_ref-Heat_15-1" class="reference"><a href="#cite_note-Heat-15">&#91;15&#93;</a></sup>
+</td>
+<td style="text-align:center;">—
+</td></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/The_Fall_of_Hobo_Johnson" title="The Fall of Hobo Johnson">The Fall of Hobo Johnson</a></i>
+</th>
+<td>
+<ul><li>Released: September 13, 2019</li>
+<li>Label: <a href="/wiki/Warner_Records" title="Warner Records">Warner</a></li>
+<li>Formats: Digital, CD, vinyl</li></ul>
+</td>
+<td style="text-align:center;">99<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">98<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><i>The Revenge of Hobo Johnson</i><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: June 23, 2021</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital, CD, vinyl</li></ul>
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td></tr>
+<tr>
+<th scope="row"><i>Hobo Johnson Alienates His Fanbase</i><sup id="cite_ref-Iowa_24-1" class="reference"><a href="#cite_note-Iowa-24">&#91;24&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: August 1, 2021</li>
+<li>Label: Self-released</li>
+<li>Formats: Digital</li></ul>
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=9" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders sortable">
+
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:12em;">Title
+</th>
+<th scope="col" rowspan="2" style="width:2em;">Year
+</th>
+<th scope="col" rowspan="2" style="width:13em;">Album
+</th>
+<th scope="col" colspan="2">Chart positions
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Alternative_Airplay" title="Alternative Airplay">US Alt.</a>
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Hot_Rock_%26_Alternative_Songs" title="Hot Rock &amp; Alternative Songs">US Rock</a>
+</th></tr>
+<tr>
+<th scope="row">"Peach Scone"
+</th>
+<td rowspan="2">2018
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">Non-album single
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td></tr>
+<tr>
+<th scope="row">"February 15th"
+</th>
+<td rowspan="4"><i>The Fall of Hobo Johnson</i>
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td></tr>
+<tr>
+<th scope="row">"Typical Story"
+</th>
+<td rowspan="3">2019
+</td>
+<td style="text-align:center;">25<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</td>
+<td style="text-align:center;">30<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row">"Uglykid" <small>(ft. <a href="/wiki/Elohim_(musician)" title="Elohim (musician)">Elohim</a>)</small><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</th>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td></tr>
+<tr>
+<th scope="row">"Subaru Crosstrek XV"<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</th>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td></tr>
+<tr>
+<th scope="row">"I want to see the World"
+</th>
+<td rowspan="3">2021
+</td>
+<td rowspan="3"><i>The Revenge of Hobo Johnson</i>
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td></tr>
+<tr>
+<th scope="row">"I want you Back"<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</th>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td></tr>
+<tr>
+<td scope="row">"You want a baby"<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Music_videos">Music videos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=10" title="Edit section: Music videos">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders sortable">
+
+<tbody><tr>
+<th>Title
+</th>
+<th>Year
+</th>
+<th>Album
+</th>
+<th>Director
+</th></tr>
+<tr>
+<th scope="row">"Sex in the City"
+</th>
+<td rowspan="3">2017
+</td>
+<td rowspan="3"><i>The Rise of Hobo Johnson</i>
+</td>
+<td rowspan="2">Hobo Johnson
+</td></tr>
+<tr>
+<th scope="row">"Romeo &amp; Juliet"
+</th></tr>
+<tr>
+<th scope="row">"Mario &amp; Link"
+</th>
+<td>Frank Lopes, Derek Lynch, Jordan Moore
+</td></tr>
+<tr>
+<th scope="row">"Peach Scone"
+</th>
+<td rowspan="3">2018
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">Non-album single
+</td>
+<td>Hobo Johnson
+</td></tr>
+<tr>
+<th scope="row">"Father"
+</th>
+<td rowspan="2"><i>The Rise of Hobo Johnson</i>
+</td>
+<td>Claire Marie Vogel
+</td></tr>
+<tr>
+<th scope="row">"DeMarcus Cousins &amp; Ashley"
+</th>
+<td>Hobo Johnson
+</td></tr>
+<tr>
+<th scope="row">"Typical Story"
+</th>
+<td rowspan="4">2019
+</td>
+<td rowspan="4"><i>The Fall of Hobo Johnson</i>
+</td>
+<td>Dan Ospal
+</td></tr>
+<tr>
+<th scope="row">"Uglykid" <small>(ft. Elohim)</small>
+</th>
+<td>Taylor Fauntleroy
+</td></tr>
+<tr>
+<th scope="row">"Subaru Crosstrek XV"
+</th>
+<td>Hobo Johnson &amp; The Boys
+</td></tr>
+<tr>
+<th scope="row">"You &amp; the Cockroach"
+</th>
+<td>Geoffrey C Knecht
+</td></tr>
+<tr>
+<th scope="row">"I want to see the World"
+</th>
+<td rowspan="4">2021
+</td>
+<td rowspan="4"><i>The Revenge of Hobo Johnson</i>
+</td>
+<td>Adam Rioux
+</td></tr>
+<tr>
+<th scope="row">"I want you Back"
+</th>
+<td>Hobo Johnson &amp; The Boys
+</td></tr>
+<tr>
+<th scope="row">"You want a Baby"
+</th>
+<td>Frank, D, and Fish
+</td></tr>
+<tr>
+<th scope="row">"Song 9 (The Government's Not Great)"
+</th>
+<td>Hobo &amp; the Bois
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="As_a_featured_artist">As a featured artist</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=11" title="Edit section: As a featured artist">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders">
+
+<tbody><tr>
+<th>Song
+</th>
+<th>Year
+</th>
+<th>Album
+</th>
+<th>Artist
+</th></tr>
+<tr>
+<th scope="row">"Feb 20"
+</th>
+<td rowspan="5">2018
+</td>
+<td><i>A Tuesday Morning</i>
+</td>
+<td>Tel Cairo
+</td></tr>
+<tr>
+<th scope="row">"Mama's House"
+</th>
+<td><i>The Philharmonik</i>
+</td>
+<td>The Philharmonik
+</td></tr>
+<tr>
+<th scope="row">"Same Drugs"
+</th>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">Non-album single
+</td>
+<td>Jordan Moore &amp; Jmsey
+</td></tr>
+<tr>
+<th scope="row">"No Toast"
+</th>
+<td><i>Obscura</i>
+</td>
+<td>Sparks Across Darkness
+</td></tr>
+<tr>
+<th scope="row">"See You Again - Live"
+</th>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">Non-album single
+</td>
+<td>Jmsey
+</td></tr>
+<tr>
+<th scope="row">"Tamales and Sadness"
+</th>
+<td rowspan="2">2019
+</td>
+<td><i>Pocket Buddha Mixtape</i>
+</td>
+<td>Pocket Buddha
+</td></tr>
+<tr>
+<th scope="row">"See You Again"
+</th>
+<td><i>Moments</i>
+</td>
+<td>Jmsey
+</td></tr>
+<tr>
+<th scope="row">"Color Out The Lines (Demo)"
+</th>
+<td>2021
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">Non-album single
+</td>
+<td>Peak Eyes
+</td></tr>
+<tr>
+<th scope="row">"Basic"
+</th>
+<td rowspan="3">2022
+</td>
+<td><i>Hella</i>
+</td>
+<td><a href="/wiki/Just_Friends_(band)" title="Just Friends (band)">Just Friends</a> <small>(ft. <a href="/wiki/Lil_B" title="Lil B">Lil B</a>)</small>
+</td></tr>
+<tr>
+<th scope="row">"Caretaker"
+</th>
+<td rowspan="2"><i>Sawubona</i>
+</td>
+<td rowspan="2">Peak Eyes
+</td></tr>
+<tr>
+<th scope="row">"Color Out The Lines"
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.riffmagazine.com/album-reviews/the-fall-of-hobo-johnson/">"ALBUM REVIEW: Hobo Johnson humanizes himself with third album"</a>. September 9, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ALBUM+REVIEW%3A+Hobo+Johnson+humanizes+himself+with+third+album&amp;rft.date=2019-09-09&amp;rft_id=http%3A%2F%2Fwww.riffmagazine.com%2Falbum-reviews%2Fthe-fall-of-hobo-johnson%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-insightmusic-063017c-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-insightmusic-063017c_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-insightmusic-063017c_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-insightmusic-063017c_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAyestas" class="citation web cs1">Ayestas, Jonathan. <a rel="nofollow" class="external text" href="http://www.capradio.org/news/insight-music/2017/06/30/insightmusic-063017c/">"Hobo Johnson: Born From A Corolla Into A Life Of Music"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hobo+Johnson%3A+Born+From+A+Corolla+Into+A+Life+Of+Music&amp;rft.aulast=Ayestas&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.capradio.org%2Fnews%2Finsight-music%2F2017%2F06%2F30%2Finsightmusic-063017c%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Vulture-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Vulture_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFitzmaurice2018" class="citation web cs1">Fitzmaurice, Larry (November 16, 2018). <a rel="nofollow" class="external text" href="https://www.vulture.com/amp/2018/11/hobo-johnson-is-about-to-be-huge.html">"Hobo Johnson Is About to Be Huge"</a>. <i>www.vulture.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 24,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.vulture.com&amp;rft.atitle=Hobo+Johnson+Is+About+to+Be+Huge&amp;rft.date=2018-11-16&amp;rft.aulast=Fitzmaurice&amp;rft.aufirst=Larry&amp;rft_id=https%3A%2F%2Fwww.vulture.com%2Famp%2F2018%2F11%2Fhobo-johnson-is-about-to-be-huge.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSmith2018" class="citation web cs1">Smith, Jordan (June 5, 2018). <a rel="nofollow" class="external text" href="http://www.onestowatch.com/blog/new-artist-discovery-hobo-johnson-is-painting-his">"Hobo Johnson Is Painting His Future With Train-of-Thought Rapping"</a>. <i><a href="/wiki/Ones_to_Watch" title="Ones to Watch">Ones to Watch</a></i>. Live Nation<span class="reference-accessdate">. Retrieved <span class="nowrap">October 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ones+to+Watch&amp;rft.atitle=Hobo+Johnson+Is+Painting+His+Future+With+Train-of-Thought+Rapping&amp;rft.date=2018-06-05&amp;rft.aulast=Smith&amp;rft.aufirst=Jordan&amp;rft_id=http%3A%2F%2Fwww.onestowatch.com%2Fblog%2Fnew-artist-discovery-hobo-johnson-is-painting-his&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMacias2017" class="citation news cs1">Macias, Chris (January 27, 2017). <a rel="nofollow" class="external text" href="https://www.sacbee.com/entertainment/music-news-reviews/article128956859.html">"Hobo Johnson finds his home in hip-hop"</a>. <i>The Sacramento Bee</i>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0890-5738">0890-5738</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 10,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Sacramento+Bee&amp;rft.atitle=Hobo+Johnson+finds+his+home+in+hip-hop&amp;rft.date=2017-01-27&amp;rft.issn=0890-5738&amp;rft.aulast=Macias&amp;rft.aufirst=Chris&amp;rft_id=https%3A%2F%2Fwww.sacbee.com%2Fentertainment%2Fmusic-news-reviews%2Farticle128956859.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFArmijo2018" class="citation news cs1">Armijo, Devon (June 21, 2018). <a rel="nofollow" class="external text" href="https://www.kcra.com/article/sacramento-rapper-writes-kings-fan-anthem-were-not-that-bad/21750147">"Sacramento rapper writes Kings fan anthem 'We're not that bad'<span class="cs1-kern-right"></span>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sacramento+rapper+writes+Kings+fan+anthem+%27We%27re+not+that+bad%27&amp;rft.date=2018-06-21&amp;rft.aulast=Armijo&amp;rft.aufirst=Devon&amp;rft_id=https%3A%2F%2Fwww.kcra.com%2Farticle%2Fsacramento-rapper-writes-kings-fan-anthem-were-not-that-bad%2F21750147&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.cbsnews.com/sacramento/news/sacramento-kings-athem-song/">"<span class="cs1-kern-left"></span>'We're Not That Bad': New Song An Anthem For Long-Suffering Sacramento Kings Fans"</a>. June 21, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%27We%27re+Not+That+Bad%27%3A+New+Song+An+Anthem+For+Long-Suffering+Sacramento+Kings+Fans&amp;rft.date=2018-06-21&amp;rft_id=https%3A%2F%2Fwww.cbsnews.com%2Fsacramento%2Fnews%2Fsacramento-kings-athem-song%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCarnes2016" class="citation news cs1">Carnes, Aaron (October 6, 2016). <a rel="nofollow" class="external text" href="https://www.newsreview.com/sacramento/hobo-johnsons-new-kind-of/content?oid=22384916">"Hobo Johnson's new kind of swagger"</a>. <i>Sacramento News &amp; Review</i>. Sacramento, CA<span class="reference-accessdate">. Retrieved <span class="nowrap">October 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sacramento+News+%26+Review&amp;rft.atitle=Hobo+Johnson%27s+new+kind+of+swagger&amp;rft.date=2016-10-06&amp;rft.aulast=Carnes&amp;rft.aufirst=Aaron&amp;rft_id=https%3A%2F%2Fwww.newsreview.com%2Fsacramento%2Fhobo-johnsons-new-kind-of%2Fcontent%3Foid%3D22384916&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLopes2018" class="citation interview cs1">Lopes, Frank (April 12, 2018). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=dkskhRF-iUc">"Who the heck is Hobo Johnson?"</a> (Interview). Interviewed by <a href="/wiki/Anthony_Fantano" title="Anthony Fantano">Fantano, Anthony</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 14,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Who+the+heck+is+Hobo+Johnson%3F&amp;rft.date=2018-04-12&amp;rft.aulast=Lopes&amp;rft.aufirst=Frank&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdkskhRF-iUc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLopes" class="citation interview cs1">Lopes, Frank. <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=d0tXKWSvSf">"Fame By The Flame - Hobo Johnson"</a> (Interview).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fame+By+The+Flame+-+Hobo+Johnson&amp;rft.aulast=Lopes&amp;rft.aufirst=Frank&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dd0tXKWSvSf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-sacbee_article212117874-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-sacbee_article212117874_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sacbee_article212117874_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMcGough2018" class="citation news cs1">McGough, Michael (May 29, 2018). <a rel="nofollow" class="external text" href="https://www.sacbee.com/news/local/article212117874.html">"Hobo Johnson apologizes after Black Lives Matter calls him cultural appropriator"</a>. <i>The Sacramento Bee</i>. Sacramento, CA<span class="reference-accessdate">. Retrieved <span class="nowrap">October 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Sacramento+Bee&amp;rft.atitle=Hobo+Johnson+apologizes+after+Black+Lives+Matter+calls+him+cultural+appropriator&amp;rft.date=2018-05-29&amp;rft.aulast=McGough&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fwww.sacbee.com%2Fnews%2Flocal%2Farticle212117874.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHarris2018" class="citation web cs1">Harris, Noel (March 13, 2018). <a rel="nofollow" class="external text" href="http://www.sacbee.com/entertainment/music-news-reviews/article204999764.html">"How a Sacramento 'Hobo' racked up millions of views with his music video"</a>. Sacramento Bee.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+a+Sacramento+%27Hobo%27+racked+up+millions+of+views+with+his+music+video&amp;rft.pub=Sacramento+Bee&amp;rft.date=2018-03-13&amp;rft.aulast=Harris&amp;rft.aufirst=Noel&amp;rft_id=http%3A%2F%2Fwww.sacbee.com%2Fentertainment%2Fmusic-news-reviews%2Farticle204999764.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180320092415/http://perezhilton.com/2018-03-20-hobo-johnson-and-the-lovemakers-viral-peach-scone-song-music-video">"Hipster Rapper Hobo Johnson Is Going Viral — &amp; It's All Thanks To THIS Music Video!"</a>. March 20, 2018. Archived from <a rel="nofollow" class="external text" href="http://perezhilton.com/2018-03-20-hobo-johnson-and-the-lovemakers-viral-peach-scone-song-music-video">the original</a> on March 20, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">April 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hipster+Rapper+Hobo+Johnson+Is+Going+Viral+%E2%80%94+%26+It%27s+All+Thanks+To+THIS+Music+Video%21&amp;rft.date=2018-03-20&amp;rft_id=http%3A%2F%2Fperezhilton.com%2F2018-03-20-hobo-johnson-and-the-lovemakers-viral-peach-scone-song-music-video&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGardner" class="citation web cs1">Gardner, Kacey. <a rel="nofollow" class="external text" href="http://www.capradio.org/articles/2018/03/13/sacramento-rapper-hobo-johnsons-npr-tiny-desk-contest-music-video-goes-viral-with-26-million-views-and-counting/">"Sacramento Rapper Hobo Johnson's Tiny Desk Contest Entry Goes Viral"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sacramento+Rapper+Hobo+Johnson%27s+Tiny+Desk+Contest+Entry+Goes+Viral&amp;rft.aulast=Gardner&amp;rft.aufirst=Kacey&amp;rft_id=http%3A%2F%2Fwww.capradio.org%2Farticles%2F2018%2F03%2F13%2Fsacramento-rapper-hobo-johnsons-npr-tiny-desk-contest-music-video-goes-viral-with-26-million-views-and-counting%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Heat-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Heat_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Heat_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/charts/heatseekers-albums/2018-03-31">"Heatseekers Albums: Up and Coming Musicians Chart"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Heatseekers+Albums%3A+Up+and+Coming+Musicians+Chart&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fcharts%2Fheatseekers-albums%2F2018-03-31&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBealum2018" class="citation news cs1">Bealum, Ngaio (May 24, 2018). <a rel="nofollow" class="external text" href="https://www.newsreview.com/sacramento/about-that-hobo-johnson-protest/content?oid=26314519">"About that Hobo Johnson protest"</a>. <i>Sacramento News &amp; Review</i>. Sacramento, CA<span class="reference-accessdate">. Retrieved <span class="nowrap">October 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sacramento+News+%26+Review&amp;rft.atitle=About+that+Hobo+Johnson+protest&amp;rft.date=2018-05-24&amp;rft.aulast=Bealum&amp;rft.aufirst=Ngaio&amp;rft_id=https%3A%2F%2Fwww.newsreview.com%2Fsacramento%2Fabout-that-hobo-johnson-protest%2Fcontent%3Foid%3D26314519&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMiller2018" class="citation news cs1">Miller, Nick (September 12, 2018). <a rel="nofollow" class="external text" href="http://www.capradio.org/articles/2018/09/12/watch-sacramentos-hobo-johnson-on-nprs-tiny-desk-concert-spoiler-theres-scones/">"Watch Sacramento's Hobo Johnson On NPR's 'Tiny Desk Concert' (Spoiler: There's Scones)"</a>. <i>Capital Public Radio</i>. Sacramento, CA<span class="reference-accessdate">. Retrieved <span class="nowrap">October 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Capital+Public+Radio&amp;rft.atitle=Watch+Sacramento%27s+Hobo+Johnson+On+NPR%27s+%27Tiny+Desk+Concert%27+%28Spoiler%3A+There%27s+Scones%29&amp;rft.date=2018-09-12&amp;rft.aulast=Miller&amp;rft.aufirst=Nick&amp;rft_id=http%3A%2F%2Fwww.capradio.org%2Farticles%2F2018%2F09%2F12%2Fwatch-sacramentos-hobo-johnson-on-nprs-tiny-desk-concert-spoiler-theres-scones%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMiller2018" class="citation news cs1">Miller, Nick (September 12, 2018). <a rel="nofollow" class="external text" href="http://www.capradio.org/articles/2018/09/12/watch-sacramentos-hobo-johnson-on-nprs-tiny-desk-concert-spoiler-theres-scones/">"Watch Sacramento's Hobo Johnson On NPR's 'Tiny Desk Concert' (Spoiler: There's Scones)"</a>. <i>Capital Public Radio</i>. Sacramento, CA<span class="reference-accessdate">. Retrieved <span class="nowrap">October 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Capital+Public+Radio&amp;rft.atitle=Watch+Sacramento%27s+Hobo+Johnson+On+NPR%27s+%27Tiny+Desk+Concert%27+%28Spoiler%3A+There%27s+Scones%29&amp;rft.date=2018-09-12&amp;rft.aulast=Miller&amp;rft.aufirst=Nick&amp;rft_id=http%3A%2F%2Fwww.capradio.org%2Farticles%2F2018%2F09%2F12%2Fwatch-sacramentos-hobo-johnson-on-nprs-tiny-desk-concert-spoiler-theres-scones%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.coolaccidents.com/news/hobo-johnson-uglykid">"Hobo Johnson Goes Jazzy On New Single 'UglyKid' From His Next Album"</a>. <i>CoolAccidents.com</i>. Cool Accidents. July 24, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">July 30,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CoolAccidents.com&amp;rft.atitle=Hobo+Johnson+Goes+Jazzy+On+New+Single+%27UglyKid%27+From+His+Next+Album&amp;rft.date=2019-07-24&amp;rft_id=https%3A%2F%2Fwww.coolaccidents.com%2Fnews%2Fhobo-johnson-uglykid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMazique" class="citation news cs1">Mazique, Brian. <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/brianmazique/2020/07/20/nhl-21-release-info-ps5-and-xbox-series-x-details-revealed/">"NHL 21 Release Info, PS5, And Xbox Series X Details Revealed"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2023</span>. <q>NHL 20 was released on PlayStation 4 and Xbox One on September 13, 2019.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=NHL+21+Release+Info%2C+PS5%2C+And+Xbox+Series+X+Details+Revealed&amp;rft.aulast=Mazique&amp;rft.aufirst=Brian&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbrianmazique%2F2020%2F07%2F20%2Fnhl-21-release-info-ps5-and-xbox-series-x-details-revealed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/playlist/nhl-20-soundtrack/pl.86ab9b11317d4d5084db906f457d6170">"NHL 20 Soundtrack by EA Music"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=NHL+20+Soundtrack+by+EA+Music&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Fplaylist%2Fnhl-20-soundtrack%2Fpl.86ab9b11317d4d5084db906f457d6170&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKrol2021" class="citation news cs1">Krol, Charlotte (June 2, 2021). <a rel="nofollow" class="external text" href="https://www.nme.com/news/music/hobo-johnson-returns-with-new-single-i-want-to-see-the-world-2954265">"Hobo Johnson returns with new single 'I Want To See The World'<span class="cs1-kern-right"></span>"</a>. <i>NME</i>. London, UK<span class="reference-accessdate">. Retrieved <span class="nowrap">June 2,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NME&amp;rft.atitle=Hobo+Johnson+returns+with+new+single+%27I+Want+To+See+The+World%27&amp;rft.date=2021-06-02&amp;rft.aulast=Krol&amp;rft.aufirst=Charlotte&amp;rft_id=https%3A%2F%2Fwww.nme.com%2Fnews%2Fmusic%2Fhobo-johnson-returns-with-new-single-i-want-to-see-the-world-2954265&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://flaunt.com/content/hobo-johnson">"Hobo Johnson | 'The Revenge Of Hobo Johnson'<span class="cs1-kern-right"></span>"</a>. <i>Flaunt Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 1,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Flaunt+Magazine&amp;rft.atitle=Hobo+Johnson+%7C+%27The+Revenge+Of+Hobo+Johnson%27&amp;rft_id=https%3A%2F%2Fflaunt.com%2Fcontent%2Fhobo-johnson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Iowa-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Iowa_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Iowa_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAugustine" class="citation web cs1">Augustine, Olivia. <a rel="nofollow" class="external text" href="https://dailyiowan.com/2021/10/15/hobo-johnson-and-the-lovemakers-take-the-iowa-city-bar-gabes/">"Hobo Johnson &amp; The LoveMakers take on the Iowa City bar scene"</a>. <i>The Daily Iowan</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 3,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Daily+Iowan&amp;rft.atitle=Hobo+Johnson+%26+The+LoveMakers+take+on+the+Iowa+City+bar+scene&amp;rft.aulast=Augustine&amp;rft.aufirst=Olivia&amp;rft_id=https%3A%2F%2Fdailyiowan.com%2F2021%2F10%2F15%2Fhobo-johnson-and-the-lovemakers-take-the-iowa-city-bar-gabes%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.instagram.com/p/CcoTcHONdZh/">"Hobo Johnson Fanpage on Instagram: "From Reddit 👩‍💻 -SWIPE- Hobo Johnson canceled his Europe tour to focus on school &amp; he doesn't like touring 🚌 He is wearing a University of Texas hoodie 📚 He still has his Subaru Crosstrek 🚗 | | #hobojohnson #lovemakers #peachscone #hoboherd"<span class="cs1-kern-right"></span>"</a>. <i>www.instagram.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.instagram.com&amp;rft.atitle=Hobo+Johnson+Fanpage+on+Instagram%3A+%22From+Reddit+%F0%9F%91%A9%F0%9F%92%BB+-SWIPE-+Hobo+Johnson+canceled+his+Europe+tour+to+focus+on+school+%26+he+doesn%27t+like+touring+%F0%9F%9A%8C+He+is+wearing+a+University+of+Texas+hoodie+%F0%9F%93%9A+He+still+has+his+Subaru+Crosstrek+%F0%9F%9A%97+%7C+%7C+%23hobojohnson+%23lovemakers+%23peachscone+%23hoboherd%22&amp;rft_id=https%3A%2F%2Fwww.instagram.com%2Fp%2FCcoTcHONdZh%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.instagram.com/p/CesyuUVtoYs/">"Hobo Johnson Fanpage on Instagram: "So Hobo Johnson and the Lovemakers are broken up. They took it out of their bios a while ago so it isn't surprising. I wonder what will happen now, is this the end of Hobo Johnson? Frank once said in an interview with MTV that he wanted to make The Rise, The Fall, The Revenge and The Death. If you count Alienates as the Death, this might be the end. His mom said he is working on new music though, so 🤷🏼‍♀️"<span class="cs1-kern-right"></span>"</a>. <i>www.instagram.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.instagram.com&amp;rft.atitle=Hobo+Johnson+Fanpage+on+Instagram%3A+%22So+Hobo+Johnson+and+the+Lovemakers+are+broken+up.+They+took+it+out+of+their+bios+a+while+ago+so+it+isn%27t+surprising.+I+wonder+what+will+happen+now%2C+is+this+the+end+of+Hobo+Johnson%3F+Frank+once+said+in+an+interview+with+MTV+that+he+wanted+to+make+The+Rise%2C+The+Fall%2C+The+Revenge+and+The+Death.+If+you+count+Alienates+as+the+Death%2C+this+might+be+the+end.+His+mom+said+he+is+working+on+new+music+though%2C+so+%F0%9F%A4%B7%F0%9F%8F%BC%E2%99%80%EF%B8%8F%22&amp;rft_id=https%3A%2F%2Fwww.instagram.com%2Fp%2FCesyuUVtoYs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFinch" class="citation web cs1">Finch, Ruth. <a rel="nofollow" class="external text" href="https://statehornet.com/2023/02/hobo-johnson-at-harlows/">"Artist spotlight: Hobo Johnson's getting his groove back"</a>. <i>The State Hornet</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 3,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+State+Hornet&amp;rft.atitle=Artist+spotlight%3A+Hobo+Johnson%27s+getting+his+groove+back&amp;rft.aulast=Finch&amp;rft.aufirst=Ruth&amp;rft_id=https%3A%2F%2Fstatehornet.com%2F2023%2F02%2Fhobo-johnson-at-harlows%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWEIDENBAUM2019" class="citation magazine cs1">WEIDENBAUM, MARC (June–July 2019). <a rel="nofollow" class="external text" href="http://www.sactownmag.com/June-July-2019/The-Fall-and-Rise-of-Hobo-Johnson/">"The Fall &amp; Rise of Hobo Johnson"</a>. <i>SacTown Magazine</i>. Sacramento, CA: Metropolis Publishing<span class="reference-accessdate">. Retrieved <span class="nowrap">July 29,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SacTown+Magazine&amp;rft.atitle=The+Fall+%26+Rise+of+Hobo+Johnson&amp;rft.date=2019-06%2F2019-07&amp;rft.aulast=WEIDENBAUM&amp;rft.aufirst=MARC&amp;rft_id=http%3A%2F%2Fwww.sactownmag.com%2FJune-July-2019%2FThe-Fall-and-Rise-of-Hobo-Johnson%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREF@billboardcharts2019" class="citation web cs1">@billboardcharts (September 23, 2019). <a rel="nofollow" class="external text" href="https://twitter.com/billboardcharts/status/1176224205496602629">"Debuts on this week's #Billboard200 (2/2)"</a> (Tweet)<span class="reference-accessdate">. Retrieved <span class="nowrap">September 24,</span> 2019</span> &#8211; via <a href="/wiki/Twitter" title="Twitter">Twitter</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Debuts+on+this+week%27s+%23Billboard200+%282%2F2%29&amp;rft.date=2019-09-23&amp;rft.au=%40billboardcharts&amp;rft_id=https%3A%2F%2Ftwitter.com%2Fbillboardcharts%2Fstatus%2F1176224205496602629&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialcharts.com/artist/56302/hobo-johnson/">"Hobo Johnson | full Official Chart history"</a>. <a href="/wiki/Official_Charts_Company" title="Official Charts Company">Official Charts Company</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 21,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hobo+Johnson+%7C+full+Official+Chart+history&amp;rft.pub=Official+Charts+Company&amp;rft_id=https%3A%2F%2Fwww.officialcharts.com%2Fartist%2F56302%2Fhobo-johnson%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.instagram.com/p/COWdK2WjlRQ/">"Instagram"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Instagram&amp;rft_id=https%3A%2F%2Fwww.instagram.com%2Fp%2FCOWdK2WjlRQ%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/charts/alternative-airplay/2019-09-14">"Alternative Airplay: September 14, 2019"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 20,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Alternative+Airplay%3A+September+14%2C+2019&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fcharts%2Falternative-airplay%2F2019-09-14&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/charts/rock-songs/2019-07-06">"Hot Rock Songs - Week of July 6, 2019"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 2,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Hot+Rock+Songs+-+Week+of+July+6%2C+2019&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fcharts%2Frock-songs%2F2019-07-06&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.coolaccidents.com/news/hobo-johnson-uglykid">"Hobo Johnson Goes Jazzy On New Single 'UglyKid' From His Next Album"</a>. <i>Cool Accidents Music Blog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 6,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cool+Accidents+Music+Blog&amp;rft.atitle=Hobo+Johnson+Goes+Jazzy+On+New+Single+%27UglyKid%27+From+His+Next+Album&amp;rft_id=https%3A%2F%2Fwww.coolaccidents.com%2Fnews%2Fhobo-johnson-uglykid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/articles/business/branding/8529925/hobo-johnson-subaru-song-interview">"Why Hobo Johnson Didn't Try to Cash In on His 'Subaru Crosstrek' Song, Even Though It's 'Kind of Already an Ad'<span class="cs1-kern-right"></span>"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 6,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Why+Hobo+Johnson+Didn%27t+Try+to+Cash+In+on+His+%27Subaru+Crosstrek%27+Song%2C+Even+Though+It%27s+%27Kind+of+Already+an+Ad%27&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fbusiness%2Fbranding%2F8529925%2Fhobo-johnson-subaru-song-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.deadpress.co.uk/news-hobo-johnson-drops-new-song-i-want-you-back/">"NEWS: Hobo Johnson drops new song, 'I Want You Back'!"</a>. <i>DEAD PRESS! | It's more than "just music" to us</i>. June 10, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">July 6,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DEAD+PRESS%21+%7C+It%27s+more+than+%22just+music%22+to+us&amp;rft.atitle=NEWS%3A+Hobo+Johnson+drops+new+song%2C+%27I+Want+You+Back%27%21&amp;rft.date=2021-06-10&amp;rft_id=https%3A%2F%2Fwww.deadpress.co.uk%2Fnews-hobo-johnson-drops-new-song-i-want-you-back%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://flaunt.com/content/hobo-johnson">"Hobo Johnson | 'The Revenge Of Hobo Johnson'<span class="cs1-kern-right"></span>"</a>. <i>Flaunt Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 6,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Flaunt+Magazine&amp;rft.atitle=Hobo+Johnson+%7C+%27The+Revenge+Of+Hobo+Johnson%27&amp;rft_id=https%3A%2F%2Fflaunt.com%2Fcontent%2Fhobo-johnson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHobo+Johnson" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hobo_Johnson&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.hobojohnson.com/">Official website</a></span></span></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q51077506#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q51077506#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q51077506#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000469865555">ISNI</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/a46ed0f8-b68e-4f78-8d90-92f852607d89">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hobo_Johnson&amp;oldid=1175285363">https://en.wikipedia.org/w/index.php?title=Hobo_Johnson&amp;oldid=1175285363</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rappers_from_Sacramento,_California" title="Category:Rappers from Sacramento, California">Rappers from Sacramento, California</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_rappers_of_Mexican_descent" title="Category:American rappers of Mexican descent">American rappers of Mexican descent</a></li><li><a href="/wiki/Category:American_musicians_of_Portuguese_descent" title="Category:American musicians of Portuguese descent">American musicians of Portuguese descent</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:1994_births" title="Category:1994 births">1994 births</a></li><li><a href="/wiki/Category:Reprise_Records_artists" title="Category:Reprise Records artists">Reprise Records artists</a></li><li><a href="/wiki/Category:Warner_Records_artists" title="Category:Warner Records artists">Warner Records artists</a></li><li><a href="/wiki/Category:People_from_Loomis,_California" title="Category:People from Loomis, California">People from Loomis, California</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_pending_changes_protected_pages" title="Category:Wikipedia pending changes protected pages">Wikipedia pending changes protected pages</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2018" title="Category:Use mdy dates from April 2018">Use mdy dates from April 2018</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_March_2023" title="Category:Articles lacking reliable references from March 2023">Articles lacking reliable references from March 2023</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 14 September 2023, at 00:30<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hobo_Johnson&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2392","wgBackendResponseTime":129,"wgPageParseReport":{"limitreport":{"cputime":"0.496","walltime":"0.642","ppvisitednodes":{"value":2991,"limit":1000000},"postexpandincludesize":{"value":82490,"limit":2097152},"templateargumentsize":{"value":3036,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":116681,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  586.239      1 -total"," 41.41%  242.744      1 Template:Reflist"," 21.03%  123.284     18 Template:Cite_web"," 17.79%  104.296      1 Template:Infobox_musical_artist"," 16.43%   96.314      2 Template:Infobox","  9.60%   56.272     11 Template:Cite_news","  8.58%   50.313      2 Template:Short_description","  7.35%   43.066      1 Template:Authority_control","  5.42%   31.793      2 Template:Br_separated_entries","  5.25%   30.756      1 Template:Further_information"]},"scribunto":{"limitreport-timeusage":{"value":"0.311","limit":"10.000"},"limitreport-memusage":{"value":9809954,"limit":52428800}},"cachereport":{"origin":"mw2433","timestamp":"20230920020948","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hobo Johnson","url":"https:\/\/en.wikipedia.org\/wiki\/Hobo_Johnson","sameAs":"http:\/\/www.wikidata.org\/entity\/Q51077506","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q51077506","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2018-04-05T16:10:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c5\/Hobo_Johnson_%2845668161975%29.jpg","headline":"American hip hop artist"}</script>
+</body>
+</html>

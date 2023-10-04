@@ -1,0 +1,1405 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Alex Skolnick - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"c856baef-90b5-4368-bb7a-5dc9d84cbda4","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alex_Skolnick","wgTitle":"Alex Skolnick","wgCurRevisionId":1173586387,"wgRevisionId":1173586387,"wgArticleId":1628509,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","Use mdy dates from June 2015","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from June 2017","Commons category link from Wikidata","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with BIBSYS identifiers","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with LCCN identifiers","Articles with NKC identifiers",
+"Articles with MusicBrainz identifiers","Articles with SUDOC identifiers","1968 births","20th-century American guitarists","American heavy metal guitarists","American male guitarists","California Democrats","Guitarists from California","Jazz-rock guitarists","Jewish American musicians","Jewish heavy metal musicians","Lead guitarists","Living people","Musicians from Berkeley, California","Palmetto Records artists","Savatage members","Testament (band) members","The Ozzy Osbourne Band members","Trans-Siberian Orchestra members","Magna Carta Records artists","Roadrunner Records artists","Nuclear Blast artists","Metal Allegiance members","West Coast hip hop musicians","ArtistShare artists","Thrash metal musicians"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Alex_Skolnick","wgRelevantArticleId":1628509,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],
+"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q443818","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={
+"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin",
+"mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg/1200px-2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1803">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg/800px-2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1202">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg/640px-2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="962">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Alex Skolnick - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Alex_Skolnick">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alex_Skolnick&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alex_Skolnick">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Alex_Skolnick rootpage-Alex_Skolnick skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alex+Skolnick" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alex+Skolnick" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alex+Skolnick" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alex+Skolnick" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Biography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Biography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Biography</div>
+		</a>
+		
+			<button aria-controls="toc-Biography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Biography subsection</span>
+			</button>
+		
+		<ul id="toc-Biography-sublist" class="vector-toc-list">
+			<li id="toc-Early_life"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Early_life">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Early life</div>
+			</a>
+			
+			<ul id="toc-Early_life-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Career_in_music"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Career_in_music">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>Career in music</div>
+			</a>
+			
+			<ul id="toc-Career_in_music-sublist" class="vector-toc-list">
+				<li id="toc-Testament"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Testament">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2.1</span>Testament</div>
+			</a>
+			
+			<ul id="toc-Testament-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Work_outside_of_Testament"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Work_outside_of_Testament">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2.2</span>Work outside of Testament</div>
+			</a>
+			
+			<ul id="toc-Work_outside_of_Testament-sublist" class="vector-toc-list">
+				<li id="toc-World_music_coalition"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#World_music_coalition">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2.2.1</span>World music coalition</div>
+			</a>
+			
+			<ul id="toc-World_music_coalition-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Career_in_art_and_literature"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Career_in_art_and_literature">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>Career in art and literature</div>
+			</a>
+			
+			<ul id="toc-Career_in_art_and_literature-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Equipment"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Equipment">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Equipment</div>
+		</a>
+		
+		<ul id="toc-Equipment-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Influences"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Influences">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Influences</div>
+		</a>
+		
+		<ul id="toc-Influences-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Alex Skolnick</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 18 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-18" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">18 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81_%D0%A1%D0%BA%D0%BE%D0%BB%D0%BD%D0%B8%D0%BA" title="Алекс Сколник – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%86%CE%BB%CE%B5%CE%BE_%CE%A3%CE%BA%CF%8C%CE%BB%CE%BD%CE%B9%CE%BA" title="Άλεξ Σκόλνικ – Greek" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%83%D8%B3_%D8%B3%D9%83%D9%88%D9%84%D9%86%D9%8A%D9%83" title="اليكس سكولنيك – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%B9%E3%82%B3%E3%83%AB%E3%83%8B%E3%83%83%E3%82%AF" title="アレックス・スコルニック – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D0%BD%D0%B8%D0%BA,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81" title="Сколник, Алекс – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Alex_Skolnick" title="Alex Skolnick – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q443818#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Alex_Skolnick" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Alex_Skolnick" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Alex_Skolnick"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Alex_Skolnick&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Alex_Skolnick"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Alex_Skolnick&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Alex_Skolnick" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Alex_Skolnick" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Alex_Skolnick&amp;oldid=1173586387" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Alex_Skolnick&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alex_Skolnick&amp;id=1173586387&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q443818" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Alex_Skolnick&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Alex_Skolnick&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Alex_Skolnick" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American guitarist (born 1968)</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Alex Skolnick</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg" class="mw-file-description" title="Skolnick performing with Testament in 2017"><img alt="Skolnick performing with Testament in 2017" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg/220px-2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg" decoding="async" width="220" height="331" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg/330px-2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg/440px-2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg 2x" data-file-width="1363" data-file-height="2048" /></a></span><div class="infobox-caption">Skolnick performing with Testament in 2017</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span class="nowrap"><span style="display:none"> (<span class="bday">1968-09-29</span>) </span>September 29, 1968<span class="noprint ForceAgeToShow"> (age&#160;54)</span></span><br /><a href="/wiki/Berkeley,_California" title="Berkeley, California">Berkeley, California</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li><a href="/wiki/Thrash_metal" title="Thrash metal">Thrash metal</a><sup id="cite_ref-Blabbermouth_1-0" class="reference"><a href="#cite_note-Blabbermouth-1">&#91;1&#93;</a></sup></li>
+<li><a href="/wiki/Jazz_fusion#Jazz_rock" title="Jazz fusion">jazz rock</a><sup id="cite_ref-Blabbermouth_1-1" class="reference"><a href="#cite_note-Blabbermouth-1">&#91;1&#93;</a></sup></li>
+<li><a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a><sup id="cite_ref-Blabbermouth_1-2" class="reference"><a href="#cite_note-Blabbermouth-1">&#91;1&#93;</a></sup></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role">Guitarist</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1983–present</td></tr><tr><th scope="row" class="infobox-label">Member of</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a></li>
+<li>Alex Skolnick Trio</li>
+<li><a href="/wiki/Metal_Allegiance" title="Metal Allegiance">Metal Allegiance</a></li>
+<li>Hu$h Money<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Formerly of</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li>Legacy</li>
+<li><a href="/wiki/Trans-Siberian_Orchestra" title="Trans-Siberian Orchestra">Trans-Siberian Orchestra</a></li>
+<li><a href="/wiki/Savatage" title="Savatage">Savatage</a></li>
+<li>Attention Deficit</li></ul>
+</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://alexskolnick.com">alexskolnick<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Alex Skolnick</b> (born September 29, 1968) is an American musician. He is best known as the lead guitarist and one of the songwriters of the <a href="/wiki/Thrash_metal" title="Thrash metal">thrash metal</a> band <a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a> and has played with several other bands, including The Alex Skolnick Trio, <a href="/wiki/Trans-Siberian_Orchestra" title="Trans-Siberian Orchestra">Trans-Siberian Orchestra</a>, <a href="/wiki/Savatage" title="Savatage">Savatage</a> and the <a href="/wiki/Heavy_metal_music" title="Heavy metal music">heavy metal</a> supergroup <a href="/wiki/Metal_Allegiance" title="Metal Allegiance">Metal Allegiance</a>.
+</p><p>Skolnick began his musical career at the age of 15 when he joined the local <a href="/wiki/Bay_Area_thrash_metal" title="Bay Area thrash metal">Bay Area thrash metal</a> band Legacy, which eventually became Testament, and performed on five albums with them, between <i><a href="/wiki/The_Legacy_(album)" title="The Legacy (album)">The Legacy</a></i> (1987) and <i><a href="/wiki/The_Ritual_(Testament_album)" title="The Ritual (Testament album)">The Ritual</a></i> (1992). By the time he left Testament in 1992, Skolnick had found considerable fame among the thrash metal and guitar communities; <i><a href="/wiki/Guitar_World" title="Guitar World">Guitar World</a></i> magazine named him one of the greatest guitarists of all time,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and as one of the "fastest guitarists of all time".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>After his first departure from Testament, Skolnick went on to pursue various musical careers, including briefly replacing <a href="/wiki/Criss_Oliva" title="Criss Oliva">Criss Oliva</a> in Savatage for their album <i><a href="/wiki/Handful_of_Rain" title="Handful of Rain">Handful of Rain</a></i> (1994), and starting his <a href="/wiki/Jazz_fusion" title="Jazz fusion">jazz</a> band The Alex Skolnick Trio in the early 2000s, which remains active as of 2021. He briefly reunited with Testament in 2001 for the re-recordings of their early songs on the album <i><a href="/wiki/First_Strike_Still_Deadly" title="First Strike Still Deadly">First Strike Still Deadly</a></i>, and then returned to the band on a permanent basis in 2005, contributing to four more albums.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=2" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Skolnick was born and raised in <a href="/wiki/Berkeley,_California" title="Berkeley, California">Berkeley, California</a>, in a non-traditional Jewish family.<sup id="cite_ref-went_5-0" class="reference"><a href="#cite_note-went-5">&#91;5&#93;</a></sup> His parents, <a href="/wiki/Jerome_Herbert_Skolnick" class="mw-redirect" title="Jerome Herbert Skolnick">Jerome Skolnick</a> and Arlene, both <a href="/wiki/PhD" class="mw-redirect" title="PhD">PhD</a> graduates from <a href="/wiki/Yale_University" title="Yale University">Yale University</a>, taught sociology at <a href="/wiki/New_York_University" title="New York University">New York University</a> and <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a>.
+</p><p>Skolnick began playing guitar at age nine. He was influenced by <a href="/wiki/Eddie_Van_Halen" title="Eddie Van Halen">Eddie Van Halen</a>, <a href="/wiki/Jeff_Beck" title="Jeff Beck">Jeff Beck</a>, <a href="/wiki/Jimi_Hendrix" title="Jimi Hendrix">Jimi Hendrix</a>, <a href="/wiki/Eric_Clapton" title="Eric Clapton">Eric Clapton</a>, <a href="/wiki/Johnny_Winter" title="Johnny Winter">Johnny Winter</a>, <a href="/wiki/Randy_Rhoads" title="Randy Rhoads">Randy Rhoads</a>, <a href="/wiki/Michael_Schenker" title="Michael Schenker">Michael Schenker</a>, <a href="/wiki/Yngwie_Malmsteen" title="Yngwie Malmsteen">Yngwie Malmsteen</a>, <a href="/wiki/Kiss_(band)" title="Kiss (band)">Kiss</a>, and <a href="/wiki/Scorpions_(band)" title="Scorpions (band)">Scorpions</a>.<sup id="cite_ref-Metal_6-0" class="reference"><a href="#cite_note-Metal-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> He was a student of guitarist <a href="/wiki/Joe_Satriani" title="Joe Satriani">Joe Satriani</a>.<sup id="cite_ref-Bosso_8-0" class="reference"><a href="#cite_note-Bosso-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Career_in_music">Career in music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=3" title="Edit section: Career in music">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Testament">Testament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=4" title="Edit section: Testament">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Skolnick joined the <a href="/wiki/Bay_Area_thrash_metal" title="Bay Area thrash metal">San Francisco Bay Area thrash metal</a> band <a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>, then-called Legacy, in 1984 as the replacement of original guitarist Derrick Ramirez. Skolnick was just eighteen years old when he recorded his debut album with Testament, <i><a href="/wiki/The_Legacy_(album)" title="The Legacy (album)">The Legacy</a></i> (1987), which received critical acclaim from both music critics and fans alike. The band's next four albums, <i><a href="/wiki/The_New_Order_(album)" title="The New Order (album)">The New Order</a></i> (1988), <i><a href="/wiki/Practice_What_You_Preach" title="Practice What You Preach">Practice What You Preach</a></i> (1989), <i><a href="/wiki/Souls_of_Black" title="Souls of Black">Souls of Black</a></i> (1990) and <i><a href="/wiki/The_Ritual_(Testament_album)" title="The Ritual (Testament album)">The Ritual</a></i> (1992), cemented Testament's reputation as one of the premier bands of the thrash metal genre and nearly gave them the same level of popularity as the "Big Four" (<a href="/wiki/Metallica" title="Metallica">Metallica</a>, <a href="/wiki/Megadeth" title="Megadeth">Megadeth</a>, <a href="/wiki/Slayer" title="Slayer">Slayer</a> and <a href="/wiki/Anthrax_(American_band)" title="Anthrax (American band)">Anthrax</a>).<sup id="cite_ref-Billboard.com_9-0" class="reference"><a href="#cite_note-Billboard.com-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> In late 1992, several months after the release of <i>The Ritual</i>, Skolnick opted to leave the band, citing his weariness of playing thrash metal music and his desire to explore musically outside of Testament as the reasons behind his departure.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>Skolnick returned briefly to Testament by re-recording old material for their ninth album <i><a href="/wiki/First_Strike_Still_Deadly" title="First Strike Still Deadly">First Strike Still Deadly</a></i>, as well as the Thrash of the Titans performance in 2001. He officially rejoined the band in 2005 for a short European tour with some American dates appended. A CD/DVD release was put together from <a href="/wiki/Live_in_London_(Testament_album)" title="Live in London (Testament album)">the London show</a> of May 8, 2005. On April 29, 2008, Testament released <i><a href="/wiki/The_Formation_of_Damnation" title="The Formation of Damnation">The Formation of Damnation</a></i>, its first studio album with original material in nine years and with Skolnick in sixteen years. Their next album, <i><a href="/wiki/Dark_Roots_of_Earth" title="Dark Roots of Earth">Dark Roots of Earth</a></i> (2012), debuted at No. 12 on the <i>Billboard</i> Top 200 Albums chart, at No.1 on the <i>Billboard</i> Hard Rock and Rock albums chart, and No. 9 on the World Chart.<sup id="cite_ref-Billboard.com_9-1" class="reference"><a href="#cite_note-Billboard.com-9">&#91;9&#93;</a></sup> Skolnick has since recorded two more albums with Testament, <i><a href="/wiki/Brotherhood_of_the_Snake" title="Brotherhood of the Snake">Brotherhood of the Snake</a></i> (2016) and <i><a href="/wiki/Titans_of_Creation" title="Titans of Creation">Titans of Creation</a></i> (2020).
+</p>
+<h4><span class="mw-headline" id="Work_outside_of_Testament">Work outside of Testament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=5" title="Edit section: Work outside of Testament">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>After his first departure from Testament, Skolnick joined the band <a href="/wiki/Savatage" title="Savatage">Savatage</a> in 1994 for the recording of <i><a href="/wiki/Handful_of_Rain" title="Handful of Rain">Handful of Rain</a></i>, as well as its follow-up live album and home video release <i><a href="/wiki/Japan_Live_%2794" title="Japan Live &#39;94">Japan Live '94</a></i>. In 1991 he recorded and toured with the <a href="/wiki/Stuart_Hamm" title="Stuart Hamm">Stuart Hamm</a> band. He also played guitar for <a href="/wiki/Ozzy_Osbourne" title="Ozzy Osbourne">Ozzy Osbourne</a> in 1995.<sup id="cite_ref-ozzy_15-0" class="reference"><a href="#cite_note-ozzy-15">&#91;15&#93;</a></sup> In 2004, he made a guest appearance on <a href="/wiki/Lamb_of_God_(band)" title="Lamb of God (band)">Lamb of God</a>'s <i><a href="/wiki/Ashes_of_the_Wake" title="Ashes of the Wake">Ashes of the Wake</a></i> album, recording a solo for the album's instrumental title track.
+</p><p>During the mid to late 1990s, Skolnick led several projects in the San Francisco Bay Area, including Skol-Patrol, a funk band featuring <a href="/wiki/Michael_Manring" title="Michael Manring">Michael Manring</a> that played themes from police shows. He recorded two albums with Attention Deficit, a trio with Manring and <a href="/wiki/Tim_Alexander" title="Tim Alexander">Tim Alexander</a> of <a href="/wiki/Primus_(band)" title="Primus (band)">Primus</a>. In the late 90s, he collaborated with electric violinist Joe Deninzon (who he met in New York City at the New School) in the band <a href="/wiki/Stratospheerius" title="Stratospheerius">Stratospheerius</a>, recording <i>The Adventures of Stratospheerius</i> album. He also appears on their <i>Live Wires</i> album.<sup id="cite_ref-Romero_16-0" class="reference"><a href="#cite_note-Romero-16">&#91;16&#93;</a></sup>
+</p><p>In 1998, Skolnick moved to New York City and began devoting all of his energy to <a href="/wiki/Jazz" title="Jazz">jazz</a>, enrolling in <a href="/wiki/The_New_School" title="The New School">The New School</a> for Jazz &amp; Contemporary Music and graduating with a degree in jazz performance. Since 2002, he has toured and recorded as the Alex Skolnick Trio, a jazz group known for rousing <a href="/wiki/Bebop" title="Bebop">bebop</a> renditions of <a href="/wiki/Classic_rock" title="Classic rock">classic rock</a> and <a href="/wiki/Heavy_metal_music" title="Heavy metal music">heavy metal</a> tunes. The trio has performed at the <a href="/wiki/Rochester_International_Jazz_Festival" title="Rochester International Jazz Festival">Rochester International Jazz Festival</a>, <a href="/wiki/Musikmesse_Frankfurt" title="Musikmesse Frankfurt">Musikmesse Frankfurt</a>, Germany, the National Center for the Arts, Mexico City, and the <a href="/wiki/Iridium_Jazz_Club" title="Iridium Jazz Club">Iridium Jazz Club</a> in New York City. Skolnick's trio has been praised by <i>Down Beat</i>, <i>Jazziz</i>, and <i>The Village Voice</i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>&#93;</sup> Their album <i>Veritas</i> (<a href="/wiki/Palmetto_Records" title="Palmetto Records">Palmetto</a>) reached No. 7 on the <a href="/wiki/ITunes" title="ITunes">iTunes</a> jazz chart.
+</p><p>Skolnick released a DVD Jazz tuition set with Rock House Method in May 2010. He recorded the album <i>What's Next?</i> with pianist Randy Klein in 2012.<sup id="cite_ref-second_17-0" class="reference"><a href="#cite_note-second-17">&#91;17&#93;</a></sup>
+</p>
+<h5><span class="mw-headline" id="World_music_coalition">World music coalition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=6" title="Edit section: World music coalition">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Alex_N_Skolnick.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alex_N_Skolnick.jpg/170px-Alex_N_Skolnick.jpg" decoding="async" width="170" height="213" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alex_N_Skolnick.jpg/255px-Alex_N_Skolnick.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alex_N_Skolnick.jpg/340px-Alex_N_Skolnick.jpg 2x" data-file-width="420" data-file-height="527" /></a><figcaption>Skolnick in 2011</figcaption></figure>
+<p>On June 21, 2012, Summer Solstice Day, Skolnick announced his <a href="/wiki/World_music" title="World music">world music</a> album <i>Planetary Coalition</i> at the annual Make Music New York festival sponsored by <i><a href="/wiki/Guitar_World" title="Guitar World">Guitar World</a></i> magazine.<sup id="cite_ref-Mass_18-0" class="reference"><a href="#cite_note-Mass-18">&#91;18&#93;</a></sup> He said that he intended to have, "musicians from all over the world, driven by acoustic guitar and bringing together inspirational melodies, in-depth improvisation and the passion of the musical styles of Gypsy, Middle Eastern, Indian, Latin, East Asian, Mediterranean, Balkan/Eastern European, African and other indigenous lands – Planetary Coalition has been guided by a single hope: that by weaving the threads that connect musical expressions with regional identities, we can bridge the gap between diverse cultures and people, and increase awareness of the ecological and social issues facing the planet, our island in the sky."<sup id="cite_ref-About_19-0" class="reference"><a href="#cite_note-About-19">&#91;19&#93;</a></sup>
+</p><p><i>Planetary Coalition</i> was released by <a href="/wiki/ArtistShare" title="ArtistShare">ArtistShare</a> on November 11, 2014 to commemorate the centennial of the end of the First World War. The album gathered over twenty musicians from five continents, including Indo-Canadian <a href="/wiki/Ghazal" title="Ghazal">ghazal</a> singer <a href="/wiki/Kiran_Ahluwalia" title="Kiran Ahluwalia">Kiran Ahluwalia</a>, Argentine bassist Pablo Aslan, Chinese <a href="/wiki/Pipa" title="Pipa">pipa</a> player <a href="/wiki/Yihan_Chen" class="mw-redirect" title="Yihan Chen">Yihan Chen</a>, American violinist Rachel Golub, Cuban drummer <a href="/wiki/Horacio_Hern%C3%A1ndez" class="mw-redirect" title="Horacio Hernández">Horacio Hernández</a>, Albanian accordionist Raif Hyseni, Palestinian <a href="/wiki/Oud" title="Oud">oud</a> player <a href="/wiki/Le_Trio_Joubran" title="Le Trio Joubran">Adnan Joubran</a>, Turkish <a href="/wiki/Qanun_(instrument)" title="Qanun (instrument)">kanun</a> player Tamer Pinarbasi, Mexican guitar duo <a href="/wiki/Rodrigo_y_Gabriela" title="Rodrigo y Gabriela">Rodrigo y Gabriela</a>, Israeli percussionist Gadi Seri, and Yacouba Sissoko, a <a href="/wiki/Kora_(instrument)" title="Kora (instrument)">kora</a> player from Mali.
+</p><p>The project endeavored to combine artistic, ecological, political, and social issues, as well as showcase the landscape and architecture of other countries. Maddy Samaddar Johnson, an architect and urban planner, was hired as a consultant.<sup id="cite_ref-Maddy_20-0" class="reference"><a href="#cite_note-Maddy-20">&#91;20&#93;</a></sup><sup id="cite_ref-Profile_21-0" class="reference"><a href="#cite_note-Profile-21">&#91;21&#93;</a></sup><sup id="cite_ref-auto_22-0" class="reference"><a href="#cite_note-auto-22">&#91;22&#93;</a></sup>
+</p><p>Skolnick used a variety of guitars, including steel string, nylon string, acoustic, and electric. All compositions were by Skolnick, except two which were composed by Skolnick-Joubran and Skolnick-Hernandez. The tune from Mali and from China were first-time guitar-kora and guitar-pipa duos of traditional songs from those regions.
+</p><p>The album was praised by many publications, newspapers, and blogs.<sup id="cite_ref-auto_22-1" class="reference"><a href="#cite_note-auto-22">&#91;22&#93;</a></sup><sup id="cite_ref-Harris_23-0" class="reference"><a href="#cite_note-Harris-23">&#91;23&#93;</a></sup><sup id="cite_ref-Talks_24-0" class="reference"><a href="#cite_note-Talks-24">&#91;24&#93;</a></sup><sup id="cite_ref-Global_25-0" class="reference"><a href="#cite_note-Global-25">&#91;25&#93;</a></sup> <i>Guitar World</i> magazine chose <i>Planetary Coalition</i> as one among the top 50 albums of 2014<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> and among the top 10 acoustic guitar albums of the year.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Career_in_art_and_literature">Career in art and literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=7" title="Edit section: Career in art and literature">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Skolnick's memoir, <i>Geek to Guitar Hero</i>, was published in January 2013<sup id="cite_ref-Geek_28-0" class="reference"><a href="#cite_note-Geek-28">&#91;28&#93;</a></sup> and received positive reviews from <a href="/wiki/Anthony_Bozza" title="Anthony Bozza">Anthony Bozza</a>, <a href="/wiki/Bradford_Morrow" title="Bradford Morrow">Bradford Morrow</a>, <a href="/wiki/Ned_Vizzini" title="Ned Vizzini">Ned Vizzini</a>, and <a href="/wiki/Brad_Tolinski" title="Brad Tolinski">Brad Tolinski</a>, editor in chief of <i>Guitar World</i>.<sup id="cite_ref-went_5-1" class="reference"><a href="#cite_note-went-5">&#91;5&#93;</a></sup>
+</p><p>He has been active in blending music with works of art and literature. In 2007, he contributed a solo for Egyptian artist <a href="/wiki/Nader_Sadek" title="Nader Sadek">Nader Sadek</a>'s project, "Faceless". The song was only to be heard in an art gallery in New York. In 2012, he performed live at the Feature Inc Gallery in New York, for a musical interpretation project for the works of visual artist Douglas Melini.<sup id="cite_ref-Melini_29-0" class="reference"><a href="#cite_note-Melini-29">&#91;29&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Equipment">Equipment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=8" title="Edit section: Equipment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Skolnick plays electric <a href="/wiki/ESP_Guitars" title="ESP Guitars">ESP Guitars</a> and <a href="/wiki/Godin_(guitar_manufacturer)" title="Godin (guitar manufacturer)">Godin</a> hollow-bodied models with <a href="/wiki/Seymour_Duncan" title="Seymour Duncan">Seymour Duncan</a> pickups. He formerly played <a href="/wiki/Heritage_Guitars" title="Heritage Guitars">Heritage</a> and <a href="/wiki/Ibanez" title="Ibanez">Ibanez</a> guitars.
+</p><p>In 2009 Heritage released Alex's first signature guitar. His signature is a solid body based upon the H 150/157 model. In his early years with Testament he endorsed Ibanez guitars and mainly played the short lived 540P second generation Power series models, and later the 540SLTD Saber model. Throughout his days with Savatage he used the RV470 Radius model and an LA Custom Shop prototype based on the Ghostrider series. Alex endorsed Charvel guitars and was featured in their ads around 1995. For amplification, he uses <a href="/wiki/Budda_Amplification" title="Budda Amplification">Budda amps</a> and several Marshall amps including the discontinued Marshall Mode Four hybrid amps.
+</p><p>In 2013, Budda released a signature amp for Skolnick, called the Preceptor,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> and later in the same year it was announced that Skolnick was signed to ESP guitars, with an ESP and LTD model in the works for 2014.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Influences">Influences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=9" title="Edit section: Influences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Skolnick's influences include <a href="/wiki/Frank_Zappa" title="Frank Zappa">Frank Zappa</a>.<sup id="cite_ref-Blabbermouth_1-3" class="reference"><a href="#cite_note-Blabbermouth-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=10" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Artist
+</th>
+<th>Album
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>1987
+</td>
+<td><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>
+</td>
+<td><i><a href="/wiki/The_Legacy_(album)" title="The Legacy (album)">The Legacy</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1988
+</td>
+<td><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>
+</td>
+<td><i><a href="/wiki/The_New_Order_(album)" title="The New Order (album)">The New Order</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1989
+</td>
+<td><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>
+</td>
+<td><i><a href="/wiki/Practice_What_You_Preach" title="Practice What You Preach">Practice What You Preach</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1990
+</td>
+<td><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>
+</td>
+<td><i><a href="/wiki/Souls_of_Black" title="Souls of Black">Souls of Black</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1992
+</td>
+<td><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>
+</td>
+<td><i><a href="/wiki/The_Ritual_(Testament_album)" title="The Ritual (Testament album)">The Ritual</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1994
+</td>
+<td><a href="/wiki/Savatage" title="Savatage">Savatage</a>
+</td>
+<td><i><a href="/wiki/Handful_of_Rain" title="Handful of Rain">Handful of Rain</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1994
+</td>
+<td><a href="/wiki/Michael_Manring" title="Michael Manring">Michael Manring</a>
+</td>
+<td><i>Thonk</i>
+</td>
+<td>Guitar on "Disturbed" and "Cruel and Unusual"
+</td></tr>
+<tr>
+<td>1995
+</td>
+<td><a href="/wiki/Savatage" title="Savatage">Savatage</a>
+</td>
+<td><i><a href="/wiki/Japan_Live_%2794" title="Japan Live &#39;94">Japan Live '94</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1997
+</td>
+<td>The Skol-Patrol
+</td>
+<td><i>Skol-Patrol</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1998
+</td>
+<td>Attention Deficit
+</td>
+<td><i>Attention Deficit</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">2001
+</td>
+<td>Attention Deficit
+</td>
+<td><i>The Idiot King</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>
+</td>
+<td><i><a href="/wiki/First_Strike_Still_Deadly" title="First Strike Still Deadly">First Strike Still Deadly</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">2002
+</td>
+<td>Alex Skolnick Trio
+</td>
+<td><i>Goodbye to Romance: Standards for a New Generation</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Stratospheerius" title="Stratospheerius">Stratospheerius</a>
+</td>
+<td><i>Adventures of Stratospheerius</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3">2004
+</td>
+<td>Alex Skolnick Trio
+</td>
+<td>Transformation<i></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lamb_of_God_(band)" title="Lamb of God (band)">Lamb of God</a>
+</td>
+<td><i><a href="/wiki/Ashes_of_the_Wake" title="Ashes of the Wake">Ashes of the Wake</a></i>
+</td>
+<td>Second solo on "Ashes of the Wake"
+</td></tr>
+<tr>
+<td><a href="/wiki/Stratospheerius" title="Stratospheerius">Stratospheerius</a>
+</td>
+<td><i>Live Wires</i>
+</td>
+<td>Guitar on "Contusion" and "Shock Therapy"
+</td></tr>
+<tr>
+<td rowspan="2">2005
+</td>
+<td>Ofri Eliaz
+</td>
+<td><i>Ya salio de la mar – Ladino Songs</i>
+</td>
+<td>Co-production, guitars
+</td></tr>
+<tr>
+<td><a href="/wiki/Numbers_from_the_Beast" class="mw-redirect" title="Numbers from the Beast">Numbers from the Beast</a>
+</td>
+<td><i><a href="/wiki/Numbers_from_the_Beast" class="mw-redirect" title="Numbers from the Beast">An All Star Salute to Iron Maiden</a></i>
+</td>
+<td>Lead guitar on "Wrathchild"
+</td></tr>
+<tr>
+<td>2007
+</td>
+<td>Alex Skolnick Trio
+</td>
+<td><i>Last Day in Paradise</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2008
+</td>
+<td><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>
+</td>
+<td><i><a href="/wiki/The_Formation_of_Damnation" title="The Formation of Damnation">The Formation of Damnation</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2011
+</td>
+<td>Alex Skolnick Trio
+</td>
+<td><i>Veritas</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2012
+</td>
+<td><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>
+</td>
+<td><i><a href="/wiki/Dark_Roots_of_Earth" title="Dark Roots of Earth">Dark Roots of Earth</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td>Alex Skolnick &amp; various artists
+</td>
+<td><i>Planetary Coalition</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td><a href="/wiki/Metal_Allegiance" title="Metal Allegiance">Metal Allegiance</a>
+</td>
+<td><i>Metal Allegiance</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>
+</td>
+<td><i><a href="/wiki/Brotherhood_of_the_Snake" title="Brotherhood of the Snake">Brotherhood of the Snake</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2018
+</td>
+<td>Alex Skolnick Trio
+</td>
+<td><i>Conundrum</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">2020
+</td>
+<td><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a>
+</td>
+<td><i><a href="/wiki/Titans_of_Creation" title="Titans of Creation">Titans of Creation</a></i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Azusa_(band)" title="Azusa (band)">Azusa</a>
+</td>
+<td><i>Loop of Yesterdays</i>
+</td>
+<td>Lead guitar on "Detatch"
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Blabbermouth-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Blabbermouth_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Blabbermouth_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Blabbermouth_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Blabbermouth_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.blabbermouth.net/news/testaments-alex-skolnick-launches-rap-alter-ego-skoly-d-takes-down-right-wing-echo-chambers-in-b-i-g-l-i-e-video/">"TESTAMENT's ALEX SKOLNICK Launches Rap Alter Ego SKOLY-D, Takes Down Right-Wing Echo Chambers In 'B.I.G. L.I.E.' Video"</a>. Blabbermouth. January 6, 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">January 11,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TESTAMENT%27s+ALEX+SKOLNICK+Launches+Rap+Alter+Ego+SKOLY-D%2C+Takes+Down+Right-Wing+Echo+Chambers+In+%27B.I.G.+L.I.E.%27+Video&amp;rft.pub=Blabbermouth&amp;rft.date=2022-01-06&amp;rft_id=https%3A%2F%2Fwww.blabbermouth.net%2Fnews%2Ftestaments-alex-skolnick-launches-rap-alter-ego-skoly-d-takes-down-right-wing-echo-chambers-in-b-i-g-l-i-e-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBrannigan2022" class="citation web cs1">Brannigan, Paul (January 7, 2022). <a rel="nofollow" class="external text" href="https://www.loudersound.com/news/testament-guitarist-alex-skolnick-unveils-hip-hop-side-project-hudollarh-money">"Testament guitarist Alex Skolnick unveils hip-hop side project Hu$h Money"</a>. Louder<span class="reference-accessdate">. Retrieved <span class="nowrap">January 11,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Testament+guitarist+Alex+Skolnick+unveils+hip-hop+side+project+Hu%24h+Money&amp;rft.pub=Louder&amp;rft.date=2022-01-07&amp;rft.aulast=Brannigan&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fwww.loudersound.com%2Fnews%2Ftestament-guitarist-alex-skolnick-unveils-hip-hop-side-project-hudollarh-money&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121025131228/http://www.guitarworld.com/readers-poll-results-100-greatest-guitarists-all-time">"Readers Poll Results: The 100 Greatest Guitarists of All Time"</a>. Guitar World. Archived from <a rel="nofollow" class="external text" href="http://www.guitarworld.com/readers-poll-results-100-greatest-guitarists-all-time">the original</a> on October 25, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">July 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Readers+Poll+Results%3A+The+100+Greatest+Guitarists+of+All+Time&amp;rft.pub=Guitar+World&amp;rft_id=http%3A%2F%2Fwww.guitarworld.com%2Freaders-poll-results-100-greatest-guitarists-all-time&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.guitarworld.com/magazine/50-fastest-guitarists-all-time?page=1,42">"Need for Speed: The 50 Fastest Guitarists of All Time – Page 43"</a>. Guitar World<span class="reference-accessdate">. Retrieved <span class="nowrap">July 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Need+for+Speed%3A+The+50+Fastest+Guitarists+of+All+Time+%E2%80%93+Page+43&amp;rft.pub=Guitar+World&amp;rft_id=https%3A%2F%2Fwww.guitarworld.com%2Fmagazine%2F50-fastest-guitarists-all-time%3Fpage%3D1%2C42&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-went-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-went_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-went_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLeseman2012" class="citation web cs1">Leseman, Linda (December 19, 2012). <a rel="nofollow" class="external text" href="http://www.villagevoice.com/2012-12-19/music/testament-s-alex-skolnick-went-from-geek-to-guitar-god/full/">"Testament's Alex Skolnick Went From Geek to Guitar God"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Testament%27s+Alex+Skolnick+Went+From+Geek+to+Guitar+God&amp;rft.date=2012-12-19&amp;rft.aulast=Leseman&amp;rft.aufirst=Linda&amp;rft_id=http%3A%2F%2Fwww.villagevoice.com%2F2012-12-19%2Fmusic%2Ftestament-s-alex-skolnick-went-from-geek-to-guitar-god%2Ffull%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Metal-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Metal_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.metal-rules.com/interviews/alex.htm">"Alex Skolnick: Interview with Metal Rules!!"</a>. <i>Metal-Rules.com</i>. January 27, 1998<span class="reference-accessdate">. Retrieved <span class="nowrap">July 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Metal-Rules.com&amp;rft.atitle=Alex+Skolnick%3A+Interview+with+Metal+Rules%21%21&amp;rft.date=1998-01-27&amp;rft_id=http%3A%2F%2Fwww.metal-rules.com%2Finterviews%2Falex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.metalmasterkingdom.com/interviews-20182017--2016/michael-schenker-metal-master-kingdom-interview">"Michael Schenker - Metal Master Kingdom Interview"</a>. metalmasterkingdom.com. January 17, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Michael+Schenker+-+Metal+Master+Kingdom+Interview&amp;rft.pub=metalmasterkingdom.com&amp;rft.date=2018-01-17&amp;rft_id=https%3A%2F%2Fwww.metalmasterkingdom.com%2Finterviews-20182017--2016%2Fmichael-schenker-metal-master-kingdom-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Bosso-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bosso_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBosso2011" class="citation web cs1">Bosso, Joe (November 21, 2011). <a rel="nofollow" class="external text" href="http://www.musicradar.com/news/guitars/testaments-alex-skolnick-on-taking-guitar-lessons-from-joe-satriani-514761">"Testament's Alex Skolnick on taking guitar lessons from Joe Satriani"</a>. <i>MusicRadar</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MusicRadar&amp;rft.atitle=Testament%27s+Alex+Skolnick+on+taking+guitar+lessons+from+Joe+Satriani&amp;rft.date=2011-11-21&amp;rft.aulast=Bosso&amp;rft.aufirst=Joe&amp;rft_id=http%3A%2F%2Fwww.musicradar.com%2Fnews%2Fguitars%2Ftestaments-alex-skolnick-on-taking-guitar-lessons-from-joe-satriani-514761&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Billboard.com-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Billboard.com_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Billboard.com_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/artist/testament/chart-history/tlp/">"Testament – Chart history"</a>. Billboard.com<span class="reference-accessdate">. Retrieved <span class="nowrap">April 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Testament+%E2%80%93+Chart+history&amp;rft.pub=Billboard.com&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fartist%2Ftestament%2Fchart-history%2Ftlp%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFerris2007" class="citation web cs1">Ferris, D.X. (August 8, 2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071110222020/http://www.clevescene.com/2007-08-08/music/talkin-thrash">"Talkin' Thrash"</a>. <i><a href="/wiki/Cleveland_Scene" title="Cleveland Scene">Cleveland Scene</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.clevescene.com/2007-08-08/music/talkin-thrash">the original</a> on November 10, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">April 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cleveland+Scene&amp;rft.atitle=Talkin%27+Thrash&amp;rft.date=2007-08-08&amp;rft.aulast=Ferris&amp;rft.aufirst=D.X.&amp;rft_id=http%3A%2F%2Fwww.clevescene.com%2F2007-08-08%2Fmusic%2Ftalkin-thrash&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFOz2011" class="citation web cs1">Oz, Diamond (July 31, 2011). <a rel="nofollow" class="external text" href="https://www.metalunderground.com/news/details.cfm?newsid=70452">"Sunday Old School: Testament"</a>. <i>Metal Underground</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Metal+Underground&amp;rft.atitle=Sunday+Old+School%3A+Testament&amp;rft.date=2011-07-31&amp;rft.aulast=Oz&amp;rft.aufirst=Diamond&amp;rft_id=https%3A%2F%2Fwww.metalunderground.com%2Fnews%2Fdetails.cfm%3Fnewsid%3D70452&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.metal-rules.com/interviews/alex.htm">"Alex Skolnick: Interview with Metal Rules!!"</a>. <i>Metal Rules</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Metal+Rules&amp;rft.atitle=Alex+Skolnick%3A+Interview+with+Metal+Rules%21%21&amp;rft_id=https%3A%2F%2Fwww.metal-rules.com%2Finterviews%2Falex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.tprs.com/interviews/interview-alex-skolnick-of-testament/">"TPRS Classic Interview: Alex Skolnick of Testament"</a>. The Pure Rock Shop<span class="reference-accessdate">. Retrieved <span class="nowrap">April 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TPRS+Classic+Interview%3A+Alex+Skolnick+of+Testament&amp;rft.pub=The+Pure+Rock+Shop&amp;rft_id=http%3A%2F%2Fwww.tprs.com%2Finterviews%2Finterview-alex-skolnick-of-testament%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFabricus1992" class="citation magazine cs1">Fabricus, Jodie (September 25, 1992). <a rel="nofollow" class="external text" href="https://worldradiohistory.com/Archive-All-Music/Hard-Report/1992/Hard-1992-09-25.pdf">"Metal Filings"</a> <span class="cs1-format">(PDF)</span>. <i>The Hard Report</i>. No.&#160;295. Medford, New Jersey: Hard Report, Inc. p.&#160;54<span class="reference-accessdate">. Retrieved <span class="nowrap">April 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Hard+Report&amp;rft.atitle=Metal+Filings&amp;rft.issue=295&amp;rft.pages=54&amp;rft.date=1992-09-25&amp;rft.aulast=Fabricus&amp;rft.aufirst=Jodie&amp;rft_id=https%3A%2F%2Fworldradiohistory.com%2FArchive-All-Music%2FHard-Report%2F1992%2FHard-1992-09-25.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-ozzy-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-ozzy_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.blabbermouth.net/news/testament-alex-skolnick-recalls-brief-stint-as-ozzy-osbourne-guitarist/">"Testament's Alex Skolnick Recalls Brief Stint As Ozzy Osbourne's Guitarist"</a>. <i>Blabbermouth.net</i>. August 17, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">August 18,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Blabbermouth.net&amp;rft.atitle=Testament%27s+Alex+Skolnick+Recalls+Brief+Stint+As+Ozzy+Osbourne%27s+Guitarist&amp;rft.date=2016-08-17&amp;rft_id=http%3A%2F%2Fwww.blabbermouth.net%2Fnews%2Ftestament-alex-skolnick-recalls-brief-stint-as-ozzy-osbourne-guitarist%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Romero-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Romero_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRomero2012" class="citation web cs1">Romero, Angel (May 16, 2012). <a rel="nofollow" class="external text" href="http://progressiverockcentral.com/en/2012/05/16/stratospheric-violins/">"Stratospheric Violins"</a>. <i>Progressive Rock Central</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Progressive+Rock+Central&amp;rft.atitle=Stratospheric+Violins&amp;rft.date=2012-05-16&amp;rft.aulast=Romero&amp;rft.aufirst=Angel&amp;rft_id=http%3A%2F%2Fprogressiverockcentral.com%2Fen%2F2012%2F05%2F16%2Fstratospheric-violins%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-second-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-second_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://news.allaboutjazz.com/pianist-composer-randy-klein-releases-second-two-duos-project-whats-next-featuring-bassist-boris-kozlov-and-guitarist-alex-skolnick.php">"Pianist-Composer Randy Klein Releases Second Two Duos Project"</a>. <i>All About Jazz</i>. October 3, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=All+About+Jazz&amp;rft.atitle=Pianist-Composer+Randy+Klein+Releases+Second+Two+Duos+Project&amp;rft.date=2012-10-03&amp;rft_id=https%3A%2F%2Fnews.allaboutjazz.com%2Fpianist-composer-randy-klein-releases-second-two-duos-project-whats-next-featuring-bassist-boris-kozlov-and-guitarist-alex-skolnick.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Mass-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mass_18-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.guitaraficionado.com/alex-skolnick-to-appear-at-mass-appeal-guitars-event-in-new-york-city.html">"Alex Skolnick to Appear at Mass Appeal: Guitars Event In NYC"</a>. <i>Guitar Aficionado</i>. June 5, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Guitar+Aficionado&amp;rft.atitle=Alex+Skolnick+to+Appear+at+Mass+Appeal%3A+Guitars+Event+In+NYC&amp;rft.date=2012-06-05&amp;rft_id=http%3A%2F%2Fwww.guitaraficionado.com%2Falex-skolnick-to-appear-at-mass-appeal-guitars-event-in-new-york-city.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-About-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-About_19-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://planetarycoalition.com/about/">"About"</a>. <i>Planetary Coalition</i>. June 21, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Planetary+Coalition&amp;rft.atitle=About&amp;rft.date=2012-06-21&amp;rft_id=https%3A%2F%2Fplanetarycoalition.com%2Fabout%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Maddy-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Maddy_20-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://nomad9design.com/maddysjohnson/">"Director"</a>. <i>Nomad 9 Design</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nomad+9+Design&amp;rft.atitle=Director&amp;rft_id=http%3A%2F%2Fnomad9design.com%2Fmaddysjohnson%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Profile-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Profile_21-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://artistshare.com/v4/Home/ArtistProfiles/30/ArtistShare-Profile-Alex-Skolnick-Part-2">"ArtistShare Profile: Alex Skolnick Part 2"</a>. <i>ArtistShare</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ArtistShare&amp;rft.atitle=ArtistShare+Profile%3A+Alex+Skolnick+Part+2&amp;rft_id=http%3A%2F%2Fartistshare.com%2Fv4%2FHome%2FArtistProfiles%2F30%2FArtistShare-Profile-Alex-Skolnick-Part-2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-auto-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLeseman2014" class="citation web cs1">Leseman, Linda (November 18, 2014). <a rel="nofollow" class="external text" href="https://www.villagevoice.com/2014/11/18/alex-skolnicks-planetary-coalition-breaks-all-the-rules/">"Alex Skolnick's Planetary Coalition Breaks All the Rules"</a>. <i>The Village Voice</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Village+Voice&amp;rft.atitle=Alex+Skolnick%27s+Planetary+Coalition+Breaks+All+the+Rules&amp;rft.date=2014-11-18&amp;rft.aulast=Leseman&amp;rft.aufirst=Linda&amp;rft_id=https%3A%2F%2Fwww.villagevoice.com%2F2014%2F11%2F18%2Falex-skolnicks-planetary-coalition-breaks-all-the-rules%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Harris-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Harris_23-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHarris2015" class="citation web cs1">Harris, George W. (January 22, 2015). <a rel="nofollow" class="external text" href="http://www.jazzweekly.com/2015/01/come-fly-with-mealex-skolnick-planetary-coalition/">"Come Fly With Me…Alex Skolnick: Planetary Coalition"</a>. <i>Jazz Weekly</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Jazz+Weekly&amp;rft.atitle=Come+Fly+With+Me%E2%80%A6Alex+Skolnick%3A+Planetary+Coalition&amp;rft.date=2015-01-22&amp;rft.aulast=Harris&amp;rft.aufirst=George+W.&amp;rft_id=http%3A%2F%2Fwww.jazzweekly.com%2F2015%2F01%2Fcome-fly-with-mealex-skolnick-planetary-coalition%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Talks-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Talks_24-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBosso2014" class="citation web cs1">Bosso, Joe (December 16, 2014). <a rel="nofollow" class="external text" href="http://www.musicradar.com/news/guitars/alex-skolnick-talks-planetary-coalition-track-by-track-612189">"Alex Skolnick talks Planetary Coalition track-by-track"</a>. <i>MusicRadar</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MusicRadar&amp;rft.atitle=Alex+Skolnick+talks+Planetary+Coalition+track-by-track&amp;rft.date=2014-12-16&amp;rft.aulast=Bosso&amp;rft.aufirst=Joe&amp;rft_id=http%3A%2F%2Fwww.musicradar.com%2Fnews%2Fguitars%2Falex-skolnick-talks-planetary-coalition-track-by-track-612189&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Global-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Global_25-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDrozdowski2015" class="citation web cs1">Drozdowski, T. (January 8, 2015). <a rel="nofollow" class="external text" href="http://www.guitarworld.com/testaments-alex-skolnick-goes-global-planetary-coalition">"Testament's Alex Skolnick Goes Global with 'Planetary Coalition'<span class="cs1-kern-right"></span>"</a>. <i>Guitar World</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Guitar+World&amp;rft.atitle=Testament%27s+Alex+Skolnick+Goes+Global+with+%27Planetary+Coalition%27&amp;rft.date=2015-01-08&amp;rft.aulast=Drozdowski&amp;rft.aufirst=T.&amp;rft_id=http%3A%2F%2Fwww.guitarworld.com%2Ftestaments-alex-skolnick-goes-global-planetary-coalition&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.guitarworld.com/guitar-worlds-50-best-albums-2014#slide-17">"Guitar World's 50 Best Albums of 2014"</a>. December 26, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Guitar+World%27s+50+Best+Albums+of+2014&amp;rft.date=2014-12-26&amp;rft_id=http%3A%2F%2Fwww.guitarworld.com%2Fguitar-worlds-50-best-albums-2014%23slide-17&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.guitarworld.com/acoustic-nation-ten-top-releases-2014?page=0,7">"Acoustic Nation's Ten Top Releases of 2014"</a>. December 15, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Acoustic+Nation%27s+Ten+Top+Releases+of+2014&amp;rft.date=2014-12-15&amp;rft_id=http%3A%2F%2Fwww.guitarworld.com%2Facoustic-nation-ten-top-releases-2014%3Fpage%3D0%2C7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Geek-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Geek_28-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.blabbermouth.net/news/testament-guitarist-to-release-geek-to-guitar-hero-book/">"Testament Guitarist To Release 'Geek To Guitar Hero' Book"</a>. <i>Blabbermouth.net</i>. October 15, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">July 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Blabbermouth.net&amp;rft.atitle=Testament+Guitarist+To+Release+%27Geek+To+Guitar+Hero%27+Book&amp;rft.date=2012-10-15&amp;rft_id=http%3A%2F%2Fwww.blabbermouth.net%2Fnews%2Ftestament-guitarist-to-release-geek-to-guitar-hero-book%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Melini-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-Melini_29-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSmith2012" class="citation news cs1">Smith, Roberta (July 19, 2012). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2012/07/20/arts/design/douglas-melini-a-sharing-of-color-and-being-a-part-of-it.html">"Douglas Melini: 'A Sharing of Color and Being a Part of It'<span class="cs1-kern-right"></span>"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Douglas+Melini%3A+%27A+Sharing+of+Color+and+Being+a+Part+of+It%27&amp;rft.date=2012-07-19&amp;rft.aulast=Smith&amp;rft.aufirst=Roberta&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2012%2F07%2F20%2Farts%2Fdesign%2Fdouglas-melini-a-sharing-of-color-and-being-a-part-of-it.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.guitarworld.com/namm-2013-video-alex-skolnick-demos-his-signature-budda-preceptor-guitar-amp">"NAMM 2013 Video: Alex Skolnick Demos His Signature Budda AS Preceptor Guitar Amp"</a>. Guitar World<span class="reference-accessdate">. Retrieved <span class="nowrap">July 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NAMM+2013+Video%3A+Alex+Skolnick+Demos+His+Signature+Budda+AS+Preceptor+Guitar+Amp&amp;rft.pub=Guitar+World&amp;rft_id=http%3A%2F%2Fwww.guitarworld.com%2Fnamm-2013-video-alex-skolnick-demos-his-signature-budda-preceptor-guitar-amp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Skolnick" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.espguitars.com/news/alex.html">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130917001114/http://www.espguitars.com/news/alex.html">Archived</a> September 17, 2013, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Skolnick&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Alex_Skolnick" class="extiw" title="commons:Category:Alex Skolnick">Alex Skolnick</a></span>.</div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050403214113/http://www.alexskolnick.com/">Official webpage</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.org/search.php?query=collection%3A%22AlexSkolnickTrio%22">Alex Skolnick Trio collection at archive.org</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Testament" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Testament" title="Template:Testament"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Testament" title="Template talk:Testament"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Testament&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Testament" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a href="/wiki/Eric_Peterson_(musician)" title="Eric Peterson (musician)">Eric Peterson</a></b></li>
+<li><b><a class="mw-selflink selflink">Alex Skolnick</a></b></li>
+<li><b><a href="/wiki/Chuck_Billy" title="Chuck Billy">Chuck Billy</a></b></li>
+<li><b><a href="/wiki/Steve_Di_Giorgio" title="Steve Di Giorgio">Steve Di Giorgio</a></b></li>
+<li><b>Chris Dovas</b></li></ul>
+<ul><li><a href="/wiki/Greg_Christian" title="Greg Christian">Greg Christian</a></li>
+<li><a href="/wiki/Steve_Souza" title="Steve Souza">Steve Souza</a></li>
+<li><a href="/wiki/Louie_Clemente" title="Louie Clemente">Louie Clemente</a></li>
+<li><a href="/wiki/Glen_Alvelais" title="Glen Alvelais">Glen Alvelais</a></li>
+<li><a href="/wiki/Paul_Bostaph" title="Paul Bostaph">Paul Bostaph</a></li>
+<li><a href="/wiki/John_Tempesta" title="John Tempesta">John Tempesta</a></li>
+<li><a href="/wiki/James_Murphy_(guitarist)" title="James Murphy (guitarist)">James Murphy</a></li>
+<li><a href="/wiki/Jon_Dette" title="Jon Dette">Jon Dette</a></li>
+<li><a href="/wiki/Chris_Kontos_(musician)" title="Chris Kontos (musician)">Chris Kontos</a></li>
+<li><a href="/wiki/Gene_Hoglan" title="Gene Hoglan">Gene Hoglan</a></li>
+<li><a href="/wiki/Dave_Lombardo" title="Dave Lombardo">Dave Lombardo</a></li>
+<li><a href="/wiki/Steve_Smyth" title="Steve Smyth">Steve Smyth</a></li>
+<li><a href="/wiki/Asgeir_Mickelson" title="Asgeir Mickelson">Asgeir Mickelson</a></li>
+<li><a href="/wiki/Mike_Chlasciak" title="Mike Chlasciak">"Metal" Mike Chlasciak</a></li>
+<li><a href="/wiki/Nicholas_Barker" title="Nicholas Barker">Nick  Barker</a></li>
+<li><a href="/wiki/Glen_Drover" title="Glen Drover">Glen Drover</a></li>
+<li><a href="/wiki/Alex_Bent" title="Alex Bent">Alex Bent</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Legacy_(album)" title="The Legacy (album)">The Legacy</a></i></li>
+<li><i><a href="/wiki/The_New_Order_(album)" title="The New Order (album)">The New Order</a></i></li>
+<li><i><a href="/wiki/Practice_What_You_Preach" title="Practice What You Preach">Practice What You Preach</a></i></li>
+<li><i><a href="/wiki/Souls_of_Black" title="Souls of Black">Souls of Black</a></i></li>
+<li><i><a href="/wiki/The_Ritual_(Testament_album)" title="The Ritual (Testament album)">The Ritual</a></i></li>
+<li><i><a href="/wiki/Low_(Testament_album)" title="Low (Testament album)">Low</a></i></li>
+<li><i><a href="/wiki/Demonic_(album)" title="Demonic (album)">Demonic</a></i></li>
+<li><i><a href="/wiki/The_Gathering_(Testament_album)" title="The Gathering (Testament album)">The Gathering</a></i></li>
+<li><i><a href="/wiki/First_Strike_Still_Deadly" title="First Strike Still Deadly">First Strike Still Deadly</a></i></li>
+<li><i><a href="/wiki/The_Formation_of_Damnation" title="The Formation of Damnation">The Formation of Damnation</a></i></li>
+<li><i><a href="/wiki/Dark_Roots_of_Earth" title="Dark Roots of Earth">Dark Roots of Earth</a></i></li>
+<li><i><a href="/wiki/Brotherhood_of_the_Snake" title="Brotherhood of the Snake">Brotherhood of the Snake</a></i></li>
+<li><i><a href="/wiki/Titans_of_Creation" title="Titans of Creation">Titans of Creation</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Live albums</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Live_at_Eindhoven" title="Live at Eindhoven">Live at Eindhoven</a></i> (EP)</li>
+<li><i><a href="/wiki/Seen_Between_the_Lines" title="Seen Between the Lines">Seen Between the Lines</a></i></li>
+<li><i><a href="/wiki/Return_to_the_Apocalyptic_City" title="Return to the Apocalyptic City">Return to the Apocalyptic City</a></i> (EP)</li>
+<li><i><a href="/wiki/Live_at_the_Fillmore_(Testament_album)" title="Live at the Fillmore (Testament album)">Live at the Fillmore</a></i></li>
+<li><i><a href="/wiki/Live_in_London_(Testament_album)" title="Live in London (Testament album)">Live in London</a></i></li>
+<li><i><a href="/wiki/Live_at_Eindhoven#Live_at_Eindhoven_&#39;87" title="Live at Eindhoven">Live at Eindhoven '87</a></i></li>
+<li><i><a href="/wiki/Dark_Roots_of_Thrash" title="Dark Roots of Thrash">Dark Roots of Thrash</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Best_of_Testament" title="The Best of Testament">The Best of Testament</a></i></li>
+<li><i><a href="/wiki/Signs_of_Chaos:_The_Best_of_Testament" title="Signs of Chaos: The Best of Testament">Signs of Chaos: The Best of Testament</a></i></li>
+<li><i><a href="/wiki/The_Very_Best_of_Testament" title="The Very Best of Testament">The Very Best of Testament</a></i></li>
+<li><i><a href="/wiki/Days_of_Darkness_(album)" title="Days of Darkness (album)">Days of Darkness</a></i></li>
+<li><i><a href="/wiki/The_Spitfire_Collection" title="The Spitfire Collection">The Spitfire Collection</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Songs</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Practice_What_You_Preach_(Testament_song)" title="Practice What You Preach (Testament song)">Practice What You Preach</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Tours</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Clash_of_the_Titans_(tour)" title="Clash of the Titans (tour)">Clash of the Titans</a></li>
+<li><a href="/wiki/Metal_Masters_Tour" title="Metal Masters Tour">Metal Masters Tour</a></li>
+<li><a href="/wiki/American_Carnage_Tour" title="American Carnage Tour">American Carnage Tour</a></li>
+<li><a href="/wiki/The_Bay_Strikes_Back" title="The Bay Strikes Back">The Bay Strikes Back</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Testament_discography" title="Testament discography">Discography</a></li>
+<li><a href="/wiki/List_of_Testament_members" title="List of Testament members">Members</a></li>
+<li><a href="/wiki/Metal_Allegiance" title="Metal Allegiance">Metal Allegiance</a></li>
+<li><i><a href="/wiki/Murder_in_the_Front_Row" title="Murder in the Front Row">Murder in the Front Row</a></i></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><span class="noviewer" typeof="mw:File"><span title="Category"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/Category:Testament_(band)" title="Category:Testament (band)">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Trans-Siberian_Orchestra" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Trans-Siberian_Orchestra" title="Template:Trans-Siberian Orchestra"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Trans-Siberian_Orchestra" title="Template talk:Trans-Siberian Orchestra"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Trans-Siberian_Orchestra&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Trans-Siberian_Orchestra" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Trans-Siberian_Orchestra" title="Trans-Siberian Orchestra">Trans-Siberian Orchestra</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a href="/wiki/Jon_Oliva" title="Jon Oliva">Jon Oliva</a></b></li>
+<li><b><a href="/wiki/Paul_O%27Neill_(producer)" title="Paul O&#39;Neill (producer)">Paul O'Neill</a></b></li>
+<li><b><a href="/wiki/Robert_Kinkel" title="Robert Kinkel">Robert Kinkel</a></b></li>
+<li><b><a href="/wiki/Al_Pitrelli" title="Al Pitrelli">Al Pitrelli</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Vocalists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jennifer_Cella" class="mw-redirect" title="Jennifer Cella">Jennifer Cella</a></li>
+<li><a href="/wiki/Steve_Broderick" title="Steve Broderick">Steve Broderick</a></li>
+<li><a href="/wiki/Bryan_Hicks" title="Bryan Hicks">Bryan Hicks</a></li>
+<li><a href="/wiki/Kayla_Reeves" class="mw-redirect" title="Kayla Reeves">Kayla Reeves</a></li>
+<li><a href="/wiki/Zachary_Stevens" title="Zachary Stevens">Zachary Stevens</a></li>
+<li><a href="/wiki/Patti_Russo" title="Patti Russo">Patti Russo</a></li>
+<li><a href="/wiki/Russell_Allen" title="Russell Allen">Russell Allen</a></li>
+<li><a href="/wiki/Jeff_Scott_Soto" title="Jeff Scott Soto">Jeff Scott Soto</a></li>
+<li><a href="/wiki/Dino_Jelusick" title="Dino Jelusick">Dino Jelusick</a></li>
+<li><a href="/wiki/Chloe_Lowery" title="Chloe Lowery">Chloe Lowery</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Guitarists</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Chris_Caffery" title="Chris Caffery">Chris Caffery</a></li>
+<li><a href="/wiki/Joel_Hoekstra" title="Joel Hoekstra">Joel Hoekstra</a></li>
+<li><a href="/wiki/Angus_Clark" title="Angus Clark">Angus Clark</a></li>
+<li><i>Former: <a class="mw-selflink selflink">Alex Skolnick</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Other musicians</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Johnny_Lee_Middleton" title="Johnny Lee Middleton">Johnny Lee Middleton</a> <small>(bass)</small></li>
+<li><a href="/wiki/Jeff_Plate" title="Jeff Plate">Jeff Plate</a> <small>(drums)</small></li>
+<li>David Z <small>(bass)</small></li>
+<li><a href="/wiki/Anna_Phoebe" title="Anna Phoebe">Anna Phoebe</a><small> (violin)</small></li>
+<li>Former: <a href="/wiki/Mark_Wood_(violinist)" title="Mark Wood (violinist)">Mark Wood</a> <small>(violin)</small></li>
+<li><a href="/wiki/Robert_Kinkel" title="Robert Kinkel">Bob Kinkel</a> <small>(keyboards)</small></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Christmas_Eve_and_Other_Stories" title="Christmas Eve and Other Stories">Christmas Eve and Other Stories</a></i> (1996)</li>
+<li><i><a href="/wiki/The_Christmas_Attic" title="The Christmas Attic">The Christmas Attic</a></i> (1998)</li>
+<li><i><a href="/wiki/Beethoven%27s_Last_Night" title="Beethoven&#39;s Last Night">Beethoven's Last Night</a></i> (2000)</li>
+<li><i><a href="/wiki/The_Lost_Christmas_Eve" title="The Lost Christmas Eve">The Lost Christmas Eve</a></i> (2004)</li>
+<li><i><a href="/wiki/Night_Castle" title="Night Castle">Night Castle</a></i> (2009)</li>
+<li><i><a href="/wiki/Letters_from_the_Labyrinth" title="Letters from the Labyrinth">Letters from the Labyrinth</a></i> (2015)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilation albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Tales_of_Winter:_Selections_from_the_TSO_Rock_Operas" title="Tales of Winter: Selections from the TSO Rock Operas">Tales of Winter: Selections from the TSO Rock Operas</a></i> (2013)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Extended plays</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Dreams_of_Fireflies" title="Dreams of Fireflies">Dreams of Fireflies (On a Christmas Night)</a></i> (2012)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Video</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Ghosts_of_Christmas_Eve" title="The Ghosts of Christmas Eve">The Ghosts of Christmas Eve</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Christmas_Eve/Sarajevo_12/24" title="Christmas Eve/Sarajevo 12/24">Christmas Eve/Sarajevo 12/24</a>"</li>
+<li>"<a href="/wiki/Christmas_Canon" title="Christmas Canon">Christmas Canon</a>"</li>
+<li>"<a href="/wiki/Wizards_in_Winter" title="Wizards in Winter">Wizards in Winter</a>"</li>
+<li>"<a href="/wiki/Nut_Rocker#Other_recordings" title="Nut Rocker">Nutrocker</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Trans-Siberian_Orchestra_discography" title="Trans-Siberian Orchestra discography">Discography</a></li>
+<li><a href="/wiki/Savatage" title="Savatage">Savatage</a></li>
+<li><a href="/wiki/Jon_Oliva%27s_Pain" title="Jon Oliva&#39;s Pain">Jon Oliva's Pain</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Savatage" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Savatage" title="Template:Savatage"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Savatage" title="Template talk:Savatage"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Savatage&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Savatage" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Savatage" title="Savatage">Savatage</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a href="/wiki/Jon_Oliva" title="Jon Oliva">Jon Oliva</a></b></li>
+<li><b><a href="/wiki/Zachary_Stevens" title="Zachary Stevens">Zachary Stevens</a></b></li>
+<li><b><a href="/wiki/Chris_Caffery" title="Chris Caffery">Chris Caffery</a></b></li>
+<li><b><a href="/wiki/Al_Pitrelli" title="Al Pitrelli">Al Pitrelli</a></b></li>
+<li><b><a href="/wiki/Johnny_Lee_Middleton" title="Johnny Lee Middleton">Johnny Lee Middleton</a></b></li>
+<li><b><a href="/wiki/Jeff_Plate" title="Jeff Plate">Jeff Plate</a></b></li></ul>
+<ul><li><a href="/wiki/Criss_Oliva" title="Criss Oliva">Criss Oliva</a></li>
+<li>Keith Collins</li>
+<li>Steve "Doc" Wacholz</li>
+<li>Damond Jiniya</li>
+<li><a class="mw-selflink selflink">Alex Skolnick</a></li>
+<li><a href="/wiki/Jack_Frost_(musician)" title="Jack Frost (musician)">Jack Frost</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Sirens_(Savatage_album)" title="Sirens (Savatage album)">Sirens</a></i></li>
+<li><i><a href="/wiki/Power_of_the_Night" title="Power of the Night">Power of the Night</a></i></li>
+<li><i><a href="/wiki/Fight_for_the_Rock" title="Fight for the Rock">Fight for the Rock</a></i></li>
+<li><i><a href="/wiki/Hall_of_the_Mountain_King_(album)" title="Hall of the Mountain King (album)">Hall of the Mountain King</a></i></li>
+<li><i><a href="/wiki/Gutter_Ballet" title="Gutter Ballet">Gutter Ballet</a></i></li>
+<li><i><a href="/wiki/Streets:_A_Rock_Opera" title="Streets: A Rock Opera">Streets: A Rock Opera</a></i></li>
+<li><i><a href="/wiki/Edge_of_Thorns" title="Edge of Thorns">Edge of Thorns</a></i></li>
+<li><i><a href="/wiki/Handful_of_Rain" title="Handful of Rain">Handful of Rain</a></i></li>
+<li><i><a href="/wiki/Dead_Winter_Dead" title="Dead Winter Dead">Dead Winter Dead</a></i></li>
+<li><i><a href="/wiki/The_Wake_of_Magellan" title="The Wake of Magellan">The Wake of Magellan</a></i></li>
+<li><i><a href="/wiki/Poets_and_Madmen" title="Poets and Madmen">Poets and Madmen</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Dungeons_Are_Calling" title="The Dungeons Are Calling">The Dungeons Are Calling</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Live albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Japan_Live_%2794" title="Japan Live &#39;94">Japan Live '94</a></i></li>
+<li><i><a href="/wiki/Ghost_in_the_Ruins_%E2%80%93_A_Tribute_to_Criss_Oliva" title="Ghost in the Ruins – A Tribute to Criss Oliva">Ghost in the Ruins – A Tribute to Criss Oliva</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilation albums</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/From_the_Gutter_to_the_Stage" class="mw-redirect" title="From the Gutter to the Stage">From the Gutter to the Stage</a></i></li>
+<li><i><a href="/wiki/The_Best_and_the_Rest" class="mw-redirect" title="The Best and the Rest">The Best and the Rest</a></i></li>
+<li><i><a href="/wiki/Believe_(Savatage_album)" class="mw-redirect" title="Believe (Savatage album)">Believe</a></i></li>
+<li><i><a href="/wiki/Still_the_Orchestra_Plays" class="mw-redirect" title="Still the Orchestra Plays">Still the Orchestra Plays - Greatest Hits, Volume 1 &amp; 2</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Edge_of_Thorns_(song)" title="Edge of Thorns (song)">Edge of Thorns</a>"</li>
+<li>"<a href="/wiki/Christmas_Eve/Sarajevo_12/24" title="Christmas Eve/Sarajevo 12/24">Christmas Eve/Sarajevo 12/24</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Savatage_discography" title="Savatage discography">Discography</a></li>
+<li><a href="/wiki/Doctor_Butcher" title="Doctor Butcher">Doctor Butcher</a></li>
+<li><a href="/wiki/Testament_(band)" title="Testament (band)">Testament</a></li>
+<li><a href="/wiki/Trans-Siberian_Orchestra" title="Trans-Siberian Orchestra">Trans-Siberian Orchestra</a></li>
+<li><a href="/wiki/Jon_Oliva%27s_Pain" title="Jon Oliva&#39;s Pain">Jon Oliva's Pain</a></li>
+<li><a href="/wiki/Circle_II_Circle" title="Circle II Circle">Circle II Circle</a></li>
+<li><a href="/wiki/Machines_of_Grace" title="Machines of Grace">Machines of Grace</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><span class="noviewer" typeof="mw:File"><span title="Category"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/Category:Savatage" title="Category:Savatage">Category:Savatage</a> </b></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Ozzy_Osbourne" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Ozzy_Osbourne" title="Template:Ozzy Osbourne"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ozzy_Osbourne" title="Template talk:Ozzy Osbourne"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Ozzy_Osbourne&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Ozzy_Osbourne" class="fn" style="font-size:114%;margin:0 4em"><a href="/wiki/Ozzy_Osbourne" title="Ozzy Osbourne">Ozzy Osbourne</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a href="/wiki/Zakk_Wylde" title="Zakk Wylde">Zakk Wylde</a></b></li>
+<li><b><a href="/wiki/Rob_Nicholson_(musician)" title="Rob Nicholson (musician)">Rob "Blasko" Nicholson</a></b></li>
+<li><b><a href="/wiki/Adam_Wakeman" title="Adam Wakeman">Adam Wakeman</a></b></li>
+<li><b><a href="/wiki/Tommy_Clufetos" title="Tommy Clufetos">Tommy Clufetos</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Blizzard_of_Ozz" title="Blizzard of Ozz">Blizzard of Ozz</a></i></li>
+<li><i><a href="/wiki/Diary_of_a_Madman_(album)" title="Diary of a Madman (album)">Diary of a Madman</a></i></li>
+<li><i><a href="/wiki/Bark_at_the_Moon" title="Bark at the Moon">Bark at the Moon</a></i></li>
+<li><i><a href="/wiki/The_Ultimate_Sin" title="The Ultimate Sin">The Ultimate Sin</a></i></li>
+<li><i><a href="/wiki/No_Rest_for_the_Wicked_(Ozzy_Osbourne_album)" title="No Rest for the Wicked (Ozzy Osbourne album)">No Rest for the Wicked</a></i></li>
+<li><i><a href="/wiki/No_More_Tears" title="No More Tears">No More Tears</a></i></li>
+<li><i><a href="/wiki/Ozzmosis" title="Ozzmosis">Ozzmosis</a></i></li>
+<li><i><a href="/wiki/Down_to_Earth_(Ozzy_Osbourne_album)" title="Down to Earth (Ozzy Osbourne album)">Down to Earth</a></i></li>
+<li><i><a href="/wiki/Under_Cover" title="Under Cover">Under Cover</a></i></li>
+<li><i><a href="/wiki/Black_Rain_(Ozzy_Osbourne_album)" title="Black Rain (Ozzy Osbourne album)">Black Rain</a></i></li>
+<li><i><a href="/wiki/Scream_(Ozzy_Osbourne_album)" title="Scream (Ozzy Osbourne album)">Scream</a></i></li>
+<li><i><a href="/wiki/Ordinary_Man_(Ozzy_Osbourne_album)" title="Ordinary Man (Ozzy Osbourne album)">Ordinary Man</a></i></li>
+<li><i><a href="/wiki/Patient_Number_9" title="Patient Number 9">Patient Number 9</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Live albums</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Speak_of_the_Devil_(Ozzy_Osbourne_album)" title="Speak of the Devil (Ozzy Osbourne album)">Speak of the Devil</a></i></li>
+<li><i><a href="/wiki/Tribute_(Ozzy_Osbourne_album)" title="Tribute (Ozzy Osbourne album)">Tribute</a></i></li>
+<li><i><a href="/wiki/Live_%26_Loud" title="Live &amp; Loud">Live &amp; Loud</a></i></li>
+<li><i><a href="/wiki/Live_at_Budokan_(Ozzy_Osbourne_album)" title="Live at Budokan (Ozzy Osbourne album)">Live at Budokan</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Extended plays</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Ozzy_Osbourne_Live_E.P." title="Ozzy Osbourne Live E.P.">Mr. Crowley Live EP</a></i></li>
+<li><i><a href="/wiki/Just_Say_Ozzy" title="Just Say Ozzy">Just Say Ozzy</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations/box sets</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Best_of_Ozz" title="Best of Ozz">Best of Ozz</a></i></li>
+<li><i><a href="/wiki/Ten_Commandments_(Ozzy_Osbourne_album)" title="Ten Commandments (Ozzy Osbourne album)">Ten Commandments</a></i></li>
+<li><i><a href="/wiki/The_Ozzman_Cometh" title="The Ozzman Cometh">The Ozzman Cometh</a></i></li>
+<li><i><a href="/wiki/The_Essential_Ozzy_Osbourne" title="The Essential Ozzy Osbourne">The Essential Ozzy Osbourne</a></i></li>
+<li><i><a href="/wiki/Prince_of_Darkness_(Ozzy_Osbourne_album)" title="Prince of Darkness (Ozzy Osbourne album)">Prince of Darkness</a></i></li>
+<li><i><a href="/wiki/Memoirs_of_a_Madman_(album)" title="Memoirs of a Madman (album)">Memoirs of a Madman</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Crazy_Train" title="Crazy Train">Crazy Train</a>"</li>
+<li>"<a href="/wiki/Mr._Crowley" title="Mr. Crowley">Mr. Crowley</a>"</li>
+<li>"<a href="/wiki/Flying_High_Again" title="Flying High Again">Flying High Again</a>"</li>
+<li>"<a href="/wiki/Over_the_Mountain" title="Over the Mountain">Over the Mountain</a>"</li>
+<li>"<a href="/wiki/Symptom_of_the_Universe" title="Symptom of the Universe">Symptom of the Universe</a>"</li>
+<li>"<a href="/wiki/Paranoid_(Black_Sabbath_song)" title="Paranoid (Black Sabbath song)">Paranoid</a>"</li>
+<li>"<a href="/wiki/Bark_at_the_Moon_(song)" title="Bark at the Moon (song)">Bark at the Moon</a>"</li>
+<li>"<a href="/wiki/Shot_in_the_Dark_(Ozzy_Osbourne_song)" title="Shot in the Dark (Ozzy Osbourne song)">Shot in the Dark</a>"</li>
+<li>"<a href="/wiki/No_More_Tears_(Ozzy_Osbourne_song)" title="No More Tears (Ozzy Osbourne song)">No More Tears</a>"</li>
+<li>"<a href="/wiki/Mama,_I%27m_Coming_Home" title="Mama, I&#39;m Coming Home">Mama, I'm Coming Home</a>"</li>
+<li>"<a href="/wiki/Changes_(Black_Sabbath_song)" title="Changes (Black Sabbath song)">Changes</a>"</li>
+<li>"<a href="/wiki/Pictures_of_Matchstick_Men" title="Pictures of Matchstick Men">Pictures of Matchstick Men</a>"</li>
+<li>"<a href="/wiki/Gets_Me_Through" title="Gets Me Through">Gets Me Through</a>"</li>
+<li>"<a href="/wiki/Dreamer_(Ozzy_Osbourne_song)" title="Dreamer (Ozzy Osbourne song)">Dreamer</a>"</li>
+<li>"<a href="/wiki/In_My_Life" title="In My Life">In My Life</a>"</li>
+<li>"<a href="/wiki/I_Don%27t_Wanna_Stop" title="I Don&#39;t Wanna Stop">I Don't Wanna Stop</a>"</li>
+<li>"<a href="/wiki/Not_Going_Away" title="Not Going Away">Not Going Away</a>"</li>
+<li>"<a href="/wiki/How%3F_(song)" title="How? (song)">How?</a>"</li>
+<li>"<a href="/wiki/Under_the_Graveyard" title="Under the Graveyard">Under the Graveyard</a>"</li>
+<li>"<a href="/wiki/Ordinary_Man_(Ozzy_Osbourne_song)" title="Ordinary Man (Ozzy Osbourne song)">Ordinary Man</a>"</li>
+<li>"<a href="/wiki/It%27s_a_Raid" title="It&#39;s a Raid">It's a Raid</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Featured singles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Close_My_Eyes_Forever" title="Close My Eyes Forever">Close My Eyes Forever</a>"</li>
+<li>"<a href="/wiki/Hey_Stoopid_(song)" title="Hey Stoopid (song)">Hey Stoopid</a>"</li>
+<li>"<a href="/wiki/Shake_Your_Head" title="Shake Your Head">Shake Your Head</a>"</li>
+<li>"<a href="/wiki/Shock_the_Monkey" title="Shock the Monkey">Shock the Monkey</a>"</li>
+<li>"<a href="/wiki/N.I.B." title="N.I.B.">N.I.B.</a>"</li>
+<li>"<a href="/wiki/Stillborn_(song)" title="Stillborn (song)">Stillborn</a>"</li>
+<li>"<a href="/wiki/Take_What_You_Want" title="Take What You Want">Take What You Want</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Other songs</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Goodbye_to_Romance_(song)" title="Goodbye to Romance (song)">Goodbye to Romance</a>"</li>
+<li>"<a href="/wiki/Suicide_Solution" title="Suicide Solution">Suicide Solution</a>"</li>
+<li>"<a href="/wiki/I_Don%27t_Want_to_Change_the_World" title="I Don&#39;t Want to Change the World">I Don't Want to Change the World</a>"</li>
+<li>"<a href="/wiki/Hellraiser_(Ozzy_Osbourne_and_Mot%C3%B6rhead_song)" title="Hellraiser (Ozzy Osbourne and Motörhead song)">Hellraiser</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Concert tours</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Blizzard_of_Ozz_Tour" title="Blizzard of Ozz Tour">Blizzard of Ozz Tour</a></li>
+<li><a href="/wiki/Diary_of_a_Madman_Tour" title="Diary of a Madman Tour">Diary of a Madman Tour</a></li>
+<li><a href="/wiki/Speak_of_the_Devil_Tour" title="Speak of the Devil Tour">Speak of the Devil Tour</a></li>
+<li><a href="/wiki/Bark_at_the_Moon_Tour" title="Bark at the Moon Tour">Bark at the Moon Tour</a></li>
+<li><a href="/wiki/The_Ultimate_Sin_Tour" title="The Ultimate Sin Tour">The Ultimate Sin Tour</a></li>
+<li><a href="/wiki/No_Rest_for_the_Wicked_Tour" title="No Rest for the Wicked Tour">No Rest for the Wicked Tour</a></li>
+<li><a href="/wiki/No_More_Tours_Tour" title="No More Tours Tour">No More Tours Tour</a></li>
+<li><a href="/wiki/Ozzfest" title="Ozzfest">Ozzfest</a>
+<ul><li><a href="/wiki/Ozzfest_lineups_by_year" title="Ozzfest lineups by year">Ozzfest lineups by year</a></li></ul></li>
+<li><a href="/wiki/Merry_Mayhem_Tour" title="Merry Mayhem Tour">Merry Mayhem Tour</a></li>
+<li><a href="/wiki/Ozzy_and_Friends_Tour" title="Ozzy and Friends Tour">Ozzy and Friends Tour</a></li>
+<li><a href="/wiki/No_More_Tours_II" title="No More Tours II">No More Tours II</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><a href="/wiki/List_of_Ozzy_Osbourne_members" title="List of Ozzy Osbourne members">Former band members</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks vcard navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Guitarists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Randy_Rhoads" title="Randy Rhoads">Randy Rhoads</a></li>
+<li><a href="/wiki/Bernie_Torm%C3%A9" title="Bernie Tormé">Bernie Tormé</a></li>
+<li><a href="/wiki/Brad_Gillis" title="Brad Gillis">Brad Gillis</a></li>
+<li><a href="/wiki/Jake_E._Lee" title="Jake E. Lee">Jake E. Lee</a></li>
+<li><a href="/wiki/Steve_Vai" title="Steve Vai">Steve Vai</a></li>
+<li><a class="mw-selflink selflink">Alex Skolnick</a></li>
+<li><a href="/wiki/Joe_Holmes" title="Joe Holmes">Joe Holmes</a></li>
+<li><a href="/wiki/Jerry_Cantrell" title="Jerry Cantrell">Jerry Cantrell</a></li>
+<li><a href="/wiki/Gus_G" title="Gus G">Gus G</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Bassists</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bob_Daisley" title="Bob Daisley">Bob Daisley</a></li>
+<li><a href="/wiki/Rudy_Sarzo" title="Rudy Sarzo">Rudy Sarzo</a></li>
+<li><a href="/wiki/Pete_Way" title="Pete Way">Pete Way</a></li>
+<li><a href="/wiki/Phil_Soussan" title="Phil Soussan">Phil Soussan</a></li>
+<li><a href="/wiki/Geezer_Butler" title="Geezer Butler">Geezer Butler</a></li>
+<li><a href="/wiki/Mike_Inez" title="Mike Inez">Mike Inez</a></li>
+<li><a href="/wiki/James_LoMenzo" title="James LoMenzo">James LoMenzo</a></li>
+<li><a href="/wiki/Robert_Trujillo" title="Robert Trujillo">Robert Trujillo</a></li>
+<li><a href="/wiki/Jason_Newsted" title="Jason Newsted">Jason Newsted</a></li>
+<li><a href="/wiki/Chris_Wyse" title="Chris Wyse">Chris Wyse</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Drummers</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lee_Kerslake" title="Lee Kerslake">Lee Kerslake</a></li>
+<li><a href="/wiki/Tommy_Aldridge" title="Tommy Aldridge">Tommy Aldridge</a></li>
+<li><a href="/wiki/Carmine_Appice" title="Carmine Appice">Carmine Appice</a></li>
+<li><a href="/wiki/Randy_Castillo" title="Randy Castillo">Randy Castillo</a></li>
+<li><a href="/wiki/Deen_Castronovo" title="Deen Castronovo">Deen Castronovo</a></li>
+<li><a href="/wiki/Mike_Bordin" title="Mike Bordin">Mike Bordin</a></li>
+<li><a href="/wiki/Brian_Tichy" title="Brian Tichy">Brian Tichy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Keyboardists</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Don_Airey" title="Don Airey">Don Airey</a></li>
+<li><a href="/wiki/John_Sinclair_(musician)" title="John Sinclair (musician)">John Sinclair</a></li>
+<li><a href="/wiki/Rick_Wakeman" title="Rick Wakeman">Rick Wakeman</a></li>
+<li><a href="/wiki/Michael_Beinhorn" title="Michael Beinhorn">Michael Beinhorn</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Books</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Ordinary_People:_Our_Story" title="Ordinary People: Our Story">Ordinary People: Our Story</a></i></li>
+<li><i><a href="/wiki/I_Am_Ozzy" title="I Am Ozzy">I Am Ozzy</a></i></li>
+<li><i><a href="/wiki/Trust_Me,_I%27m_Dr._Ozzy" title="Trust Me, I&#39;m Dr. Ozzy">Trust Me, I'm Dr. Ozzy</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Ozzy_Osbourne_discography" title="Ozzy Osbourne discography">Discography</a></li>
+<li><a href="/wiki/Black_Sabbath" title="Black Sabbath">Black Sabbath</a></li>
+<li><a href="/wiki/Ozzfest" title="Ozzfest">Ozzfest</a></li>
+<li><i><a href="/wiki/The_Osbournes" title="The Osbournes">The Osbournes</a></i></li>
+<li><i><a href="/wiki/Savage_Skies" title="Savage Skies">Savage Skies</a></i></li>
+<li class="mw-empty-elt"></li></ul></div><table class="nowraplinks vcard navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Family_members" scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Family members</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<li><a href="/wiki/Sharon_Osbourne" title="Sharon Osbourne">Sharon Osbourne</a></li>
+<li><a href="/wiki/Aimee_Osbourne" title="Aimee Osbourne">Aimee Osbourne</a></li>
+<li><a href="/wiki/Kelly_Osbourne" title="Kelly Osbourne">Kelly Osbourne</a></li>
+<li><a href="/wiki/Jack_Osbourne" title="Jack Osbourne">Jack Osbourne</a></li>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><span class="noviewer" typeof="mw:File"><span title="Category"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/Category:Ozzy_Osbourne" title="Category:Ozzy Osbourne">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q443818#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q443818#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q443818#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000076065960">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/103658398">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/10079000">Norway</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb142279448">France</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb142279448">BnF data</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2009168011">United States</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0197550&amp;CON_LNG=ENG">Czech Republic</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/47641f4f-f92a-4a68-bf4b-d94d9df9c5d7">MusicBrainz</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/170032922">IdRef</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2375
+Cached time: 20230917222933
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.554 seconds
+Real time usage: 0.717 seconds
+Preprocessor visited node count: 4381/1000000
+Post‐expand include size: 171575/2097152 bytes
+Template argument size: 15457/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 129531/5000000 bytes
+Lua time usage: 0.297/10.000 seconds
+Lua memory usage: 9836055/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  594.708      1 -total
+ 33.35%  198.311      1 Template:Reflist
+ 26.00%  154.639     28 Template:Cite_web
+ 21.66%  128.812      1 Template:Infobox_musical_artist
+ 19.22%  114.320      1 Template:Infobox
+ 13.79%   82.026      6 Template:Navbox
+ 13.29%   79.036      5 Template:Navbox_musical_artist
+ 12.12%   72.067      2 Template:Short_description
+  8.85%   52.657      1 Template:Testament
+  7.75%   46.100      2 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1628509-0!canonical and timestamp 20230917222933 and revision id 1173586387. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alex_Skolnick&amp;oldid=1173586387">https://en.wikipedia.org/w/index.php?title=Alex_Skolnick&amp;oldid=1173586387</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1968_births" title="Category:1968 births">1968 births</a></li><li><a href="/wiki/Category:20th-century_American_guitarists" title="Category:20th-century American guitarists">20th-century American guitarists</a></li><li><a href="/wiki/Category:American_heavy_metal_guitarists" title="Category:American heavy metal guitarists">American heavy metal guitarists</a></li><li><a href="/wiki/Category:American_male_guitarists" title="Category:American male guitarists">American male guitarists</a></li><li><a href="/wiki/Category:California_Democrats" title="Category:California Democrats">California Democrats</a></li><li><a href="/wiki/Category:Guitarists_from_California" title="Category:Guitarists from California">Guitarists from California</a></li><li><a href="/wiki/Category:Jazz-rock_guitarists" title="Category:Jazz-rock guitarists">Jazz-rock guitarists</a></li><li><a href="/wiki/Category:Jewish_American_musicians" title="Category:Jewish American musicians">Jewish American musicians</a></li><li><a href="/wiki/Category:Jewish_heavy_metal_musicians" title="Category:Jewish heavy metal musicians">Jewish heavy metal musicians</a></li><li><a href="/wiki/Category:Lead_guitarists" title="Category:Lead guitarists">Lead guitarists</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Musicians_from_Berkeley,_California" title="Category:Musicians from Berkeley, California">Musicians from Berkeley, California</a></li><li><a href="/wiki/Category:Palmetto_Records_artists" title="Category:Palmetto Records artists">Palmetto Records artists</a></li><li><a href="/wiki/Category:Savatage_members" title="Category:Savatage members">Savatage members</a></li><li><a href="/wiki/Category:Testament_(band)_members" title="Category:Testament (band) members">Testament (band) members</a></li><li><a href="/wiki/Category:The_Ozzy_Osbourne_Band_members" title="Category:The Ozzy Osbourne Band members">The Ozzy Osbourne Band members</a></li><li><a href="/wiki/Category:Trans-Siberian_Orchestra_members" title="Category:Trans-Siberian Orchestra members">Trans-Siberian Orchestra members</a></li><li><a href="/wiki/Category:Magna_Carta_Records_artists" title="Category:Magna Carta Records artists">Magna Carta Records artists</a></li><li><a href="/wiki/Category:Roadrunner_Records_artists" title="Category:Roadrunner Records artists">Roadrunner Records artists</a></li><li><a href="/wiki/Category:Nuclear_Blast_artists" title="Category:Nuclear Blast artists">Nuclear Blast artists</a></li><li><a href="/wiki/Category:Metal_Allegiance_members" title="Category:Metal Allegiance members">Metal Allegiance members</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:ArtistShare_artists" title="Category:ArtistShare artists">ArtistShare artists</a></li><li><a href="/wiki/Category:Thrash_metal_musicians" title="Category:Thrash metal musicians">Thrash metal musicians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_June_2015" title="Category:Use mdy dates from June 2015">Use mdy dates from June 2015</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2017" title="Category:Articles with unsourced statements from June 2017">Articles with unsourced statements from June 2017</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BIBSYS_identifiers" title="Category:Articles with BIBSYS identifiers">Articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_NKC_identifiers" title="Category:Articles with NKC identifiers">Articles with NKC identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Articles_with_SUDOC_identifiers" title="Category:Articles with SUDOC identifiers">Articles with SUDOC identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 3 September 2023, at 11:07<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alex_Skolnick&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1419","wgBackendResponseTime":102,"wgPageParseReport":{"limitreport":{"cputime":"0.554","walltime":"0.717","ppvisitednodes":{"value":4381,"limit":1000000},"postexpandincludesize":{"value":171575,"limit":2097152},"templateargumentsize":{"value":15457,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":129531,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  594.708      1 -total"," 33.35%  198.311      1 Template:Reflist"," 26.00%  154.639     28 Template:Cite_web"," 21.66%  128.812      1 Template:Infobox_musical_artist"," 19.22%  114.320      1 Template:Infobox"," 13.79%   82.026      6 Template:Navbox"," 13.29%   79.036      5 Template:Navbox_musical_artist"," 12.12%   72.067      2 Template:Short_description","  8.85%   52.657      1 Template:Testament","  7.75%   46.100      2 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.297","limit":"10.000"},"limitreport-memusage":{"value":9836055,"limit":52428800}},"cachereport":{"origin":"mw2375","timestamp":"20230917222933","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Alex Skolnick","url":"https:\/\/en.wikipedia.org\/wiki\/Alex_Skolnick","sameAs":"http:\/\/www.wikidata.org\/entity\/Q443818","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q443818","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-20T21:40:01Z","dateModified":"2023-09-03T11:07:39Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/2017_Testament_-_Alex_Skolnick_-_by_2eight_-_DSC9140.jpg","headline":"American guitarist"}</script>
+</body>
+</html>

@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Pete Rock - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"e23d7173-85ef-45d3-80f7-b4eb5025adfa","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pete_Rock","wgTitle":"Pete Rock","wgCurRevisionId":1166591871,"wgRevisionId":1166591871,"wgArticleId":935728,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description matches Wikidata","Use mdy dates from April 2021","Short description is different from Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","All articles with unsourced statements","Articles with unsourced statements from May 2021","Official website different in Wikidata and Wikipedia","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with GND identifiers",
+"Articles with LCCN identifiers","Articles with MusicBrainz identifiers","Articles with SUDOC identifiers","Pete Rock","1970 births","Living people","American rappers of Jamaican descent","American hip hop DJs","African-American DJs","American hip hop record producers","East Coast hip hop musicians","Five percenters","Musicians from Mount Vernon, New York","Rappers from the Bronx","Record producers from New York (state)","Underground rappers","21st-century American rappers","Mount Vernon High School (New York) alumni","Barely Breaking Even artists"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Pete_Rock","wgRelevantArticleId":935728,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,
+"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q707990","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/eb/Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="797">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg/800px-Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="531">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg/640px-Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="425">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Pete Rock - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Pete_Rock">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pete_Rock&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pete_Rock">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Pete_Rock rootpage-Pete_Rock skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pete+Rock" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pete+Rock" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pete+Rock" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pete+Rock" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Biography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Biography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Biography</div>
+		</a>
+		
+			<button aria-controls="toc-Biography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Biography subsection</span>
+			</button>
+		
+		<ul id="toc-Biography-sublist" class="vector-toc-list">
+			<li id="toc-Early_life"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Early_life">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Early life</div>
+			</a>
+			
+			<ul id="toc-Early_life-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Solo_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Solo_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Solo career</div>
+		</a>
+		
+		<ul id="toc-Solo_career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Affiliates"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Affiliates">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Affiliates</div>
+		</a>
+		
+			<button aria-controls="toc-Affiliates-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Affiliates subsection</span>
+			</button>
+		
+		<ul id="toc-Affiliates-sublist" class="vector-toc-list">
+			<li id="toc-Proteges"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Proteges">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Proteges</div>
+			</a>
+			
+			<ul id="toc-Proteges-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Relationship_with_CL_Smooth"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Relationship_with_CL_Smooth">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Relationship with CL Smooth</div>
+			</a>
+			
+			<ul id="toc-Relationship_with_CL_Smooth-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Musical_style"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Musical_style">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Musical style</div>
+		</a>
+		
+			<button aria-controls="toc-Musical_style-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Musical style subsection</span>
+			</button>
+		
+		<ul id="toc-Musical_style-sublist" class="vector-toc-list">
+			<li id="toc-Production"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Production">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Production</div>
+			</a>
+			
+			<ul id="toc-Production-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Remixes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Remixes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Remixes</div>
+			</a>
+			
+			<ul id="toc-Remixes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Influence"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Influence">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>Influence</div>
+			</a>
+			
+			<ul id="toc-Influence-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Pete Rock</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 17 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-17" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">17 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%B1%D9%88%D9%83" title="بيت روك – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%A8%DB%8C%D8%AA_%D8%B1%D9%88%DA%A9" title="بیت روک – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%98_%D7%A8%D7%95%D7%A7" title="פיט רוק – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%B1%D9%88%D9%83" title="بيت روك – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%BC%E3%83%88%E3%83%BB%E3%83%AD%E3%83%83%E3%82%AF" title="ピート・ロック – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%82_%D0%A0%D0%BE%D0%BA" title="Пит Рок – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Pete_Rock" title="Pete Rock – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q707990#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Pete_Rock" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Pete_Rock" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Pete_Rock"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Pete_Rock&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Pete_Rock&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Pete_Rock"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Pete_Rock&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Pete_Rock&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Pete_Rock" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Pete_Rock" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Pete_Rock&amp;oldid=1166591871" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Pete_Rock&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pete_Rock&amp;id=1166591871&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q707990" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Pete_Rock&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Pete_Rock&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Pete_Rock" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American hip hop producer</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Pete Rock</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Pete_Rock_@_The_Brookyln_Bowl_in_2016.jpg" class="mw-file-description" title="Rock performing at Rahzel and Friends, Brooklyn Bowl, 2016"><img alt="Rock performing at Rahzel and Friends, Brooklyn Bowl, 2016" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg/280px-Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg" decoding="async" width="280" height="186" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg/420px-Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg/560px-Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg 2x" data-file-width="1000" data-file-height="664" /></a></span><div class="infobox-caption">Rock performing at Rahzel and Friends,<br /><a href="/wiki/Brooklyn_Bowl" title="Brooklyn Bowl">Brooklyn Bowl</a>, 2016</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Peter O. Phillips<sup id="cite_ref-amoeba.com_1-0" class="reference"><a href="#cite_note-amoeba.com-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname">Soul Brother #1<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><br />The Chocolate Boy Wonder<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1970-06-21</span>) </span>June 21, 1970<span class="noprint ForceAgeToShow"> (age&#160;53)</span><br /><a href="/wiki/New_York_City" title="New York City">New York City</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a></li><li><a href="/wiki/Alternative_hip_hop" title="Alternative hip hop">alternative hip hop</a></li><li><a href="/wiki/Experimental_hip_hop" class="mw-redirect" title="Experimental hip hop">experimental hip hop</a></li><li><a href="/wiki/Jazz_rap" title="Jazz rap">jazz rap</a></li><li><a href="/wiki/Turntablism" title="Turntablism">turntablism</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Music producer</li><li>DJ</li><li>rapper</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1987–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Babygrande_Records" title="Babygrande Records">Babygrande</a></li><li><a href="/wiki/Elektra_Records" title="Elektra Records">Elektra</a></li><li><a href="/wiki/Loud_Records" title="Loud Records">Loud</a></li><li>Rapster/<a href="/wiki/BBE_Records" class="mw-redirect" title="BBE Records">BBE</a></li><li><a href="/wiki/Nature_Sounds" title="Nature Sounds">Nature Sounds</a></li><li><a href="/wiki/Mello_Music_Group" title="Mello Music Group">Mello</a></li><li>Tru Soul</li></ul></div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Peter O. Phillips<sup id="cite_ref-amoeba.com_1-1" class="reference"><a href="#cite_note-amoeba.com-1">&#91;1&#93;</a></sup></b> (born June 21, 1970),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> better known by his stage name <b>Pete Rock</b>, is an American music producer, <a href="/wiki/DJ" class="mw-redirect" title="DJ">DJ</a> and <a href="/wiki/Rapping" title="Rapping">rapper</a>. He is widely recognized as one of the greatest hip hop producers of all time,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> and is often mentioned alongside <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, <a href="/wiki/RZA" title="RZA">RZA</a>, and <a href="/wiki/Q-Tip_(musician)" title="Q-Tip (musician)">Q-Tip</a> as one of the mainstays of 1990s <a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a> production. He rose to prominence in the early 1990s as one half of the critically acclaimed group <a href="/wiki/Pete_Rock_%26_CL_Smooth" title="Pete Rock &amp; CL Smooth">Pete Rock &amp; CL Smooth</a>. Early on in his career, he was also famed for his remix work.
+</p><p>After the duo went their separate ways, Rock continued with a solo career that has garnered him worldwide respect, though little in the way of mainstream success.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Along with groups such as <a href="/wiki/Stetsasonic" title="Stetsasonic">Stetsasonic</a>, <a href="/wiki/Gang_Starr" title="Gang Starr">Gang Starr</a>, <a href="/wiki/A_Tribe_Called_Quest" title="A Tribe Called Quest">A Tribe Called Quest</a> and <a href="/wiki/The_Roots" title="The Roots">The Roots</a>, Rock played a major role in the merging of elements from <a href="/wiki/Jazz" title="Jazz">jazz</a> into hip hop music (also known as <a href="/wiki/Jazz_rap" title="Jazz rap">jazz rap</a>). Pete Rock is also the older brother and younger cousin, respectively, of rappers <a href="/wiki/Grap_Luva" class="mw-redirect" title="Grap Luva">Grap Luva</a> and <a href="/wiki/Heavy_D" title="Heavy D">Heavy D</a>.<sup id="cite_ref-Henry_Adaso_8_7-0" class="reference"><a href="#cite_note-Henry_Adaso_8-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=2" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pete Rock was born in <a href="/wiki/The_Bronx" title="The Bronx">The Bronx</a> in <a href="/wiki/New_York_City,_New_York" class="mw-redirect" title="New York City, New York">New York City, New York</a><sup id="cite_ref-peterock.tribe.net_9-0" class="reference"><a href="#cite_note-peterock.tribe.net-9">&#91;9&#93;</a></sup> the fourth of five children born to <a href="/wiki/Jamaica" title="Jamaica">Jamaican</a> immigrant parents.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> His family moved to <a href="/wiki/Mount_Vernon,_New_York" title="Mount Vernon, New York">Mount Vernon, New York</a> when he was seven years old. During high school, he met his future recording partner <a href="/wiki/CL_Smooth" title="CL Smooth">CL Smooth</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2021)">citation needed</span></a></i>&#93;</sup> He briefly attended <a href="/wiki/John_Jay_College_of_Criminal_Justice" title="John Jay College of Criminal Justice">John Jay College of Criminal Justice</a> but was not a serious student and left to focus on his music career.<sup id="cite_ref-Complex_11-0" class="reference"><a href="#cite_note-Complex-11">&#91;11&#93;</a></sup> According to Rock, his father was also a part-time DJ who had an impressive record collection. Rock would often accompany his father to a <a href="/wiki/Cricket" title="Cricket">cricket</a> club called Wembley in The Bronx and watch as he spun records for the guests.<sup id="cite_ref-peterock.tribe.net_9-1" class="reference"><a href="#cite_note-peterock.tribe.net-9">&#91;9&#93;</a></sup> His first job was as a <a href="/wiki/Paperboy_(newspaper_delivery)" class="mw-redirect" title="Paperboy (newspaper delivery)">paperboy</a>, in his neighborhood.<sup id="cite_ref-peterock.tribe.net_9-2" class="reference"><a href="#cite_note-peterock.tribe.net-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Solo_career">Solo career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=3" title="Edit section: Solo career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/File:Pete_Rock_at_Launch_Party.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pete_Rock_at_Launch_Party.jpg/170px-Pete_Rock_at_Launch_Party.jpg" decoding="async" width="170" height="255" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pete_Rock_at_Launch_Party.jpg/255px-Pete_Rock_at_Launch_Party.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pete_Rock_at_Launch_Party.jpg/340px-Pete_Rock_at_Launch_Party.jpg 2x" data-file-width="3744" data-file-height="5616" /></a><figcaption>Pete Rock performing at <a href="/wiki/Marvel_Comics" title="Marvel Comics">Marvel</a>/<a href="/wiki/St%C3%BCssy" title="Stüssy">Stüssy</a> launch party in Los Angeles, 2011</figcaption></figure>
+<p>Rock oversaw the production of <i><a href="/wiki/Jay_Stay_Paid" title="Jay Stay Paid">Jay Stay Paid</a></i>, a posthumous album by the producer <a href="/wiki/J_Dilla" title="J Dilla">J Dilla</a>, released June 2, 2009, on <a href="/wiki/Nature_Sounds" title="Nature Sounds">Nature Sounds</a>. Following that, Pete Rock joined <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> in Hawaii, who traveled there to work on the latter's fifth album, <i><a href="/wiki/My_Beautiful_Dark_Twisted_Fantasy" title="My Beautiful Dark Twisted Fantasy">My Beautiful Dark Twisted Fantasy</a></i>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> In addition, he and <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a> have announced that they are working on a joint album together, although further details are unknown.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> In London, he confirmed that <a href="/wiki/Big_Pooh" title="Big Pooh">Big Pooh</a> and <a href="/wiki/C.L._Smooth" class="mw-redirect" title="C.L. Smooth">C.L. Smooth</a> will be on his half of the VS album and he planned on releasing five albums in 2011, including reuniting with C.L. Smooth for a third album, and dropping his fourth album on <a href="/wiki/Nature_Sounds" title="Nature Sounds">Nature Sounds</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> His next few collaborative albums are both due for a summer release with <a href="/wiki/Monumental_(album)" title="Monumental (album)">Monumental</a> first then with <a href="/wiki/Camp_Lo" title="Camp Lo">Camp Lo</a>'s "80 Blocks From Tiffanys" LP.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> In an April 2011 interview on Conspiracy Worldwide Radio, Pete Rock discussed his new solo work including his album with <a href="/wiki/DJ_Premier" title="DJ Premier">DJ Premier</a>, as well as exploring the fact that he has had numerous beats rejected by <a href="/wiki/Eminem" title="Eminem">Eminem</a> over the years <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> Pete Rock Uncensored Radio Interview. In an August 2011 interview, he has confirmed the completion of the <a href="/wiki/Camp_Lo" title="Camp Lo">Camp Lo</a> album "80 Blocks from Tiffany's" and that he is currently working on production for <a href="/wiki/Torae" title="Torae">Torae</a>'s album, <a href="/wiki/Elzhi" title="Elzhi">Elzhi</a> &amp; his own solo album <i><a href="/wiki/PeteStrumentals_2" title="PeteStrumentals 2">PeteStrumentals 2</a></i>. Pete Rock announced on Twitter that <i><a href="/wiki/PeteStrumentals_2" title="PeteStrumentals 2">PeteStrumentals 2</a></i> is indeed confirmed finished and scheduled for a 2015 release.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The project was released on June 23, 2015, on the indie label <a href="/wiki/Mello_Music_Group" title="Mello Music Group">Mello Music Group</a>. On January 2, 2019, Rock posted a trailer video on his Instagram page announcing that new works will be coming soon, including <i><a href="/wiki/Return_of_the_SP1200" title="Return of the SP1200">Return of the SP1200</a></i> (which was released on April 13, 2019, exclusively on <a href="/wiki/Phonograph_record" title="Phonograph record">vinyl</a> (<a href="/wiki/Record_Store_Day" title="Record Store Day">Record Store Day</a>)<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> and released digitally on April 26, 2019), <i>PeteStrumentals 3</i> (a continuation to 2001's <i><a href="/wiki/PeteStrumentals" title="PeteStrumentals">PeteStrumentals</a></i> and 2015's <i><a href="/wiki/PeteStrumentals_2" title="PeteStrumentals 2">2</a></i>), <i>Don't Smoke Rock 2</i> (also a continuation to <i><a href="/wiki/Don%27t_Smoke_Rock" title="Don&#39;t Smoke Rock">Don't Smoke Rock</a></i>) featuring <a href="/wiki/Smoke_DZA" title="Smoke DZA">Smoke DZA</a>, and an album with rapper <a href="/wiki/Skyzoo" title="Skyzoo">Skyzoo</a>.<sup id="cite_ref-:0_19-0" class="reference"><a href="#cite_note-:0-19">&#91;19&#93;</a></sup> Rock confirms to <a href="/wiki/Okayplayer" title="Okayplayer">Okayplayer</a> that he is working on his sixth instrumental album called <i>PeteStrumentals 4</i>, another continuation to Rock's previous PeteStrumentals series releases.<sup id="cite_ref-auto_20-0" class="reference"><a href="#cite_note-auto-20">&#91;20&#93;</a></sup> The project was finished on June 30 and it's scheduled for a 2022 release on Tru Soul records.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> The project was released on March 31, 2022.<sup id="cite_ref-NEW_PETESTRUMENTALS_4_DROPS_MARCH_3_22-0" class="reference"><a href="#cite_note-NEW_PETESTRUMENTALS_4_DROPS_MARCH_3-22">&#91;22&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Affiliates">Affiliates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=4" title="Edit section: Affiliates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Proteges">Proteges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=5" title="Edit section: Proteges">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Through the years, Rock has helped to jump-start the careers of several artists. His first project outside of Pete Rock &amp; CL Smooth was the hardcore duo <a href="/wiki/YG%27z" title="YG&#39;z">YG'z</a>, who released an <a href="/wiki/Extended_play" title="Extended play">EP</a> called <i>Street Nigga</i> in 1993, with four out of the six tracks produced by Rock; however, they were quickly dropped from their deal with Reprise Records. His next venture, <a href="/wiki/INI_(hip_hop_group)" class="mw-redirect" title="INI (hip hop group)">INI</a>, was a group featuring Rock, his younger brother <a href="/wiki/Grap_Luva" class="mw-redirect" title="Grap Luva">Grap Luva</a>, <a href="/wiki/Rass_(rapper)" class="mw-redirect" title="Rass (rapper)">Ras G</a> and rapper <a href="/wiki/Rob-O" class="mw-redirect" title="Rob-O">Rob-O</a>. They released a single, "Fakin' Jax", through <a href="/wiki/Elektra_Records" title="Elektra Records">Elektra Records</a> in 1995, before their debut album, <i><a href="/wiki/Lost_%26_Found:_Hip_Hop_Underground_Soul_Classics" title="Lost &amp; Found: Hip Hop Underground Soul Classics">Center of Attention</a></i>, was shelved by the label. The other two members continue to record solo material, albeit only sporadically. In an interview Rock elaborated on the situation:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r996844942">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>We finished the album, turned it into Elektra and they never put it out, they only put out a single. <a href="/wiki/Sylvia_Rhone" title="Sylvia Rhone">Sylvia [Rhone]</a> really didn't cooperate, she didn't break bread with me when it came down to resolving that. It was all about her changing everything around. She wanted to change my whole sound. When she said, "You gotta make a beat like <a href="/wiki/Sean_Combs" title="Sean Combs">Puffy</a>", I just knew it wasn't going to work out.<sup id="cite_ref-peterock.tribe.net_9-3" class="reference"><a href="#cite_note-peterock.tribe.net-9">&#91;9&#93;</a></sup></p></blockquote>
+<h3><span class="mw-headline" id="Relationship_with_CL_Smooth">Relationship with CL Smooth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=6" title="Edit section: Relationship with CL Smooth">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since their split in 1995, Pete Rock's relationship with CL Smooth has been highly unpredictable. Although the pair briefly united for the reflective "Da Two" from Rock's <i>Soul Survivor</i> album in 1998, they avoided entertaining requests for a reunion album until 2001, when they once again teamed up for "Back on Da Block" from Rock's <i>PeteStrumentals</i>. In their interviews during this period, it appeared as though a new album was underway. As Rock would explain:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r996844942"><blockquote class="templatequote"><p>We've been on tour, we know every rhymer and producer in this business. We've influenced people, even people we've never met have said that we changed the face of hip-hop. So we're going to try to do some more.<sup id="cite_ref-peterock.tribe.net_9-4" class="reference"><a href="#cite_note-peterock.tribe.net-9">&#91;9&#93;</a></sup></p></blockquote>
+<p>The pair went on a short international tour culminating in their well-received show at London's Jazz Cafe; however, soon after this they declined to comment any further on the new album, which never materialized (although Smooth did make three separate appearances on <i>Soul Survivor II</i>).  Eventually, Smooth would confirm rumors of a rift in an interview with AllHipHop.com,<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> in which he appeared angry and frustrated with his former partner, saying "I didn't ask him to be a superhero" and "I'm not the problem". In an interview taken in December 2006, Rock ruled out any further collaborations with Smooth but stated that he holds no grudges against his former partner.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Musical_style">Musical style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=7" title="Edit section: Musical style">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=8" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:E-mu_SP-1200_(111607sp1200).jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/E-mu_SP-1200_%28111607sp1200%29.jpg/220px-E-mu_SP-1200_%28111607sp1200%29.jpg" decoding="async" width="220" height="175" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/E-mu_SP-1200_%28111607sp1200%29.jpg/330px-E-mu_SP-1200_%28111607sp1200%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/46/E-mu_SP-1200_%28111607sp1200%29.jpg 2x" data-file-width="400" data-file-height="319" /></a><figcaption>An <a href="/wiki/E-mu_SP-1200" title="E-mu SP-1200">E-mu SP-1200</a> that Pete Rock used to create music and beats on one of his many early recordings</figcaption></figure>
+<p>Pete Rock creates beats from samples, the majority of which are taken from obscure <a href="/wiki/Rhythm_and_blues" title="Rhythm and blues">R&amp;B</a>, <a href="/wiki/Funk_music" class="mw-redirect" title="Funk music">funk</a>, and <a href="/wiki/Jazz_music" class="mw-redirect" title="Jazz music">jazz</a> records. This paying true homage to the Black American musical traditions that are the foundation and origins of Hip-Hop music. Early on in his career he would also sample drum breaks such as <a href="/wiki/Black_Heat" title="Black Heat">Black Heat</a>'s "Zimba Ku" for <a href="/wiki/Heavy_D_%26_The_Boyz" class="mw-redirect" title="Heavy D &amp; The Boyz">Heavy D &amp; The Boyz</a>'s "Letter To The Future". Pete Rock heavily used the <a href="/wiki/E-mu_SP-1200" title="E-mu SP-1200">E-mu SP-1200</a> as well as the <a href="/wiki/Akai_S900" title="Akai S900">Akai S950</a>—later moving onto using the MPC—for his productions. Pete Rock tends to use the samples as palettes for his beats, chopping (cutting the sample into smaller parts), filtering (altering the frequencies of the sample), and layering several samples, often within the same song. While this technique was applied long before Rock (on <a href="/wiki/De_La_Soul" title="De La Soul">De La Soul</a>'s <i><a href="/wiki/Three_Feet_High_and_Rising" class="mw-redirect" title="Three Feet High and Rising">Three Feet High and Rising</a></i> or the work of <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a> for example), Rock's work is distinctive for the way in which he uses samples to achieve a hazy, droning effect. He is also noted for his resonant basslines, horn samples, and gritty sounding drums. His beats often sound as though they were being played from an old <a href="/wiki/Gramophone_record" class="mw-redirect" title="Gramophone record">vinyl</a> record; he samples many of his sounds straight off these records.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> He frequently recorded at <a href="/wiki/Greene_St._Recording" title="Greene St. Recording">Greene St. Recording</a> in <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a>, having liked the <a href="/wiki/Equalization_(audio)" title="Equalization (audio)">equalizer</a> that was used there, which gave many of his productions a <a href="/wiki/Wah-wah_(music)" title="Wah-wah (music)">wah-wah</a> effect.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p><p>Another trait of his, more so in the earlier part of his career, is the way he uses horn samples to supplement his grooves. On "<a href="/wiki/They_Reminisce_Over_You_(T.R.O.Y.)" title="They Reminisce Over You (T.R.O.Y.)">They Reminisce Over You (T.R.O.Y.)</a>", Rock uses a horn sample from <a href="/wiki/Tom_Scott_(saxophonist)" class="mw-redirect" title="Tom Scott (saxophonist)">Tom Scott</a>'s "Today"; he has also used horns on  "Straighten It Out", <a href="/wiki/Public_Enemy_(band)" class="mw-redirect" title="Public Enemy (band)">Public Enemy</a>'s "Shut 'Em Down", <a href="/wiki/Rah_Digga" title="Rah Digga">Rah Digga</a>'s "What They Call Me", and A.D.O.R.'s "Let It All Hang Out".
+</p><p>Along with <a href="/wiki/Gang_Starr" title="Gang Starr">Gang Starr</a>, <a href="/wiki/The_Roots" title="The Roots">The Roots</a> and <a href="/wiki/A_Tribe_Called_Quest" title="A Tribe Called Quest">A Tribe Called Quest</a>, Pete Rock played a large role in the fusing of jazz and funk music into hip hop. The aforementioned "Reminisce..." withstanding, Rock used many jazz samples on his album <i>Mecca and The Soul Brother</i>, such as <a href="/wiki/Cannonball_Adderley" title="Cannonball Adderley">Cannonball Adderley</a>'s "Country Preacher", for the song "Return of the Mecca", or "Capricorn" for the song "In the House" from <i><a href="/wiki/The_Main_Ingredient_(Pete_Rock_%26_CL_Smooth_album)" title="The Main Ingredient (Pete Rock &amp; CL Smooth album)">The Main Ingredient</a></i>. Pete Rock's heavy use of intro and outro beats has also been widely influential. To introduce feature songs, he often plays a short instrumental excerpt, completely different from the rest of the song.  Aside from their role as transitions, these are widely regarded as a way of displaying his large collection and as a challenge to other hip-hop producers to identify the records that the <a href="/wiki/Break_(music)" title="Break (music)">breaks</a> come from.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> <i>Mecca &amp; the Soul Brother</i> and <i>The Main Ingredient</i> use intro/outro beats on nearly every track to great effect, and the tradition continues to the present on Rock's recent releases.
+</p>
+<h3><span class="mw-headline" id="Remixes">Remixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=9" title="Edit section: Remixes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>"Another Pete Rock Remix" is Pete Rock's trademark catchphrase, heard on countless singles that he has <a href="/wiki/Remix" title="Remix">remixed</a>. In addition to hip-hop artists he has done remix work for artists from other genres such as his 1995 remix of "<a href="/wiki/Before_You_Walk_Out_Of_My_Life" class="mw-redirect" title="Before You Walk Out Of My Life">Before You Walk Out Of My Life</a>" for <a href="/wiki/R%26B" class="mw-redirect" title="R&amp;B">R&amp;B</a> singer <a href="/wiki/Monica_(singer)" title="Monica (singer)">Monica</a>. In 1992 he collaborated with <a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a> on the <i><a href="/wiki/What%27s_the_411%3F" title="What&#39;s the 411?">What's the 411?</a></i> single "Reminisce", which utilized the same sample from his own single "They Reminisce Over You (T.R.O.Y.)". Rock claims to have done several high-profile remixes that remain unreleased, including one of <a href="/wiki/Madonna_(entertainer)" class="mw-redirect" title="Madonna (entertainer)">Madonna</a>'s "<a href="/wiki/Secret_(Madonna_song)" title="Secret (Madonna song)">Secret</a>".<sup id="cite_ref-autogenerated1_28-0" class="reference"><a href="#cite_note-autogenerated1-28">&#91;28&#93;</a></sup> He also claims to have produced the original beat for <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a>'s "<a href="/wiki/Juicy_(The_Notorious_B.I.G._song)" title="Juicy (The Notorious B.I.G. song)">Juicy</a>" and that it was recreated by <a href="/wiki/P._Diddy" class="mw-redirect" title="P. Diddy">P. Diddy</a> and Poke (of <a href="/wiki/Trackmasters_Entertainment" class="mw-redirect" title="Trackmasters Entertainment">Tone &amp; Poke</a> fame), without consent. However, he was invited to produce the remix, which utilizes the same sample as the original—<a href="/wiki/Mtume" title="Mtume">Mtume</a>'s "Juicy Fruit".<sup id="cite_ref-peterock.tribe.net_9-5" class="reference"><a href="#cite_note-peterock.tribe.net-9">&#91;9&#93;</a></sup> Although he received no official producer credit, he made the original demo beat for <a href="/wiki/A_Tribe_Called_Quest" title="A Tribe Called Quest">A Tribe Called Quest</a>'s "<a href="/wiki/Jazz_(We%27ve_Got)" title="Jazz (We&#39;ve Got)">Jazz (We've Got)</a>", which was then recreated by <a href="/wiki/Q-Tip_(musician)" title="Q-Tip (musician)">Q-Tip</a> on the album <i>The Low End Theory</i>.<sup id="cite_ref-peterock.tribe.net_9-6" class="reference"><a href="#cite_note-peterock.tribe.net-9">&#91;9&#93;</a></sup> He remixed <a href="/wiki/Public_Enemy_(band)" class="mw-redirect" title="Public Enemy (band)">Public Enemy</a>'s "Shut 'em Down" and "Nighttrain" in the same day, starting at 12pm and finishing at 12am.<sup id="cite_ref-peterock.tribe.net_9-7" class="reference"><a href="#cite_note-peterock.tribe.net-9">&#91;9&#93;</a></sup>
+</p><p>Up until 2003, he created all of his productions on the <a href="/wiki/E-mu_Systems" title="E-mu Systems">E-mu</a> SP-1200, thereafter using the <a href="/wiki/Akai" title="Akai">Akai</a> <a href="/wiki/Music_Production_Center" class="mw-redirect" title="Music Production Center">MPC2000XL</a>. He also has a collection of about 90,000 records and looks for records at least once a week.<sup id="cite_ref-peterock.tribe.net_9-8" class="reference"><a href="#cite_note-peterock.tribe.net-9">&#91;9&#93;</a></sup> Pete Rock was one of nine artists who participated in <a href="/wiki/Thetruth.com" class="mw-redirect" title="Thetruth.com">thetruth.com</a>'s Remix Project, where he remixed the Sunny Side song "Magical Amount".
+</p>
+<h3><span class="mw-headline" id="Influence">Influence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=10" title="Edit section: Influence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pete Rock himself being overwhelmingly influenced by Black American musical traditions of Soul, Jazz, and R&amp;B music, was able to pay it forward. Pete Rock has had a considerable impact on a number of record producers who have emerged in the hip hop scene since the late 1990s. Critics have favorably compared Detroit producer <a href="/wiki/J_Dilla" title="J Dilla">J Dilla</a> and North Carolina's <a href="/wiki/9th_Wonder" title="9th Wonder">9th Wonder</a> to Rock; both of them worked with Rock during their recording careers. Several of the comparisons stem from the fact that these producers have created the bulk of their productions out of samples, as well as the warm, mellow, and exuberant undertones apparent in their work. Pete Rock himself has added validation to the comparisons with J Dilla by stating "he's the only producer in this game that was just as serious [as me]."<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=11" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Pete_Rock_@_Sputnik_NYC.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pete_Rock_%40_Sputnik_NYC.jpg/220px-Pete_Rock_%40_Sputnik_NYC.jpg" decoding="async" width="220" height="377" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/a/a3/Pete_Rock_%40_Sputnik_NYC.jpg 1.5x" data-file-width="268" data-file-height="459" /></a><figcaption>Pete Rock in 2007</figcaption></figure>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Pete_Rock_production_discography" title="Pete Rock production discography">Pete Rock production discography</a></div>
+<p><b>Studio albums</b>
+</p>
+<ul><li><i><a href="/wiki/Soul_Survivor_(Pete_Rock_album)" title="Soul Survivor (Pete Rock album)">Soul Survivor</a></i> (1998)</li>
+<li><i><a href="/wiki/Soul_Survivor_II" title="Soul Survivor II">Soul Survivor II</a></i> (2004)</li>
+<li><i><a href="/wiki/NY%27s_Finest" title="NY&#39;s Finest">NY's Finest</a></i> (2008)</li>
+<li><i>Soul Survivor 3</i> (TBA)<sup id="cite_ref-HHDX_30-0" class="reference"><a href="#cite_note-HHDX-30">&#91;30&#93;</a></sup></li></ul>
+<p><b>Collaboration albums</b>
+</p>
+<ul><li><i><a href="/wiki/Mecca_and_the_Soul_Brother" title="Mecca and the Soul Brother">Mecca and the Soul Brother</a></i> <small>(with <a href="/wiki/CL_Smooth" title="CL Smooth">CL Smooth</a>)</small> (1992)</li>
+<li><i><a href="/wiki/The_Main_Ingredient_(Pete_Rock_%26_CL_Smooth_album)" title="The Main Ingredient (Pete Rock &amp; CL Smooth album)">The Main Ingredient</a></i> <small>(with CL Smooth)</small> (1994)</li>
+<li><i><a href="/wiki/My_Own_Worst_Enemy_(album)" title="My Own Worst Enemy (album)">My Own Worst Enemy</a></i> <small>(with <a href="/wiki/Ed_O.G." title="Ed O.G.">Ed O.G.</a>)</small> (2004)</li>
+<li><i>80 Blocks from Tiffany's</i> <small>(with <a href="/wiki/Camp_Lo" title="Camp Lo">Camp Lo</a>)</small> (2011)</li>
+<li><i><a href="/wiki/Monumental_(album)" title="Monumental (album)">Monumental</a></i> <small>(with <a href="/wiki/Smif-N-Wessun" title="Smif-N-Wessun">Smif-N-Wessun</a>)</small> (2011)</li>
+<li><i>80 Blocks from Tiffany's 2</i> <small>(with <a href="/wiki/Camp_Lo" title="Camp Lo">Camp Lo</a>)</small> (2013, re-released in 2020)</li>
+<li><i><a href="/wiki/Don%27t_Smoke_Rock" title="Don&#39;t Smoke Rock">Don't Smoke Rock</a></i> <small>(with <a href="/wiki/Smoke_DZA" title="Smoke DZA">Smoke DZA</a>)</small> (2016)</li>
+<li><i><a href="/wiki/Retropolitan" title="Retropolitan">Retropolitan</a></i> <small>(with <a href="/wiki/Skyzoo" title="Skyzoo">Skyzoo</a>)</small> (2019)</li>
+<li><i>21 Grams: Worth It's Weight In Soul</i> <small>(with AMXXR)</small> (2021)</li></ul>
+<p><b>Collaboration EPs</b>
+</p>
+<ul><li><i><a href="/wiki/All_Souled_Out" title="All Souled Out">All Souled Out</a></i> <small>(with CL Smooth)</small> (1991)</li>
+<li><i>The Basement Demos</i> <small>(with CL Smooth)</small> (2009)<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup></li>
+<li><i>C</i> <small>(with <a href="/wiki/Canibus" title="Canibus">Canibus</a>)</small> (2022)<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup></li></ul>
+<p><b>Instrumental albums</b>
+</p>
+<ul><li><i><a href="/wiki/PeteStrumentals" title="PeteStrumentals">PeteStrumentals</a></i> (2001)</li>
+<li><i><a href="/wiki/The_Surviving_Elements:_From_Soul_Survivor_II_Sessions" title="The Surviving Elements: From Soul Survivor II Sessions">The Surviving Elements: From Soul Survivor II Sessions</a></i> (2005)</li>
+<li><i><a href="/wiki/PeteStrumentals_2" title="PeteStrumentals 2">PeteStrumentals 2</a></i> (2015)</li>
+<li><i>Lost Sessions</i> (2017)</li>
+<li><i><a href="/wiki/Return_of_the_SP1200" title="Return of the SP1200">Return of the SP1200</a></i> (2019)<sup id="cite_ref-:0_19-1" class="reference"><a href="#cite_note-:0-19">&#91;19&#93;</a></sup></li>
+<li><i>PeteStrumentals 3</i> <small>(with the Soul Brothers)</small> (2020)<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup></li>
+<li><i>PeteStrumentals 4</i> (2022)<sup id="cite_ref-auto_20-1" class="reference"><a href="#cite_note-auto-20">&#91;20&#93;</a></sup><sup id="cite_ref-NEW_PETESTRUMENTALS_4_DROPS_MARCH_3_22-1" class="reference"><a href="#cite_note-NEW_PETESTRUMENTALS_4_DROPS_MARCH_3-22">&#91;22&#93;</a></sup></li>
+<li><i>Return of the SP1200 2</i> (2022)</li></ul>
+<p><b>Compilation albums</b>
+</p>
+<ul><li><i>Pete's Treats</i> (1999)</li>
+<li><i><a href="/wiki/Good_Life:_The_Best_of_Pete_Rock_%26_CL_Smooth" title="Good Life: The Best of Pete Rock &amp; CL Smooth">Good Life: The Best of Pete Rock &amp; CL Smooth</a></i> <small>(with CL Smooth)</small> (2003)</li>
+<li><i><a href="/wiki/Lost_%26_Found:_Hip_Hop_Underground_Soul_Classics" title="Lost &amp; Found: Hip Hop Underground Soul Classics">Lost &amp; Found: Hip Hop Underground Soul Classics</a></i> (2003)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-amoeba.com-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-amoeba.com_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-amoeba.com_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.amoeba.com/pete-rock/artist/62796">"Pete Rock Albums on CD &amp; Vinyl - Amoeba Music"</a>. <i>Amoeba.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 26,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Amoeba.com&amp;rft.atitle=Pete+Rock+Albums+on+CD+%26+Vinyl+-+Amoeba+Music&amp;rft_id=https%3A%2F%2Fwww.amoeba.com%2Fpete-rock%2Fartist%2F62796&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.20682/title.ab-soul-says-pete-rock-co-signed-his-soul-brother-no-2-nickname">"Ab-Soul Says Pete Rock Co-Signed His "Soul Brother No. 2" Nickname"</a>. <i>hiphopdx.com</i>. Cheri Media Group. August 5, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">February 19,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=hiphopdx.com&amp;rft.atitle=Ab-Soul+Says+Pete+Rock+Co-Signed+His+%22Soul+Brother+No.+2%22+Nickname&amp;rft.date=2012-08-05&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.20682%2Ftitle.ab-soul-says-pete-rock-co-signed-his-soul-brother-no-2-nickname&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIsenberg" class="citation web cs1">Isenberg, Daniel. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150910143717/http://nahright.com/news/in-the-lab-with-pete-rock/">"In The Lab With Pete Rock"</a>. <i>nahright.com</i>. Complex Music. Archived from <a rel="nofollow" class="external text" href="http://nahright.com/news/in-the-lab-with-pete-rock/">the original</a> on September 10, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">February 19,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nahright.com&amp;rft.atitle=In+The+Lab+With+Pete+Rock&amp;rft.aulast=Isenberg&amp;rft.aufirst=Daniel&amp;rft_id=http%3A%2F%2Fnahright.com%2Fnews%2Fin-the-lab-with-pete-rock%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120326010122/http://www.sing365.com/music/lyric.nsf/Pete-Rock-and-CL-Smooth-Biography/8806E29CAA7F9E3548256A34000B3A8B">"Pete Rock And Cl Smooth Biography"</a>. Sing365.com. Archived from <a rel="nofollow" class="external text" href="http://www.sing365.com/music/lyric.nsf/Pete-Rock-and-CL-Smooth-Biography/8806E29CAA7F9E3548256A34000B3A8B">the original</a> on March 26, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pete+Rock+And+Cl+Smooth+Biography&amp;rft.pub=Sing365.com&amp;rft_id=http%3A%2F%2Fwww.sing365.com%2Fmusic%2Flyric.nsf%2FPete-Rock-and-CL-Smooth-Biography%2F8806E29CAA7F9E3548256A34000B3A8B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070314201306/http://cratekings.com/top-50-greatest-producers-in-hip-hop-and-rap/">"Top 50 Greatest Producers In Hip Hop and Rap"</a>. Cratekings.com. January 25, 2007. Archived from <a rel="nofollow" class="external text" href="http://cratekings.com/top-50-greatest-producers-in-hip-hop-and-rap/">the original</a> on March 14, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Top+50+Greatest+Producers+In+Hip+Hop+and+Rap&amp;rft.pub=Cratekings.com&amp;rft.date=2007-01-25&amp;rft_id=http%3A%2F%2Fcratekings.com%2Ftop-50-greatest-producers-in-hip-hop-and-rap%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090108101713/http://www.soundslam.com/articles/news/news.php?news=080131_peterock">Pete Rock Enlisted As "NY's Finest"</a>, Web.archive.org, Retrieved January 31, 2008</span>
+</li>
+<li id="cite_note-Henry_Adaso_8-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Henry_Adaso_8_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAdaso" class="citation web cs1">Adaso, Henry. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150510054918/http://rap.about.com/od/toppicks/ss/Top50Producers_8.htm">"Top 50 Hip-Hop Producers"</a>. <i><a href="/wiki/About.com" class="mw-redirect" title="About.com">About.com</a></i>. p.&#160;8. Archived from <a rel="nofollow" class="external text" href="http://rap.about.com/od/toppicks/ss/Top50Producers_8.htm">the original</a> on May 10, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=About.com&amp;rft.atitle=Top+50+Hip-Hop+Producers&amp;rft.pages=8&amp;rft.aulast=Adaso&amp;rft.aufirst=Henry&amp;rft_id=http%3A%2F%2Frap.about.com%2Fod%2Ftoppicks%2Fss%2FTop50Producers_8.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080607025206/http://supertalk.superfuture.com/archive/index.php/t-1957.html">"Top 5 best hip-hop producers and WHY &#91;supertalk archive&#93; – superfuture&#160;:: supertalk"</a>. Archived from <a rel="nofollow" class="external text" href="http://supertalk.superfuture.com/archive/index.php/t-1957.html">the original</a> on June 7, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">June 26,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Top+5+best+hip-hop+producers+and+WHY+%5Bsupertalk+archive%5D+%E2%80%93+superfuture+%3A%3A+supertalk&amp;rft_id=http%3A%2F%2Fsupertalk.superfuture.com%2Farchive%2Findex.php%2Ft-1957.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-peterock.tribe.net-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-peterock.tribe.net_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-peterock.tribe.net_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-peterock.tribe.net_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-peterock.tribe.net_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-peterock.tribe.net_9-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-peterock.tribe.net_9-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-peterock.tribe.net_9-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-peterock.tribe.net_9-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-peterock.tribe.net_9-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120220125121/http://peterock.tribe.net/thread/032f66d2-a223-400c-a902-fe166be14676">"Wax Poetic interview – Pete Rock – tribe.net"</a>. Peterock.tribe.net. February 12, 2004. Archived from <a rel="nofollow" class="external text" href="http://peterock.tribe.net/thread/032f66d2-a223-400c-a902-fe166be14676">the original</a> on February 20, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wax+Poetic+interview+%E2%80%93+Pete+Rock+%E2%80%93+tribe.net&amp;rft.pub=Peterock.tribe.net&amp;rft.date=2004-02-12&amp;rft_id=http%3A%2F%2Fpeterock.tribe.net%2Fthread%2F032f66d2-a223-400c-a902-fe166be14676&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nature-sounds.net/artists/pete-rock/">Pete Rock.</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110308112931/http://nature-sounds.net/artists/pete-rock/">Archived</a> March 8, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Nature-sounds.net. Accessed on November 24, 2010.</span>
+</li>
+<li id="cite_note-Complex-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Complex_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDaniel_Isenberg2011" class="citation web cs1">Daniel Isenberg (June 9, 2011). <a rel="nofollow" class="external text" href="https://www.complex.com/music/2011/06/interview-pete-rock-classics/down-with-the-king">"Pete Rock Tells All: The Stories Behind His Classic Records"</a>. <i>Complex.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 24,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex.com&amp;rft.atitle=Pete+Rock+Tells+All%3A+The+Stories+Behind+His+Classic+Records&amp;rft.date=2011-06-09&amp;rft.au=Daniel+Isenberg&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2F2011%2F06%2Finterview-pete-rock-classics%2Fdown-with-the-king&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.prefixmag.com/news/good-ass-job-marks-kanye-wests-return-to-real-hip-/38897/">"<span class="cs1-kern-left"></span>'Good Ass Job' Marks Kanye West's Return to 'Real' Hip-Hop"</a>. <i>Prefix</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Prefix&amp;rft.atitle=%27Good+Ass+Job%27+Marks+Kanye+West%27s+Return+to+%27Real%27+Hip-Hop&amp;rft_id=http%3A%2F%2Fwww.prefixmag.com%2Fnews%2Fgood-ass-job-marks-kanye-wests-return-to-real-hip-%2F38897%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ballerstatus.com/2010/07/02/pete-rock-dj-premier-working-on-joint-album/">"Pete Rock, DJ Premier Working on an Album"</a>. BallerStatus.com. July 2, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pete+Rock%2C+DJ+Premier+Working+on+an+Album&amp;rft.pub=BallerStatus.com&amp;rft.date=2010-07-02&amp;rft_id=http%3A%2F%2Fwww.ballerstatus.com%2F2010%2F07%2F02%2Fpete-rock-dj-premier-working-on-joint-album%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20101217170001/http://www.thehiphopchronicle.com/2010/12/13/exclusive-pete-rock-interview-video/">"Exclusive: Pete Rock Interview (Video) &#124; the Hip Hop Chronicle UK"</a>. <i>www.thehiphopchronicle.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.thehiphopchronicle.com/2010/12/13/exclusive-pete-rock-interview-video/">the original</a> on December 17, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">January 17,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.thehiphopchronicle.com&amp;rft.atitle=Exclusive%3A+Pete+Rock+Interview+%28Video%29+%26%23124%3B+the+Hip+Hop+Chronicle+UK&amp;rft_id=http%3A%2F%2Fwww.thehiphopchronicle.com%2F2010%2F12%2F13%2Fexclusive-pete-rock-interview-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.soulculture.co.uk/blogs/camp-lo-x-pete-rock-release-80-blocks-from-tiffanys-mixtape-ahead-of-new-lp-free-download/">"Camp Lo x Pete Rock release 80 Blocks From Tiffany's mixtape ahead of new LP &#124; Free Download"</a>. SoulCulture. March 29, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Camp+Lo+x+Pete+Rock+release+80+Blocks+From+Tiffany%27s+mixtape+ahead+of+new+LP+%26%23124%3B+Free+Download&amp;rft.pub=SoulCulture&amp;rft.date=2011-03-29&amp;rft_id=http%3A%2F%2Fwww.soulculture.co.uk%2Fblogs%2Fcamp-lo-x-pete-rock-release-80-blocks-from-tiffanys-mixtape-ahead-of-new-lp-free-download%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://conspiracyworldwide.podomatic.com/entry/index/2011-04-02T08_37_17-07_00/">"PodOmatic &#124; Podcast - Conspiracy Worldwide Hip Hop Radio - &#91;Part 2&#93; *THE APRIL'S FOOLS GOLD SPECIAL* w/ live guests PETE ROCK - ZION I - THE GROUCH - LADY OF RAGE - MAYHEM LAUREN - ACTION BRONSON - CAMP LO - KEITH MURRAY - KOOL KEITH - METABEATS - THE CONTROVERSIAL KOOL KEITH "BETRAYAL" SONG and more!"</a>. Conspiracyworldwide.podomatic.com. April 2, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PodOmatic+%26%23124%3B+Podcast+-+Conspiracy+Worldwide+Hip+Hop+Radio+-+%5BPart+2%5D+%2ATHE+APRIL%27S+FOOLS+GOLD+SPECIAL%2A+w%2F+live+guests+PETE+ROCK+-+ZION+I+-+THE+GROUCH+-+LADY+OF+RAGE+-+MAYHEM+LAUREN+-+ACTION+BRONSON+-+CAMP+LO+-+KEITH+MURRAY+-+KOOL+KEITH+-+METABEATS+-+THE+CONTROVERSIAL+KOOL+KEITH+%22BETRAYAL%22+SONG+and+more%21&amp;rft.pub=Conspiracyworldwide.podomatic.com&amp;rft.date=2011-04-02&amp;rft_id=http%3A%2F%2Fconspiracyworldwide.podomatic.com%2Fentry%2Findex%2F2011-04-02T08_37_17-07_00%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREF@PeteRock2014" class="citation web cs1">@PeteRock (December 16, 2014). <a rel="nofollow" class="external text" href="https://twitter.com/PeteRock/status/544881039248994304">"Petestrumentals 2 top of 2015! Finished it last week. Now back to SS3 and maybe preemo pete rock lp can get finished too.Good food coming up"</a> (Tweet)<span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2017</span> &#8211; via <a href="/wiki/Twitter" title="Twitter">Twitter</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Petestrumentals+2+top+of+2015%21+Finished+it+last+week.+Now+back+to+SS3+and+maybe+preemo+pete+rock+lp+can+get+finished+too.Good+food+coming+up&amp;rft.date=2014-12-16&amp;rft.au=%40PeteRock&amp;rft_id=https%3A%2F%2Ftwitter.com%2FPeteRock%2Fstatus%2F544881039248994304&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREF@PeteRock2019" class="citation web cs1">@PeteRock (March 14, 2019). <a rel="nofollow" class="external text" href="https://twitter.com/PeteRock/status/1105633996686442496">"Im a 90's cat. To me its important that we hold on to this music with our lives and teach what needs to be taught.…"</a> (Tweet)<span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2019</span> &#8211; via <a href="/wiki/Twitter" title="Twitter">Twitter</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Im+a+90%E2%80%99s+cat.+To+me+its+important+that+we+hold+on+to+this+music+with+our+lives+and+teach+what+needs+to+be+taught.%E2%80%A6&amp;rft.date=2019-03-14&amp;rft.au=%40PeteRock&amp;rft_id=https%3A%2F%2Ftwitter.com%2FPeteRock%2Fstatus%2F1105633996686442496&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREF@PeteRock2019" class="citation web cs1">@PeteRock (January 2, 2019). <a rel="nofollow" class="external text" href="https://twitter.com/PeteRock/status/1080493532903813126">"And it starts 😃👍🏾💯 This will be my 1st release of 2019. The Return Of The SP1200 instrumental lp with beats from li…"</a> (Tweet)<span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2019</span> &#8211; via <a href="/wiki/Twitter" title="Twitter">Twitter</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=And+it+starts+%F0%9F%98%83%F0%9F%91%8D%F0%9F%8F%BE%F0%9F%92%AF+This+will+be+my+1st+release+of+2019.+The+Return+Of+The+SP1200+instrumental+lp+with+beats+from+li%E2%80%A6&amp;rft.date=2019-01-02&amp;rft.au=%40PeteRock&amp;rft_id=https%3A%2F%2Ftwitter.com%2FPeteRock%2Fstatus%2F1080493532903813126&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-auto-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.okayplayer.com/music/pete-rock-petestrumentals-3-j-dilla-interview.html">"Pete Rock on Why He Abandoned Samples for 'Petestrumentals 3'<span class="cs1-kern-right"></span>"</a>. <i>Okayplayer.com</i>. December 11, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">June 26,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Okayplayer.com&amp;rft.atitle=Pete+Rock+on+Why+He+Abandoned+Samples+for+%27Petestrumentals+3%27&amp;rft.date=2020-12-11&amp;rft_id=https%3A%2F%2Fwww.okayplayer.com%2Fmusic%2Fpete-rock-petestrumentals-3-j-dilla-interview.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.instagram.com/p/CQxRuUpLOOb/">"Tru Soul NYC on Instagram: "#Repost realpeterock --- P4 DONE 🙌🏾🔥 #TruSoul #TruSoulNYC #TruSoulRecords"<span class="cs1-kern-right"></span>"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tru+Soul+NYC+on+Instagram%3A+%22%23Repost+realpeterock+---+P4+DONE+%F0%9F%99%8C%F0%9F%8F%BE%F0%9F%94%A5+%23TruSoul+%23TruSoulNYC+%23TruSoulRecords%22&amp;rft_id=https%3A%2F%2Fwww.instagram.com%2Fp%2FCQxRuUpLOOb%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-NEW_PETESTRUMENTALS_4_DROPS_MARCH_3-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-NEW_PETESTRUMENTALS_4_DROPS_MARCH_3_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NEW_PETESTRUMENTALS_4_DROPS_MARCH_3_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREF@PeteRock2022" class="citation web cs1">@PeteRock (January 21, 2022). <a rel="nofollow" class="external text" href="https://twitter.com/PeteRock/status/1484574068603031556">"NEW PETESTRUMENTALS 4 DROPS MARCH 31st Mark your calenders. LETS GO HIP HOP 💪🏾✔️🎶🎶🎶🎶🎶🎶❤️"</a> (Tweet) &#8211; via <a href="/wiki/Twitter" title="Twitter">Twitter</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NEW+PETESTRUMENTALS+4+DROPS+MARCH+31st+Mark+your+calenders.+LETS+GO+HIP+HOP+%F0%9F%92%AA%F0%9F%8F%BE%E2%9C%94%EF%B8%8F%F0%9F%8E%B6%F0%9F%8E%B6%F0%9F%8E%B6%F0%9F%8E%B6%F0%9F%8E%B6%F0%9F%8E%B6%E2%9D%A4%EF%B8%8F&amp;rft.date=2022-01-21&amp;rft.au=%40PeteRock&amp;rft_id=https%3A%2F%2Ftwitter.com%2FPeteRock%2Fstatus%2F1484574068603031556&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060422093935/http://www.allhiphop.com/features/?ID=882">"AllHipHop.com Exclusive Hip-Hop Features"</a>. Archived from <a rel="nofollow" class="external text" href="https://allhiphop.com/./features/">the original</a> on April 22, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">June 26,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AllHipHop.com+Exclusive+Hip-Hop+Features&amp;rft_id=https%3A%2F%2Fallhiphop.com%2F.%2Ffeatures%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=qhswoGRXhls">Pete Rock – 'Interview Pt. 1 (Live At UGHH.com – 12/5/06)'</a>. YouTube, LLC. Retrieved on December 25, 2008.</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=jQWxrWSsI2k">YouTube – Pete Rock interview</a>. YouTube, LLC. Retrieved on December 25, 2008.</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.npr.org/sections/microphonecheck/2014/07/01/318561697/pete-rock-real-could-be-another-word-for-original">Pete Rock: 'Real Could Be Another Word For Original'</a> <a href="/wiki/NPR" title="NPR">NPR</a>. Accessed on December 12, 2017.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Making Beats: The Art of Sample-Based Hip Hop. p. 57 (Middletown, Connecticut: <a href="/wiki/Wesleyan_University_Press" title="Wesleyan University Press">Wesleyan University Press</a>. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8195-6696-9" title="Special:BookSources/0-8195-6696-9">0-8195-6696-9</a>)</span>
+</li>
+<li id="cite_note-autogenerated1-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-autogenerated1_28-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120220125121/http://peterock.tribe.net/thread/032f66d2-a223-400c-a902-fe166be14676">"Wax Poetic interview—Pete Rock—tribe.net"</a>. Peterock.tribe.net. February 12, 2004. Archived from <a rel="nofollow" class="external text" href="http://peterock.tribe.net/thread/032f66d2-a223-400c-a902-fe166be14676">the original</a> on February 20, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wax+Poetic+interview%E2%80%94Pete+Rock%E2%80%94tribe.net&amp;rft.pub=Peterock.tribe.net&amp;rft.date=2004-02-12&amp;rft_id=http%3A%2F%2Fpeterock.tribe.net%2Fthread%2F032f66d2-a223-400c-a902-fe166be14676&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110811213444/http://artofrhyme.com/interviews/artist/Pete-Rock/88/">"Interview with Pete Rock"</a>. Artofrhyme.com. Archived from <a rel="nofollow" class="external text" href="http://artofrhyme.com/interviews/artist/Pete-Rock/88/">the original</a> on August 11, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">May 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Interview+with+Pete+Rock&amp;rft.pub=Artofrhyme.com&amp;rft_id=http%3A%2F%2Fartofrhyme.com%2Finterviews%2Fartist%2FPete-Rock%2F88%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-HHDX-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-HHDX_30-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBurgess2014" class="citation web cs1">Burgess, Omar (April 2, 2014). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.28140/title.pete-rock-reveals-ep-work-with-de-la-soul-soul-survivor-3-/">"Pete Rock Reveals EP Work With De La Soul &amp; "Soul Survivor 3"<span class="cs1-kern-right"></span>"</a>. <i><a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX.com</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 2,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX.com&amp;rft.atitle=Pete+Rock+Reveals+EP+Work+With+De+La+Soul+%26+%22Soul+Survivor+3%22&amp;rft.date=2014-04-02&amp;rft.aulast=Burgess&amp;rft.aufirst=Omar&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.28140%2Ftitle.pete-rock-reveals-ep-work-with-de-la-soul-soul-survivor-3-%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/the-basement-demos-ep/367187162">"Pete Rock &amp; CL Smooth - The Basement Demos - EP"</a>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 26,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pete+Rock+%26+CL+Smooth+-+The+Basement+Demos+-+EP&amp;rft.pub=Apple+Music&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fthe-basement-demos-ep%2F367187162&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/c/1619944097">"Canibus &amp; Pete Rock - C"</a>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 29,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Canibus+%26+Pete+Rock+-+C&amp;rft.pub=Apple+Music&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fc%2F1619944097&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKreps2020" class="citation magazine cs1">Kreps, Daniel (October 15, 2020). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-news/pete-rock-readies-long-awaited-petestrumentals-3-lp-1075998/">"Pete Rock Readies Long-Awaited 'PeteStrumentals 3' LP"</a>. <i>Rolling Stone</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 29,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Pete+Rock+Readies+Long-Awaited+%27PeteStrumentals+3%27+LP&amp;rft.date=2020-10-15&amp;rft.aulast=Kreps&amp;rft.aufirst=Daniel&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2Fpete-rock-readies-long-awaited-petestrumentals-3-lp-1075998%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APete+Rock" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pete_Rock&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://peterock.com">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.discogs.com/artist/Pete+Rock">Pete Rock</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0734191/">Pete Rock</a> at <a href="/wiki/IMDb_(identifier)" class="mw-redirect" title="IMDb (identifier)">IMDb</a></li>
+<li><a rel="nofollow" class="external text" href="https://trusoulnyc.com/">Pete Rock's Tru Soul Record Label</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Pete_Rock" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Pete_Rock" title="Template:Pete Rock"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Pete_Rock" title="Template talk:Pete Rock"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Pete_Rock&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Pete_Rock" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Pete Rock</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div><a href="/wiki/Pete_Rock_discography" class="mw-redirect" title="Pete Rock discography">Discography</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Solo albums</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Soul_Survivor_(Pete_Rock_album)" title="Soul Survivor (Pete Rock album)">Soul Survivor</a></i></li>
+<li><i><a href="/wiki/PeteStrumentals" title="PeteStrumentals">PeteStrumentals</a></i></li>
+<li><i><a href="/wiki/Soul_Survivor_II" title="Soul Survivor II">Soul Survivor II</a></i></li>
+<li><i><a href="/wiki/The_Surviving_Elements:_From_Soul_Survivor_II_Sessions" title="The Surviving Elements: From Soul Survivor II Sessions">The Surviving Elements</a></i></li>
+<li><i><a href="/wiki/NY%27s_Finest" title="NY&#39;s Finest">NY's Finest</a></i></li>
+<li><i><a href="/wiki/PeteStrumentals_2" title="PeteStrumentals 2">PeteStrumentals 2</a></i></li>
+<li><i><a href="/wiki/Soul_Survivor_3" class="mw-redirect" title="Soul Survivor 3">Soul Survivor 3</a></i></li>
+<li><i><a href="/wiki/Lost_Sessions" class="mw-redirect" title="Lost Sessions">Lost Sessions</a></i></li>
+<li><i><a href="/wiki/Return_of_the_SP1200" title="Return of the SP1200">Return of the SP1200</a></i></li>
+<li><i><a href="/wiki/PeteStrumentals_3" class="mw-redirect" title="PeteStrumentals 3">PeteStrumentals 3</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Collaboration</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/My_Own_Worst_Enemy_(album)" title="My Own Worst Enemy (album)">My Own Worst Enemy</a></i></li>
+<li><i><a href="/wiki/Monumental_(album)" title="Monumental (album)">Monumental</a></i></li>
+<li><i><a href="/wiki/Don%27t_Smoke_Rock" title="Don&#39;t Smoke Rock">Don't Smoke Rock</a></i></li>
+<li><i><a href="/wiki/Retropolitan" title="Retropolitan">Retropolitan</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Pete%27s_Treats" class="mw-redirect" title="Pete&#39;s Treats">Pete's Treats</a></i></li>
+<li><i><a href="/wiki/Diggin%27_On_Blue" class="mw-redirect" title="Diggin&#39; On Blue">Diggin' On Blue</a></i></li>
+<li><i><a href="/wiki/Lost_%26_Found:_Hip_Hop_Underground_Soul_Classics" title="Lost &amp; Found: Hip Hop Underground Soul Classics">Lost &amp; Found: Hip Hop Underground Soul Classics</a></i></li>
+<li><i><a href="/wiki/Underground_Classics" title="Underground Classics">Underground Classics</a></i></li>
+<li><i><a href="/wiki/Jay_Stay_Paid" title="Jay Stay Paid">Jay Stay Paid</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/CL_Smooth" title="CL Smooth">CL Smooth</a></li>
+<li><a href="/wiki/Pete_Rock_%26_CL_Smooth" title="Pete Rock &amp; CL Smooth">Pete Rock &amp; CL Smooth</a></li>
+<li><a href="/wiki/Grap_Luva" class="mw-redirect" title="Grap Luva">Grap Luva</a></li>
+<li><a href="/wiki/InI_(hip_hop_group)" title="InI (hip hop group)">Rob-O</a></li>
+<li><a href="/wiki/InI_(hip_hop_group)" title="InI (hip hop group)">INI</a></li>
+<li><a href="/wiki/YG%27z" title="YG&#39;z">YG'z</a></li>
+<li><a href="/wiki/Trouble_T_Roy" title="Trouble T Roy">Trouble T Roy</a></li>
+<li><a href="/wiki/Heavy_D_%26_The_Boyz" class="mw-redirect" title="Heavy D &amp; The Boyz">Heavy D &amp; The Boyz</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Pete_Rock_&amp;amp;_CL_Smooth" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Pete_Rock_%26_CL_Smooth" title="Template:Pete Rock &amp; CL Smooth"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Pete_Rock_%26_CL_Smooth" title="Template talk:Pete Rock &amp; CL Smooth"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Pete_Rock_%26_CL_Smooth&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Pete_Rock_&amp;amp;_CL_Smooth" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Pete_Rock_%26_CL_Smooth" title="Pete Rock &amp; CL Smooth">Pete Rock &amp; CL Smooth</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a class="mw-selflink selflink">Pete Rock</a></b></li>
+<li><b><a href="/wiki/CL_Smooth" title="CL Smooth">CL Smooth</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><a href="/wiki/Pete_Rock_%26_CL_Smooth#EPs" title="Pete Rock &amp; CL Smooth">EPs</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/All_Souled_Out" title="All Souled Out">All Souled Out</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><a href="/wiki/Pete_Rock_%26_CL_Smooth#Albums" title="Pete Rock &amp; CL Smooth">Studio albums</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Mecca_and_the_Soul_Brother" title="Mecca and the Soul Brother">Mecca and the Soul Brother</a></i></li>
+<li><i><a href="/wiki/The_Main_Ingredient_(Pete_Rock_%26_CL_Smooth_album)" title="The Main Ingredient (Pete Rock &amp; CL Smooth album)">The Main Ingredient</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><a href="/wiki/Pete_Rock_%26_CL_Smooth#Compilations" title="Pete Rock &amp; CL Smooth">Compilations</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Good_Life:_The_Best_of_Pete_Rock_%26_CL_Smooth" title="Good Life: The Best of Pete Rock &amp; CL Smooth">Good Life: The Best of Pete Rock &amp; CL Smooth</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles/EPs</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"Good Life"</li>
+<li>"The Creator" b/w "Mecca and the Soul Brother"</li>
+<li>"<a href="/wiki/They_Reminisce_Over_You_(T.R.O.Y.)" title="They Reminisce Over You (T.R.O.Y.)">They Reminisce Over You (T.R.O.Y.)</a>"</li>
+<li>"<a href="/wiki/Straighten_It_Out" title="Straighten It Out">Straighten It Out</a>"</li>
+<li>"Lots of Lovin'"</li>
+<li>"<a href="/wiki/One_in_a_Million_(Pete_Rock_%26_CL_Smooth_song)" title="One in a Million (Pete Rock &amp; CL Smooth song)">One in a Million</a>"</li>
+<li>"<a href="/wiki/Take_You_There_(Pete_Rock_%26_CL_Smooth_song)" title="Take You There (Pete Rock &amp; CL Smooth song)">Take You There</a>"</li>
+<li>"<a href="/wiki/I_Got_a_Love" title="I Got a Love">I Got a Love</a>"</li>
+<li>"<a href="/wiki/Searching_(Pete_Rock_%26_CL_Smooth_song)" title="Searching (Pete Rock &amp; CL Smooth song)">Searching</a>"</li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q707990#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q707990#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q707990#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000116919124">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/177149294486280522895">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb13974873z">France</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb13974873z">BnF data</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/135110874">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2005016023">United States</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Pete Rock"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/39a973f2-0785-4ef6-90d9-551378864f89">MusicBrainz</a></span></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/252500288">IdRef</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2383
+Cached time: 20230919184656
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.656 seconds
+Real time usage: 0.815 seconds
+Preprocessor visited node count: 3747/1000000
+Post‐expand include size: 97181/2097152 bytes
+Template argument size: 6470/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 112828/5000000 bytes
+Lua time usage: 0.407/10.000 seconds
+Lua memory usage: 9879871/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  721.213      1 -total
+ 39.21%  282.758      1 Template:Reflist
+ 25.72%  185.492     22 Template:Cite_web
+ 21.94%  158.225      1 Template:Infobox_musical_artist
+ 19.43%  140.151      1 Template:Infobox
+ 10.41%   75.063      2 Template:Short_description
+  7.67%   55.327      2 Template:Br_separated_entries
+  6.97%   50.300      2 Template:Navbox_musical_artist
+  6.72%   48.496      2 Template:Navbox
+  6.68%   48.155      4 Template:Hlist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:935728-0!canonical and timestamp 20230919184655 and revision id 1166591871. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pete_Rock&amp;oldid=1166591871">https://en.wikipedia.org/w/index.php?title=Pete_Rock&amp;oldid=1166591871</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Pete_Rock" title="Category:Pete Rock">Pete Rock</a></li><li><a href="/wiki/Category:1970_births" title="Category:1970 births">1970 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_rappers_of_Jamaican_descent" title="Category:American rappers of Jamaican descent">American rappers of Jamaican descent</a></li><li><a href="/wiki/Category:American_hip_hop_DJs" title="Category:American hip hop DJs">American hip hop DJs</a></li><li><a href="/wiki/Category:African-American_DJs" title="Category:African-American DJs">African-American DJs</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Five_percenters" title="Category:Five percenters">Five percenters</a></li><li><a href="/wiki/Category:Musicians_from_Mount_Vernon,_New_York" title="Category:Musicians from Mount Vernon, New York">Musicians from Mount Vernon, New York</a></li><li><a href="/wiki/Category:Rappers_from_the_Bronx" title="Category:Rappers from the Bronx">Rappers from the Bronx</a></li><li><a href="/wiki/Category:Record_producers_from_New_York_(state)" title="Category:Record producers from New York (state)">Record producers from New York (state)</a></li><li><a href="/wiki/Category:Underground_rappers" title="Category:Underground rappers">Underground rappers</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:Mount_Vernon_High_School_(New_York)_alumni" title="Category:Mount Vernon High School (New York) alumni">Mount Vernon High School (New York) alumni</a></li><li><a href="/wiki/Category:Barely_Breaking_Even_artists" title="Category:Barely Breaking Even artists">Barely Breaking Even artists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2021" title="Category:Use mdy dates from April 2021">Use mdy dates from April 2021</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2021" title="Category:Articles with unsourced statements from May 2021">Articles with unsourced statements from May 2021</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Articles_with_SUDOC_identifiers" title="Category:Articles with SUDOC identifiers">Articles with SUDOC identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 22 July 2023, at 15:28<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pete_Rock&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2272","wgBackendResponseTime":125,"wgPageParseReport":{"limitreport":{"cputime":"0.656","walltime":"0.815","ppvisitednodes":{"value":3747,"limit":1000000},"postexpandincludesize":{"value":97181,"limit":2097152},"templateargumentsize":{"value":6470,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":112828,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  721.213      1 -total"," 39.21%  282.758      1 Template:Reflist"," 25.72%  185.492     22 Template:Cite_web"," 21.94%  158.225      1 Template:Infobox_musical_artist"," 19.43%  140.151      1 Template:Infobox"," 10.41%   75.063      2 Template:Short_description","  7.67%   55.327      2 Template:Br_separated_entries","  6.97%   50.300      2 Template:Navbox_musical_artist","  6.72%   48.496      2 Template:Navbox","  6.68%   48.155      4 Template:Hlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.407","limit":"10.000"},"limitreport-memusage":{"value":9879871,"limit":52428800}},"cachereport":{"origin":"mw2383","timestamp":"20230919184656","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Pete Rock","url":"https:\/\/en.wikipedia.org\/wiki\/Pete_Rock","sameAs":"http:\/\/www.wikidata.org\/entity\/Q707990","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q707990","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-27T19:06:14Z","dateModified":"2023-07-22T15:28:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/eb\/Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg","headline":"American hip hop producer"}</script>
+</body>
+</html>

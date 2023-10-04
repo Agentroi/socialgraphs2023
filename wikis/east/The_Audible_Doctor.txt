@@ -1,0 +1,1220 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>The Audible Doctor - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"c5c24c13-799b-41fb-a90f-4c7f814b0338","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Audible_Doctor","wgTitle":"The Audible Doctor","wgCurRevisionId":1172496282,"wgRevisionId":1172496282,"wgArticleId":48694281,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","Incomplete music lists","Articles using small message boxes","Incomplete lists from December 2015","Articles with MusicBrainz identifiers","1984 births","Living people","Businesspeople from Madison, Wisconsin","American hip hop record producers","20th-century American pianists","American electronic musicians","East Coast hip hop musicians","Musicians from Madison, Wisconsin",
+"21st-century American pianists"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"The_Audible_Doctor","wgRelevantArticleId":48694281,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q21600103",
+"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="The Audible Doctor - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/The_Audible_Doctor">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Audible_Doctor&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/The_Audible_Doctor">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_Audible_Doctor rootpage-The_Audible_Doctor skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Audible+Doctor" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Audible+Doctor" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Audible+Doctor" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Audible+Doctor" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Biography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Biography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Biography</div>
+		</a>
+		
+		<ul id="toc-Biography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Singles</div>
+			</a>
+			
+			<ul id="toc-Singles-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Credits"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Credits">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Credits</div>
+			</a>
+			
+			<ul id="toc-Credits-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">The Audible Doctor</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 1 language"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-1" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">1 language</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AB_%D8%A7%D9%88%D8%AF%D9%8A%D8%A8%D9%84_%D8%AF%D9%88%D9%83%D8%AA%D9%88%D8%B1" title="ث اوديبل دوكتور – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21600103#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/The_Audible_Doctor" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:The_Audible_Doctor" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/The_Audible_Doctor"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=The_Audible_Doctor&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=The_Audible_Doctor&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/The_Audible_Doctor"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=The_Audible_Doctor&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=The_Audible_Doctor&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/The_Audible_Doctor" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/The_Audible_Doctor" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=The_Audible_Doctor&amp;oldid=1172496282" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=The_Audible_Doctor&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Audible_Doctor&amp;id=1172496282&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21600103" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=The_Audible_Doctor&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=The_Audible_Doctor&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American record producer and rapper</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">The Audible Doctor</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Mark Vincent Woodford</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1984-05-29</span>) </span>May 29, 1984<span class="noprint ForceAgeToShow"> (age&#160;39)</span><br /><a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison, Wisconsin</a></td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, <a href="/wiki/New_York_City" title="New York City">New York City</a></td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li>
+<li><a href="/wiki/Contemporary_R%26B" title="Contemporary R&amp;B">R&amp;B</a></li>
+<li><a href="/wiki/Instrumental" title="Instrumental">Instrumental</a></li>
+<li><a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li>Record producer</li>
+<li>rapper</li>
+<li>audio engineer</li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li>Vocals</li>
+<li>turntables</li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2003&#8211;present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li><a href="/wiki/Coalmine_Records" title="Coalmine Records">Coalmine Records</a></li>
+<li><a href="/wiki/Mello_Music_Group" title="Mello Music Group">Mello Music Group</a></li>
+<li><a href="/wiki/Brown_Bag_AllStars" title="Brown Bag AllStars">Brown Bag AllStars</a></li>
+<li>AMD Music</li>
+<li><a href="/wiki/Ten12_Records" title="Ten12 Records">Ten12 Records</a></li>
+<li>Fat Beats</li></ul>
+</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://audibledoctor.com">audibledoctor<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Mark Vincent Woodford</b> (born May 24, 1984 in <a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison, Wisconsin</a>), better known by his <a href="/wiki/Stage_name" title="Stage name">stage name</a> <b>The Audible Doctor</b>, is a <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>-based <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Record_producer" title="Record producer">record producer</a> and underground rapper.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The Audible Doctor has been credited as producer in critically acclaimed studio albums and EPs including <i>Made In The Streets</i>, <i><a href="/wiki/2057_(EP)" title="2057 (EP)">2057</a></i>, <i><a href="/wiki/The_Ports" title="The Ports">The Ports</a></i>, <i>Reporting Live</i>, <i><a href="/wiki/Computer_Era" title="Computer Era">Computer Era</a></i>, <i><a href="/wiki/Free_Agent_(album)" title="Free Agent (album)">Free Agent</a></i> and <i><a href="/wiki/Thug_Matrix_3" title="Thug Matrix 3">Thug Matrix 3</a></i>. On 3 January 2014, he was listed in <i><a href="/wiki/AllHipHop" title="AllHipHop">AllHipHop</a></i> 's "Top 50 Underground/Indie/Emerging Artists Of 2013"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> before he went on to make a <a href="/wiki/Guest_appearance" title="Guest appearance">guest appearance</a> at the 2014 edition of the annual <a href="/wiki/The_Brooklyn_Hip-Hop_Festival" title="The Brooklyn Hip-Hop Festival">Brooklyn Hip-Hop Festival</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> He is a member of the <a href="/wiki/Brown_Bag_AllStars" title="Brown Bag AllStars">Brown Bag AllStars</a>, a group of emcees he joined while interning at Fat Beats in 2007.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Audible_Doctor&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Born and raised in <a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison, Wisconsin</a>, The Audible Doctor started music having piano and guitar lessons while growing up until his days in high school when he started collecting records and DJing at friends' parties.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>In 2002, The Audible Doctor moved to New York to attend an audio engineering and recording school before he started working at Fat Beats store after graduating from college. While interning at Fat Beats, he collaborated with funk group <a href="/wiki/Skull_Snaps" title="Skull Snaps">Skull Snaps</a> to release his first production project titled <i>Skull Snaps Meet The Audible Doctor</i> in 2005 and <i>It's A New Day Redux</i> in 2006.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>In 2010, The Audible Doctor left Fat Beats and released his first solo EP titled <i>The Crackers</i> then <i>Brownies Deluxe</i> in 2011.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> He had his first major break as a producer after he was credited in <a href="/wiki/Joell_Ortiz" title="Joell Ortiz">Joell Ortiz</a>'s second studio album entitled <i><a href="/wiki/Free_Agent_(album)" title="Free Agent (album)">Free Agent</a></i>, an album that debuted at #173 on the <i><a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a></i> with 4,000 copies sold in its first week released.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>On 25 September 2012, The Audible Doctor released his critically acclaimed EP titled <i>I Think That...</i><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> which further earned him more attention from music critics before he went on to release an album titled <i>Doctorin</i> on 30 October 2012.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> On 24 November 2014, he released an EP titled <i>Can't Keep The People Waiting</i>, the EP featured vocal appearances from acts like <a href="/wiki/Astro_(rapper)" title="Astro (rapper)">Astro</a>, Hassan Mackey of <a href="/wiki/Mello_Music_Group" title="Mello Music Group">Mello Music Group</a>, <a href="/wiki/Consequence_(rapper)" title="Consequence (rapper)">Consequence</a>, <a href="/wiki/Freddie_Foxxx" title="Freddie Foxxx">Bumpy Knuckles</a>, Guilty Simpson and John Robinson.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>On 20 June 2015, The Audible Doctor released an EP entitled <i>The Spring Tape</i> off his <i>Seasons</i> EP set which include <i>The Winter Tape</i> and <i>The Summer Tape</i>. His style of production has seen him work with notable acts like <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> for the freestyle titled "This Is Murder Not Music," <a href="/wiki/Astro_(rapper)" title="Astro (rapper)">Astro</a>, <a href="/wiki/Koncept" title="Koncept">Koncept</a>, <a href="/wiki/Fredro_Starr" title="Fredro Starr">Fredro Starr</a>, Joell Ortiz, and many more.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Audible_Doctor&amp;action=edit&amp;section=2" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="plainlinks metadata ambox mbox-small-left ambox-notice" role="presentation" style="width: auto;"><tbody><tr><td class="mbox-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/20px-Information_icon4.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/30px-Information_icon4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png 2x" data-file-width="620" data-file-height="620" /></span></span></td><td class="mbox-text" style="width: auto;"><div class="mbox-text-span">This list of songs or music-related items is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=The_Audible_Doctor&amp;action=edit">adding missing items</a>.  <span class="date-container"><i>(<span class="date">December 2015</span>)</i></span></div></td></tr></tbody></table>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+
+<tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>Albums by The Audible Doctor
+</caption>
+<tbody><tr>
+<th>Year
+</th>
+<th scope="col" rowspan="1" style="width:12em;">Album title
+</th>
+<th scope="col" rowspan="1" style="width:15em;">Release details
+</th></tr>
+<tr>
+<td>2007
+</td>
+<th><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><i>Brownies</i></span>
+</th>
+<td>
+<ul><li>Released: 14 February 2007</li>
+<li>Label: AMD Music</li>
+<li>Format: CD/Vinyl</li></ul>
+</td></tr>
+<tr>
+<td>2012
+</td>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i><a href="/w/index.php?title=Doctorin&amp;action=edit&amp;redlink=1" class="new" title="Doctorin (page does not exist)">Doctorin</a></i></span>
+</th>
+<td>
+<ul><li>Released: 30 October 2012</li>
+<li>Label: Money Maker Entertainment</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<td>2013
+</td>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i><a href="/wiki/Made_In_The_Streets_(Fredro_Starr_album)" class="mw-redirect" title="Made In The Streets (Fredro Starr album)">Made In The Streets</a></i><small> (with <a href="/wiki/Fredro_Starr" title="Fredro Starr">Fredro Starr</a>)</small></span>
+</th>
+<td>
+<ul><li>Released: 25 December 2013</li>
+<li>Label: Mad Money Entertainment</li>
+<li>Format: CD/Digital download</li></ul>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Audible_Doctor&amp;action=edit&amp;section=3" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>
+</td>
+<td>Walking
+</td>
+<td>featuring <a href="/wiki/Silent_Knight" title="Silent Knight">Silent Knight</a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>This Is Murder Not Music
+</td>
+<td>featuring <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>The Burial Plot
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Leave Me Alone
+</td>
+<td>featuring Guilty Simpson
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Chocolate Covered Liar
+</td>
+<td>featuring <a href="/wiki/Astro_(rapper)" title="Astro (rapper)">Astro</a> &amp; Hassan Mackay
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Multiply
+</td>
+<td>featuring John Robinson
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Fall In Love
+</td>
+<td>featuring John Simpson
+</td></tr>
+<tr>
+<td>
+</td>
+<td>The Beast
+</td>
+<td>featuring Bumpy Knuckles
+</td></tr>
+<tr>
+<td>
+</td>
+<td>No Future
+</td>
+<td>featuring <a href="/wiki/Consequence_(rapper)" title="Consequence (rapper)">Consequence</a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Dirty Nigga
+</td>
+<td>featuring <a href="/wiki/Chaundon" title="Chaundon">Chaundon</a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>The Vibe
+</td>
+<td>featuring <a href="/wiki/Oddisee" title="Oddisee">Oddisee</a> &amp; Hassaan Mackey
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Space Age Love
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Thought of You
+</td>
+<td>featuring Kurious
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Bars of Death
+</td>
+<td>featuring J NICS
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Wings
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Pep Rally
+</td>
+<td>Instrumental
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Feel What I Feel
+</td>
+<td>Instrumental
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Not Pop
+</td>
+<td>Instrumental
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Shot Glass Magnified
+</td>
+<td>Instrumental
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Crumbling Down
+</td>
+<td>Instrumental
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Where I'm At
+</td>
+<td>featuring Davenport Grimes
+</td></tr>
+<tr>
+<td>
+</td>
+<td>The Roster
+</td>
+<td>featuring Edo G
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Shiny Things
+</td>
+<td>featuring Davenport Grimes
+</td></tr>
+<tr>
+<td>
+</td>
+<td>The Winter
+</td>
+<td>featuring Davenport Grimes
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Incarcerated Stargazers
+</td>
+<td>featuring Davenport Grimes
+</td></tr>
+<tr>
+<td>
+</td>
+<td>Success
+</td>
+<td>featuring <a href="/wiki/Chaundon" title="Chaundon">Chaundon</a>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Credits">Credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Audible_Doctor&amp;action=edit&amp;section=4" title="Edit section: Credits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>Selected production credits
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="1">Year
+</th>
+<th scope="col" rowspan="1">Album
+</th>
+<th scope="col" rowspan="1" style="width:8em;">Primary artist(s)
+</th>
+<th scope="col" rowspan="1">Credit
+</th></tr>
+
+<tr>
+<td rowspan="5">2011
+</td>
+<th scope="row"><i>Wouldn't Change Nothing</i>
+</th>
+<td>Trek Life</td>
+<td>Remixer
+</td></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/Thug_Matrix_3" title="Thug Matrix 3">Thug Matrix 3</a></i>
+</th>
+<td><a href="/wiki/Tragedy_Khadafi" title="Tragedy Khadafi">Tragedy Khadafi</a>
+</td>
+<td rowspan="3">Producer
+</td></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/Free_Agent_(album)" title="Free Agent (album)">Free Agent</a></i>
+</th>
+<td><a href="/wiki/Joell_Ortiz" title="Joell Ortiz">Joell Ortiz</a>
+</td></tr>
+<tr>
+<th scope="row"><i>Conversation B</i>
+</th>
+<td>Has Lo
+</td></tr>
+<tr>
+<th scope="row"><i>The Brown Study Remixes</i>
+</th>
+<td>Boog Brown</td>
+<td>Remixer
+</td></tr>
+<tr>
+<td rowspan="6">2012
+</td>
+<th scope="row"><i>Subject: Matter</i>
+</th>
+<td><a href="/wiki/Homeboy_Sandman" title="Homeboy Sandman">Homeboy Sandman</a>
+</td>
+<td rowspan="2">Producer
+</td></tr>
+<tr>
+<th scope="row"><i>Reporting Live</i>
+</th>
+<td><a href="/wiki/Journalist_103" title="Journalist 103">Journalist 103</a>
+</td></tr>
+<tr>
+<th scope="row"><i>The Brown Label</i>
+</th>
+<td>Brown Bag AllStars</td>
+<td>Producer, remixer
+</td></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/The_Ports" title="The Ports">The Ports</a></i>
+</th>
+<td rowspan="2"><a href="/wiki/J57_(rapper)" title="J57 (rapper)">J57</a>
+</td>
+<td rowspan="2">Mixing
+</td></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/2057_(EP)" title="2057 (EP)">2057</a></i>
+</th></tr>
+<tr>
+<th scope="row"><i>The Brown Label Part 2</i>
+</th>
+<td>Brown Bag AllStars</td>
+<td>Producer, remixer
+</td></tr>
+<tr>
+<td rowspan="4">2013
+</td>
+<th scope="row"><i>The Manual</i>
+</th>
+<td>Audimatic</td>
+<td>Producer
+</td></tr>
+<tr>
+<th scope="row"><i>The Electric Nosehair Orchestra Remixed</i>
+</th>
+<td><a href="/wiki/DJ_Brace" title="DJ Brace">DJ Brace</a></td>
+<td>Remixer
+</td></tr>
+<tr>
+<th scope="row"><i>Dear Kanye</i>
+</th>
+<td>Genesis Elijah
+</td>
+<td rowspan="2">Producer
+</td></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/Made_In_The_Streets_(Fredro_Starr_album)" class="mw-redirect" title="Made In The Streets (Fredro Starr album)">Made In The Streets</a></i>
+</th>
+<td><a href="/wiki/Fredro_Starr" title="Fredro Starr">Fredro Starr</a>
+</td></tr>
+<tr>
+<td rowspan="4">2014
+</td>
+<th scope="row"><i>Mandala Vol. 2, Today's Mathematics</i>
+</th>
+<td>Various artists
+</td>
+<td rowspan="4">Producer
+</td></tr>
+<tr>
+<th scope="row"><i>All Eyes on Reks</i>
+</th>
+<td>Rexs
+</td></tr>
+<tr>
+<th scope="row"><i>Around The Sun</i>
+</th>
+<td><a href="/wiki/J-Live" title="J-Live">J-Live</a>
+</td></tr>
+<tr>
+<th scope="row"><i>Sunrise BLVD</i>
+</th>
+<td>Tommie
+</td></tr>
+<tr>
+<td rowspan="5">2015
+</td>
+<th scope="row"><i>2014: A Year in Review</i>
+</th>
+<td>Brown Bag AllStars</td>
+<td>Featured, producer, remixer
+</td></tr>
+<tr>
+<th scope="row"><i>Legend Has It</i>
+</th>
+<td>Magestik Legend
+</td>
+<td rowspan="6">Producer
+</td></tr>
+<tr>
+<th scope="row"><i>Splash Brothers</i>
+</th>
+<td>Hus Kingpin &amp; Smoovth
+</td></tr>
+<tr>
+<th scope="row"><i>Premiumgrade</i>
+</th>
+<td>Neek the Exotic
+</td></tr>
+<tr>
+<th scope="row"><i>Protect The Code</i>
+</th>
+<td>The Black Opera
+</td></tr>
+<tr>
+<td rowspan="1">2016
+</td>
+<th scope="row"><i><a href="/wiki/The_Greatest_X" title="The Greatest X">The Greatest X</a></i>
+</th>
+<td><a href="/wiki/Reks" title="Reks">Reks</a>
+</td></tr>
+<tr>
+<td rowspan="1">2017
+</td>
+<th scope="row"><i><a href="/wiki/Veins_(album)" title="Veins (album)">Veins</a></i>
+</th>
+<td><a href="/wiki/Homeboy_Sandman" title="Homeboy Sandman">Homeboy Sandman</a>
+</td></tr>
+</tbody></table>
+<p><br />
+</p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>EPs by The Audible Doctor
+</caption>
+<tbody><tr>
+<th>Year
+</th>
+<th scope="col" rowspan="1" style="width:12em;">Title
+</th>
+<th scope="col" rowspan="1" style="width:15em;">Release details
+</th></tr>
+<tr>
+<td>2010
+</td>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i>The Crackers Vol. 1</i></span>
+</th>
+<td>
+<ul><li>Released: 23 February 2010</li>
+<li>Label: AMD Music</li>
+<li>Format: CD/Vinyl</li></ul>
+</td></tr>
+<tr>
+<td rowspan="3">2011
+</td>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i>Brownies Delux</i></span>
+</th>
+<td>
+<ul><li>Released: 2011</li>
+<li>Label: Self-released</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i>The Spread</i></span>
+</th>
+<td>
+<ul><li>Released: 8 February 2011</li>
+<li>Label: AMD Music, Brown Bag AllStars</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i>Pursuance</i><small>(with <a href="/wiki/Soul_Khan" title="Soul Khan">Soul Khan</a>)</small></span>
+</th>
+<td>
+<ul><li>Released: 6 December 2011</li>
+<li>Label: Jargon Media Entertainment</li>
+<li>Format: CD/Digital download</li></ul>
+</td></tr>
+<tr>
+<td rowspan="2">2012
+</td>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i><a href="/w/index.php?title=I_Think_That...&amp;action=edit&amp;redlink=1" class="new" title="I Think That... (page does not exist)">I Think That...</a></i></span>
+</th>
+<td>
+<ul><li>Released: 25 September 2012</li>
+<li>Label: AMD Music</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i>And I Lover Her</i></span>
+</th>
+<td>
+<ul><li>Released: 13 November 2012</li>
+<li>Label: AMD Music</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<td rowspan="3">2013
+</td>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i>The Winter Tape</i></span>
+</th>
+<td>
+<ul><li>Released: 12 January 2013</li>
+<li>Label: AMD Music</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i>The Manual</i><small>(with Audimatic)</small></span>
+</th>
+<td>
+<ul><li>Released: 6 June 2013</li>
+<li>Label: &#8211;</li>
+<li>Format: Cassette/Digital download</li></ul>
+</td></tr>
+<tr>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i>The Summer Tape</i></span>
+</th>
+<td>
+<ul><li>Released: 30 July 2013</li>
+<li>Label: AMD Music</li>
+<li>Format: Cassette/Digital download</li></ul>
+</td></tr>
+<tr>
+<td>2014
+</td>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i><a href="/w/index.php?title=Can%27t_Keep_The_People_Waiting&amp;action=edit&amp;redlink=1" class="new" title="Can&#39;t Keep The People Waiting (page does not exist)">Can't Keep The People Waiting</a></i></span>
+</th>
+<td>
+<ul><li>Released: 24 November 2014</li>
+<li>Label: AMD Music</li>
+<li>Format: CD/Vinyl/Digital download</li></ul>
+</td></tr>
+<tr>
+<td>2015
+</td>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><i>The Spring Tape</i></span>
+</th>
+<td>
+<ul><li>Released: 18 June 2015</li>
+<li>Label: AMD Music</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+</tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Audible_Doctor&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1132942124">.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:solid #aaa 1px;padding:0.1em;background:#f9f9f9}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{clear:left;float:left;margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}</style><ul role="navigation" aria-label="Portals" class="noprint portalbox portalborder portalright">
+<li class="portalbox-entry"><span class="portalbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png" decoding="async" width="28" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/41px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/55px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></span></span></span><span class="portalbox-link"><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography portal</a></span></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.popmontreal.com/artists/the-audible-doctor/">"THE AUDIBLE DOCTOR"</a>. Pop Montreal<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=THE+AUDIBLE+DOCTOR&amp;rft.pub=Pop+Montreal&amp;rft_id=http%3A%2F%2Fwww.popmontreal.com%2Fartists%2Fthe-audible-doctor%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHook2014" class="citation news cs1">Hook, Sky (3 January 2014). <a rel="nofollow" class="external text" href="http://allhiphop.com/2014/01/03/allhiphop-coms-top-50-underground-indie-emerging-artists-2013/">"AllHipHop.com's Top 50 Underground/Indie/Emerging Artists Of 2013"</a>. <i><a href="/wiki/AllHipHop" title="AllHipHop">AllHipHop</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=AllHipHop&amp;rft.atitle=AllHipHop.com%27s+Top+50+Underground%2FIndie%2FEmerging+Artists+Of+2013&amp;rft.date=2014-01-03&amp;rft.aulast=Hook&amp;rft.aufirst=Sky&amp;rft_id=http%3A%2F%2Fallhiphop.com%2F2014%2F01%2F03%2Fallhiphop-coms-top-50-underground-indie-emerging-artists-2013%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.bkreader.com/2014/07/brooklyn-hip-hop-festival-kicks-off/">"Brooklyn Hip Hop Festival Kicks Off!"</a>. <i>Brooklyn Reader</i>. 9 July 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Brooklyn+Reader&amp;rft.atitle=Brooklyn+Hip+Hop+Festival+Kicks+Off%21&amp;rft.date=2014-07-09&amp;rft_id=http%3A%2F%2Fwww.bkreader.com%2F2014%2F07%2Fbrooklyn-hip-hop-festival-kicks-off%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSherak2014" class="citation news cs1">Sherak, Ben (7 July 2014). <a rel="nofollow" class="external text" href="http://www.respect-mag.com/2014/07/interview-photoshoot-the-audible-doctor-preps-to-rock-the-brooklyn-hip-hop-festival/">"INTERVIEW &amp; PHOTOSHOOT: THE AUDIBLE DOCTOR PREPS TO ROCK THE BROOKLYN HIP-HOP FESTIVAL"</a>. <i><a href="/wiki/Respect._(magazine)" class="mw-redirect" title="Respect. (magazine)">Respect Magazine</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Respect+Magazine&amp;rft.atitle=INTERVIEW+%26+PHOTOSHOOT%3A+THE+AUDIBLE+DOCTOR+PREPS+TO+ROCK+THE+BROOKLYN+HIP-HOP+FESTIVAL&amp;rft.date=2014-07-07&amp;rft.aulast=Sherak&amp;rft.aufirst=Ben&amp;rft_id=http%3A%2F%2Fwww.respect-mag.com%2F2014%2F07%2Finterview-photoshoot-the-audible-doctor-preps-to-rock-the-brooklyn-hip-hop-festival%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.thebeeshine.com/what-inspires-the-audible-doctor/">"The Audible Doctor of Brown Bag Allstars • Interview"</a>. <i>The Beeshine</i>. 13 September 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Beeshine&amp;rft.atitle=The+Audible+Doctor+of+Brown+Bag+Allstars+%E2%80%A2+Interview&amp;rft.date=2012-09-13&amp;rft_id=http%3A%2F%2Fwww.thebeeshine.com%2Fwhat-inspires-the-audible-doctor%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.tcbents.com/interview/exclusive-interview-us-rapper-audible-doctor-talks-dream-collabrations-tips-on-licensing-music-and-much-more-with-tcb-ents/">"EXCLUSIVE INTERVIEW: US rapper Audible Doctor talks dream collabrations, tips on licensing music and much more with TCB ENTS"</a>. <i>TCB Ents</i>. 17 August 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=TCB+Ents&amp;rft.atitle=EXCLUSIVE+INTERVIEW%3A+US+rapper+Audible+Doctor+talks+dream+collabrations%2C+tips+on+licensing+music+and+much+more+with+TCB+ENTS&amp;rft.date=2015-08-17&amp;rft_id=http%3A%2F%2Fwww.tcbents.com%2Finterview%2Fexclusive-interview-us-rapper-audible-doctor-talks-dream-collabrations-tips-on-licensing-music-and-much-more-with-tcb-ents%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChang2013" class="citation news cs1">Chang, Jason (9 December 2013). <a rel="nofollow" class="external text" href="http://www.urb.com/2013/12/09/audible-doctor-visits-sway-in-the-morning-for-an-interview-performance-and-cypher/">"Audible Doctor Visits Sway In The Morning for an Interview, Performance and Cypher"</a>. <i>URB Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=URB+Magazine&amp;rft.atitle=Audible+Doctor+Visits+Sway+In+The+Morning+for+an+Interview%2C+Performance+and+Cypher&amp;rft.date=2013-12-09&amp;rft.aulast=Chang&amp;rft.aufirst=Jason&amp;rft_id=http%3A%2F%2Fwww.urb.com%2F2013%2F12%2F09%2Faudible-doctor-visits-sway-in-the-morning-for-an-interview-performance-and-cypher%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJanaki2010" class="citation news cs1">Janaki (25 February 2010). <a rel="nofollow" class="external text" href="http://www.abovegroundmagazine.com/the-leak/02/25/audible-doctor-the-crackers-ep-vol-1/">"Audible Doctor – The Crackers EP Vol. 1"</a>. <i>Above Ground Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Above+Ground+Magazine&amp;rft.atitle=Audible+Doctor+%E2%80%93+The+Crackers+EP+Vol.+1&amp;rft.date=2010-02-25&amp;rft.au=Janaki&amp;rft_id=http%3A%2F%2Fwww.abovegroundmagazine.com%2Fthe-leak%2F02%2F25%2Faudible-doctor-the-crackers-ep-vol-1%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCyrus2011" class="citation news cs1">Cyrus, Langhorne (3 March 2011). <a rel="nofollow" class="external text" href="http://www.sohh.com/2011/03/kanye_west_gets_his_spot_back_rihanna_hi.html">"Kanye West Regains His Spot, Rihanna Hits A Milli, Joell Ortiz Brings Slaughter To The Chart"</a>. <i>Sohh.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sohh.com&amp;rft.atitle=Kanye+West+Regains+His+Spot%2C+Rihanna+Hits+A+Milli%2C+Joell+Ortiz+Brings+Slaughter+To+The+Chart&amp;rft.date=2011-03-03&amp;rft.aulast=Cyrus&amp;rft.aufirst=Langhorne&amp;rft_id=http%3A%2F%2Fwww.sohh.com%2F2011%2F03%2Fkanye_west_gets_his_spot_back_rihanna_hi.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/304863/Joell+Ortiz/chart?f=305">"Joell Ortiz – Chart history"</a>. <i><a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard+200&amp;rft.atitle=Joell+Ortiz+%E2%80%93+Chart+history&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F304863%2FJoell%2BOrtiz%2Fchart%3Ff%3D305&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.2dopeboyz.com/2012/09/25/the-audible-doctor-i-think-that-freep/">"The Audible Doctor - I Think That... (FreEP)"</a>. <i>2Dope Boys</i>. 25 September 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=2Dope+Boys&amp;rft.atitle=The+Audible+Doctor+-+I+Think+That...+%28FreEP%29&amp;rft.date=2012-09-25&amp;rft_id=http%3A%2F%2Fwww.2dopeboyz.com%2F2012%2F09%2F25%2Fthe-audible-doctor-i-think-that-freep%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPaine2012" class="citation news cs1">Paine, Jack (6 November 2012). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/news/id.21694/title.audible-doctor-doctorin-album-stream">"Audible Doctor "Doctorin" Album Stream"</a>. <i><a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Audible+Doctor+%22Doctorin%22+Album+Stream&amp;rft.date=2012-11-06&amp;rft.aulast=Paine&amp;rft.aufirst=Jack&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Fnews%2Fid.21694%2Ftitle.audible-doctor-doctorin-album-stream&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.thesource.com/2014/11/27/listen-to-audible-doctors-cant-keep-the-people-waiting-ep/">"Listen To Audible Doctor's Can't Keep The People Waiting EP"</a>. <i><a href="/wiki/The_Source_(magazine)" class="mw-redirect" title="The Source (magazine)">The Source</a></i>. 27 November 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Source&amp;rft.atitle=Listen+To+Audible+Doctor%27s+Can%27t+Keep+The+People+Waiting+EP&amp;rft.date=2014-11-27&amp;rft_id=http%3A%2F%2Fwww.thesource.com%2F2014%2F11%2F27%2Flisten-to-audible-doctors-cant-keep-the-people-waiting-ep%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.wegoinin.com/2015/07/30/audibledoctor/">"Audible Doctor Interview: Audible Dope"</a>. 30 July 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Audible+Doctor+Interview%3A+Audible+Dope&amp;rft.date=2015-07-30&amp;rft_id=http%3A%2F%2Fwww.wegoinin.com%2F2015%2F07%2F30%2Faudibledoctor%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Audible+Doctor" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Audible_Doctor&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://twitter.com/audibledoctor">The Audible Doctor</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q21600103#P2002" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://soundcloud.com/audibledoctor">The Audible Doctor</a> on <a href="/wiki/SoundCloud" title="SoundCloud">SoundCloud</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q21600103#P3040" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/497527-The-Audible-Doctor">The Audible Doctor</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/the-audible-doctor-mn0002805724">The Audible Doctor</a> at <a href="/wiki/AllMusic_(identifier)" class="mw-redirect" title="AllMusic (identifier)">AllMusic</a></li>
+<li><a rel="nofollow" class="external text" href="http://audibledoctor.com">Official website</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: Artists <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q21600103#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/964b811c-51ed-438e-817b-39a0b881655a">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2316
+Cached time: 20230920044006
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.393 seconds
+Real time usage: 0.506 seconds
+Preprocessor visited node count: 2175/1000000
+Post‐expand include size: 47948/2097152 bytes
+Template argument size: 4379/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 58925/5000000 bytes
+Lua time usage: 0.209/10.000 seconds
+Lua memory usage: 7755473/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  448.523      1 -total
+ 28.25%  126.723      1 Template:Reflist
+ 26.48%  118.778      1 Template:Infobox_musical_artist
+ 22.90%  102.734      1 Template:Infobox
+ 13.81%   61.956      1 Template:Cite_web
+ 13.49%   60.496      2 Template:Short_description
+ 10.53%   47.234      1 Template:Inc-musong
+ 10.46%   46.897     13 Template:Cite_news
+  9.56%   42.895      1 Template:Incomplete_list
+  9.27%   41.578      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:48694281-0!canonical and timestamp 20230920044006 and revision id 1172496282. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Audible_Doctor&amp;oldid=1172496282">https://en.wikipedia.org/w/index.php?title=The_Audible_Doctor&amp;oldid=1172496282</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1984_births" title="Category:1984 births">1984 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Businesspeople_from_Madison,_Wisconsin" title="Category:Businesspeople from Madison, Wisconsin">Businesspeople from Madison, Wisconsin</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:20th-century_American_pianists" title="Category:20th-century American pianists">20th-century American pianists</a></li><li><a href="/wiki/Category:American_electronic_musicians" title="Category:American electronic musicians">American electronic musicians</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Musicians_from_Madison,_Wisconsin" title="Category:Musicians from Madison, Wisconsin">Musicians from Madison, Wisconsin</a></li><li><a href="/wiki/Category:21st-century_American_pianists" title="Category:21st-century American pianists">21st-century American pianists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Incomplete_music_lists" title="Category:Incomplete music lists">Incomplete music lists</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Incomplete_lists_from_December_2015" title="Category:Incomplete lists from December 2015">Incomplete lists from December 2015</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 27 August 2023, at 13:07<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=The_Audible_Doctor&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2269","wgBackendResponseTime":129,"wgPageParseReport":{"limitreport":{"cputime":"0.393","walltime":"0.506","ppvisitednodes":{"value":2175,"limit":1000000},"postexpandincludesize":{"value":47948,"limit":2097152},"templateargumentsize":{"value":4379,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":58925,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  448.523      1 -total"," 28.25%  126.723      1 Template:Reflist"," 26.48%  118.778      1 Template:Infobox_musical_artist"," 22.90%  102.734      1 Template:Infobox"," 13.81%   61.956      1 Template:Cite_web"," 13.49%   60.496      2 Template:Short_description"," 10.53%   47.234      1 Template:Inc-musong"," 10.46%   46.897     13 Template:Cite_news","  9.56%   42.895      1 Template:Incomplete_list","  9.27%   41.578      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.209","limit":"10.000"},"limitreport-memusage":{"value":7755473,"limit":52428800}},"cachereport":{"origin":"mw2316","timestamp":"20230920044006","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Audible Doctor","url":"https:\/\/en.wikipedia.org\/wiki\/The_Audible_Doctor","sameAs":"http:\/\/www.wikidata.org\/entity\/Q21600103","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q21600103","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-11-30T23:45:13Z","dateModified":"2023-08-27T13:07:08Z","headline":"American record producer, rapper"}</script>
+</body>
+</html>

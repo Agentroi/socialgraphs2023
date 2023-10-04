@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Aceyalone - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"9c461e91-015c-4b06-b665-f33e3bc99ddd","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Aceyalone","wgTitle":"Aceyalone","wgCurRevisionId":1168069061,"wgRevisionId":1168069061,"wgArticleId":2110378,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Short description is different from Wikidata","Articles with hCards","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with LCCN identifiers","Articles with MusicBrainz identifiers","Living people","1970 births","Rappers from Los Angeles","West Coast hip hop musicians","Capitol Records artists","Underground rappers","21st-century American rappers","Project Blowed"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Aceyalone","wgRelevantArticleId":2110378,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q943219","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":
+true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d5/Aceyalone.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1600">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d5/Aceyalone.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1067">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="853">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Aceyalone - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Aceyalone">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Aceyalone&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Aceyalone">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Aceyalone rootpage-Aceyalone skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Aceyalone" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Aceyalone" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Aceyalone" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Aceyalone" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-Project_Blowed_and_Freestyle_Fellowship"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Project_Blowed_and_Freestyle_Fellowship">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Project Blowed and Freestyle Fellowship</div>
+			</a>
+			
+			<ul id="toc-Project_Blowed_and_Freestyle_Fellowship-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Solo_projects"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Solo_projects">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>Solo projects</div>
+			</a>
+			
+			<ul id="toc-Solo_projects-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Style_and_influences"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Style_and_influences">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Style and influences</div>
+		</a>
+		
+		<ul id="toc-Style_and_influences-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Other_releases"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Other_releases">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Other releases</div>
+			</a>
+			
+			<ul id="toc-Other_releases-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Aceyalone</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 5 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-5" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">5 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Aceyalone" title="Aceyalone – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Aceyalone" title="Aceyalone – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Aceyalone" title="Aceyalone – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Aceyalone" title="Aceyalone – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D8%B3%D9%8A%D8%A7%D9%84%D9%88%D9%86%D9%89" title="اسيالونى – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q943219#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Aceyalone" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Aceyalone" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Aceyalone"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Aceyalone&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Aceyalone&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Aceyalone"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Aceyalone&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Aceyalone&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Aceyalone" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Aceyalone" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Aceyalone&amp;oldid=1168069061" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Aceyalone&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Aceyalone&amp;id=1168069061&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q943219" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Aceyalone&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Aceyalone&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Aceyalone</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Aceyalone.jpg" class="mw-file-description" title="Aceyalone performing in 2005"><img alt="Aceyalone performing in 2005" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aceyalone.jpg/220px-Aceyalone.jpg" decoding="async" width="220" height="293" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/d/d5/Aceyalone.jpg 1.5x" data-file-width="300" data-file-height="400" /></a></span><div class="infobox-caption">Aceyalone performing in 2005</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Edwin Maximilian Hayes, Jr.</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1970-09-30</span>) </span>September 30, 1970<span class="noprint ForceAgeToShow"> (age&#160;52)</span></td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a href="/wiki/California" title="California">California</a>, United States</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a><br /><a href="/wiki/Alternative_hip_hop" title="Alternative hip hop">Alternative hip hop</a><br /><a href="/wiki/Underground_hip_hop" title="Underground hip hop">Underground hip hop</a><br /><a href="/wiki/Jazz_rap" title="Jazz rap">Jazz rap</a><br /><a href="/wiki/Trip_hop" title="Trip hop">Trip hop</a><br /><a href="/wiki/Experimental_hip_hop" class="mw-redirect" title="Experimental hip hop">Experimental hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><a href="/wiki/Rapping" title="Rapping">Rapper</a></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1988–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><a href="/wiki/Project_Blowed" title="Project Blowed">Project Blowed</a><br /><a href="/wiki/Capitol_Records" title="Capitol Records">Capitol</a>, <a href="/wiki/EMI" title="EMI">EMI Records</a><br /><a href="/wiki/Decon" title="Decon">Decon</a></td></tr><tr><th scope="row" class="infobox-label">Member of</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/Freestyle_Fellowship" title="Freestyle Fellowship">Freestyle Fellowship</a></li><li><a href="/wiki/Haiku_d%27Etat" title="Haiku d&#39;Etat">Haiku d'Etat</a></li></ul></div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://aceyalone.com">aceyalone<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Edwin Maximilian "Eddie" Hayes, Jr.</b> (born September 30, 1970), better known by his stage name <b>Aceyalone</b>,<sup id="cite_ref-Birchmeier_1-0" class="reference"><a href="#cite_note-Birchmeier-1">&#91;1&#93;</a></sup> is an American <a href="/wiki/Rapping" title="Rapping">rapper</a> from <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a href="/wiki/California" title="California">California</a>, United States. He is a member of <a href="/wiki/Freestyle_Fellowship" title="Freestyle Fellowship">Freestyle Fellowship</a>, <a href="/wiki/Haiku_D%27Etat" class="mw-redirect" title="Haiku D&#39;Etat">Haiku D'Etat</a> and The A-Team. He is also a co-founder of <a href="/wiki/Project_Blowed" title="Project Blowed">Project Blowed</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Aceyalone is best known for his role in evolving <a href="/wiki/Alternative_hip_hop" title="Alternative hip hop">left-field hip-hop</a> on the <a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast</a> at a time when the West Coast was dominated by <a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>.<sup id="cite_ref-Birchmeier_1-1" class="reference"><a href="#cite_note-Birchmeier-1">&#91;1&#93;</a></sup><sup id="cite_ref-hiphopdx_3-0" class="reference"><a href="#cite_note-hiphopdx-3">&#91;3&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aceyalone&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Project_Blowed_and_Freestyle_Fellowship">Project Blowed and Freestyle Fellowship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aceyalone&amp;action=edit&amp;section=2" title="Edit section: Project Blowed and Freestyle Fellowship">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Aceyalone emerged from the <a href="/wiki/Project_Blowed" title="Project Blowed">Project Blowed</a> collective, considered to be the longest-running open mic hip-hop workshop.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> He began rapping as part of the group <a href="/wiki/Freestyle_Fellowship" title="Freestyle Fellowship">Freestyle Fellowship</a>, which consisted of Aceyalone, <a href="/wiki/Myka_9" title="Myka 9">Myka 9</a>, and Self Jupiter. Later, P.E.A.C.E. Freestyle Fellowship developed a reputation for influencing a style of fast double-time rap used by rappers like <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>, <a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a>, and <a href="/wiki/Migos" title="Migos">Migos</a>.<sup id="cite_ref-Weiss_5-0" class="reference"><a href="#cite_note-Weiss-5">&#91;5&#93;</a></sup>
+</p><p>Aceyalone was part of Freestyle Fellowship releases of <i><a href="/wiki/To_Whom_It_May_Concern..." title="To Whom It May Concern...">To Whom It May Concern...</a></i> and <i><a href="/wiki/Innercity_Griots" title="Innercity Griots">Innercity Griots</a></i> and a <a href="/wiki/Project_Blowed" title="Project Blowed">Project Blowed</a> compilation in 1994. 
+</p>
+<h3><span class="mw-headline" id="Solo_projects">Solo projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aceyalone&amp;action=edit&amp;section=3" title="Edit section: Solo projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Aceyalone signed as a solo artist to <a href="/wiki/Capitol_Records" title="Capitol Records">Capitol Records</a> after the Freestyle Fellowship failed to break into mainstream radio with <a href="/wiki/Island_Records" title="Island Records">Island Records</a>.<sup id="cite_ref-Weiss_5-1" class="reference"><a href="#cite_note-Weiss-5">&#91;5&#93;</a></sup>
+</p><p>Aceyalone released his debut solo album, <i><a href="/wiki/All_Balls_Don%27t_Bounce" title="All Balls Don&#39;t Bounce">All Balls Don't Bounce</a></i>, in 1995.<sup id="cite_ref-hiphopdx_3-1" class="reference"><a href="#cite_note-hiphopdx-3">&#91;3&#93;</a></sup> He returned three years later with the dark concept album <i><a href="/wiki/A_Book_of_Human_Language" title="A Book of Human Language">A Book of Human Language</a></i>, which was a collaboration with producer Mumbles.<sup id="cite_ref-Pecoraro_6-0" class="reference"><a href="#cite_note-Pecoraro-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> His third solo album, <i><a href="/wiki/Accepted_Eclectic" title="Accepted Eclectic">Accepted Eclectic</a></i>, was released in 2001 and featured <a href="/wiki/Abstract_Rude" title="Abstract Rude">Abstract Rude</a> with production from <a href="/wiki/Evidence_(musician)" title="Evidence (musician)">Evidence</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> He released <i><a href="/wiki/Hip_Hop_and_the_World_We_Live_In" title="Hip Hop and the World We Live In">Hip Hop and the World We Live In</a></i> in 2002.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Aceyalone's next offering came a year later, and was titled <i><a href="/wiki/Love_%26_Hate_(Aceyalone_album)" title="Love &amp; Hate (Aceyalone album)">Love &amp; Hate</a></i>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> The track “Find Out” was featured on the soundtrack to <i><a href="/wiki/You_Got_Served" title="You Got Served">You Got Served</a></i>.<sup id="cite_ref-Johnson_15-0" class="reference"><a href="#cite_note-Johnson-15">&#91;15&#93;</a></sup> In 2006, Aceyalone released <i><a href="/wiki/Magnificent_City" title="Magnificent City">Magnificent City</a></i>, a collaborative album with producer <a href="/wiki/RJD2" title="RJD2">RJD2</a>,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> followed by the <i><a href="/wiki/Grand_Imperial_(album)" title="Grand Imperial (album)">Grand Imperial</a></i> mixtape.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>Aceyalone frequently collaborates with producer Bionik, including on the 2007 release <i><a href="/wiki/Lightning_Strikes_(Aceyalone_album)" title="Lightning Strikes (Aceyalone album)">Lightning Strikes</a></i> and the 2009 release <i><a href="/wiki/Aceyalone_%26_the_Lonely_Ones" title="Aceyalone &amp; the Lonely Ones">Aceyalone &amp; the Lonely Ones</a></i>. Both albums explored different genres – <a href="/wiki/Dancehall" title="Dancehall">dancehall</a> and <a href="/wiki/Doo-wop" title="Doo-wop">doo-wop</a>, respectively – as part of Aceyalone's goal of “exploring the world of music through hip hop.”<sup id="cite_ref-Johnson_15-1" class="reference"><a href="#cite_note-Johnson-15">&#91;15&#93;</a></sup> The <a href="/wiki/Phil_Spector" title="Phil Spector">Phil Spector</a>-inspired <i>Aceyalone &amp; the Lonely Ones</i> followed.<sup id="cite_ref-ign_19-0" class="reference"><a href="#cite_note-ign-19">&#91;19&#93;</a></sup> Inspired by Spector's <a href="/wiki/Wall_of_Sound" title="Wall of Sound">Wall of Sound</a>, <a href="/wiki/Motown" title="Motown">Motown</a> and <a href="/wiki/Bo_Diddley" title="Bo Diddley">Bo Diddley</a>, Aceyalone said: “I'm not from that era, but this is my ode to it. I'm just putting myself into that character as a showman and bandleader.”<sup id="cite_ref-ign_19-1" class="reference"><a href="#cite_note-ign-19">&#91;19&#93;</a></sup> <i><a href="/wiki/Leanin%27_on_Slick" title="Leanin&#39; on Slick">Leanin' on Slick</a></i>, released in 2013 with <a href="/wiki/Decon_Records" class="mw-redirect" title="Decon Records">Decon Records</a>, continued the retro flow of the previous release, this time taking inspiration from <a href="/wiki/1960s_R%26B" class="mw-redirect" title="1960s R&amp;B">1960s style-R&amp;B</a> and hot buttered soul.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Style_and_influences">Style and influences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aceyalone&amp;action=edit&amp;section=4" title="Edit section: Style and influences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Aceyalone has been noted particularly for his innovative lyrical style and content. Some attribute the double-time rap styles that emerged in the mid-1990s to Aceyalone and <a href="/wiki/Freestyle_Fellowship" title="Freestyle Fellowship">Freestyle Fellowship</a>, although this is disputed by others.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>Aceyalone and Freestyle Fellowship were noted for their rejection of the West Coast trend of gangsta rap. Aceyalone developed strong critiques of rap music's commercialization and glorification of violence.<sup id="cite_ref-Pecoraro_6-1" class="reference"><a href="#cite_note-Pecoraro-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aceyalone&amp;action=edit&amp;section=5" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Aceyalone_discography" title="Aceyalone discography">Aceyalone discography</a></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Freestyle_Fellowship#Discography" title="Freestyle Fellowship">Freestyle Fellowship discography</a> and <a href="/wiki/Haiku_d%27Etat#Discography" title="Haiku d&#39;Etat">Haiku d'Etat discography</a></div>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aceyalone&amp;action=edit&amp;section=6" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Aceyalone</b>
+</p>
+<ul><li><i><a href="/wiki/All_Balls_Don%27t_Bounce" title="All Balls Don&#39;t Bounce">All Balls Don't Bounce</a></i> (1995)</li>
+<li><i><a href="/wiki/A_Book_of_Human_Language" title="A Book of Human Language">A Book of Human Language</a></i> (1998) <small>(with Mumbles)</small></li>
+<li><i><a href="/wiki/Accepted_Eclectic" title="Accepted Eclectic">Accepted Eclectic</a></i> (2001)</li>
+<li><i><a href="/wiki/Hip_Hop_and_the_World_We_Live_In" title="Hip Hop and the World We Live In">Hip Hop and the World We Live In</a></i> (2002) <small>(with Elusive)</small></li>
+<li><i><a href="/wiki/Love_%26_Hate_(Aceyalone_album)" title="Love &amp; Hate (Aceyalone album)">Love &amp; Hate</a></i> (2003)</li>
+<li><i><a href="/wiki/Magnificent_City" title="Magnificent City">Magnificent City</a></i> (2006) <small>(with <a href="/wiki/RJD2" title="RJD2">RJD2</a>)</small></li>
+<li><i><a href="/wiki/Lightning_Strikes_(Aceyalone_album)" title="Lightning Strikes (Aceyalone album)">Lightning Strikes</a></i> (2007) <small>(with Bionik)</small></li>
+<li><i><a href="/wiki/Aceyalone_%26_the_Lonely_Ones" title="Aceyalone &amp; the Lonely Ones">Aceyalone &amp; the Lonely Ones</a></i> (2009) <small>(with Bionik)</small></li>
+<li><i><a href="/wiki/Leanin%27_on_Slick" title="Leanin&#39; on Slick">Leanin' on Slick</a></i> (2013) <small>(with Bionik)</small></li>
+<li><i>Action</i> (2015) <small>(with Bionik)</small></li>
+<li><i>Mars</i> (2016) <small>(with Slippers)</small></li>
+<li><i>Ancient Future: Conversations With God</i> (2017) <small>(with <a href="/wiki/Orko_Eloheim" title="Orko Eloheim">Orko Eloheim</a>)</small></li>
+<li><i>43rd &amp; Excellence</i> (2018) <small>(with <a href="/wiki/Fat_Jack" class="mw-redirect" title="Fat Jack">Fat Jack</a>)</small></li>
+<li><i>Mars, Vol. 02</i> (2018) <small>(with Slippers &amp; Michelle Stevens)</small></li>
+<li><i>Let's Get It</i> (2019)</li>
+<li><i>Ice Water</i> (2020)</li></ul>
+<p><b><a href="/wiki/Freestyle_Fellowship" title="Freestyle Fellowship">Freestyle Fellowship</a></b> <small>(Aceyalone with <a href="/wiki/Myka_9" title="Myka 9">Myka 9</a>, <a href="/wiki/Mtulazaji_Davis" class="mw-redirect" title="Mtulazaji Davis">P.E.A.C.E.</a> &amp; <a href="/wiki/Self_Jupiter" title="Self Jupiter">Self Jupiter</a>)</small>
+</p>
+<ul><li><i><a href="/wiki/To_Whom_It_May_Concern..." title="To Whom It May Concern...">To Whom It May Concern...</a></i> (1991)</li>
+<li><i><a href="/wiki/Innercity_Griots" title="Innercity Griots">Innercity Griots</a></i> (1993)</li>
+<li><i><a href="/wiki/Temptations_(album)" title="Temptations (album)">Temptations</a></i> (2001)</li>
+<li><i><a href="/wiki/Shockadoom" title="Shockadoom">Shockadoom</a></i> (2002) [EP]</li>
+<li><i><a href="/wiki/The_Promise_(Freestyle_Fellowship_album)" title="The Promise (Freestyle Fellowship album)">The Promise</a></i> (2011)</li></ul>
+<p><b><a href="/wiki/Haiku_d%27Etat" title="Haiku d&#39;Etat">Haiku d'Etat</a></b> <small>(Aceyalone with <a href="/wiki/Abstract_Rude" title="Abstract Rude">Abstract Rude</a> and Myka 9)</small>
+</p>
+<ul><li><i><a href="/wiki/Haiku_d%27Etat_(album)" title="Haiku d&#39;Etat (album)">Haiku d'Etat</a></i> (1999)</li>
+<li><i><a href="/wiki/Coup_de_Theatre_(album)" title="Coup de Theatre (album)">Coup de Theatre</a></i> (2004)</li></ul>
+<p><b>The A-Team</b> <small>(Aceyalone with Abstract Rude)</small>
+</p>
+<ul><li><i>Who Framed the A-Team?</i> (1999)</li>
+<li><i>Lab Down Under</i> (2003)</li></ul>
+<h3><span class="mw-headline" id="Other_releases">Other releases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aceyalone&amp;action=edit&amp;section=7" title="Edit section: Other releases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Version 2.0: To Whom It May Concern... Remixed by J. Sumbi</i> (2001) <small>[remixes of tracks from <i><a href="/wiki/To_Whom_It_May_Concern..." title="To Whom It May Concern...">To Whom It May Concern...</a></i>]</small></li>
+<li><i>The Lost Tapes</i> (2003) <small>[mixtape]</small></li>
+<li><i>Grade A</i> (2004) <small>[rarities collection]</small></li>
+<li><i><a href="/wiki/Grand_Imperial_(album)" title="Grand Imperial (album)">Grand Imperial</a></i> (2006) <small>[rarities collection]</small></li>
+<li><i>Who Reframed the A-Team?</i> (2006) <small>['best of' compilation by The A-Team]</small></li>
+<li><i>Power Plant</i> (2011) <small>[mixtape by Freestyle Fellowship]</small></li>
+<li><i>Aceyalone 101</i> (2013) <small>[rarities collection]</small></li>
+<li><i>Action Accessed Remixes</i> (2017) <small>[remixes of tracks from <i>Action</i>]</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aceyalone&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-Birchmeier-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Birchmeier_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Birchmeier_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFBirchmeier" class="citation web cs1">Birchmeier, Jason. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/aceyalone-mn0000926487">"Aceyalone - Music Biography, Credits and Discography"</a>. Allmusic.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone+-+Music+Biography%2C+Credits+and+Discography&amp;rft.pub=Allmusic&amp;rft.aulast=Birchmeier&amp;rft.aufirst=Jason&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Faceyalone-mn0000926487&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFZuñiga-West2012" class="citation web cs1">Zuñiga-West, Dante (May 17, 2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121017110418/http://eugeneweekly.com/article/alone-and-still-standing">"Alone and Still Standing"</a>. Eugene Weekly. Archived from <a rel="nofollow" class="external text" href="http://www.eugeneweekly.com/article/alone-and-still-standing">the original</a> on 2012-10-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alone+and+Still+Standing&amp;rft.pub=Eugene+Weekly&amp;rft.date=2012-05-17&amp;rft.aulast=Zu%C3%B1iga-West&amp;rft.aufirst=Dante&amp;rft_id=http%3A%2F%2Fwww.eugeneweekly.com%2Farticle%2Falone-and-still-standing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-hiphopdx-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-hiphopdx_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hiphopdx_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFArnold2011" class="citation web cs1">Arnold, Paul W (March 20, 2011). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130212105848/http://www.hiphopdx.com/index/interviews/id.1673/title.aceyalone-bounce-these-balls">"Aceyalone: Bounce These Balls"</a>. HipHopDX. Archived from <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/interviews/id.1673/title.aceyalone-bounce-these-balls">the original</a> on February 12, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">August 20,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone%3A+Bounce+These+Balls&amp;rft.pub=HipHopDX&amp;rft.date=2011-03-20&amp;rft.aulast=Arnold&amp;rft.aufirst=Paul+W&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Finterviews%2Fid.1673%2Ftitle.aceyalone-bounce-these-balls&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFThill" class="citation web cs1">Thill, Scott. <a rel="nofollow" class="external text" href="https://www.wired.com/underwire/2011/10/freestyle-fellowship/">"Freestyle Fellowship's Brain-Hop Delivers on Promise"</a>. Wired<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Freestyle+Fellowship%E2%80%99s+Brain-Hop+Delivers+on+Promise&amp;rft.pub=Wired&amp;rft.aulast=Thill&amp;rft.aufirst=Scott&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Funderwire%2F2011%2F10%2Ffreestyle-fellowship%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Weiss-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Weiss_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Weiss_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWeiss" class="citation web cs1">Weiss, Jeff. <a rel="nofollow" class="external text" href="http://www.laweekly.com/westcoastsound/2011/09/27/having-already-influenced-every-rapper-you-like-freestyle-fellowship-are-back">"Having Already Influenced Every Rapper You Like, Freestyle Fellowship Are Back"</a>. <i>LA Weekly</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LA+Weekly&amp;rft.atitle=Having+Already+Influenced+Every+Rapper+You+Like%2C+Freestyle+Fellowship+Are+Back&amp;rft.aulast=Weiss&amp;rft.aufirst=Jeff&amp;rft_id=http%3A%2F%2Fwww.laweekly.com%2Fwestcoastsound%2F2011%2F09%2F27%2Fhaving-already-influenced-every-rapper-you-like-freestyle-fellowship-are-back&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Pecoraro-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pecoraro_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pecoraro_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPecoraro" class="citation web cs1">Pecoraro, David. <a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/17-accepted-eclectic/">"Aceyalone - Accepted Eclectic"</a>. <i>Pitchfork</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork&amp;rft.atitle=Aceyalone+-+Accepted+Eclectic&amp;rft.aulast=Pecoraro&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2F17-accepted-eclectic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.sputnikmusic.com/review/43612/Aceyalone-Book-of-Human-Language/">"Aceyalone - Book of Human Language"</a>. Sputnikmusic. May 25, 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone+-+Book+of+Human+Language&amp;rft.pub=Sputnikmusic&amp;rft.date=2011-05-25&amp;rft_id=https%3A%2F%2Fwww.sputnikmusic.com%2Freview%2F43612%2FAceyalone-Book-of-Human-Language%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFClark2001" class="citation web cs1">Clark, Trey (March 1, 2001). <a rel="nofollow" class="external text" href="http://www.dailynexus.com/2001-03-01/aceyalone-accepted-eclectic-project-blowed/">"Aceyalone - Accepted Eclectic - Project Blowed"</a>. The Daily Nexus.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone+-+Accepted+Eclectic+-+Project+Blowed&amp;rft.pub=The+Daily+Nexus&amp;rft.date=2001-03-01&amp;rft.aulast=Clark&amp;rft.aufirst=Trey&amp;rft_id=http%3A%2F%2Fwww.dailynexus.com%2F2001-03-01%2Faceyalone-accepted-eclectic-project-blowed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCowie2001" class="citation web cs1">Cowie, Del F. (April 2001). <a rel="nofollow" class="external text" href="http://exclaim.ca/Reviews/HipHop/aceyalone-accepted_eclectic">"Aceyalone - Accepted Eclectic"</a>. Exclaim!.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone+-+Accepted+Eclectic&amp;rft.pub=Exclaim%21&amp;rft.date=2001-04&amp;rft.aulast=Cowie&amp;rft.aufirst=Del+F.&amp;rft_id=http%3A%2F%2Fexclaim.ca%2FReviews%2FHipHop%2Faceyalone-accepted_eclectic&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/accepted-eclectic-mw0000000538/credits">"Accepted Eclectic"</a>. AllMusic<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Accepted+Eclectic&amp;rft.pub=AllMusic&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Faccepted-eclectic-mw0000000538%2Fcredits&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFShepherd2003" class="citation web cs1">Shepherd, Julianne (March 2, 2003). <a rel="nofollow" class="external text" href="http://pitchfork.com/reviews/albums/16-hip-hop-and-the-world-we-live-in/">"Aceyalone: Hip Hop and the World We Live In"</a>. Pitchfork Media.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone%3A+Hip+Hop+and+the+World+We+Live+In&amp;rft.pub=Pitchfork+Media&amp;rft.date=2003-03-02&amp;rft.aulast=Shepherd&amp;rft.aufirst=Julianne&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2F16-hip-hop-and-the-world-we-live-in%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPalmer2003" class="citation web cs1">Palmer, Tamara (July 10, 2003). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141211054139/http://www.phoenixnewtimes.com/2003-07-10/music/aceyalone/">"Aceyalone"</a>. Phoenix New Times. Archived from <a rel="nofollow" class="external text" href="http://www.phoenixnewtimes.com/2003-07-10/music/aceyalone/">the original</a> on 2014-12-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone&amp;rft.pub=Phoenix+New+Times&amp;rft.date=2003-07-10&amp;rft.aulast=Palmer&amp;rft.aufirst=Tamara&amp;rft_id=http%3A%2F%2Fwww.phoenixnewtimes.com%2F2003-07-10%2Fmusic%2Faceyalone%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFQuinlan2003" class="citation web cs1">Quinlan, Thomas (July 2003). <a rel="nofollow" class="external text" href="http://exclaim.ca/Reviews/HipHop/aceyalone-love_hate">"Aceyalone - Love &amp; Hate"</a>. Exclaim!.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone+-+Love+%26+Hate&amp;rft.pub=Exclaim%21&amp;rft.date=2003-07&amp;rft.aulast=Quinlan&amp;rft.aufirst=Thomas&amp;rft_id=http%3A%2F%2Fexclaim.ca%2FReviews%2FHipHop%2Faceyalone-love_hate&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCowie2003" class="citation web cs1">Cowie, Del F. (July 2003). <a rel="nofollow" class="external text" href="http://exclaim.ca/Reviews/HipHop/aceyalone-love_hate-2">"Aceyalone - Love &amp; Hate"</a>. Exclaim!.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone+-+Love+%26+Hate&amp;rft.pub=Exclaim%21&amp;rft.date=2003-07&amp;rft.aulast=Cowie&amp;rft.aufirst=Del+F.&amp;rft_id=http%3A%2F%2Fexclaim.ca%2FReviews%2FHipHop%2Faceyalone-love_hate-2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Johnson-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Johnson_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Johnson_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJohnson" class="citation web cs1">Johnson, Nicole. <a rel="nofollow" class="external text" href="http://www.imposemagazine.com/reviews/lightning-strikes--aceyalone">"Lightning Strikes by Aceyalone"</a>. <i>Impose</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Impose&amp;rft.atitle=Lightning+Strikes+by+Aceyalone&amp;rft.aulast=Johnson&amp;rft.aufirst=Nicole&amp;rft_id=http%3A%2F%2Fwww.imposemagazine.com%2Freviews%2Flightning-strikes--aceyalone&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSolomon2006" class="citation web cs1">Solomon, Eric (February 14, 2006). <a rel="nofollow" class="external text" href="http://www.prefixmag.com/reviews/aceyalone-with-rjd2/magnificent-city/14882/">"Aceyalone with RJD - Magnificent City"</a>. Prefix.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone+with+RJD+-+Magnificent+City&amp;rft.pub=Prefix&amp;rft.date=2006-02-14&amp;rft.aulast=Solomon&amp;rft.aufirst=Eric&amp;rft_id=http%3A%2F%2Fwww.prefixmag.com%2Freviews%2Faceyalone-with-rjd2%2Fmagnificent-city%2F14882%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPatch2006" class="citation web cs1">Patch, Nick (April 2006). <a rel="nofollow" class="external text" href="http://exclaim.ca/Reviews/HipHop/aceyalone-magnificent_city">"Aceyalone - Magnificent City"</a>. Exclaim!.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone+-+Magnificent+City&amp;rft.pub=Exclaim%21&amp;rft.date=2006-04&amp;rft.aulast=Patch&amp;rft.aufirst=Nick&amp;rft_id=http%3A%2F%2Fexclaim.ca%2FReviews%2FHipHop%2Faceyalone-magnificent_city&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBrown" class="citation web cs1">Brown, Marisa. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/grand-imperial-mw0000525058">"Grand Imperial - Aceyalone"</a>. Allmusic.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Grand+Imperial+-+Aceyalone&amp;rft.pub=Allmusic&amp;rft.aulast=Brown&amp;rft.aufirst=Marisa&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fgrand-imperial-mw0000525058&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-ign-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-ign_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ign_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ign.com/articles/2009/02/03/aceyalone-goes-doo-woppin">"Aceyalone Goes Doo Wopping"</a>. <i>IGN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IGN&amp;rft.atitle=Aceyalone+Goes+Doo+Wopping&amp;rft_id=http%3A%2F%2Fwww.ign.com%2Farticles%2F2009%2F02%2F03%2Faceyalone-goes-doo-woppin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/leanin-on-slick-mw0002485023">"Leanin' On Slick"</a>. <i>AllMusic</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Leanin%27+On+Slick&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fleanin-on-slick-mw0002485023&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFQuinlan2013" class="citation web cs1">Quinlan, Thomas (May 27, 2013). <a rel="nofollow" class="external text" href="http://exclaim.ca/Reviews/HipHop/aceyalone-leanin_on_slick">"Aceyalone - Leanin' On Slick"</a>. Exclaim!.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aceyalone+-+Leanin%27+On+Slick&amp;rft.pub=Exclaim%21&amp;rft.date=2013-05-27&amp;rft.aulast=Quinlan&amp;rft.aufirst=Thomas&amp;rft_id=http%3A%2F%2Fexclaim.ca%2FReviews%2FHipHop%2Faceyalone-leanin_on_slick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDrake" class="citation web cs1">Drake, David. <a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/04/hip-hops-sonic-doppelgangers-20-rappers-who-sound-like-other-rappers/bone-thugs-and-freestyle-fellowship">"Hip-Hop's Sonic Doppelgangers"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Hip-Hop%27s+Sonic+Doppelgangers&amp;rft.aulast=Drake&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F04%2Fhip-hops-sonic-doppelgangers-20-rappers-who-sound-like-other-rappers%2Fbone-thugs-and-freestyle-fellowship&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAceyalone" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aceyalone&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://aceyalone.com">Official website</a></span></span> <span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q943219#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/Aceyalone">Aceyalone</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://rateyourmusic.com/artist/aceyalone">Aceyalone</a> discography at <a href="/wiki/Rate_Your_Music" title="Rate Your Music">Rate Your Music</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Aceyalone" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Aceyalone" title="Template:Aceyalone"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Aceyalone" title="Template talk:Aceyalone"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Aceyalone&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Aceyalone" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Aceyalone</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/All_Balls_Don%27t_Bounce" title="All Balls Don&#39;t Bounce">All Balls Don't Bounce</a></i> (1995)</li>
+<li><i><a href="/wiki/A_Book_of_Human_Language" title="A Book of Human Language">A Book of Human Language</a></i> (1998)</li>
+<li><i><a href="/wiki/Accepted_Eclectic" title="Accepted Eclectic">Accepted Eclectic</a></i> (2001)</li>
+<li><i><a href="/wiki/Hip_Hop_and_the_World_We_Live_In" title="Hip Hop and the World We Live In">Hip Hop and the World We Live In</a></i> (2002)</li>
+<li><i><a href="/wiki/Love_%26_Hate_(Aceyalone_album)" title="Love &amp; Hate (Aceyalone album)">Love &amp; Hate</a></i> (2003)</li>
+<li><i><a href="/wiki/Magnificent_City" title="Magnificent City">Magnificent City</a></i> (2006)</li>
+<li><i><a href="/wiki/Lightning_Strikes_(Aceyalone_album)" title="Lightning Strikes (Aceyalone album)">Lightning Strikes</a></i> (2007)</li>
+<li><i><a href="/wiki/Aceyalone_%26_the_Lonely_Ones" title="Aceyalone &amp; the Lonely Ones">Aceyalone &amp; the Lonely Ones</a></i> (2009)</li>
+<li><i><a href="/wiki/Leanin%27_on_Slick" title="Leanin&#39; on Slick">Leanin' on Slick</a></i> (2013)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilation albums</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Grand_Imperial_(album)" title="Grand Imperial (album)">Grand Imperial</a></i> (2006)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><a href="/wiki/Haiku_D%27Etat" class="mw-redirect" title="Haiku D&#39;Etat">Haiku D'Etat</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Haiku_D%27Etat_(album)" class="mw-redirect" title="Haiku D&#39;Etat (album)">Haiku D'Etat</a></i> (1999)</li>
+<li><i><a href="/wiki/Coup_de_Theatre_(album)" title="Coup de Theatre (album)">Coup de Theatre</a></i> (2004)</li></ul>
+</div></td></tr></tbody></table></div><div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Freestyle_Fellowship" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Freestyle_Fellowship" title="Template:Freestyle Fellowship"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Freestyle_Fellowship" title="Template talk:Freestyle Fellowship"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Freestyle_Fellowship&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Freestyle_Fellowship" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Freestyle_Fellowship" title="Freestyle Fellowship">Freestyle Fellowship</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a class="mw-selflink selflink">Aceyalone</a></b></li>
+<li><b><a href="/wiki/Myka_9" title="Myka 9">Myka 9</a></b></li>
+<li><b><a href="/wiki/Peace_(rapper)" title="Peace (rapper)">Peace</a></b></li>
+<li><b><a href="/wiki/Self_Jupiter" title="Self Jupiter">Self Jupiter</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/To_Whom_It_May_Concern..." title="To Whom It May Concern...">To Whom It May Concern...</a></i> (1991)</li>
+<li><i><a href="/wiki/Innercity_Griots" title="Innercity Griots">Innercity Griots</a></i> (1993)</li>
+<li><i><a href="/wiki/Temptations_(album)" title="Temptations (album)">Temptations</a></i> (2001)</li>
+<li><i><a href="/wiki/The_Promise_(Freestyle_Fellowship_album)" title="The Promise (Freestyle Fellowship album)">The Promise</a></i> (2011)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Shockadoom" title="Shockadoom">Shockadoom</a></i> (2002)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Project_Blowed" title="Project Blowed">Project Blowed</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q943219#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q943219#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q943219#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000053519835">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/4667350">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2005080922">United States</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/dbd1b11b-0ab2-4afd-8264-c2909237b6fb">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2290
+Cached time: 20230919190958
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.467 seconds
+Real time usage: 0.569 seconds
+Preprocessor visited node count: 2496/1000000
+Post‐expand include size: 68536/2097152 bytes
+Template argument size: 2971/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 84022/5000000 bytes
+Lua time usage: 0.303/10.000 seconds
+Lua memory usage: 8745173/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  510.258      1 -total
+ 35.32%  180.235      1 Template:Reflist
+ 30.42%  155.240     22 Template:Cite_web
+ 28.02%  142.998      1 Template:Infobox_musical_artist
+ 24.58%  125.396      1 Template:Infobox
+ 12.30%   62.748      2 Template:Short_description
+ 10.72%   54.714      2 Template:Navbox_musical_artist
+ 10.25%   52.304      2 Template:Navbox
+ 10.15%   51.783      1 Template:Aceyalone
+  8.78%   44.798      2 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2110378-0!canonical and timestamp 20230919190958 and revision id 1168069061. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Aceyalone&amp;oldid=1168069061">https://en.wikipedia.org/w/index.php?title=Aceyalone&amp;oldid=1168069061</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:1970_births" title="Category:1970 births">1970 births</a></li><li><a href="/wiki/Category:Rappers_from_Los_Angeles" title="Category:Rappers from Los Angeles">Rappers from Los Angeles</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:Capitol_Records_artists" title="Category:Capitol Records artists">Capitol Records artists</a></li><li><a href="/wiki/Category:Underground_rappers" title="Category:Underground rappers">Underground rappers</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:Project_Blowed" title="Category:Project Blowed">Project Blowed</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 31 July 2023, at 15:59<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Aceyalone&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2367","wgBackendResponseTime":104,"wgPageParseReport":{"limitreport":{"cputime":"0.467","walltime":"0.569","ppvisitednodes":{"value":2496,"limit":1000000},"postexpandincludesize":{"value":68536,"limit":2097152},"templateargumentsize":{"value":2971,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":84022,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  510.258      1 -total"," 35.32%  180.235      1 Template:Reflist"," 30.42%  155.240     22 Template:Cite_web"," 28.02%  142.998      1 Template:Infobox_musical_artist"," 24.58%  125.396      1 Template:Infobox"," 12.30%   62.748      2 Template:Short_description"," 10.72%   54.714      2 Template:Navbox_musical_artist"," 10.25%   52.304      2 Template:Navbox"," 10.15%   51.783      1 Template:Aceyalone","  8.78%   44.798      2 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.303","limit":"10.000"},"limitreport-memusage":{"value":8745173,"limit":52428800}},"cachereport":{"origin":"mw2290","timestamp":"20230919190958","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Aceyalone","url":"https:\/\/en.wikipedia.org\/wiki\/Aceyalone","sameAs":"http:\/\/www.wikidata.org\/entity\/Q943219","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q943219","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-25T00:24:43Z","dateModified":"2023-07-31T15:59:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d5\/Aceyalone.jpg","headline":"American rapper"}</script>
+</body>
+</html>

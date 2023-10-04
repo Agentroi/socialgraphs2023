@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>JHawk - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"71756fd5-fa53-49f0-ae9b-0e9c100624cb","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"JHawk","wgTitle":"JHawk","wgCurRevisionId":1162323785,"wgRevisionId":1162323785,"wgArticleId":48484631,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","1991 births","Living people","21st-century American musicians","African-American record producers","American hip hop record producers","American music industry executives","American rhythm and blues keyboardists","Musicians from Los Angeles","West Coast hip hop musicians","Record producers from California","21st-century African-American musicians"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":
+"wikitext","wgRelevantPageName":"JHawk","wgRelevantArticleId":48484631,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q21621591","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],
+"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/66/JHawkone.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1850">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/66/JHawkone.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1234">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="987">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="JHawk - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/JHawk">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=JHawk&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/JHawk">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-JHawk rootpage-JHawk skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=JHawk" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=JHawk" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=JHawk" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=JHawk" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Music_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Music_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Music career</div>
+		</a>
+		
+			<button aria-controls="toc-Music_career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Music career subsection</span>
+			</button>
+		
+		<ul id="toc-Music_career-sublist" class="vector-toc-list">
+			<li id="toc-2008–present"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2008–present">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>2008–present</div>
+			</a>
+			
+			<ul id="toc-2008–present-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Jerkin&#039;"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Jerkin&#039;">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Jerkin'</div>
+			</a>
+			
+			<ul id="toc-Jerkin&#039;-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Cat_Daddy"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Cat_Daddy">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Cat Daddy</div>
+			</a>
+			
+			<ul id="toc-Cat_Daddy-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Flight_In_Progress"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Flight_In_Progress">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>Flight In Progress</div>
+			</a>
+			
+			<ul id="toc-Flight_In_Progress-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-22andlife"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#22andlife">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5</span>22andlife</div>
+			</a>
+			
+			<ul id="toc-22andlife-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Extended_plays"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Extended_plays">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Extended plays</div>
+			</a>
+			
+			<ul id="toc-Extended_plays-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>Albums</div>
+			</a>
+			
+			<ul id="toc-Albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-As_a_lead_artist"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#As_a_lead_artist">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>As a lead artist</div>
+			</a>
+			
+			<ul id="toc-As_a_lead_artist-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Production_discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Production_discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Production discography</div>
+		</a>
+		
+			<button aria-controls="toc-Production_discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Production discography subsection</span>
+			</button>
+		
+		<ul id="toc-Production_discography-sublist" class="vector-toc-list">
+			<li id="toc-Selected_discography"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Selected_discography">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Selected discography</div>
+			</a>
+			
+			<ul id="toc-Selected_discography-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles_Produced"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles_Produced">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Singles Produced</div>
+			</a>
+			
+			<ul id="toc-Singles_Produced-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Music_publishing"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Music_publishing">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Music publishing</div>
+		</a>
+		
+		<ul id="toc-Music_publishing-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Filmography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Filmography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Filmography</div>
+		</a>
+		
+		<ul id="toc-Filmography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Brand/partnerships"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Brand/partnerships">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Brand/partnerships</div>
+		</a>
+		
+		<ul id="toc-Brand/partnerships-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">JHawk</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 1 language"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-1" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">1 language</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ig mw-list-item"><a href="https://ig.wikipedia.org/wiki/JHawk" title="JHawk – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target"><span>Igbo</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21621591#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/JHawk" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:JHawk" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/JHawk"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=JHawk&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=JHawk&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/JHawk"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=JHawk&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=JHawk&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/JHawk" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/JHawk" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=JHawk&amp;oldid=1162323785" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=JHawk&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=JHawk&amp;id=1162323785&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21621591" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=JHawk&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=JHawk&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">JHawk</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:JHawkone.jpg" class="mw-file-description" title="JHawk in August 2014"><img alt="JHawk in August 2014" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/JHawkone.jpg/220px-JHawkone.jpg" decoding="async" width="220" height="339" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/JHawkone.jpg/330px-JHawkone.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/6/66/JHawkone.jpg 2x" data-file-width="382" data-file-height="589" /></a></span><div class="infobox-caption">JHawk in August 2014</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Jeremy Hawkins</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1991-08-08</span>) </span>August 8, 1991<span class="noprint ForceAgeToShow"> (age&#160;32)</span></td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, California, United States</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li><li><a href="/wiki/Contemporary_R%26B" title="Contemporary R&amp;B">R&amp;B</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Record producer</li><li>songwriter</li><li>actor</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Reason_(software)" title="Reason (software)">Reason</a></li><li><a href="/wiki/Logic_Pro" title="Logic Pro">Logic Pro</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2006–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>22andlife</li><li>JHawk Productions</li></ul></div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://jhawkproductions.com">jhawkproductions<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Jeremy Hawkins</b> (born August 8, 1991) known professionally as <b>JHawk</b> or <b>JHawk Productions</b> , is an American record producer, songwriter, and actor from <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a href="/wiki/California" title="California">California</a>. He is known for pioneering the <a href="/wiki/Jerkin%27" title="Jerkin&#39;">Jerkin'</a> Movement, accumulating tens of millions of views and streams, contributing heavily to the success of a number of Los Angeles-based artists.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Hawkins is perhaps best known for producing <a href="/wiki/The_Rej3ctz" title="The Rej3ctz">The Rej3ctz</a>'s breakout hit "<a href="/wiki/Cat_Daddy" title="Cat Daddy">Cat Daddy</a>" in 2011 which reached Number 77 on the <a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Songs</a> and achieved Platinum certification independently.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>JHawk grew up in a cultured park of Los Angeles, <a href="/wiki/Leimert_Park" class="mw-redirect" title="Leimert Park">Leimert Park</a>. Both mother and father being musicians, mother being a local vocalist and father being a multi-instrumentalist. He is also the great nephew to <a href="/wiki/The_Chambers_Brothers" title="The Chambers Brothers">The Chambers Brothers</a>, (Time Has Come Today),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> often observing the band rehearse and play live shows for their great-grandmother. Shortly after receiving his first <a href="/wiki/Music_sequencer" title="Music sequencer">music sequencer</a> software Hip Hop <a href="/wiki/EJay" title="EJay">EJay</a> from his father, he started making beats at the age of 11 and desired to become a <a href="/wiki/Music_producer" class="mw-redirect" title="Music producer">music producer</a>. Stating to Killerhiphophop's Quez, "I put out my 1st song on the internet when I was about 15-16, and I've just been going hard ever since".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Music_career">Music career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=2" title="Edit section: Music career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="2008.E2.80.93present"></span><span class="mw-headline" id="2008–present">2008–present</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=3" title="Edit section: 2008–present">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After 3 years and a junior at <a href="/wiki/Daniel_Murphy_High_School" title="Daniel Murphy High School">Daniel Murphy High School</a>, the <a href="/wiki/Archdiocese" class="mw-redirect" title="Archdiocese">Archdiocese</a> decided to shut the school's doors. Jeremy, who'd been building a name for himself on campus by recording students in his bedroom studio at his grandmother's was forced to relocate senior year. Stating to KHH, " I went to a private school called Daniel Murphy. It got shut down actually. I had to complete my last year of High School at a new High School".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> After moving out of his grandmother's house, he moved in with his father. Gutting the garage and making a studio space in the spring of 2008. Often recording his cousin <a href="/wiki/Left_Brain" class="mw-redirect" title="Left Brain">Left Brain</a>, who brought <a href="/wiki/Tyler_The_Creator" class="mw-redirect" title="Tyler The Creator">Tyler The Creator</a>, <a href="/wiki/Hodgy_Beats" class="mw-redirect" title="Hodgy Beats">Hodgy Beats</a>, <a href="/wiki/Casey_Veggies" title="Casey Veggies">Casey Veggies</a>, of the year old collective <a href="/wiki/Odd_future" class="mw-redirect" title="Odd future">Odd future</a>. Recording and producing for the collective, <a href="/wiki/The_Odd_Future_Tape" class="mw-redirect" title="The Odd Future Tape">The Odd Future Tape</a>, <a href="/wiki/The_Dena_Tape" title="The Dena Tape">The Dena Tape</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>JHawk attended The Academy of Music and Performing Arts <a href="/wiki/Alexander_Hamilton_High_School_(Los_Angeles)" title="Alexander Hamilton High School (Los Angeles)">Alexander Hamilton High School (Los Angeles)</a> in the summer of 2008. Due to a credit issue, he was required to attend a piano lesson class for admission and freshman PE class his senior year. Subsequently, adding an <a href="/wiki/Electronic_Music" class="mw-redirect" title="Electronic Music">Electronic Music</a> and <a href="/wiki/Music_History" class="mw-redirect" title="Music History">Music History</a> course, soon meeting friend <a href="/wiki/Syd_Tha_Kyd" class="mw-redirect" title="Syd Tha Kyd">Syd Tha Kyd</a> in Hamilton's Mr. Bruning <a href="/wiki/Electronic_music" title="Electronic music">electronic music</a> class. After being at <a href="/wiki/Alexander_Hamilton_High_School_(Los_Angeles)" title="Alexander Hamilton High School (Los Angeles)">Hamilton</a> for months and remaining unnoticed he aggressively fought to gain attention. Garnering his <a href="/wiki/Myspace" title="Myspace">Myspace</a> page he began to send out beats, connecting with <a href="/wiki/YG_(rapper)" title="YG (rapper)">YG (rapper)</a> on MySpace, the two collaborated on songs that would combine for over 3 Million plays.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span id="Jerkin.27"></span><span class="mw-headline" id="Jerkin'">Jerkin'</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=4" title="Edit section: Jerkin&#039;">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>With a heavy influence from then <a href="/wiki/Hyphy" title="Hyphy">Hyphy</a> movement, (<a href="/wiki/Keak_da_Sneak" title="Keak da Sneak">Keak da Sneak</a>, <a href="/wiki/Turf_Talk" title="Turf Talk">Turf Talk</a>, <a href="/wiki/E-40" title="E-40">E-40</a>) and newfound fame from working with YG &amp; <i>The Pu$haz</i> Jeremy started to collaborate with anyone, often his fellow students on campus. Slowly building recognition, kids on campus started to dance to the music, in all styles, but most notably a new style called <a href="/wiki/Jerkin%27" title="Jerkin&#39;">Jerkin'</a>. Taking notice saying, "I never sought out to make a jerk beat. I always just did me. I did JHawk. People danced to my music and I kind of developed a formula to what they were grabbing off of my beats."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Eventually dance crews such as the Rangers formed on campus and videos were made with the music to match amassing tens of millions of hits on <a href="/wiki/Myspace" title="Myspace">Myspace</a> and the newly created <a href="/wiki/YouTube" title="YouTube">YouTube</a>. At the age of 17 and having worked with almost all of La's male youth, he longed to form a group. On the bleachers in the PE class he was succumbed to is when he met 6 female freshman who all rapped. The same day they quickly formed the name of the group <i>Pink Dollaz</i>. After 2 months the music was streamed over 5 million times across <a href="/wiki/Myspace" title="Myspace">Myspace</a> and <a href="/wiki/YouTube" title="YouTube">YouTube</a> with radio spins from <i>Dj Carisma</i>'s <a href="/wiki/KPWR" title="KPWR">Power 106</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>   A slew of relationships such as these formed by spring 2009. Another song titled 'Tippin' today amasses 14 million plays on one <a href="/wiki/YouTube" title="YouTube">YouTube</a> video alone.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> <a href="/wiki/LA_Weekly" title="LA Weekly">LA Weekly</a>'s Jeff Weiss stating, "The wiry J-Hawk is the nexus that binds all of these groups together. After all, he's produced their hits, and to think it might not have happened if Daniel Murphy High hadn't shuttered last year, causing the 17-year-old Hawkins to transfer to Hamilton".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The genre, sound and culture exploded mainstream. Accidentally, JHawk was born. After amassing press mentions from <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> <a href="/wiki/LA_Times" class="mw-redirect" title="LA Times">LA Times</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> <a href="/wiki/LA_Weekly" title="LA Weekly">LA Weekly</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> and a host of acts signed to major label deals.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> <a href="/wiki/New_Boyz" title="New Boyz">New Boyz</a>, <a href="/wiki/The_Rej3ctz" title="The Rej3ctz">The Rej3ctz</a>, <i>Cold Flamez</i>, <a href="/wiki/Audio_Push" title="Audio Push">Audio Push</a>, <i>The Bangz</i>, and <a href="/wiki/YG_(rapper)" title="YG (rapper)">YG (rapper)</a>. JHawk stated, "I'm definitely fortunate for the movement and being one of the starters of it back in 2008".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Cat_Daddy">Cat Daddy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=5" title="Edit section: Cat Daddy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After a year and growing frustrated he re-connected with <a href="/wiki/The_Rej3ctz" title="The Rej3ctz">The Rej3ctz</a> sharing similar emotions, "We were major contributors, but we felt we weren't getting our shine. So we wanted to start a new movement."<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> In the spring of 2010 at JHawk's <a href="/wiki/Home_recording" title="Home recording">Home recording</a> studio crafted, <a href="/wiki/Cat_Daddy" title="Cat Daddy">Cat Daddy</a>.
+</p>
+<h3><span class="mw-headline" id="Flight_In_Progress">Flight In Progress</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=6" title="Edit section: Flight In Progress">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Is the Music Business Venture from Music Producer JHawk, which currently helps Independent Artist and Music Producers navigate Music Distribution, Music Streaming &amp; more in the ever-changing Music Industry. Currently the content is delivered via <a href="/wiki/YouTube" title="YouTube">YouTube</a> &amp; <a href="/wiki/SoundCloud" title="SoundCloud">SoundCloud</a>.
+</p>
+<h3><span class="mw-headline" id="22andlife">22andlife</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=7" title="Edit section: 22andlife">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The production company founded by <b>Jeremy JHawk Hawkins</b>, currently it boats no artist and solely exists as a creative outlet for music projects, videos, street-wear and events.
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=8" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Extended_plays">Extended plays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=9" title="Edit section: Extended plays">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of EPs, with selected information
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="1" style="width:12em;">Title
+</th>
+<th scope="col" rowspan="1" style="width:16em;">Album details
+</th></tr>
+<tr>
+<th scope="row"><i>22</i><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: August 1, 2014</li>
+<li>Label: 22andlife</li>
+<li>Format: <a href="/wiki/Music_download" title="Music download">Digital download</a></li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Fairfax and Pico</i> (with <a href="/wiki/Mann_(rapper)" title="Mann (rapper)">Mann</a>)
+</th>
+<td>
+<ul><li>Released: October 20, 2017</li>
+<li>Label: <a href="/wiki/Empire_Distribution" title="Empire Distribution">Empire</a>, Peace Life Quality Recordings, JHawk Productions</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=10" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Jerkin' with JHawk</i> (2009)<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Albums">Albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=11" title="Edit section: Albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>For The Function (2018)</li></ul>
+<h3><span class="mw-headline" id="As_a_lead_artist">As a lead artist</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=12" title="Edit section: As a lead artist">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Pressure</i> (2015)<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Production_discography">Production discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=13" title="Edit section: Production discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Selected_discography">Selected discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=14" title="Edit section: Selected discography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>2008: Pheo-'Hot Chick'</li>
+<li>2008: PC-'Like Cheesy'</li>
+<li>2008: JHawk-'Summa Luv feat. <a href="/wiki/Tyler_The_Creator" class="mw-redirect" title="Tyler The Creator">Tyler The Creator </a>&amp; <a href="/wiki/Hodgy" title="Hodgy">Hodgy</a> Beats</li>
+<li>2008: <a href="/wiki/Hodgy_Beats" class="mw-redirect" title="Hodgy Beats">Hodgy Beats</a> - This is My Life, Work That Sh*t, Pop That, Change it Up, Clothes Off, Kush On My Mind</li>
+<li>2009: JHawk Productions -Tippin On My D*ck (feat TH1ZZ &amp; Jinc)</li>
+<li>2009: <a href="/wiki/YG_(rapper)" title="YG (rapper)">YG (rapper)</a> -<i>Bad B*tch, 'P*ssy Killa</i>, <i>Party Like That</i></li>
+<li>2009: <a href="/wiki/Ty_Dolla_Sign" title="Ty Dolla Sign">Ty Dolla Sign</a> - <i>Pussy Killer Remix</i></li>
+<li>2009: Pink Dollaz-<i>Im tasty, Never Hungry, Don't Need No, Lap Dance, Ball Game</i><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup></li>
+<li>2009: Hazel E- <i>Pop My Butt, Party Like That</i> (feat. <a href="/wiki/YG_(rapper)" title="YG (rapper)">YG (rapper)</a> )</li>
+<li>2009: Asia Lynn- <i>Bite My Swagg, Filthy Girl</i></li>
+<li>2009: Indigo Vanity (BigKlit)- <i>Rock Your World, Snap A Pic</i></li>
+<li>2010: <a href="/wiki/Mann_(rapper)" title="Mann (rapper)">Mann (rapper)</a> - <i>Pressure feat Casey Veggies, Kickin it With The Lingo feat Skeme &amp; SC</i></li>
+<li>2010: Cold Flamez- Rhythm &amp; Bass, Saturday Nights</li>
+<li>2010: <a href="/wiki/E-40" title="E-40">E-40</a> -<a href="/wiki/Revenue_Retrievin%27:_Night_Shift" title="Revenue Retrievin&#39;: Night Shift"><i>Wet</i></a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup></li>
+<li>2010: <a href="/wiki/Sabi_(singer)" title="Sabi (singer)">Sabi (singer)</a> - <i>Get It Girl</i></li>
+<li>2011: <a href="/wiki/T._Mills" class="mw-redirect" title="T. Mills">Travis Mills</a> -<i>Now Its Your Turn, Million, Umbrella, Come Inside, Keep Callin</i></li>
+<li><i>Keep Calling, Whats My Name, Pass Out, Whats My Name</i></li>
+<li>2011: <a href="/wiki/Iggy_Azalea" title="Iggy Azalea">Iggy Azalea</a> -<i>Sippin My Tea</i></li>
+<li>2011: <a href="/wiki/The_Rej3ctz" title="The Rej3ctz">The Rej3ctz</a> -<i><a href="/wiki/Cat_Daddy" title="Cat Daddy">Cat Daddy</a>, Rej3ct Stomp</i></li>
+<li>2011: <a href="/wiki/Cali_Swag_District" title="Cali Swag District">Cali Swag District</a> - What You Drankin</li>
+<li>2012: <a href="/wiki/Casey_Veggies" title="Casey Veggies">Casey Veggies</a>  -Verified, Lucid Dreams feat. Rich Hil<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup></li>
+<li>2012: <a href="/wiki/Buddy_(rapper)" title="Buddy (rapper)">Buddy (rapper)</a> - Get Yo Girl, I Got Money (feat. <a href="/wiki/Thurzday" class="mw-redirect" title="Thurzday">Thurzday</a>) <i>unreleased</i></li>
+<li>2012: <a href="/wiki/Tanvi_Shah" title="Tanvi Shah">Tanvi Shah</a> - Zindagi</li>
+<li>2013: <a href="/wiki/O.T._Genasis" title="O.T. Genasis">O.T. Genasis</a> -<i>My Turn Up, Icon</i><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup></li>
+<li>2013: <a href="/wiki/E-40" title="E-40">E-40</a> -<a href="/wiki/The_Block_Brochure:_Welcome_to_the_Soil_4" title="The Block Brochure: Welcome to the Soil 4"><i>Bamboo</i></a></li>
+<li>2014: <a href="/wiki/Khalil_(singer)" title="Khalil (singer)">Khalil (singer)</a> -<i>Say Yes</i>, Livin For<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup></li>
+<li>2015: <a href="/wiki/Serayah_McNeill" class="mw-redirect" title="Serayah McNeill">Serayah McNeill</a> -<i>Is It</i><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup></li>
+<li>2015: <a href="/wiki/Chris_Brown" title="Chris Brown">Chris Brown</a> -<a href="/wiki/Royalty_(Chris_Brown_album)" title="Royalty (Chris Brown album)"><i>Day One</i></a>.</li>
+<li>2016: <a href="/wiki/E-40" title="E-40">E-40</a> feat. <a href="/wiki/Kamaiyah" title="Kamaiyah">Kamaiyah</a> - <i>Petty</i><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup></li>
+<li>2017: <a href="/wiki/Mann_(rapper)" title="Mann (rapper)">Mann (rapper)</a> - Fairfax &amp; Pico (EP)</li>
+<li>2017: <a href="/wiki/Tyga" title="Tyga">Tyga</a> - <i>Nasty Nasty or Nasty Ni**a</i><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup></li>
+<li>2017: <a href="/wiki/Iggy_Azalea" title="Iggy Azalea">Iggy Azalea</a> feat. <a href="/wiki/Zedd" title="Zedd">Zedd</a>- Boom Boom (co.)</li>
+<li>2019: <a href="/wiki/La_Goony_Chonga" title="La Goony Chonga">La Goony Chonga</a>- No Quieres Lio</li></ul>
+<h3><span class="mw-headline" id="Singles_Produced">Singles Produced</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=15" title="Edit section: Singles Produced">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<tbody><tr>
+<th scope="col" rowspan="2">Year
+</th>
+<th scope="col" rowspan="2" style="width:20em;">Title
+</th>
+<th scope="col" colspan="3">Chart positions
+</th>
+<th>
+</th>
+<th scope="col" rowspan="2" style="width:12em;"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Certifications</a>
+</th>
+<th scope="col" rowspan="2" style="width:12em;">Album
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">US</a><br />
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">US R&amp;B</a><br />
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">US Rap</a><br />
+</th>
+<th><a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a>
+<p>Soundtrack
+</p>
+</th></tr>
+<tr>
+<td>2010
+</td>
+<td align="left">"<a href="/wiki/Cat_Daddy" title="Cat Daddy">Cat Daddy</a>" <small>(<a href="/wiki/The_Rej3ctz" title="The Rej3ctz">The Rej3ctz</a>)</small>
+</td>
+<td>97</td>
+<td>77</td>
+<td>—
+</td>
+<td>
+</td>
+<td>
+<ul><li><a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>: Platinum <sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup></li></ul>
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td align="left"><i>Petty</i><small> (<a href="/wiki/E-40" title="E-40">E-40</a> feat. <a href="/wiki/Kamaiyah" title="Kamaiyah">Kamaiyah</a>) </small>
+</td>
+<td>--
+</td>
+<td>--
+</td>
+<td>--
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>The D Boy Diary Deluxe
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td align="left"><i>Boom Boom</i> (<a href="/wiki/Iggy_Azalea" title="Iggy Azalea">Iggy Azalea</a> feat. <a href="/wiki/Zedd" title="Zedd">Zedd</a>) (c<small>o.)</small>
+</td>
+<td>--
+</td>
+<td>--
+</td>
+<td>--
+</td>
+<td>#2
+</td>
+<td>
+</td>
+<td><a href="/wiki/Pitch_Perfect_(film_series)" class="mw-redirect" title="Pitch Perfect (film series)">Pitch Perfect 3</a>
+<p><a href="/wiki/Pitch_Perfect_(film_series)" class="mw-redirect" title="Pitch Perfect (film series)">(film series)</a>
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Music_publishing">Music publishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=16" title="Edit section: Music publishing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After creating a buzz in <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, (2009) 17 year old JHawk was vigorously sought after for a <a href="/wiki/Music_publisher_(popular_music)" class="mw-redirect" title="Music publisher (popular music)">music publishing</a> deal. Meeting with three publishing companies, including a sit down with <a href="/wiki/Mike_Caren" title="Mike Caren">Mike Caren</a>'s newly (Artist Publishing Group), respectively. JHawk Ultimately signed a co-music publishing deal with <a href="/wiki/Kara_DioGuardi" title="Kara DioGuardi">Kara DioGuardi</a> and <a href="/wiki/Stephen_Finfer" title="Stephen Finfer">Stephen Finfer</a> 's <a href="/wiki/Arthouse_Entertainment" title="Arthouse Entertainment">Arthouse Entertainment</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> Now administered by <a href="/wiki/BMG_Rights_Management" title="BMG Rights Management">BMG Chrysalis</a>, respectively.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=17" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<caption>Film
+</caption>
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Role
+</th></tr>
+<tr>
+<td>2012
+</td>
+<td><i><a href="/wiki/We_the_Party" title="We the Party">We the Party</a></i><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</td>
+<td>DJ<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td><i>Some Kind of Hate</i>
+</td>
+<td>Bud<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span id="Brand.2Fpartnerships"></span><span class="mw-headline" id="Brand/partnerships">Brand/partnerships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=18" title="Edit section: Brand/partnerships">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Sprite_(soft_drink)" class="mw-redirect" title="Sprite (soft drink)">Sprite</a>/<a href="/wiki/Electus" title="Electus">Electus</a>: <i>J All Stars Web Series</i>.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> 40MM video views and far surpassed brand metrics (impressions, engagements)</li>
+<li><a href="/wiki/Scion_Audio/Visual" title="Scion Audio/Visual">Scion Audio/Visual</a>:<i>Studio Tour with JHawk</i><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup></li>
+<li><i><a rel="nofollow" class="external text" href="http://www.endpolio.org/">End Polio Now</a></i>: <i>End Polio Now Album featuring Grammy Recording Artist: Tanvi Shah</i><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=JHawk&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.laweekly.com/music/were-jerkin-starring-the-new-boyz-j-hawk-and-pink-dollaz-2160955"><i>LA Weekly</i>, WE'RE JERKIN' (STARRING THE NEW BOYZ, J-HAWK AND PINK DOLLAZ), WEDNESDAY, AUGUST 5, 2009</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/364837/rej3ctz/chart"><i>Billboard</i>, Rej3ctz</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.songfacts.com/detail.php?id=9519"><i>SongFacts</i>, Time has Come Today, January 12, 1969</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.killerhiphop.com/killerhiphop-exclusive-jhawk-interview/"><i>Killerhiphop Jhawk Interview</i>, May 21, 2012</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.killerhiphop.com/killerhiphop-exclusive-jhawk-interview/"><i>KHH Jhawk Interview</i>, May 21, 2012</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://oddfuturetalk.com/forums/topic/3114-hodgy-beats-discography/"><i>Hodgy Beats The Dena Tape</i>, 2009</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://myspace.com/yg400"><i>The official MySpace account for Y.G</i>, 2009</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.killerhiphop.com/killerhiphop-exclusive-jhawk-interview/"><i>KHH Interview</i>, May 21, 2012</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hiphopnews24-7.com/profiles/blogs/artist-on-the-risepink-dollaz"><i>ARTIST ON THE RISE......PINK DOLLAZ " FEMALE RAP GROUP FROM LOS ANGELES " WITH ALMOST 3 MILLION MYSPACE HITS!!</i>, August 10, 2010</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=4j7YZhkVxsw"><i>Tippin on my dick youtube 14 million</i>,Aug 17, 2009</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.laweekly.com/music/were-jerkin-starring-the-new-boyz-j-hawk-and-pink-dollaz-2160955"><i>Starring the new boyz, JHawk and pink dollaz LA WEEKLY</i>, August 5, 2009</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2009/11/22/fashion/22jerking.html"><i>Hip-Hop's New Steps, New York Times Article</i>NOV. 20, 2009</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://articles.latimes.com/2010/apr/11/image/la-ig-jerking-20100411,"><i>Jerkin' is workin' for 'em</i>, April 11, 2010</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.laweekly.com/music/jerkin-at-avalon-hollywood-a-dance-primer-on-a-budding-craze-2406234,"><i>jerkin-at-avalon-hollywood-a-dance-primer</i>, July 6, 2009</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2009/11/22/fashion/22jerking.html,"><i>"Jerking is very ground up," said Todd Moscowitz, the president of Asylum Records, who added the Rej3ctz, the New Boyz, the Bangz and the Cold Flamez to the label's roster this year</i>, NOV. 20, 2009</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.killerhiphop.com/killerhiphop-exclusive-jhawk-interview/"><i>KHH Interview</i>, May 21, 2012</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.killerhiphop.com/killerhiphop-exclusive-jhawk-interview/"><i>QuezKHH Exclusive</i>, May 21, 2012</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.djcarisma.com/2015/05/12/new-mixtape-jhawk-22-lifestyle/"><i>djcarisma.com/2015/05/12/new-mixtape-jhawk-22</i> May 12, 2015</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cocaineblunts.com/blunts/?p=2334"><i>Jerkin With JHawk, Cocaine Blunts Review</i>, August 1st, 2009</a></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.djcarisma.com/2015/10/19/new-ep-jhawk-pressure/"><i>djcarisma.com/2015/10/19/new-ep-jhawk-pressure</i>, October 19, 2015</a></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.laweekly.com/music/former-jerkin-stars-cam-and-china-are-the-best-young-hip-hop-duo-in-la-6238351">LA Weekly-former-jerkin-stars-cam-and-china-are-the-best-young-hip-hop-duo, November 4, 2015</a></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/revenue-retrievin-night-shift-mw0001967198"><i>ALLMUSIC</i>,  March 30, 2010</a></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://illroots.com/watch/casey-veggies-verified-music-video"><i>Ill Roots-casey-veggies-verified</i>, 04/06/2012</a></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/genasis-my-turn-up-song.1269062.html"><i>Hot New Hip Hop</i>, My Turn Up, Mar 12, 2013</a></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/khalil-a-long-story-short-new-mixtape.115465.html"><i>khalil-a-long-story-short-new-mixtape</i>, Say Yes, Aug 28, 2014</a></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://singersroom.com/content/2015-05-13/Serayah-Mcneill-Tiana-of-Empire-Drop-Seductive-Single-Is-It/">Singers room is it new serayah song, May 13, 2015</a></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thefader.com/2016/08/04/e-40-kamaiyah-petty">Listen To E-40 And Kamaiyah's New Track "Petty", Aug 4, 2016</a></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rap-up.com/2017/10/17/tyga-announces-bugatti-raww-mixtape/">Tyga Announces 'Bugatti Raww' Mixtape</a></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.riaa.com/gold-platinum/?tab_active=default-award&amp;ar=THE+REJ3CTZ&amp;ti=CAT+DADDY&amp;col=certification_date&amp;ord=asc#search_section"><i>RIAA Website Cat Daddy Platinum</i>, 2018 </a></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://um2n.mi2n.com/pr.php3?id=122332"><i>Arthouse Entertainment Signs Producer Jhawk To Co-Publishing Deal</i>, August 16, 2009</a></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/biz/articles/news/publishing/1170198/bmg-rights-management-to-purchase-bug-music"><i>BMG Rights Management to Purchase Bug Music</i>, September 12, 2011</a></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink">'<i><a href="#cite_ref-32">^</a><b></b></i></span><i><b> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2012/04/06/movies/we-the-party-directed-by-mario-van-peebles.html?_r=0"></a></span></b><a rel="nofollow" class="external text" href="https://www.nytimes.com/2012/04/06/movies/we-the-party-directed-by-mario-van-peebles.html?_r=0">We the Party,' Directed by Mario Van Peebles</a></i><a rel="nofollow" class="external text" href="https://www.nytimes.com/2012/04/06/movies/we-the-party-directed-by-mario-van-peebles.html?_r=0">, APRIL 5, 2012</a>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt1702016/fullcredits?ref_=tt_cl_sm#cast"><i>We the Party Full Cast &amp; Crew</i>, 2015</a></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt3698558/fullcredits?ref_=tt_cl_sm#cast"><i>Some Kind of Hate Full Cast &amp; Crew</i>, 2015 </a></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.electus.com/press/view/myspace-partners-with-electus-and-spriter-for-dance-themed-original-web-ser"><i>Myspace Does the Dougie: Partners with Electus and Sprite® for Dance-Themed Original Web Series "Jerk All-Stars" to Create Celebrities Out of Fans</i>, November 30, 2010</a></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=QFFBcPitIx0"><i>Studio Tour with JHawk Video</i>, Oct 20, 2011</a>,</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/end-polio-now/id571067345"><i>End Polio now album</i>, Oct 23, 2012</a></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw2449
+Cached time: 20230920044825
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.200 seconds
+Real time usage: 0.257 seconds
+Preprocessor visited node count: 1390/1000000
+Post‐expand include size: 13156/2097152 bytes
+Template argument size: 1851/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 26977/5000000 bytes
+Lua time usage: 0.100/10.000 seconds
+Lua memory usage: 2523385/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  209.976      1 -total
+ 87.64%  184.033      1 Template:Infobox_musical_artist
+ 72.48%  152.184      1 Template:Infobox
+ 24.83%   52.146      5 Template:Hlist
+ 23.91%   50.199      2 Template:Br_separated_entries
+ 19.15%   40.218      1 Template:Birth_date_and_age
+ 10.89%   22.867      1 Template:Short_description
+  8.00%   16.803      1 Template:Reflist
+  6.77%   14.221      2 Template:Pagetype
+  2.77%    5.826      8 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:48484631-0!canonical and timestamp 20230920044825 and revision id 1162323785. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=JHawk&amp;oldid=1162323785">https://en.wikipedia.org/w/index.php?title=JHawk&amp;oldid=1162323785</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1991_births" title="Category:1991 births">1991 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:21st-century_American_musicians" title="Category:21st-century American musicians">21st-century American musicians</a></li><li><a href="/wiki/Category:African-American_record_producers" title="Category:African-American record producers">African-American record producers</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:American_music_industry_executives" title="Category:American music industry executives">American music industry executives</a></li><li><a href="/wiki/Category:American_rhythm_and_blues_keyboardists" title="Category:American rhythm and blues keyboardists">American rhythm and blues keyboardists</a></li><li><a href="/wiki/Category:Musicians_from_Los_Angeles" title="Category:Musicians from Los Angeles">Musicians from Los Angeles</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:Record_producers_from_California" title="Category:Record producers from California">Record producers from California</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 28 June 2023, at 10:57<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=JHawk&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2277","wgBackendResponseTime":147,"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.257","ppvisitednodes":{"value":1390,"limit":1000000},"postexpandincludesize":{"value":13156,"limit":2097152},"templateargumentsize":{"value":1851,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":26977,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  209.976      1 -total"," 87.64%  184.033      1 Template:Infobox_musical_artist"," 72.48%  152.184      1 Template:Infobox"," 24.83%   52.146      5 Template:Hlist"," 23.91%   50.199      2 Template:Br_separated_entries"," 19.15%   40.218      1 Template:Birth_date_and_age"," 10.89%   22.867      1 Template:Short_description","  8.00%   16.803      1 Template:Reflist","  6.77%   14.221      2 Template:Pagetype","  2.77%    5.826      8 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.100","limit":"10.000"},"limitreport-memusage":{"value":2523385,"limit":52428800}},"cachereport":{"origin":"mw2449","timestamp":"20230920044825","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"JHawk","url":"https:\/\/en.wikipedia.org\/wiki\/JHawk","sameAs":"http:\/\/www.wikidata.org\/entity\/Q21621591","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q21621591","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-11-07T06:28:47Z","dateModified":"2023-06-28T10:57:10Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/66\/JHawkone.jpg","headline":"musical artist"}</script>
+</body>
+</html>

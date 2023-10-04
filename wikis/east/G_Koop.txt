@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>G Koop - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"9561c271-a57e-4df7-adf6-c62a721f9185","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"G_Koop","wgTitle":"G Koop","wgCurRevisionId":1157871285,"wgRevisionId":1157871285,"wgArticleId":54145181,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Short description is different from Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","Year of birth missing (living people)","American hip hop record producers","East Coast hip hop musicians","Male hip hop musicians","Rappers from Boston","Living people","21st-century American rappers","21st-century American male musicians"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"G_Koop","wgRelevantArticleId":
+54145181,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q30323478","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled"
+:false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="G Koop - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/G_Koop">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=G_Koop&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/G_Koop">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-G_Koop rootpage-G_Koop skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert vector-main-menu-action-lang-alert-empty">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=G+Koop" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=G+Koop" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=G+Koop" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=G+Koop" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Selected_discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Selected_discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Selected discography</div>
+		</a>
+		
+		<ul id="toc-Selected_discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">G Koop</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="This article exist only in this language. Add the article for other languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Add languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q30323478#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/G_Koop" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:G_Koop" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/G_Koop"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=G_Koop&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=G_Koop&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/G_Koop"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=G_Koop&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=G_Koop&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/G_Koop" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/G_Koop" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=G_Koop&amp;oldid=1157871285" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=G_Koop&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=G_Koop&amp;id=1157871285&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q30323478" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=G_Koop&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=G_Koop&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American record producer and songwriter</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">G Koop</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Robert Mandell</td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a>, <a href="/wiki/Pop_music" title="Pop music">Pop</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Record_producer" title="Record producer">Record producer</a></li><li>songwriter</li><li>musician</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Keyboards</li><li>guitar</li><li>bass</li><li>drums</li><li><a href="/wiki/FL_Studio" title="FL Studio">FL Studio</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2002–present</td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://gkoop.com/">gkoop<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Robert Mandell</b>, professionally known as <b>G Koop</b>, is an American <a href="/wiki/Grammy_award" class="mw-redirect" title="Grammy award">Grammy</a>-nominated record producer, songwriter and musician.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G_Koop&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>G Koop is originally from <a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>. His father had a large collection of albums, and his mother contends that G Koop's first word was "doobie," interpreted as a request for <a href="/wiki/The_Doobie_Brothers" title="The Doobie Brothers">The Doobie Brothers</a> to be played. His first job was at a record store. As a young child, he learned to play a number of instruments, including guitar, bass, piano, and drums.<sup id="cite_ref-DJBooth_1-0" class="reference"><a href="#cite_note-DJBooth-1">&#91;1&#93;</a></sup>
+</p><p>G Koop graduated from <a href="/wiki/Berklee_College_of_Music" title="Berklee College of Music">Berklee College of Music</a>. While there, he studied music theory and performance. G Koop plays some of these instruments in his own studio while making his samples. Also while at Berklee, G Koop met <a href="/wiki/Graham_Richards" title="Graham Richards">Graham Richards</a> and Anthony Caruso. The three have had an ongoing collaboration dubbed "G Koop and O-Man" since then.<sup id="cite_ref-The_Back_Packerz_2-0" class="reference"><a href="#cite_note-The_Back_Packerz-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G_Koop&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>G Koop moved to <a href="/wiki/California" title="California">California</a> in 2002 and formed a jazz band, "The People's Quintet," with drummer <a href="/wiki/Donald_Bailey_(musician)" title="Donald Bailey (musician)">Donald "Duck" Bailey</a>. Unable to find work for the group, G Koop instead began working with music production software, such as <a href="/wiki/Pro_Tools" title="Pro Tools">Pro Tools</a> and Reason.<sup id="cite_ref-DJBooth_1-1" class="reference"><a href="#cite_note-DJBooth-1">&#91;1&#93;</a></sup>
+</p><p>He has been called a specialist in "<a href="/wiki/Interpolation_(popular_music)" title="Interpolation (popular music)">replaying samples</a>", in which an original <a href="/wiki/Sampling_(music)" title="Sampling (music)">sample</a> is reinterpreted and recreated in the studio. The resulting track is a new interpretation that is no longer under the original's copyright, but it still retains the original's character. Producers can use the new work in their own songs without having to pay the fees required to sample the original track.<sup id="cite_ref-hnhh_3-0" class="reference"><a href="#cite_note-hnhh-3">&#91;3&#93;</a></sup><sup id="cite_ref-Sample_Replay_Society_4-0" class="reference"><a href="#cite_note-Sample_Replay_Society-4">&#91;4&#93;</a></sup>
+</p><p>G Koop first produced for the Bay Area hip-hop group Foreign Legion. The group's <a href="/wiki/Master_of_Ceremonies" class="mw-redirect" title="Master of Ceremonies">MC</a>, Prozack Turner, introduced him to producer <a href="/wiki/Jake_One" title="Jake One">Jake One</a>, who in turn employed G Koop as a piano teacher. The two worked together on Jake's 2008 album, <i><a href="/wiki/White_Van_Music" title="White Van Music">White Van Music</a></i>, with G Koop performing instruments. He also worked on Jake's 2009 collaboration with <a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a>, <i><a href="/wiki/The_Stimulus_Package" title="The Stimulus Package">The Stimulus Package</a></i>. The two also partnered together on <a href="/wiki/Drake_(musician)" title="Drake (musician)">Drake</a>'s "<a href="/wiki/Furthest_Thing" title="Furthest Thing">Furthest Thing</a>" for his 2013 <i>Nothing was the Same</i> album. Jake One found the original sample for "Furthest Thing" from a 1990s live <a href="/wiki/Gospel_music" title="Gospel music">gospel</a> album that Gene Brown, a record collector, recommended to him. However, the rights owners to the song requested high fees. Instead, Jake One asked G Koop to make an interpolation of the sample to avoid publishing issues. G Koop played all the instruments—guitar, piano, organ, drums, and bass—in his studio. The album's main producer, <a href="/wiki/Noah_%2240%22_Shebib" class="mw-redirect" title="Noah &quot;40&quot; Shebib">Noah "40" Shebib</a>, recorded the vocals for the track with a choir in <a href="/wiki/Toronto" title="Toronto">Toronto</a>.<sup id="cite_ref-DJBooth_1-2" class="reference"><a href="#cite_note-DJBooth-1">&#91;1&#93;</a></sup><sup id="cite_ref-npr_5-0" class="reference"><a href="#cite_note-npr-5">&#91;5&#93;</a></sup>
+</p><p>G Koop's first major placement as producer was <a href="/wiki/Nelly" title="Nelly">Nelly</a>'s "Self Esteem" featuring <a href="/wiki/Chuck_D" title="Chuck D">Chuck D</a>, which was on Nelly's 2008 gold album <i><a href="/wiki/Brass_Knuckles_(album)" title="Brass Knuckles (album)">Brass Knuckles</a></i>. He has worked with a number of artists, including <a href="/wiki/Atmosphere_(music_group)" title="Atmosphere (music group)">Atmosphere</a>, <a href="/wiki/MF_Doom" title="MF Doom">DOOM</a>, Funkadelic, The Game, <a href="/wiki/G_Unit" class="mw-redirect" title="G Unit">G Unit</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/Pusha_T" title="Pusha T">Pusha T</a>, <a href="/wiki/Rhymesayers" class="mw-redirect" title="Rhymesayers">Rhymesayers</a>, and <a href="/wiki/Rihanna" title="Rihanna">Rihanna</a>, among others. G Koop also wrote, produced, and played a number of songs with <a href="/wiki/George_Clinton_(funk_musician)" title="George Clinton (funk musician)">George Clinton</a> on Funkadelic's 2014 <a href="/wiki/First_Ya_Gotta_Shake_the_Gate" title="First Ya Gotta Shake the Gate">First Ya Gotta Shake the Gate</a>. The album, the first for the band in 33 years, provided 33 tracks with a number of artists, including <a href="/wiki/Sly_Stone" title="Sly Stone">Sly Stone</a>, <a href="/wiki/Soul_Clap" title="Soul Clap">Soul Clap</a>, and <a href="/wiki/Bootsy_Collins" title="Bootsy Collins">Bootsy Collins</a>. The second single on the album, "Ain’t that Funkin’ Kinda Hard on You," was written and produced by G Koop and George Clinton. Hip Hop producer Ill Tal, in his review, called it "one of the best songs on the album and the name of George’s new auto-biography. The song is smooth, mellow, and funky with George doing most of the vocal leads." Nick DeRiso, in his review of the album for Something Else Reviews, called "Ain’t that Funkin’ Kinda Hard on You" the "perfect reintroduction of George Clinton … since it begins with a darkly ingratiating embrace rather that the expected turn-this-mother-out groove."  DeRiso goes on to call the track the "standout moment from Funkadelic’s sprawling new comeback effort." Other G Koop songs were singled out in reviews as well. Ill Tal wrote of "You Can’t Unring the Bell," that it is "probably my favorite hip-hop influenced song on the album." Ill Tal went on to refer to G Koop (although not by name): "Whoever made the beat did a great job sampling a break beat for the drums and what sounds like an old horn riff from George’s vaults." G Koop's bass playing was also recognized in E.E. Bradman's review for <i><a href="/wiki/Bass_Player_(magazine)" title="Bass Player (magazine)">Bass Player</a></i>, who commended G Koop's bass playing on a number of tracks.<sup id="cite_ref-HipHopDX_6-0" class="reference"><a href="#cite_note-HipHopDX-6">&#91;6&#93;</a></sup><sup id="cite_ref-http&#58;//illtal.com_7-0" class="reference"><a href="#cite_note-http://illtal.com-7">&#91;7&#93;</a></sup><sup id="cite_ref-SomethingElse!_Reviews_8-0" class="reference"><a href="#cite_note-SomethingElse!_Reviews-8">&#91;8&#93;</a></sup><sup id="cite_ref-Boston_Globe_9-0" class="reference"><a href="#cite_note-Boston_Globe-9">&#91;9&#93;</a></sup><sup id="cite_ref-Bass_Player_10-0" class="reference"><a href="#cite_note-Bass_Player-10">&#91;10&#93;</a></sup>
+</p><p>With Metro Boomin, G Koop co-produced the song "<a href="/wiki/Bad_and_Boujee" title="Bad and Boujee">Bad and Boujee</a>" by Migos, featuring <a href="/wiki/Lil_Uzi_Vert" title="Lil Uzi Vert">Lil Uzi Vert</a>—his first no. 1 hit. The song was released in October 2016, and it rose to no. 1 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a> in January 2017. The song has gone <a href="/wiki/RIAA_certification" title="RIAA certification">platinum</a> in the United States. The album the song appeared on, Migos' <i><a href="/wiki/Culture_(Migos_album)" class="mw-redirect" title="Culture (Migos album)">Culture</a></i>, debuted at no. 1 on the <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a>. The sample pack used on the song was originally sent to <a href="/wiki/Metro_Boomin" title="Metro Boomin">Metro Boomin</a>, and was used to make not only Bad and Boujee, but also <a href="/wiki/21_Savage" title="21 Savage">21 Savage</a>'s "Ocean Drive."<sup id="cite_ref-Thizzler_11-0" class="reference"><a href="#cite_note-Thizzler-11">&#91;11&#93;</a></sup>
+</p><p>G Koop worked with producer <a href="/wiki/Southside_(record_producer)" title="Southside (record producer)">Southside</a> of <a href="/wiki/808_Mafia" title="808 Mafia">808 Mafia</a> on DJ Khaled's 2016 "<a href="/wiki/I_Got_the_Keys" title="I Got the Keys">I Got the Keys</a>," featuring <a href="/wiki/Jay_Z" class="mw-redirect" title="Jay Z">Jay Z</a> and Future. I Got the Keys has gone platinum, and rose to no. 30 on the Billboard Hot 100. The song is on the album <i><a href="/wiki/Major_Key_(album)" title="Major Key (album)">Major Key</a></i>, produced by Southside and co-produced by G Koop and Jake One as co-producers. The album was released at no. 1 on the Billboard 200, and was nominated for a Grammy for Best Rap Album.<sup id="cite_ref-DJBooth_1-3" class="reference"><a href="#cite_note-DJBooth-1">&#91;1&#93;</a></sup><sup id="cite_ref-Billboard_12-0" class="reference"><a href="#cite_note-Billboard-12">&#91;12&#93;</a></sup><sup id="cite_ref-E!_online_13-0" class="reference"><a href="#cite_note-E!_online-13">&#91;13&#93;</a></sup><sup id="cite_ref-XXL_Magazine_14-0" class="reference"><a href="#cite_note-XXL_Magazine-14">&#91;14&#93;</a></sup>
+</p><p>Since then, he has worked with Ant, one of two members of Atmosphere, on Atmosphere's albums <i><a href="/wiki/Fishing_Blues" title="Fishing Blues">Fishing Blues</a></i> and <i>Southsiders</i>, and in a collaboration with <a href="/wiki/Brother_Ali" title="Brother Ali">Brother Ali</a> on the latter's album, "All the Beauty in this Whole Life."<sup id="cite_ref-HipHopDX_Atmosphere_15-0" class="reference"><a href="#cite_note-HipHopDX_Atmosphere-15">&#91;15&#93;</a></sup>
+</p><p>G Koop's studio, "Fuzz Deluxxe," is based in Oakland. He also runs the website "Sample Replay Society," which works as a catalog for his work. He collects old instruments, such as the Clavinet and <a href="/wiki/Fender_Rhodes" class="mw-redirect" title="Fender Rhodes">Fender Rhodes</a>, and has several Fender guitars. He is a client of Pulse Recording.<sup id="cite_ref-gkoopandoman_16-0" class="reference"><a href="#cite_note-gkoopandoman-16">&#91;16&#93;</a></sup><sup id="cite_ref-Pulse_Recordings_17-0" class="reference"><a href="#cite_note-Pulse_Recordings-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Selected_discography">Selected discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G_Koop&amp;action=edit&amp;section=3" title="Edit section: Selected discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year</th>
+<th>Group</th>
+<th>Song Title</th>
+<th>Album</th>
+<th>Role
+</th></tr>
+<tr>
+<td>2020</td>
+<td><a href="/wiki/Katy_Perry" title="Katy Perry">Katy Perry</a></td>
+<td>"Smile"</td>
+<td><i>Smile</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td>2017</td>
+<td><a href="/wiki/2_Chainz" title="2 Chainz">2 Chainz</a></td>
+<td>"It’s a Vibe"</td>
+<td></td>
+<td>Producer
+</td></tr>
+<tr>
+<td rowspan="9">2016</td>
+<td><a href="/wiki/Migos" title="Migos">Migos</a></td>
+<td>"<a href="/wiki/Bad_and_Boujee" title="Bad and Boujee">Bad and Boujee</a>"</td>
+<td><i>Culture</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td><a href="/wiki/DJ_Khaled" title="DJ Khaled">DJ Khaled</a></td>
+<td>"I Got the Keys"</td>
+<td><i>Major Key</i></td>
+<td>Songwriter/Producer
+</td></tr>
+<tr>
+<td><a href="/wiki/Little_Louie_Vega" title="Little Louie Vega">Little Louie Vega</a></td>
+<td>"Ain’t That Funkin Kinda Hard on You"</td>
+<td><i>Louie Vega Starring… XXVIII</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td><a href="/wiki/21_Savage" title="21 Savage">21 Savage</a></td>
+<td>"Ocean Drive"</td>
+<td><i>Savage Mode</i></td>
+<td>Songwriter/Producer
+</td></tr>
+<tr>
+<td>Atmosphere</td>
+<td></td>
+<td><i>Fishing Blues</i></td>
+<td>Songwriter/Engineer/Musician
+</td></tr>
+<tr>
+<td>Atmosphere</td>
+<td></td>
+<td><i>Frida Kahlo vs. Ezra Pound</i></td>
+<td>Songwriter/Engineer/Musician
+</td></tr>
+<tr>
+<td><a href="/wiki/Rihanna" title="Rihanna">Rihanna</a></td>
+<td>"Woo"</td>
+<td><i>Anti</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td><a href="/wiki/DJ_Esco" title="DJ Esco">DJ Esco</a></td>
+<td>"Benjamins Burn feat. Future"</td>
+<td><i>Project E.T.</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td><a href="/wiki/Royce_da_5%279%22" title="Royce da 5&#39;9&quot;">Royce da 5'9"</a></td>
+<td>"Pray"</td>
+<td><i>Layers</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td rowspan="5">2015</td>
+<td>The Game</td>
+<td>"Last Time You Seen"</td>
+<td><i>The Documentary 2</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td>The Game</td>
+<td></td>
+<td><i>The Documentary 2.5</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td>G Koop</td>
+<td>"Butterfly feat. 13teen"</td>
+<td><i>Soul Clap Presents: Tempo Dreams, Vol. 3</i></td>
+<td>Featured Artist
+</td></tr>
+<tr>
+<td><a href="/wiki/G_Unit" class="mw-redirect" title="G Unit">G Unit</a></td>
+<td>"Boy Boy"</td>
+<td><i>The Beast is G Unit</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td>Future</td>
+<td>"The Percocet and Stripper Joint"</td>
+<td><i>DS2</i></td>
+<td>Songwriter/Producer
+</td></tr>
+<tr>
+<td rowspan="2">2014</td>
+<td><a href="/wiki/Funkadelic" title="Funkadelic">Funkadelic</a></td>
+<td>"Ain’t The Funkin’ Kinda Hard on You"<br />"In Da Kar"<br />"Not Your Average Rapper"<br />"You Can’t Unring The Bell"<br />"Old Fool"<br />"Pole Power"<br />"Boom There We Go Again"<br />"Meow Meow"<br />"Catchin’ Boogie Fever"<br />"Zip It"<br />"Dippety Dippety Doo Stop The Violence"</td>
+<td><i>First Ya Gotta Shake the Gate</i></td>
+<td>Songwriter/Producer/Musician
+</td></tr>
+<tr>
+<td>Freeway &amp; The Jacka</td>
+<td>"We Holdin'"</td>
+<td><i>Highway Robbery</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td rowspan="3">2013</td>
+<td>Atmosphere</td>
+<td>All Songs</td>
+<td><i>Southsiders</i></td>
+<td>Engineer
+</td></tr>
+<tr>
+<td>Latryx</td>
+<td>"Nebula's Eye"</td>
+<td><i>The Second</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td><a href="/wiki/Drake_(musician)" title="Drake (musician)">Drake</a></td>
+<td>"Furthest Thing"</td>
+<td><i>Nothing was the Same</i></td>
+<td>Musician
+</td></tr>
+<tr>
+<td rowspan="2">2012</td>
+<td>Gift of Gab</td>
+<td>"Protocol"<br />"NLP"<br />"Rise"<br />"Everything Is Fine feat. George Clinton &amp; Latryx"<br />"Toxic feat. Martian Luther"<br />"Wack but Good People"<br />"Dream Warrior feat. Ms. K"<br />"Beyond Logic"<br />"Effed Up"<br />"Market &amp; 8th"</td>
+<td><i>The Next Logical Progression</i></td>
+<td>Mixer/Mastering/Production
+</td></tr>
+<tr>
+<td><a href="/wiki/Yo_Gabba_Gabba" class="mw-redirect" title="Yo Gabba Gabba">Yo Gabba Gabba</a></td>
+<td>"Atomic Frogs"</td>
+<td><i>Music is… Awesome! Vol. 4</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td rowspan="2">2011</td>
+<td>Keak Da Sneak, P.S.D. The Drivah, Messy Marv</td>
+<td>"Ghetto Love"<br />"K.I.M. (Keep It Movin)"</td>
+<td><i>Da-Bidness 2</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td>Lincoln Adler</td>
+<td>"Grateful"<br />"Visas of Freedom"<br />"Island Dreams"</td>
+<td><i>Grateful</i></td>
+<td>Musician/Engineer
+</td></tr>
+<tr>
+<td rowspan="6">2010</td>
+<td>Locksmith</td>
+<td>"Man Up"</td>
+<td></td>
+<td>Production
+</td></tr>
+<tr>
+<td>Foreign Legion</td>
+<td>"Travel Lite"</td>
+<td></td>
+<td>Synth
+</td></tr>
+<tr>
+<td>Fiber</td>
+<td>"Planecrash"</td>
+<td>(Single)</td>
+<td>Producer
+</td></tr>
+<tr>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a></td>
+<td>"Pros vs. Joes"</td>
+<td><i>I am the West</i></td>
+<td>Production
+</td></tr>
+<tr>
+<td><a href="/wiki/Lyrics_Born" title="Lyrics Born">Lyrics Born</a></td>
+<td>"I'm The Best (Funky Fresh in the Flesh)"</td>
+<td></td>
+<td>Production
+</td></tr>
+<tr>
+<td>Daboy Dame</td>
+<td>"You Better Tuck It"</td>
+<td></td>
+<td>Production
+</td></tr>
+<tr>
+<td>2009</td>
+<td>DOOM</td>
+<td>"Microwave Mayo"<br />"Rap Ambush"</td>
+<td><i>Born like This</i></td>
+<td>Co-production
+</td></tr>
+<tr>
+<td rowspan="4">2008</td>
+<td>Nelly</td>
+<td>"Self Esteem"</td>
+<td><i>Brass Knuckles</i></td>
+<td>Producer/Engineer
+</td></tr>
+<tr>
+<td>Ben Barron</td>
+<td></td>
+<td><i>Spirit of the Guitar</i></td>
+<td>Producer/Engineer/Mixer/Recording
+</td></tr>
+<tr>
+<td>The Mighty Underdogs</td>
+<td>"Gunfight feat. MF DOOM"<br />"Want You Back"<br />"Ill Vacation feat. Lyrics Born"<br />"Lovelife feat. Ladybug Mecca"<br />"So Sad feat. Julian and Damien Marley"<br />"Escape feat. Mr. Lif and Akrobatic"<br />"Folks"</td>
+<td><i>Droppin’ Science Fiction</i></td>
+<td>Musician/Engineer
+</td></tr>
+<tr>
+<td>Jake One</td>
+<td>"I’m Coming feat. Black Milk and Nottz"<br />"Bless the Child feat. Little Brother"<br />"Oh Really feat. Posdnus and Slug"<br />"Trapdoor feat. MF DOOM"<br />"Home feat. Vitamin D, C Note, Maine and Ish"<br />"How we Ride feat. Freeway"<br />"Get er Done feat. MF DOOM"<br />"R.I.P."</td>
+<td><i>White Van Music</i></td>
+<td>Musician
+</td></tr>
+<tr>
+<td rowspan="3">2007</td>
+<td><a href="/wiki/2Pac" class="mw-redirect" title="2Pac">2Pac</a></td>
+<td>"Resist the Temptation"</td>
+<td><i>The Best of 2Pac, Pt. 1: Thug</i></td>
+<td>Co-producer
+</td></tr>
+<tr>
+<td>Young Buck</td>
+<td>"Clean up Man"</td>
+<td><i>Buck the World</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td>Subkrew</td>
+<td>"Welcome Hell"<br />"Loose Change"<br />"Knightlife"</td>
+<td><i>Entermission</i></td>
+<td>Producer
+</td></tr>
+<tr>
+<td>2006</td>
+<td>Prozack Turner</td>
+<td></td>
+<td><i>Bang a Thon</i></td>
+<td>Engineer
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G_Koop&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-DJBooth-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-DJBooth_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DJBooth_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-DJBooth_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-DJBooth_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://djbooth.net/news/entry/2017-01-23-g-koop-interview">"Meet G Koop, Your Favorite Producer's Secret Sample Clearance Weapon"</a>. <i>DJBooth</i>. DJBooth<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DJBooth&amp;rft.atitle=Meet+G+Koop%2C+Your+Favorite+Producer%27s+Secret+Sample+Clearance+Weapon&amp;rft_id=http%3A%2F%2Fdjbooth.net%2Fnews%2Fentry%2F2017-01-23-g-koop-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-The_Back_Packerz-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Back_Packerz_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://thebackpackerz.com/g-koop-secret-labels-contourner-sample-clearing/">"G KOOP, L'ARME SECRÈTE DES LABELS POUR CONTOURNER LE SAMPLE CLEARING"</a>. <i>The Back Packerz</i>. The Back Packerz. 25 January 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Back+Packerz&amp;rft.atitle=G+KOOP%2C+L%27ARME+SECR%C3%88TE+DES+LABELS+POUR+CONTOURNER+LE+SAMPLE+CLEARING&amp;rft.date=2017-01-25&amp;rft_id=http%3A%2F%2Fthebackpackerz.com%2Fg-koop-secret-labels-contourner-sample-clearing%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-hnhh-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-hnhh_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/bad-and-boujee-co-producer-g-koop-lets-us-in-on-his-secret-method-news.27883.html">"<span class="cs1-kern-left"></span>"Bad And Boujee" Co-Producer G-Koop Lets Us In On His Secret Method"</a>. <i>hnhh</i>. hnhh<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=hnhh&amp;rft.atitle=%22Bad+And+Boujee%22+Co-Producer+G-Koop+Lets+Us+In+On+His+Secret+Method&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fbad-and-boujee-co-producer-g-koop-lets-us-in-on-his-secret-method-news.27883.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Sample_Replay_Society-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sample_Replay_Society_4-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.samplereplaysociety.com/?page_id=127">"Sample Replay Society - About G Koop"</a>. <i>Sample Replay Society</i>. Sample Replay Society<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sample+Replay+Society&amp;rft.atitle=Sample+Replay+Society+-+About+G+Koop&amp;rft_id=http%3A%2F%2Fwww.samplereplaysociety.com%2F%3Fpage_id%3D127&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-npr-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-npr_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMatson" class="citation web cs1">Matson, Andrew. <a rel="nofollow" class="external text" href="https://www.npr.org/sections/therecord/2013/10/01/228235377/the-making-of-drakes-furthest-thing">"This Beat's For You: The Making Of Drake's 'Furthest Thing'<span class="cs1-kern-right"></span>"</a>. <i>npr</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=npr&amp;rft.atitle=This+Beat%27s+For+You%3A+The+Making+Of+Drake%27s+%27Furthest+Thing%27&amp;rft.aulast=Matson&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.npr.org%2Fsections%2Ftherecord%2F2013%2F10%2F01%2F228235377%2Fthe-making-of-drakes-furthest-thing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-HipHopDX-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-HipHopDX_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBaker" class="citation web cs1">Baker, Soren. <a rel="nofollow" class="external text" href="http://hiphopdx.com/news/id.37718/title.brother-ali-discusses-creative-direction-of-new-album#">"Brother Ali Discusses Creative Direction Of New Album"</a>. <i>HipHopDX</i>. HipHopDX<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Brother+Ali+Discusses+Creative+Direction+Of+New+Album&amp;rft.aulast=Baker&amp;rft.aufirst=Soren&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.37718%2Ftitle.brother-ali-discusses-creative-direction-of-new-album%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-http&#58;//illtal.com-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-http://illtal.com_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTal" class="citation web cs1">Tal, Ill. <a rel="nofollow" class="external text" href="http://illtal.com/review-funkadelic-first-ya-gotta-shake-the-gate/">"Review: Funkadelic - First Ya Gotta Shake the Gate"</a>. <i>illtal.com</i>. illtal.com<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=illtal.com&amp;rft.atitle=Review%3A+Funkadelic+-+First+Ya+Gotta+Shake+the+Gate&amp;rft.aulast=Tal&amp;rft.aufirst=Ill&amp;rft_id=http%3A%2F%2Filltal.com%2Freview-funkadelic-first-ya-gotta-shake-the-gate%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-SomethingElse!_Reviews-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-SomethingElse!_Reviews_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDeriso" class="citation web cs1">Deriso, Nick. <a rel="nofollow" class="external text" href="http://somethingelsereviews.com/2014/12/25/funkadelic-first-ya-gotta-shake-the-gate/">"Funkadelic – First Ya Gotta Shake the Gate (2014)"</a>. <i>SomethingElse! Reviews</i>. SomethingElse! Reviews<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SomethingElse%21+Reviews&amp;rft.atitle=Funkadelic+%E2%80%93+First+Ya+Gotta+Shake+the+Gate+%282014%29&amp;rft.aulast=Deriso&amp;rft.aufirst=Nick&amp;rft_id=http%3A%2F%2Fsomethingelsereviews.com%2F2014%2F12%2F25%2Ffunkadelic-first-ya-gotta-shake-the-gate%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Boston_Globe-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Boston_Globe_9-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCapobianco" class="citation web cs1">Capobianco, Ken. <a rel="nofollow" class="external text" href="https://www.bostonglobe.com/arts/music/2014/12/22/funkadelic-first-gotta-shake-gate/BoKOkZXlqo6gw8TWrt6LwJ/story.html">"Funkadelic, 'First Ya Gotta Shake the Gate'<span class="cs1-kern-right"></span>"</a>. <i>Boston Globe</i>. Boston Globe<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boston+Globe&amp;rft.atitle=Funkadelic%2C+%27First+Ya+Gotta+Shake+the+Gate%27&amp;rft.aulast=Capobianco&amp;rft.aufirst=Ken&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Farts%2Fmusic%2F2014%2F12%2F22%2Ffunkadelic-first-gotta-shake-gate%2FBoKOkZXlqo6gw8TWrt6LwJ%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Bass_Player-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bass_Player_10-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBRADMAN" class="citation web cs1">BRADMAN, E.E. <a rel="nofollow" class="external text" href="http://www.bassplayer.com/artists/1171/cd-review-funkadelic-first-ya-gotta-shake-the-gate/51765">"CD Review: Funkadelic "First Ya Gotta Shake the Gate"<span class="cs1-kern-right"></span>"</a>. <i>Bass Player</i>. Bass Player<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bass+Player&amp;rft.atitle=CD+Review%3A+Funkadelic+%22First+Ya+Gotta+Shake+the+Gate%22&amp;rft.aulast=BRADMAN&amp;rft.aufirst=E.E.&amp;rft_id=http%3A%2F%2Fwww.bassplayer.com%2Fartists%2F1171%2Fcd-review-funkadelic-first-ya-gotta-shake-the-gate%2F51765&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Thizzler-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Thizzler_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJOHNSON" class="citation web cs1">JOHNSON, TYRESE. <a rel="nofollow" class="external text" href="http://www.thizzler.com/blog/2016/12/13/khyenci-on-her-relationship-with-g-koop-working-closely-with.html">"Khyenci on her relationship with G Koop &amp; working closely with him (Exclusive Interview)"</a>. <i>Thizzler</i>. Thizzler<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Thizzler&amp;rft.atitle=Khyenci+on+her+relationship+with+G+Koop+%26+working+closely+with+him+%28Exclusive+Interview%29&amp;rft.aulast=JOHNSON&amp;rft.aufirst=TYRESE&amp;rft_id=http%3A%2F%2Fwww.thizzler.com%2Fblog%2F2016%2F12%2F13%2Fkhyenci-on-her-relationship-with-g-koop-working-closely-with.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Billboard-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Billboard_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/299939/DJ+Khaled/chart?f=379">"Billboard DJ Khaled Charts"</a>. <i>Billboard</i>. Billboard<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Billboard+DJ+Khaled+Charts&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F299939%2FDJ%2BKhaled%2Fchart%3Ff%3D379&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-E!_online-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-E!_online_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJohnson" class="citation web cs1">Johnson, Zach. <a rel="nofollow" class="external text" href="http://www.eonline.com/news/813830/2017-grammy-awards-complete-list-of-nominations">"2017 Grammy Awards: Complete List of Nominations"</a>. <i>E! online</i>. E! online<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=E%21+online&amp;rft.atitle=2017+Grammy+Awards%3A+Complete+List+of+Nominations&amp;rft.aulast=Johnson&amp;rft.aufirst=Zach&amp;rft_id=http%3A%2F%2Fwww.eonline.com%2Fnews%2F813830%2F2017-grammy-awards-complete-list-of-nominations&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-XXL_Magazine-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-XXL_Magazine_14-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIvey" class="citation web cs1">Ivey, Justin. <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2017/02/dj-khaled-sued-i-got-the-keys/">"DJ Khaled Sued for His Song "I Got the Keys"<span class="cs1-kern-right"></span>"</a>. <i>XXL Magazine</i>. XXL Magazine<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Magazine&amp;rft.atitle=DJ+Khaled+Sued+for+His+Song+%22I+Got+the+Keys%22&amp;rft.aulast=Ivey&amp;rft.aufirst=Justin&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2017%2F02%2Fdj-khaled-sued-i-got-the-keys%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-HipHopDX_Atmosphere-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-HipHopDX_Atmosphere_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFEustice" class="citation web cs1">Eustice, Kyle. <a rel="nofollow" class="external text" href="http://hiphopdx.com/interviews/id.2944/title.dadrap-atmosphere-relinquish-their-egos-with-fishing-blues">"#DadRap: Atmosphere Relinquish Their Egos With "Fishing Blues"<span class="cs1-kern-right"></span>"</a>. <i>HipHopDX</i>. HipHopDX<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=%23DadRap%3A+Atmosphere+Relinquish+Their+Egos+With+%22Fishing+Blues%22&amp;rft.aulast=Eustice&amp;rft.aufirst=Kyle&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Finterviews%2Fid.2944%2Ftitle.dadrap-atmosphere-relinquish-their-egos-with-fishing-blues&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-gkoopandoman-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-gkoopandoman_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gkoopandoman.com/about/">"gkoopandoman - About"</a>. <i>gkoopandoman</i>. gkoopandoman<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=gkoopandoman&amp;rft.atitle=gkoopandoman+-+About&amp;rft_id=http%3A%2F%2Fwww.gkoopandoman.com%2Fabout%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Pulse_Recordings-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pulse_Recordings_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://pulserecordings.com/clients/g-koop/">"G KOOP"</a>. <i>Pulse Recordings</i>. Pulse Recordings<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pulse+Recordings&amp;rft.atitle=G+KOOP&amp;rft_id=http%3A%2F%2Fpulserecordings.com%2Fclients%2Fg-koop%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AG+Koop" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=G_Koop&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.gkoop.com/bio.html">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/g-koop-mn0001010715/credits">G Koop</a> at <a href="/wiki/AllMusic_(identifier)" class="mw-redirect" title="AllMusic (identifier)">AllMusic</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/G+Koop">G Koop</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐847cdf447f‐fxgm7
+Cached time: 20230920014715
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.413 seconds
+Real time usage: 0.540 seconds
+Preprocessor visited node count: 1646/1000000
+Post‐expand include size: 36643/2097152 bytes
+Template argument size: 1915/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 55590/5000000 bytes
+Lua time usage: 0.264/10.000 seconds
+Lua memory usage: 6407050/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  496.779      1 -total
+ 48.81%  242.482     16 Template:Cite_web
+ 26.78%  133.026      1 Template:Infobox_musical_artist
+ 22.83%  113.425      1 Template:Infobox
+ 14.14%   70.240      2 Template:Short_description
+  8.99%   44.647      4 Template:Hlist
+  7.04%   34.956      4 Template:Pagetype
+  4.17%   20.709      9 Template:Main_other
+  3.45%   17.119      2 Template:SDcat
+  3.27%   16.258      1 Template:Official
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:54145181-0!canonical and timestamp 20230920014714 and revision id 1157871285. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=G_Koop&amp;oldid=1157871285">https://en.wikipedia.org/w/index.php?title=G_Koop&amp;oldid=1157871285</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Male_hip_hop_musicians" title="Category:Male hip hop musicians">Male hip hop musicians</a></li><li><a href="/wiki/Category:Rappers_from_Boston" title="Category:Rappers from Boston">Rappers from Boston</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Year_of_birth_missing_(living_people)" title="Category:Year of birth missing (living people)">Year of birth missing (living people)</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 31 May 2023, at 13:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=G_Koop&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2312","wgBackendResponseTime":104,"wgPageParseReport":{"limitreport":{"cputime":"0.413","walltime":"0.540","ppvisitednodes":{"value":1646,"limit":1000000},"postexpandincludesize":{"value":36643,"limit":2097152},"templateargumentsize":{"value":1915,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":55590,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  496.779      1 -total"," 48.81%  242.482     16 Template:Cite_web"," 26.78%  133.026      1 Template:Infobox_musical_artist"," 22.83%  113.425      1 Template:Infobox"," 14.14%   70.240      2 Template:Short_description","  8.99%   44.647      4 Template:Hlist","  7.04%   34.956      4 Template:Pagetype","  4.17%   20.709      9 Template:Main_other","  3.45%   17.119      2 Template:SDcat","  3.27%   16.258      1 Template:Official"]},"scribunto":{"limitreport-timeusage":{"value":"0.264","limit":"10.000"},"limitreport-memusage":{"value":6407050,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-847cdf447f-fxgm7","timestamp":"20230920014715","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"G Koop","url":"https:\/\/en.wikipedia.org\/wiki\/G_Koop","sameAs":"http:\/\/www.wikidata.org\/entity\/Q30323478","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q30323478","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-05-25T23:25:29Z","dateModified":"2023-05-31T13:58:36Z","headline":"American record producer and songwriter"}</script>
+</body>
+</html>

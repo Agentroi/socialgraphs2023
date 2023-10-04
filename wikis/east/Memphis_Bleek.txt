@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Memphis Bleek - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"8c0502d5-c282-4bf6-a338-efda7135125a","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Memphis_Bleek","wgTitle":"Memphis Bleek","wgCurRevisionId":1161010382,"wgRevisionId":1161010382,"wgArticleId":1562502,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Use mdy dates from June 2022","Articles with hCards","Short description is different from Wikidata","Commons category link from Wikidata","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with GND identifiers","Articles with LCCN identifiers","Articles with Grammy identifiers","Articles with MusicBrainz identifiers","Articles with SNAC-ID identifiers","1978 births","African-American male rappers",
+"American male rappers","Def Jam Recordings artists","Living people","Rappers from Brooklyn","Roc-A-Fella Records artists","East Coast hip hop musicians","Hardcore hip hop artists","21st-century American rappers","21st-century American male musicians","21st-century African-American musicians","20th-century African-American people","Crooklyn Dodgers members","Hype men"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Memphis_Bleek","wgRelevantArticleId":1562502,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{
+"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q129747","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":
+"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/81/Memphis_bleek-01-mika.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1226">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Memphis_bleek-01-mika.jpg/800px-Memphis_bleek-01-mika.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="817">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Memphis_bleek-01-mika.jpg/640px-Memphis_bleek-01-mika.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="654">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Memphis Bleek - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Memphis_Bleek">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Memphis_Bleek&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Memphis_Bleek">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Memphis_Bleek rootpage-Memphis_Bleek skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Memphis+Bleek" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Memphis+Bleek" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Memphis+Bleek" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Memphis+Bleek" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Music_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Music_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Music career</div>
+		</a>
+		
+		<ul id="toc-Music_career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Other_ventures"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Other_ventures">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Other ventures</div>
+		</a>
+		
+			<button aria-controls="toc-Other_ventures-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Other ventures subsection</span>
+			</button>
+		
+		<ul id="toc-Other_ventures-sublist" class="vector-toc-list">
+			<li id="toc-Warehouse_Music_Group"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Warehouse_Music_Group">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Warehouse Music Group</div>
+			</a>
+			
+			<ul id="toc-Warehouse_Music_Group-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Films"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Films">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Films</div>
+			</a>
+			
+			<ul id="toc-Films-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Video_games"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Video_games">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>Video games</div>
+			</a>
+			
+			<ul id="toc-Video_games-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Memphis Bleek</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 16 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-16" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">16 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%D9%83_%D9%83%D9%88%D9%83%D8%B3" title="مالك كوكس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%DA%A9_%DA%A9%D9%88%DA%A9%D8%B3" title="مالک کوکس – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%A9%A4%ED%94%BC%EC%8A%A4_%EB%B8%94%EB%A6%AD" title="멤피스 블릭 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%9E%D7%A4%D7%99%D7%A1_%D7%91%D7%9C%D7%99%D7%A7" title="ממפיס בליק – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%D9%83_%D9%83%D9%88%D9%83%D8%B3" title="مالك كوكس – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Memphis_Bleek" title="Memphis Bleek – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q129747#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Memphis_Bleek" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Memphis_Bleek" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Memphis_Bleek"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Memphis_Bleek&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Memphis_Bleek"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Memphis_Bleek&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Memphis_Bleek" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Memphis_Bleek" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Memphis_Bleek&amp;oldid=1161010382" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Memphis_Bleek&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Memphis_Bleek&amp;id=1161010382&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q129747" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Memphis_Bleek&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Memphis_Bleek&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Memphis_Bleek" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper and hype man</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Memphis Bleek</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Memphis_bleek-01-mika.jpg" class="mw-file-description" title="Memphis Bleek (front) in 2001 with Beanie Sigel"><img alt="Memphis Bleek (front) in 2001 with Beanie Sigel" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Memphis_bleek-01-mika.jpg/220px-Memphis_bleek-01-mika.jpg" decoding="async" width="220" height="225" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Memphis_bleek-01-mika.jpg/330px-Memphis_bleek-01-mika.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Memphis_bleek-01-mika.jpg/440px-Memphis_bleek-01-mika.jpg 2x" data-file-width="1098" data-file-height="1122" /></a></span><div class="infobox-caption">Memphis Bleek (front) in 2001 with <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a></div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Malik Deshawn Cox</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1978-06-23</span>) </span>June 23, 1978<span class="noprint ForceAgeToShow"> (age&#160;45)</span><br />New York City, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li>Rapper</li>
+<li>hype man</li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1996–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li><a href="/wiki/Warehouse_Music_Group" class="mw-redirect" title="Warehouse Music Group">Warehouse</a></li>
+<li><a href="/wiki/Get_Low_Records" title="Get Low Records">Get Low</a></li>
+<li><a href="/wiki/Roc-A-Fella" class="mw-redirect" title="Roc-A-Fella">Roc-A-Fella</a></li>
+<li><a href="/wiki/Def_Jam" class="mw-redirect" title="Def Jam">Def Jam</a></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Formerly of</th><td class="infobox-data"><a href="/wiki/Crooklyn_Dodgers" title="Crooklyn Dodgers">Crooklyn Dodgers</a>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"></td></tr><tr><th scope="row" class="infobox-label">Children</th><td class="infobox-data">2</td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Malik Deshawn Cox</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> (born June 23, 1978),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> known by his stage name <b>Memphis Bleek</b>, is an American rapper who was a protégé of fellow New York rapper <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Cox started his own labels: <a href="/wiki/Get_Low_Records" title="Get Low Records">Get Low Records</a> in 1998, and <a href="#Warehouse_Music_Group">Warehouse Music Group</a> in 2016. He has released four albums, the first two certified Gold.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Music_career">Music career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit&amp;section=1" title="Edit section: Music career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Memphis Bleek was one of the first artists signed to <a href="/wiki/Roc-A-Fella" class="mw-redirect" title="Roc-A-Fella">Roc-A-Fella</a>, as a protégé of <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>. He grew up in <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>'s <a href="/wiki/Marcy_Houses" title="Marcy Houses">Marcy Projects</a>, located in <a href="/wiki/Bedford%E2%80%93Stuyvesant" class="mw-redirect" title="Bedford–Stuyvesant">Bedford–Stuyvesant</a>, the same neighborhood as Jay-Z. He appears on the Jay-Z albums: <i><a href="/wiki/Reasonable_Doubt_(album)" title="Reasonable Doubt (album)">Reasonable Doubt</a></i>, <i><a href="/wiki/Vol._2..._Hard_Knock_Life" title="Vol. 2... Hard Knock Life">Vol. 2... Hard Knock Life</a></i>, <i><a href="/wiki/Vol._3%E2%80%A6_Life_and_Times_of_S._Carter" class="mw-redirect" title="Vol. 3… Life and Times of S. Carter">Vol. 3… Life and Times of S. Carter</a></i>, <i><a href="/wiki/The_Dynasty:_Roc_La_Familia" title="The Dynasty: Roc La Familia">The Dynasty: Roc La Familia</a></i>, and <i><a href="/wiki/The_Blueprint_2:_The_Gift_%26_The_Curse" title="The Blueprint 2: The Gift &amp; The Curse">The Blueprint 2: The Gift &amp; The Curse</a></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Bleek's first official appearance was "Coming of Age" from <i>Reasonable Doubt</i>. After the huge success of <i>Hard Knock Life</i> and the exposure of the Roc-A-Fella camp, (a Memphis Bleek track off the aforementioned Jay-Z album, "It's Alright", actually charted on Billboard), the label released Memphis Bleek's debut album, <a href="/wiki/Coming_of_Age_(Memphis_Bleek_album)" title="Coming of Age (Memphis Bleek album)">Coming of Age</a>. The <a href="/wiki/Album" title="Album">album</a> was the week's Hot Shot Debut on the Billboard 200, peaking at #7 with 118,000 units sold in its first week.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+The name "Memphis", which the rapper explained paid homage to pimps, was an acronym for "Making Easy Money, Pimping Hoes In Style" while "Bleek" had been a childhood nickname, given to him by his younger sister.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+He has released three more albums since his debut, <i><a href="/wiki/The_Understanding_(Memphis_Bleek_album)" title="The Understanding (Memphis Bleek album)">The Understanding</a></i>, <i><a href="/wiki/M.A.D.E." title="M.A.D.E.">M.A.D.E.</a></i>, and <i>534</i> (Out of the three, <a href="/wiki/The_Understanding_(Memphis_Bleek_album)" title="The Understanding (Memphis Bleek album)">The Understanding</a> was certified Gold by the RIAA). In between the release of <i>The Understanding</i> and <i>M.A.D.E.</i>, he took a three-year hiatus, in which time he took care of his older brother, who was seriously injured in a motorcycle accident.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> There are three significant notes to take away from the album <i>534</i>, which was named after the <a href="/wiki/House_numbering" title="House numbering">building number</a> of the housing project, where he and Jay-Z grew up. First, it was the debut release from the "new" Roc-A-Fella, referring to Jay-Z becoming President of <a href="/wiki/Def_Jam" class="mw-redirect" title="Def Jam">Def Jam</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> It also contains the first official Def Jam recording by label mate turned international star, <a href="/wiki/Rihanna" title="Rihanna">Rihanna</a>, who featured on the song "The One". And lastly, this album marks the time in which Jay-Z released his first song since beginning his brief "retirement" in late 2003. The song was called "<a href="/wiki/Dear_Summer" title="Dear Summer">Dear Summer</a>", in reference to what Jay called the time of the year when he would drop a classic album or single every year for eight straight years, and how he had to metaphorically leave "her", Summer.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Memphis Bleek's highest charting single was "<a href="/wiki/Is_That_Yo_Chick" class="mw-redirect" title="Is That Yo Chick">Is That Yo Chick</a>", featuring <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a> and Jay-Z, which peaked at #7 on the Hot Rap Singles <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> Chart, and only one of two songs by the artist to crack the Billboard Hot 100, peaking at #68, and the only track to appear on one of his solo albums. The other single being "It's Alright", appearing on the Hard Knock Life album by Jay-Z, peaking at #61 on the Billboard Hot 100.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> He has had countless collaborations with fellow hip-hop artists such as <a href="/wiki/DMX_(rapper)" class="mw-redirect" title="DMX (rapper)">DMX</a>, <a href="/wiki/Ja_Rule" title="Ja Rule">Ja Rule</a>, <a href="/wiki/T.I." title="T.I.">T.I.</a>, and <a href="/wiki/Trick_Daddy" title="Trick Daddy">Trick Daddy</a>, with many of the features coming with other Roc-A-Fella artists, including <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a>, <a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a>, <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a>, <a href="/wiki/Amil_(rapper)" class="mw-redirect" title="Amil (rapper)">Amil</a>, <a href="/wiki/Young_Gunz" title="Young Gunz">Young Gunz</a>, and of course Jay-Z.
+</p><p>In fall 2005, Memphis Bleek told MTV that he was recording an album called <i><a href="/wiki/The_Process_(Memphis_Bleek_album)" class="mw-redirect" title="The Process (Memphis Bleek album)">The Process</a></i>, that he would describe as a make or break album, saying "I want to do an album that's through the roof, I want to do a classic album. I feel that if this album I'm not recording is a classic, I'm not even gonna put it out. I have to do it bigger than anybody has ever done it. I have to make a good record this time, not just talking-junk records."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> The rapper has worked on the album since 2005 and during that time frame he would release the songs "Hustla", "Get Ya Money Off" and "Let It Off". During this time, he would also leave Roc-A-Fella after Jay-Z told him he could run his own company and had the proper distribution deals to do so.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> He found a new home in 2009 when he signed to Mass Appeal Entertainment.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>In the summer of 2010, he backed Jay-Z on stage, during a performance at the Swedish festival Peace&amp;Love.
+</p><p>On April 10, 2012, Memphis Bleek, working with The Liberty Music Group, re-released "The Movement". The release went on to garnish over 125,000 Downloads.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>On June 6, 2012, Memphis Bleek, working again with The Liberty Music Group, released "Kush Vol. 2". The release went on to garnish over 59,000 Downloads and get a 3/5 Review from XXL Writer Adam Fleischer.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>On March 21, 2014, Memphis Bleek released "The Movement 2" as a mixtape for free download.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit&amp;section=2" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On December 13, 2014, Cox married longtime girlfriend, Ashley Coombs, in an evening ceremony at The Merion in <a href="/wiki/Cinnaminson,_New_Jersey" class="mw-redirect" title="Cinnaminson, New Jersey">Cinnaminson, New Jersey</a>, in which <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> was in attendance.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> In July 2018, Cox announced the birth of their first child, a daughter.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> Cox also has a son, born in June 2002.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Cox is the cousin of fellow Brooklyn rapper <a href="/wiki/Sean_Price" title="Sean Price">Sean Price</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Other_ventures">Other ventures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit&amp;section=3" title="Edit section: Other ventures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Warehouse_Music_Group">Warehouse Music Group</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit&amp;section=4" title="Edit section: Warehouse Music Group">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"><table class="infobox vcard"><tbody><tr><th colspan="2" class="infobox-above fn org" style="background-color: LightBlue">Warehouse Music Group</th></tr><tr><th scope="row" class="infobox-label">Founded</th><td class="infobox-data">2016</td></tr><tr><th scope="row" class="infobox-label">Founder</th><td class="infobox-data agent">Malik Cox</td></tr><tr><th scope="row" class="infobox-label">Distributor(s)</th><td class="infobox-data"><a href="/wiki/Roc_Nation" title="Roc Nation">Roc Nation</a></td></tr><tr><th scope="row" class="infobox-label">Genre</th><td class="infobox-data category"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Country of origin</th><td class="infobox-data"><a href="/wiki/United_States" title="United States">United States</a></td></tr><tr><th scope="row" class="infobox-label">Location</th><td class="infobox-data label"><a href="/wiki/New_York_City" title="New York City">New York City</a></td></tr></tbody></table>
+<p>Getting the approval of <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> in 2015, Memphis Bleek started his own label, as CEO and founder of Warehouse Music Group.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> The debut release from the label was Memphis Bleek's single "So Different" featuring Manolo Rose, which created a big buzz for the label.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> On July 28, 2016, Memphis Bleek made the announcement of signing Manolo Rose and <a href="/wiki/Casanova_(rapper)" title="Casanova (rapper)">Casanova</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> In 2017, Manolo Rose released "Ball Drop"<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> and "Pink Fur".<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> That same year, Casanova released three big singles: "Don't Run",<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> "Go Best Friend"<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> and "Left, Right" featuring <a href="/wiki/Chris_Brown" title="Chris Brown">Chris Brown</a> and <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Films">Films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit&amp;section=5" title="Edit section: Films">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2002, Memphis Bleek starred in <i><a href="/wiki/State_Property_(film)" title="State Property (film)">State Property</a></i> as "Blizz". That same year, he was also in <i><a href="/wiki/Paper_Soldiers" title="Paper Soldiers">Paper Soldiers</a></i>. He's had cameos in <i><a href="/wiki/Backstage_(2000_film)" title="Backstage (2000 film)">Backstage</a></i> and <i><a href="/wiki/Fade_to_Black_(2004_film)" title="Fade to Black (2004 film)">Fade to Black</a></i> as well.
+</p>
+<h3><span class="mw-headline" id="Video_games">Video games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit&amp;section=6" title="Edit section: Video games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Memphis Bleek is a playable character in the video game <i><a href="/wiki/Def_Jam:_Fight_for_NY" title="Def Jam: Fight for NY">Def Jam: Fight for NY</a></i>.
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit&amp;section=7" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Memphis_Bleek_discography" title="Memphis Bleek discography">Memphis Bleek discography</a></div>
+<dl><dt>Studio albums</dt></dl>
+<ul><li><i><a href="/wiki/Coming_of_Age_(Memphis_Bleek_album)" title="Coming of Age (Memphis Bleek album)">Coming of Age</a></i> (1999)</li>
+<li><i><a href="/wiki/The_Understanding_(Memphis_Bleek_album)" title="The Understanding (Memphis Bleek album)">The Understanding</a></i> (2000)</li>
+<li><i><a href="/wiki/M.A.D.E." title="M.A.D.E.">M.A.D.E.</a></i> (2003)</li>
+<li><i><a href="/wiki/534_(album)" title="534 (album)">534</a></i> (2005)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://warnerchappell.com/song-details/WW%20001371512%2000/e672b7d1-70ab-45c2-837a-c7060267dcbb">"Everyday"</a>. <i>warnerchappell.com</i>. Warner Music Group<span class="reference-accessdate">. Retrieved <span class="nowrap">October 15,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=warnerchappell.com&amp;rft.atitle=Everyday&amp;rft_id=http%3A%2F%2Fwarnerchappell.com%2Fsong-details%2FWW%2520001371512%252000%2Fe672b7d1-70ab-45c2-837a-c7060267dcbb&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWilson1998" class="citation magazine cs1">Wilson, Elliott (November 4, 1998). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZCgEAAAAMBAJ&amp;pg=PA58">"Memphis Bleek: Get Shorty"</a>. <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i>. p.&#160;58.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Vibe&amp;rft.atitle=Memphis+Bleek%3A+Get+Shorty&amp;rft.pages=58&amp;rft.date=1998-11-04&amp;rft.aulast=Wilson&amp;rft.aufirst=Elliott&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZCgEAAAAMBAJ%26pg%3DPA58&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/memphis-bleek-mn0000416605">Memphis Bleek</a>. allmusic.com</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.amazon.com/Jay-Z/e/B000APXF5M">Jay-Z Album Discography | CDNow</a>. Amazon.com. Retrieved on January 26, 2013.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/bbcom/search/google/article_display.jsp?vnu_content_id=946856">The Boy are back Atop the Top 200</a>. Billboard.com. Retrieved on January 26, 2013.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.encyclopedia.com/education/news-wires-white-papers-and-books/bleek-memphis">"Bleek, Memphis | Encyclopedia.com"</a>. <i>www.encyclopedia.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 1,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.encyclopedia.com&amp;rft.atitle=Bleek%2C+Memphis+%7C+Encyclopedia.com&amp;rft_id=https%3A%2F%2Fwww.encyclopedia.com%2Feducation%2Fnews-wires-white-papers-and-books%2Fbleek-memphis&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/67814/hot-product">M.A.D.E. in America</a>. Billboard. Retrieved on January 26, 2013.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/63220/memphis-bleek-brings-it-all-back-home">Memphis Bleek Brings It All Back Home</a>. Billboard.com. Retrieved on January 26, 2013.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Reid, Shaheem. (May 10, 2005) <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1501624/20050510/jay_z.jhtml">'Retired' Jay-Z Releasing New Track Via Memphis Bleek LP</a>. Mtv.com. Retrieved on 2013-01-26.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/artist/memphis-bleek/chart-history/">Artist Chart History – Memphis Bleek | Billboard</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/1521687/jay-zs-most-loyal-soldier-memphis-bleek-finally-has-his-own-desk/">"Jay-Z's Most Loyal Soldier, Memphis Bleek, Finally Has His Own Desk"</a>. <i>mtv.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mtv.com&amp;rft.atitle=Jay-Z%27s+Most+Loyal+Soldier%2C+Memphis+Bleek%2C+Finally+Has+His+Own+Desk&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2F1521687%2Fjay-zs-most-loyal-soldier-memphis-bleek-finally-has-his-own-desk%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Reid, Shaheem. (September 20, 2005) <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1510007/20050920/memphis_bleek.jhtml?headlines=true#/news/articles/1521687/01262006/memphis_bleek.jhtml">Memphis Bleek Helps Jay-Z Prepare For War – News Story | Music, Celebrity, Artist News | MTV News</a>. Mtv.com. Retrieved on 2013-01-26.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKuperstein2009" class="citation news cs1">Kuperstein, Slava (March 20, 2009). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.8778/title.memphis-bleek-talks-leaving-roc-a-fella">"Memphis Bleek Talks Leaving Roc-A-Fella"</a>. HipHopDX.com<span class="reference-accessdate">. Retrieved <span class="nowrap">August 21,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Memphis+Bleek+Talks+Leaving+Roc-A-Fella&amp;rft.date=2009-03-20&amp;rft.aulast=Kuperstein&amp;rft.aufirst=Slava&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.8778%2Ftitle.memphis-bleek-talks-leaving-roc-a-fella&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hiphop-n-more.com/2009/12/memphis-bleek-the-process-album-cover/">"Memphis Bleek – The Process (Album Cover) &#124; HipHop-N-More"</a>. Hiphop-n-more.com. December 30, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Memphis+Bleek+%E2%80%93+The+Process+%28Album+Cover%29+%26%23124%3B+HipHop-N-More&amp;rft.pub=Hiphop-n-more.com&amp;rft.date=2009-12-30&amp;rft_id=http%3A%2F%2Fhiphop-n-more.com%2F2009%2F12%2Fmemphis-bleek-the-process-album-cover%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Memphis-Bleek-The-Movement-mixtape.334946.html">"Memphis Bleek - The Movement"</a>. <i>DatPiff</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 5,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DatPiff&amp;rft.atitle=Memphis+Bleek+-+The+Movement&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FMemphis-Bleek-The-Movement-mixtape.334946.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://m.xxlmag.com/entry/view/id/13786">"Memphis Bleek, <i>Kush Vol. 2</i>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 5,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Memphis+Bleek%2C+Kush+Vol.+2&amp;rft_id=http%3A%2F%2Fm.xxlmag.com%2Fentry%2Fview%2Fid%2F13786&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://orangemixtapes.com/mixtape/M/791/1276-memphis-bleek-the-movement-2.html">"Memphis Bleek The Movement 2"</a>. OrangeMixtapes.Com. March 21, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">March 21,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Memphis+Bleek+The+Movement+2&amp;rft.date=2014-03-21&amp;rft_id=http%3A%2F%2Forangemixtapes.com%2Fmixtape%2FM%2F791%2F1276-memphis-bleek-the-movement-2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://theboombox.com/memphis-bleek-gets-married-in-new-jersey/">"Memphis Bleek Gets Married in New Jersey, Jay Z Attends"</a>. <i>theboombox.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=theboombox.com&amp;rft.atitle=Memphis+Bleek+Gets+Married+in+New+Jersey%2C+Jay+Z+Attends&amp;rft_id=https%3A%2F%2Ftheboombox.com%2Fmemphis-bleek-gets-married-in-new-jersey%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://thesource.com/2018/07/11/memphis-bleek-announces-birth-of-his-new-daughter/">"Memphis Bleek Announces Birth of His New Daughter"</a>. <i>thesource.com</i>. July 11, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=thesource.com&amp;rft.atitle=Memphis+Bleek+Announces+Birth+of+His+New+Daughter&amp;rft.date=2018-07-11&amp;rft_id=https%3A%2F%2Fthesource.com%2F2018%2F07%2F11%2Fmemphis-bleek-announces-birth-of-his-new-daughter%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREF@memphisbleek2011" class="citation web cs1">@memphisbleek (June 10, 2011). <a rel="nofollow" class="external text" href="https://twitter.com/memphisbleek/status/79208015596765184">"happy bday to my son..."</a> (Tweet) &#8211; via <a href="/wiki/Twitter" title="Twitter">Twitter</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=happy+bday+to+my+son...&amp;rft.date=2011-06-10&amp;rft.au=%40memphisbleek&amp;rft_id=https%3A%2F%2Ftwitter.com%2Fmemphisbleek%2Fstatus%2F79208015596765184&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAhmed" class="citation web cs1">Ahmed, Insanul. <a rel="nofollow" class="external text" href="http://www.complex.com/music/2011/02/quote-of-the-day-sean-price-memphis-bleek-cousin">"Quote of The Day: Sean Price and Memphis Bleek Are Cousins"</a>. <i>complex.com</i>. Complex Magazine<span class="reference-accessdate">. Retrieved <span class="nowrap">September 20,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=complex.com&amp;rft.atitle=Quote+of+The+Day%3A+Sean+Price+and+Memphis+Bleek+Are+Cousins&amp;rft.aulast=Ahmed&amp;rft.aufirst=Insanul&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2011%2F02%2Fquote-of-the-day-sean-price-memphis-bleek-cousin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLouie2017" class="citation web cs1">Louie, King (February 21, 2017). <a rel="nofollow" class="external text" href="https://www.hot97.com/hip-hop-news/hot-news/memphis-bleek-on-the-rocafella-breakup-gassing-jay-z-nas-beef-being-warehouse-music-group-ceo-video/">"Memphis Bleek On The Rocafella Breakup, Gassing Jay Z &amp; Nas Beef &amp; Being Warehouse Music Group CEO &#91;VIDEO&#93;"</a>. <i>Hot 97</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hot+97&amp;rft.atitle=Memphis+Bleek+On+The+Rocafella+Breakup%2C+Gassing+Jay+Z+%26+Nas+Beef+%26+Being+Warehouse+Music+Group+CEO+%5BVIDEO%5D&amp;rft.date=2017-02-21&amp;rft.aulast=Louie&amp;rft.aufirst=King&amp;rft_id=https%3A%2F%2Fwww.hot97.com%2Fhip-hop-news%2Fhot-news%2Fmemphis-bleek-on-the-rocafella-breakup-gassing-jay-z-nas-beef-being-warehouse-music-group-ceo-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://rapradar.com/2016/01/08/new-music-memphis-bleek-x-manolo-rose-so-different/">"New Music: Memphis Bleek x Manolo Rose "So Different"<span class="cs1-kern-right"></span>"</a>. <i><a href="/wiki/Rap_Radar" class="mw-redirect" title="Rap Radar">Rap Radar</a></i>. January 8, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rap+Radar&amp;rft.atitle=New+Music%3A+Memphis+Bleek+x+Manolo+Rose+%22So+Different%22&amp;rft.date=2016-01-08&amp;rft_id=http%3A%2F%2Frapradar.com%2F2016%2F01%2F08%2Fnew-music-memphis-bleek-x-manolo-rose-so-different%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://insomniacmagazine.com/memphis-bleek-manolo-rose/">"Memphis Bleek &amp; Manolo Rose Drop "So Different"<span class="cs1-kern-right"></span>"</a>. <i>Insomniac Magazine</i>. January 8, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Insomniac+Magazine&amp;rft.atitle=Memphis+Bleek+%26+Manolo+Rose+Drop+%22So+Different%22&amp;rft.date=2016-01-08&amp;rft_id=http%3A%2F%2Finsomniacmagazine.com%2Fmemphis-bleek-manolo-rose%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://rapradar.com/features/rap-radar-podcast-memphis-bleek-manolo-rose-manolo-rose-casanova/">"Rap Radar Podcast: Memphis Bleek, Manolo Rose, &amp; Casanova"</a>. <i><a href="/wiki/Rap_Radar" class="mw-redirect" title="Rap Radar">Rap Radar</a></i>. July 28, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rap+Radar&amp;rft.atitle=Rap+Radar+Podcast%3A+Memphis+Bleek%2C+Manolo+Rose%2C+%26+Casanova&amp;rft.date=2016-07-28&amp;rft_id=http%3A%2F%2Frapradar.com%2Ffeatures%2Frap-radar-podcast-memphis-bleek-manolo-rose-manolo-rose-casanova%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.themaven.net/allhiphop/news/memphis-bleek-talks-jay-z-giving-him-a-label-to-sign-manolo-rose-casanova-video-XMH3ybffeEmn7FpsKFLWKA?full=1">"Memphis Bleek Talks Jay Z Giving Him A Label To Sign Manolo Rose &amp; Casanova"</a>. <i><a href="/wiki/AllHipHop" title="AllHipHop">AllHipHop</a></i>. February 21, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllHipHop&amp;rft.atitle=Memphis+Bleek+Talks+Jay+Z+Giving+Him+A+Label+To+Sign+Manolo+Rose+%26+Casanova&amp;rft.date=2016-02-21&amp;rft_id=https%3A%2F%2Fwww.themaven.net%2Fallhiphop%2Fnews%2Fmemphis-bleek-talks-jay-z-giving-him-a-label-to-sign-manolo-rose-casanova-video-XMH3ybffeEmn7FpsKFLWKA%3Ffull%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFC.M" class="citation web cs1">C.M, Emmanuel. <a rel="nofollow" class="external text" href="http://www.xxlmag.com/rap-music/new-music/2017/03/manolo-rose-throws-a-wild-party-in-ball-drop-video/">"Manolo Rose Throws a Wild Party in "Ball Drop" Video"</a>. <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 26,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=Manolo+Rose+Throws+a+Wild+Party+in+%22Ball+Drop%22+Video&amp;rft.aulast=C.M&amp;rft.aufirst=Emmanuel&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Frap-music%2Fnew-music%2F2017%2F03%2Fmanolo-rose-throws-a-wild-party-in-ball-drop-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.missinfo.tv/index.php/manolo-rose-pink-fur-childish-major/">"New Music: Manolo Rose "Pink Fur" (Prod. By Childish Major)"</a>. <i>Missinfo</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 26,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Missinfo&amp;rft.atitle=New+Music%3A+Manolo+Rose+%22Pink+Fur%22+%28Prod.+By+Childish+Major%29&amp;rft_id=http%3A%2F%2Fwww.missinfo.tv%2Findex.php%2Fmanolo-rose-pink-fur-childish-major%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://allhiphop.com/2016/06/10/buzzing-brooklyn-rapper-casanova-says-dont-run-in-new-video/">"Buzzing Brooklyn Rapper Casanova Says "Don't Run" In New Video"</a>. <i><a href="/wiki/AllHipHop" title="AllHipHop">AllHipHop</a></i>. June 10, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">October 20,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllHipHop&amp;rft.atitle=Buzzing+Brooklyn+Rapper+Casanova+Says+%22Don%27t+Run%22+In+New+Video&amp;rft.date=2016-06-10&amp;rft_id=http%3A%2F%2Fallhiphop.com%2F2016%2F06%2F10%2Fbuzzing-brooklyn-rapper-casanova-says-dont-run-in-new-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.thisis50.com/m/blogpost?id=784568%3ABlogPost%3A36443188">"Casanova - "Go Bestfriend"<span class="cs1-kern-right"></span>"</a>. <i>Thisis50</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 26,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Thisis50&amp;rft.atitle=Casanova+-+%22Go+Bestfriend%22&amp;rft_id=http%3A%2F%2Fwww.thisis50.com%2Fm%2Fblogpost%3Fid%3D784568%253ABlogPost%253A36443188&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWza2017" class="citation web cs1">Wza, Tat (October 27, 2017). <a rel="nofollow" class="external text" href="http://www.hot97.com/news/funk-flex/new-music-casanova-ft-chris-brown-fabolous-left-right-audio">"NEW MUSIC: Casanova Ft. Chris Brown &amp; Fabolous - Left Right &#91;AUDIO&#93;"</a>. <i><a href="/wiki/WQHT" title="WQHT">Hot 97</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 28,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hot+97&amp;rft.atitle=NEW+MUSIC%3A+Casanova+Ft.+Chris+Brown+%26+Fabolous+-+Left+Right+%5BAUDIO%5D&amp;rft.date=2017-10-27&amp;rft.aulast=Wza&amp;rft.aufirst=Tat&amp;rft_id=http%3A%2F%2Fwww.hot97.com%2Fnews%2Ffunk-flex%2Fnew-music-casanova-ft-chris-brown-fabolous-left-right-audio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemphis+Bleek" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Memphis_Bleek&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Memphis_Bleek" class="extiw" title="commons:Category:Memphis Bleek">Memphis Bleek</a></span>.</div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="https://myspace.com/memphisbleek">Memphis Bleek</a> on <a href="/wiki/Myspace" title="Myspace">Myspace</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Memphis_Bleek" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Memphis_Bleek" title="Template:Memphis Bleek"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Memphis_Bleek" title="Template talk:Memphis Bleek"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Memphis_Bleek&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Memphis_Bleek" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Memphis Bleek</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Coming_of_Age_(Memphis_Bleek_album)" title="Coming of Age (Memphis Bleek album)">Coming of Age</a></i></li>
+<li><i><a href="/wiki/The_Understanding_(Memphis_Bleek_album)" title="The Understanding (Memphis Bleek album)">The Understanding</a></i></li>
+<li><i><a href="/wiki/M.A.D.E." title="M.A.D.E.">M.A.D.E.</a></i></li>
+<li><i><a href="/wiki/534_(album)" title="534 (album)">534</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Memphis_Bleek_Is..." title="Memphis Bleek Is...">Memphis Bleek Is...</a>"</li>
+<li>"<a href="/wiki/My_Mind_Right" title="My Mind Right">My Mind Right</a>"</li>
+<li>"<a href="/wiki/Is_That_Your_Chick_(The_Lost_Verses)" title="Is That Your Chick (The Lost Verses)">Is That Your Chick (The Lost Verses)</a>"</li>
+<li>"<a href="/wiki/Do_My..." title="Do My...">Do My...</a>"</li>
+<li>"<a href="/wiki/Round_Here_(Memphis_Bleek_song)" title="Round Here (Memphis Bleek song)">Round Here</a>"</li>
+<li>"<a href="/wiki/Like_That_(Memphis_Bleek_song)" class="mw-redirect" title="Like That (Memphis Bleek song)">Like That</a>"</li>
+<li>"<a href="/wiki/Dear_Summer" title="Dear Summer">Dear Summer</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Featured singles</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/It%27s_Alright_(Jay-Z_and_Memphis_Bleek_song)" title="It&#39;s Alright (Jay-Z and Memphis Bleek song)">It's Alright</a>"</li>
+<li>"<a href="/wiki/Change_the_Game" title="Change the Game">Change the Game</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Filmography</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/State_Property_(film)" title="State Property (film)">State Property</a></i></li>
+<li><i><a href="/wiki/Paper_Soldiers" title="Paper Soldiers">Paper Soldiers</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Memphis_Bleek_discography" title="Memphis Bleek discography">Discography</a></li>
+<li><a href="/wiki/Get_Low_Records" title="Get Low Records">Get Low Records</a></li>
+<li><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Roc-A-Fella_Records" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Roc-A-Fella_Records" title="Template:Roc-A-Fella Records"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Roc-A-Fella_Records" title="Template talk:Roc-A-Fella Records"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Roc-A-Fella_Records&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Roc-A-Fella_Records" style="font-size:114%;margin:0 4em"><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Founder(s)</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jay-Z" title="Jay-Z">Shawn "Jay-Z" Carter</a></li>
+<li><a href="/wiki/Damon_Dash" title="Damon Dash">Damon "Dame" Dash</a></li>
+<li><a href="/wiki/Kareem_Burke" title="Kareem Burke">Kareem "Biggs" Burke</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Roc-La-Familia" title="Roc-La-Familia">Roc-La-Familia</a></li>
+<li><a href="/wiki/StarRoc" title="StarRoc">StarRoc</a></li>
+<li><a href="/wiki/Roc_Nation" title="Roc Nation">Roc Nation</a></li>
+<li><a href="/wiki/The_Island_Def_Jam_Music_Group" title="The Island Def Jam Music Group">The Island Def Jam Music Group</a></li>
+<li><a href="/wiki/GOOD_Music" title="GOOD Music">GOOD Music</a></li>
+<li><a href="/wiki/S._Carter_Records" title="S. Carter Records">S. Carter Records</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q129747#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q129747#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q129747#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000055164126">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/19881249">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb14039502k">France</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb14039502k">BnF data</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/135410355">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no99034825">United States</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.grammy.com/grammys/artists/memphis-bleek/4561">Grammy Awards</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/48db8d53-98c7-4ec8-8d49-00a89ebad8d4">MusicBrainz</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://snaccooperative.org/ark:/99166/w6kd2tnf">SNAC</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2305
+Cached time: 20230919185319
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.537 seconds
+Real time usage: 0.676 seconds
+Preprocessor visited node count: 3909/1000000
+Post‐expand include size: 77102/2097152 bytes
+Template argument size: 3706/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 94623/5000000 bytes
+Lua time usage: 0.306/10.000 seconds
+Lua memory usage: 9791770/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  619.895      1 -total
+ 33.46%  207.415      1 Template:Infobox_musical_artist
+ 31.91%  197.820      2 Template:Infobox
+ 30.45%  188.753      1 Template:Reflist
+ 21.40%  132.679     19 Template:Cite_web
+ 13.45%   83.351      1 Template:Infobox_person
+  8.29%   51.397      2 Template:Short_description
+  8.21%   50.920      3 Template:If_empty
+  7.97%   49.434      7 Template:Br_separated_entries
+  7.51%   46.537      1 Template:Memphis_Bleek
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1562502-0!canonical and timestamp 20230919185319 and revision id 1161010382. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Memphis_Bleek&amp;oldid=1161010382">https://en.wikipedia.org/w/index.php?title=Memphis_Bleek&amp;oldid=1161010382</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1978_births" title="Category:1978 births">1978 births</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:Def_Jam_Recordings_artists" title="Category:Def Jam Recordings artists">Def Jam Recordings artists</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Rappers_from_Brooklyn" title="Category:Rappers from Brooklyn">Rappers from Brooklyn</a></li><li><a href="/wiki/Category:Roc-A-Fella_Records_artists" title="Category:Roc-A-Fella Records artists">Roc-A-Fella Records artists</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Hardcore_hip_hop_artists" title="Category:Hardcore hip hop artists">Hardcore hip hop artists</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li><li><a href="/wiki/Category:20th-century_African-American_people" title="Category:20th-century African-American people">20th-century African-American people</a></li><li><a href="/wiki/Category:Crooklyn_Dodgers_members" title="Category:Crooklyn Dodgers members">Crooklyn Dodgers members</a></li><li><a href="/wiki/Category:Hype_men" title="Category:Hype men">Hype men</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_June_2022" title="Category:Use mdy dates from June 2022">Use mdy dates from June 2022</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_Grammy_identifiers" title="Category:Articles with Grammy identifiers">Articles with Grammy identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Articles_with_SNAC-ID_identifiers" title="Category:Articles with SNAC-ID identifiers">Articles with SNAC-ID identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 20 June 2023, at 01:55<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Memphis_Bleek&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2371","wgBackendResponseTime":124,"wgPageParseReport":{"limitreport":{"cputime":"0.537","walltime":"0.676","ppvisitednodes":{"value":3909,"limit":1000000},"postexpandincludesize":{"value":77102,"limit":2097152},"templateargumentsize":{"value":3706,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":94623,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  619.895      1 -total"," 33.46%  207.415      1 Template:Infobox_musical_artist"," 31.91%  197.820      2 Template:Infobox"," 30.45%  188.753      1 Template:Reflist"," 21.40%  132.679     19 Template:Cite_web"," 13.45%   83.351      1 Template:Infobox_person","  8.29%   51.397      2 Template:Short_description","  8.21%   50.920      3 Template:If_empty","  7.97%   49.434      7 Template:Br_separated_entries","  7.51%   46.537      1 Template:Memphis_Bleek"]},"scribunto":{"limitreport-timeusage":{"value":"0.306","limit":"10.000"},"limitreport-memusage":{"value":9791770,"limit":52428800}},"cachereport":{"origin":"mw2305","timestamp":"20230919185319","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Memphis Bleek","url":"https:\/\/en.wikipedia.org\/wiki\/Memphis_Bleek","sameAs":"http:\/\/www.wikidata.org\/entity\/Q129747","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q129747","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-02T23:51:15Z","dateModified":"2023-06-20T01:55:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/Memphis_bleek-01-mika.jpg","headline":"American rapper and hype man"}</script>
+</body>
+</html>

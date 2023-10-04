@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>B-Real - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"513494aa-3cf9-4cff-ab8c-06fe19917558","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"B-Real","wgTitle":"B-Real","wgCurRevisionId":1172873964,"wgRevisionId":1172873964,"wgArticleId":1618709,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","Use mdy dates from April 2021","Articles with hCards","Pages using infobox musical artist with associated acts","Commons category link from Wikidata","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with BNE identifiers","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with GND identifiers","Articles with LCCN identifiers","Articles with NKC identifiers","Articles with MusicBrainz identifiers",
+"Articles with SUDOC identifiers","1970 births","American musicians of Cuban descent","American male actors of Mexican descent","American entertainers of Cuban descent","American rappers of Mexican descent","American rap rock musicians","American male rappers","Rap metal musicians","Nu metal singers","People from South Gate, California","West Coast hip hop musicians","Cypress Hill members","Chicano rap","Bloods","Living people","Prophets of Rage members","American cannabis activists","Hardcore hip hop artists","21st-century American rappers","Serial Killers (musical group) members","Hispanic and Latino American rappers","Rappers from Los Angeles","Bell High School (California) alumni"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"B-Real","wgRelevantArticleId":1618709,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":
+true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q352246","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready",
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart",
+"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg/1200px-Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1600">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg/800px-Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1067">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg/640px-Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="853">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="B-Real - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/B-Real">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=B-Real&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/B-Real">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-B-Real rootpage-B-Real skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=B-Real" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=B-Real" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=B-Real" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=B-Real" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Musical_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Musical_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Musical career</div>
+		</a>
+		
+		<ul id="toc-Musical_career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Production_work"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Production_work">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Production work</div>
+		</a>
+		
+		<ul id="toc-Production_work-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Non-music_projects"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Non-music_projects">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Non-music projects</div>
+		</a>
+		
+		<ul id="toc-Non-music_projects-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Solo"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Solo">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>Solo</div>
+			</a>
+			
+			<ul id="toc-Solo-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-With_Cypress_Hill"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#With_Cypress_Hill">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>With Cypress Hill</div>
+			</a>
+			
+			<ul id="toc-With_Cypress_Hill-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-With_Prophets_of_Rage"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#With_Prophets_of_Rage">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>With Prophets of Rage</div>
+			</a>
+			
+			<ul id="toc-With_Prophets_of_Rage-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-With_Psycho_Realm"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#With_Psycho_Realm">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.4</span>With Psycho Realm</div>
+			</a>
+			
+			<ul id="toc-With_Psycho_Realm-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.5</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-With_Berner"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#With_Berner">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.6</span>With Berner</div>
+			</a>
+			
+			<ul id="toc-With_Berner-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Serial_Killers"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Serial_Killers">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.7</span>Serial Killers</div>
+			</a>
+			
+			<ul id="toc-Serial_Killers-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">B-Real</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 22 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-22" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">22 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%A8%DB%8C-%D8%B1%DB%8C%D9%84" title="بی-ریل – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%B8-%D0%A0%D0%B8%D1%8A%D0%BB" title="Би-Риъл – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/B-real" title="B-real – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/B-Real" title="B-Real – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/B-Real" title="B-Real – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/B-Real" title="B-Real – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/B-Real" title="B-Real – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A8%DB%8C-%D8%B1%DB%8C%D9%84" title="بی-ریل – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/B-Real" title="B-Real – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/B-Real" title="B-Real – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/B-Real" title="B-Real – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A8_%D8%B1%D9%8A%D8%A7%D9%84" title="ب ريال – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/B-Real" title="B-Real – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/B-Real" title="B-Real – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/B-Real" title="B-Real – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/B-Real" title="B-Real – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/B-Real" title="B-Real – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/B-Real" title="B-Real – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/B-Real" title="B-Real – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/B-Real" title="B-Real – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/B-Real" title="B-Real – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/B-Real" title="B-Real – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q352246#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/B-Real" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:B-Real" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/B-Real"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=B-Real&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=B-Real&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/B-Real"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=B-Real&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=B-Real&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/B-Real" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/B-Real" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=B-Real&amp;oldid=1172873964" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=B-Real&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=B-Real&amp;id=1172873964&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q352246" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=B-Real&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=B-Real&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:B-Real" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper from California (born 1970)</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">B-Real</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg" class="mw-file-description" title="B-Real in 2016"><img alt="B-Real in 2016" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg/220px-Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg" decoding="async" width="220" height="293" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg/330px-Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg/440px-Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg 2x" data-file-width="2364" data-file-height="3152" /></a></span><div class="infobox-caption">B-Real in 2016</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Louis Mario Freese<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname">Dr. Greenthumb</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1970-06-02</span>) </span>June 2, 1970<span class="noprint ForceAgeToShow"> (age&#160;53)</span><br /><a href="/wiki/Los_Angeles,_California" class="mw-redirect" title="Los Angeles, California">Los Angeles, California</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li>
+<li><a href="/wiki/Rap_metal" title="Rap metal">rap&#160;metal</a></li>
+<li><a href="/wiki/Rap_rock" title="Rap rock">rap&#160;rock</a></li>
+<li><a href="/wiki/Nu_metal" title="Nu metal">nu&#160;metal</a></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Rapper</li><li>songwriter</li><li>record producer</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1988–present<sup id="cite_ref-INTERVIEW_2-0" class="reference"><a href="#cite_note-INTERVIEW-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a></li><li><a href="/wiki/Ruffhouse_Records" title="Ruffhouse Records">Ruffhouse</a></li><li><a href="/wiki/Duck_Down_Records" class="mw-redirect" title="Duck Down Records">Duck Down</a></li><li><a href="/wiki/Goliath_Artists" title="Goliath Artists">Goliath</a></li><li><a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath</a></li></ul></div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Louis Mario Freese</b> (born June 2, 1970),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> known by his stage name <b>B-Real</b>, is an American rapper. Since 1991, he has been one of two lead rappers in the <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> group <a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a>, along with <a href="/wiki/Sen_Dog" title="Sen Dog">Sen Dog</a>. He has also been a part of the <a href="/wiki/Rap_metal" title="Rap metal">rap metal</a> band <a href="/wiki/Kush_(band)" title="Kush (band)">Kush</a> (2000–2002), the hip hop supergroup <a href="/wiki/Serial_Killers_(musical_group)" title="Serial Killers (musical group)">Serial Killers</a> (2013–present) and the <a href="/wiki/Rap_rock" title="Rap rock">rap rock</a> supergroup <a href="/wiki/Prophets_of_Rage" title="Prophets of Rage">Prophets of Rage</a> (2016–2019). He has released a variety of solo <a href="/wiki/Mixtape" title="Mixtape">mixtapes</a>, as well as two solo albums: <i><a href="/wiki/Smoke_n_Mirrors" title="Smoke n Mirrors">Smoke n Mirrors</a></i> (2009) and <i>Tell You Something</i> (2020).
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Born in Los Angeles to a Mexican father and a Cuban mother, B-Real moved with his sister and mother out of his father's home to <a href="/wiki/South_Gate,_California" title="South Gate, California">South Gate, California</a> at the age of five. He later lived in <a href="/wiki/Bell,_California" title="Bell, California">Bell, California</a>. Before dropping out of <a href="/wiki/Bell_High_School_(Bell,_California)" class="mw-redirect" title="Bell High School (Bell, California)">Bell High School</a>, he befriended future <a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a> members <a href="/wiki/Sen_Dog" title="Sen Dog">Sen Dog</a> and <a href="/wiki/Mellow_Man_Ace" title="Mellow Man Ace">Mellow Man Ace</a> (who later left the group to go solo) and became an active member of the Family Swan <a href="/wiki/Bloods" title="Bloods">Bloods</a>, known as the Neighborhood Family Bloods at that time. At the age of 17, Freese was shot in a gang-related shooting with a hollow-point .22 caliber bullet, which punctured his lung.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> B Real was married to his long time girlfriend in August of 2008 in Los Angeles, California. They have one daughter together (born in 2010). He also has an adult son, from a previous relationship.
+</p>
+<h2><span class="mw-headline" id="Musical_career">Musical career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=2" title="Edit section: Musical career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After being introduced to <a href="/wiki/DJ_Muggs" title="DJ Muggs">DJ Muggs</a> by Julio G the <a href="/wiki/KDAY" title="KDAY">KDAY</a> Mixmaster, B-Real and Sen gained interest in Muggs's concept of an album based on experiences from Cypress Ave in South Gate. The group was signed with Ruffhouse/Columbia records in 1991 and released their influential debut album, <i><a href="/wiki/Cypress_Hill_(album)" title="Cypress Hill (album)">Cypress Hill</a></i>, that year. B-Real would use fictional stories telling of life-threatening experiences as material for the group's debut album, and subsequent releases.
+</p><p>While working on their first album, B-Real developed his distinctive high-pitched, nasal rap style. Previously, he had rapped with something like his normal voice, but DJ Muggs told him that his rap delivery was boring and warned him that, unless he changed it, he would be overshadowed by Sen Dog. B-Real took inspiration from hip hop pioneer <a href="/wiki/Rammellzee" title="Rammellzee">Rammellzee</a>, who had occasionally rapped in a high-pitched voice. B-Real initially saw the high voice as a silly gimmick, but was surprised at the positive feedback he got for his new style and decided to keep going with it.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Cypress Hill's self-titled debut album was a critical and commercial hit, selling 2 million copies, and their follow-up album, 1993's <i><a href="/wiki/Black_Sunday_(Cypress_Hill_album)" title="Black Sunday (Cypress Hill album)">Black Sunday</a></i>, was an even bigger hit, debuting at #1 on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> and eventually selling 3.4 million copies. They became the first Latin rap group to have platinum and multi-platinum albums, and remain the best-selling Latin rap group of all time.<sup id="cite_ref-SALES_7-0" class="reference"><a href="#cite_note-SALES-7">&#91;7&#93;</a></sup> In a 2010 interview, B-Real stated: "Fortunately I guess the fact we were able to achieve what we achieved, being Latino but without really exploiting that side of it, showed like a whole generation behind us how you could have that success without being labeled as just one thing. Because back in the day, when you were labeled 'a Latino rapper', the record companies would only try to market you to that Latin fan-base which didn't really exist yet!... So yeah, it feels good to see people recognizing us as some of the pioneers that opened the doors for a lot of these other Latino rappers to come through."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Aside from Cypress Hill, B-Real has been involved in several other musical projects. In 1996, he contributed to the soundtrack for the movie <i><a href="/wiki/Space_Jam" title="Space Jam">Space Jam</a></i>. In 2002, he teamed up with Mellow Man Ace and <a href="/wiki/Son_Doobie" class="mw-redirect" title="Son Doobie">Son Doobie</a> for the short-lived Serial Rhyme Killas, which released one 12" single in 2002.<sup id="cite_ref-DISCOG_9-0" class="reference"><a href="#cite_note-DISCOG-9">&#91;9&#93;</a></sup> The group recorded a full-length debut album, entitled <i>Deluxe Rapture</i>, but it was never released. B-Real formed a <a href="/wiki/Rap_metal" title="Rap metal">rap metal</a> group, <a href="/wiki/Kush_(band)" title="Kush (band)">Kush</a>, with <a href="/wiki/Deftones" title="Deftones">Deftones</a> guitarist <a href="/wiki/Stephen_Carpenter" title="Stephen Carpenter">Stephen Carpenter</a> and <a href="/wiki/Fear_Factory" title="Fear Factory">Fear Factory</a> members <a href="/wiki/Christian_Olde_Wolbers" title="Christian Olde Wolbers">Christian Olde Wolbers</a> and <a href="/wiki/Raymond_Herrera" title="Raymond Herrera">Raymond Herrera</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-Downey_11-0" class="reference"><a href="#cite_note-Downey-11">&#91;11&#93;</a></sup> According to B-Real, Kush is more aggressive than other bands in the genre.<sup id="cite_ref-Downey_11-1" class="reference"><a href="#cite_note-Downey-11">&#91;11&#93;</a></sup> He was also previously a member of the group <a href="/wiki/Psycho_Realm" title="Psycho Realm">The Psycho Realm</a>,<sup id="cite_ref-PSYCHO_12-0" class="reference"><a href="#cite_note-PSYCHO-12">&#91;12&#93;</a></sup> and in 2007 announced that he would collaborate with Sick Jacken once again on a new album.<sup id="cite_ref-INTERVIEW_2-1" class="reference"><a href="#cite_note-INTERVIEW-2">&#91;2&#93;</a></sup> He revealed in an interview that he plans on recording a "vs." album with Cypress Hill member <a href="/wiki/DJ_Muggs" title="DJ Muggs">DJ Muggs</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>From 2005 to 2007, B-Real released three <a href="/wiki/Mixtape" title="Mixtape">mixtapes</a> as a solo artist: <i>The Gunslinger</i>, <i><a href="/wiki/The_Gunslinger_Part_II:_Fist_Full_of_Dollars" title="The Gunslinger Part II: Fist Full of Dollars">The Gunslinger Part II: Fist Full of Dollars</a></i> and <i>The Gunslinger Part III: For a Few Dollars More</i>.<sup id="cite_ref-SOLO_14-0" class="reference"><a href="#cite_note-SOLO-14">&#91;14&#93;</a></sup> He released his first solo album, entitled <i><a href="/wiki/Smoke_N_Mirrors" class="mw-redirect" title="Smoke N Mirrors">Smoke N Mirrors</a></i>, in 2009. He was a guest artist on the <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> single "<a href="/wiki/Vato_(song)" title="Vato (song)">Vato</a>", from Snoop Dogg's 2006 album <i><a href="/wiki/Tha_Blue_Carpet_Treatment" title="Tha Blue Carpet Treatment">Tha Blue Carpet Treatment</a></i>. In 2017, he was featured on the <a href="/wiki/Hollywood_Undead" title="Hollywood Undead">Hollywood Undead</a> song "Black Cadillac" from the band's fifth album <i><a href="/wiki/Five_(Hollywood_Undead_album)" title="Five (Hollywood Undead album)">Five</a>.</i>
+</p><p>From 2016 to 2019, he was part of the group <a href="/wiki/Prophets_of_Rage" title="Prophets of Rage">Prophets of Rage</a>, along with <a href="/wiki/Chuck_D" title="Chuck D">Chuck D</a> and former members of <a href="/wiki/Rage_Against_the_Machine" title="Rage Against the Machine">Rage Against the Machine</a>.
+</p>
+<h2><span class="mw-headline" id="Production_work">Production work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=3" title="Edit section: Production work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:B-Real_2006.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/B-Real_2006.jpg/180px-B-Real_2006.jpg" decoding="async" width="180" height="273" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/b/b9/B-Real_2006.jpg 1.5x" data-file-width="244" data-file-height="370" /></a><figcaption>B-Real in 2006</figcaption></figure>
+<p>In addition to his career as an MC, B-Real has worked as a <a href="/wiki/Music_producer" class="mw-redirect" title="Music producer">music producer</a> for six years, with clients ranging from <a href="/wiki/Proof_(rapper)" title="Proof (rapper)">Proof</a> of <a href="/wiki/D12" title="D12">D12</a> to the <a href="/wiki/WWE" title="WWE">WWE</a>.<sup id="cite_ref-INTERVIEW_2-2" class="reference"><a href="#cite_note-INTERVIEW-2">&#91;2&#93;</a></sup> He intentionally kept his production for Cypress Hill down to a minimum, as not to interfere with DJ Muggs' involvement in the group, but has produced several tracks for his own solo projects. B-Real also manages a team of music producers known as the 'Audio Hustlaz'.<sup id="cite_ref-INTERVIEW_2-3" class="reference"><a href="#cite_note-INTERVIEW-2">&#91;2&#93;</a></sup> B-Real produced three of the tracks on his solo album <i><a href="/wiki/Smoke_N_Mirrors" class="mw-redirect" title="Smoke N Mirrors">Smoke N Mirrors</a></i>: "Don't Ya Dare Laugh", "Fire" and "Dr. Hyphenstein". B-Real and his production worked alongside DJ Muggs and others on the 2010 Cypress Hill album <i><a href="/wiki/Rise_Up_(Cypress_Hill_album)" title="Rise Up (Cypress Hill album)">Rise Up</a></i>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Non-music_projects">Non-music projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=4" title="Edit section: Non-music projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1998, B-Real voiced the part of a newborn baby for the song "This World Is Something New to Me" in <i><a href="/wiki/The_Rugrats_Movie" title="The Rugrats Movie">The Rugrats Movie</a></i>.
+</p><p>In the early 2000s B-Real and <a href="/wiki/DJ_Muggs" title="DJ Muggs">DJ Muggs</a> co-founded and co-captained a professional <a href="/wiki/Paintball" title="Paintball">paintball</a> team, the Stoned Assassins. They competed regionally, nationally, and internationally, usually in the second-level divisions. B-Real and the Assassins also appeared in the console game <a href="/wiki/Greg_Hastings_Tournament_Paintball" class="mw-redirect" title="Greg Hastings Tournament Paintball">Greg Hastings Tournament Paintball</a>.<sup id="cite_ref-SPIN_-_Feb_2005_16-0" class="reference"><a href="#cite_note-SPIN_-_Feb_2005-16">&#91;16&#93;</a></sup>
+</p><p>His live streaming site Breal.tv<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> features live interactive programming over the internet. He is the host of the video <a href="/wiki/Podcast" title="Podcast">podcasts</a> <i>The Dr. Greenthumb Podcast</i>, <i>The Smokebox</i> and <i>Meditation</i>.
+</p><p>In 2018, B-Real partnered with marijuana subscription box company Daily High Club to craft a B-Real-themed smoking supply box for the month of March.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=5" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Solo">Solo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=6" title="Edit section: Solo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/Smoke_N_Mirrors" class="mw-redirect" title="Smoke N Mirrors">Smoke N Mirrors</a></i> (2009)</li>
+<li><i><a href="/w/index.php?title=Tell_You_Somethin&amp;action=edit&amp;redlink=1" class="new" title="Tell You Somethin (page does not exist)">Tell You Somethin</a></i> (2021)</li></ul>
+<h3><span class="mw-headline" id="With_Cypress_Hill">With Cypress Hill</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=7" title="Edit section: With Cypress Hill">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Cypress_Hill_discography" title="Cypress Hill discography">Cypress Hill discography</a></div>
+<ul><li><i><a href="/wiki/Cypress_Hill_(album)" title="Cypress Hill (album)">Cypress Hill</a></i> (1991)</li>
+<li><i><a href="/wiki/Black_Sunday_(Cypress_Hill_album)" title="Black Sunday (Cypress Hill album)">Black Sunday</a></i> (1993)</li>
+<li><i><a href="/wiki/Cypress_Hill_III:_Temples_of_Boom" title="Cypress Hill III: Temples of Boom">III: Temples of Boom</a></i> (1995)</li>
+<li><i><a href="/wiki/Cypress_Hill_IV" title="Cypress Hill IV">IV</a></i> (1998)</li>
+<li><i><a href="/wiki/Skull_%26_Bones_(album)" title="Skull &amp; Bones (album)">Skull &amp; Bones</a></i> (2000)</li>
+<li><i><a href="/wiki/Stoned_Raiders" title="Stoned Raiders">Stoned Raiders</a></i> (2001)</li>
+<li><i><a href="/wiki/Till_Death_Do_Us_Part_(Cypress_Hill_album)" title="Till Death Do Us Part (Cypress Hill album)">Till Death Do Us Part</a></i> (2004)</li>
+<li><i><a href="/wiki/Rise_Up_(Cypress_Hill_album)" title="Rise Up (Cypress Hill album)">Rise Up</a></i> (2010)</li>
+<li><i><a href="/wiki/Elephants_on_Acid" title="Elephants on Acid">Elephants on Acid</a></i> (2018)</li>
+<li><i><a href="/wiki/Back_in_Black_(Cypress_Hill_album)" title="Back in Black (Cypress Hill album)">Back in Black</a></i> (2022)</li></ul>
+<h3><span class="mw-headline" id="With_Prophets_of_Rage">With Prophets of Rage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=8" title="Edit section: With Prophets of Rage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>The Party's Over</i> (2016)</li>
+<li><i><a href="/wiki/Prophets_of_Rage_(album)" title="Prophets of Rage (album)">Prophets of Rage</a></i> (2017)</li></ul>
+<h3><span class="mw-headline" id="With_Psycho_Realm">With Psycho Realm</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=9" title="Edit section: With Psycho Realm">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/The_Psycho_Realm" title="The Psycho Realm">The Psycho Realm</a> (1997)</i></li></ul>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=10" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>The Gunslinger</i> (2005)</li>
+<li><i><a href="/wiki/The_Gunslinger_Part_II:_Fist_Full_of_Dollars" title="The Gunslinger Part II: Fist Full of Dollars">The Gunslinger Part II: Fist Full of Dollars</a></i> (2006)</li>
+<li><i>The Gunslinger Part III: For a Few Dollars More</i> (2007)</li>
+<li><i>The Harvest Vol. 1: The Mixtape</i> (2010)</li>
+<li><i>The Medication</i> (2014)</li>
+<li><i>The Prescription</i> (as Dr. Greenthumb) (2015)</li></ul>
+<h3><span class="mw-headline" id="With_Berner">With Berner</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=11" title="Edit section: With Berner">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Prohibition</i> (2014)</li>
+<li><i>Prohibition Part 2</i> (2015)</li>
+<li><i>Prohibition Part 3</i> (2016)</li>
+<li><i>Los Meros</i> (2020)</li></ul>
+<h3><span class="mw-headline" id="Serial_Killers">Serial Killers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=12" title="Edit section: Serial Killers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Serial Killers Vol. 1</i> (2013)</li>
+<li><i>The Murder Show</i> (2015)</li>
+<li><i>Day of the Dead</i> (2018)</li>
+<li><i>Summer of Sam</i> (2020)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ascap.com/repertory#/ace/search/workID/885921114">"ACE Repertory"</a>. <i>www.ascap.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.ascap.com&amp;rft.atitle=ACE+Repertory&amp;rft_id=https%3A%2F%2Fwww.ascap.com%2Frepertory%23%2Face%2Fsearch%2FworkID%2F885921114&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-INTERVIEW-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-INTERVIEW_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-INTERVIEW_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-INTERVIEW_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-INTERVIEW_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.latinrapper.com/b-real-interview.html">"B-Real Interview with Cypress Hill"</a>. LatinRapper.com<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=B-Real+Interview+with+Cypress+Hill&amp;rft.pub=LatinRapper.com&amp;rft_id=http%3A%2F%2Fwww.latinrapper.com%2Fb-real-interview.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMason" class="citation web cs1">Mason, Stewart. <a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/p301066">"B Real – Biography"</a>. <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 19,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=B+Real+%E2%80%93+Biography&amp;rft.pub=AllMusic&amp;rft.aulast=Mason&amp;rft.aufirst=Stewart&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Fartist%2Fp301066&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://unitedgangs.com/sinister-rapper/">"Sinister (Rapper)"</a>. September 14, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">December 19,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sinister+%28Rapper%29&amp;rft.date=2015-09-14&amp;rft_id=https%3A%2F%2Funitedgangs.com%2Fsinister-rapper%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.sherwood.it/articolo/672/cypress-hills-b-real-psycho-realm-soul-assassinslaM">"Cypress Hill's B-Real + Psycho Realm (Soul Assassins/L.A.)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 19,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cypress+Hill%27s+B-Real+%2B+Psycho+Realm+%28Soul+Assassins%2FL.A.%29&amp;rft_id=https%3A%2F%2Fwww.sherwood.it%2Farticolo%2F672%2Fcypress-hills-b-real-psycho-realm-soul-assassinslaM&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=OnWkIzhH-us">"The Secret to B-Real's Distinct Voice | Joe Rogan"</a>. YouTube. April 23, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Secret+to+B-Real%27s+Distinct+Voice+%7C+Joe+Rogan&amp;rft.pub=YouTube&amp;rft.date=2019-04-23&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOnWkIzhH-us&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-SALES-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-SALES_7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://de.click2music.co.uk/3rd/Prezence/cypress_hill/index.html">"Greatest Hits From the Bong Out"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070928034052/http://de.click2music.co.uk/3rd/Prezence/cypress_hill/index.html">Archived</a> September 28, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDesign" class="citation web cs1">Design, Stephen Clark -. <a rel="nofollow" class="external text" href="http://www.bluesandsoul.com/feature/528/cypress_hill_rise_and_shine/">"Cypress Hill: Rise &amp; Shine"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cypress+Hill%3A+Rise+%26+Shine&amp;rft.aulast=Design&amp;rft.aufirst=Stephen+Clark+-&amp;rft_id=http%3A%2F%2Fwww.bluesandsoul.com%2Ffeature%2F528%2Fcypress_hill_rise_and_shine%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-DISCOG-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-DISCOG_9-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070607162158/http://www.brealonline.com/disc.html">"心に優しい出会い体験談発掘所 – ホッコリする話集めました♪"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.brealonline.com/disc.html">the original</a> on June 7, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E5%BF%83%E3%81%AB%E5%84%AA%E3%81%97%E3%81%84%E5%87%BA%E4%BC%9A%E3%81%84%E4%BD%93%E9%A8%93%E8%AB%87%E7%99%BA%E6%8E%98%E6%89%80+%E2%80%93+%E3%83%9B%E3%83%83%E3%82%B3%E3%83%AA%E3%81%99%E3%82%8B%E8%A9%B1%E9%9B%86%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E2%99%AA&amp;rft_id=http%3A%2F%2Fwww.brealonline.com%2Fdisc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMoss2002" class="citation news cs1">Moss, Corey (April 23, 2002). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1453557/20020423/cypress_hill.jhtml">"With Kush Record Done, B-Real Keepin' Real Busy"</a>. <a href="/wiki/MTV_News" title="MTV News">MTV News</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 31,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=With+Kush+Record+Done%2C+B-Real+Keepin%27+Real+Busy&amp;rft.date=2002-04-23&amp;rft.aulast=Moss&amp;rft.aufirst=Corey&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1453557%2F20020423%2Fcypress_hill.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Downey-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Downey_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Downey_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDowney2002" class="citation news cs1">Downey, Ryan J (November 27, 2002). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1458879/20021126/cypress_hill.jhtml">"B-Real Finishing Up Kush LP, Going Grimmer For Next Cypress Hill Album"</a>. <a href="/wiki/MTV_News" title="MTV News">MTV News</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 31,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=B-Real+Finishing+Up+Kush+LP%2C+Going+Grimmer+For+Next+Cypress+Hill+Album&amp;rft.date=2002-11-27&amp;rft.aulast=Downey&amp;rft.aufirst=Ryan+J&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1458879%2F20021126%2Fcypress_hill.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-PSYCHO-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-PSYCHO_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.latinrapper.com/psycho_realm_interview.html">"Psycho Realm Interview – Sick Jacken"</a>. LatinRapper.com<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Psycho+Realm+Interview+%E2%80%93+Sick+Jacken&amp;rft.pub=LatinRapper.com&amp;rft_id=http%3A%2F%2Fwww.latinrapper.com%2Fpsycho_realm_interview.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/interviews/id.1600/title.b-real-pay-it-forward">B-Real: Pay It Forward | Rappers Talk Hip Hop Beef &amp; Old School Hip Hop</a>. HipHop DX (September 23, 2010). Retrieved on May 2, 2012.</span>
+</li>
+<li id="cite_note-SOLO-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-SOLO_14-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.latinrapper.com/news_november19.html">"B-Real Cypress Hill Solo Album – Gunslinger CD"</a>. LatinRapper.com<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=B-Real+Cypress+Hill+Solo+Album+%E2%80%93+Gunslinger+CD&amp;rft.pub=LatinRapper.com&amp;rft_id=http%3A%2F%2Fwww.latinrapper.com%2Fnews_november19.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://allhiphop.com/features/cypress-hills-sen-dog-solo-entry/">Cypress Hill's Sen Dog: Solo Entry</a>. AllHipHop.com (September 30, 2008). Retrieved on May 2, 2012.</span>
+</li>
+<li id="cite_note-SPIN_-_Feb_2005-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-SPIN_-_Feb_2005_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRegardie2005" class="citation magazine cs1">Regardie, Joe (February 2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=LvowiBHKWgsC&amp;q=b-real+cypress+hill+%22stoned+assassins%22&amp;pg=PA40">"The Stoned Gunman"</a>. <i>Spin</i>. p.&#160;40<span class="reference-accessdate">. Retrieved <span class="nowrap">February 26,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Spin&amp;rft.atitle=The+Stoned+Gunman&amp;rft.pages=40&amp;rft.date=2005-02&amp;rft.aulast=Regardie&amp;rft.aufirst=Joe&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DLvowiBHKWgsC%26q%3Db-real%2Bcypress%2Bhill%2B%2522stoned%2Bassassins%2522%26pg%3DPA40&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.breal.tv">"Live Network Site founded B-Real of Cypress Hill"</a>. <i>BREAL.TV</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 15,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BREAL.TV&amp;rft.atitle=Live+Network+Site+founded+B-Real+of+Cypress+Hill&amp;rft_id=http%3A%2F%2Fwww.breal.tv&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSanger2018" class="citation web cs1">Sanger, Brittney (March 25, 2018). <a rel="nofollow" class="external text" href="https://herb.co/news/culture/b-real-cypress-hill-cannabis-products/">"How to get high like Cypress Hill's B-Real"</a>. <a href="/wiki/Herb_(company)" title="Herb (company)">Herb</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+to+get+high+like+Cypress+Hill%27s+B-Real&amp;rft.pub=Herb&amp;rft.date=2018-03-25&amp;rft.aulast=Sanger&amp;rft.aufirst=Brittney&amp;rft_id=https%3A%2F%2Fherb.co%2Fnews%2Fculture%2Fb-real-cypress-hill-cannabis-products%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AB-Real" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=B-Real&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Commons-logo.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span> Media related to <a href="https://commons.wikimedia.org/wiki/Category:B-Real" class="extiw" title="commons:Category:B-Real">B-Real</a> at Wikimedia Commons</li>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.breal.tv/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/53119">B-Real</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q352246#P1953" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.facebook.com/stonedassassins/">Stoned Assassins (paintball team) official page</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0293670/">B-Real</a> at <a href="/wiki/IMDb_(identifier)" class="mw-redirect" title="IMDb (identifier)">IMDb</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="B-Real" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:B-Real" title="Template:B-Real"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:B-Real" title="Template talk:B-Real"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:B-Real&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="B-Real" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">B-Real</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><a href="/wiki/Cypress_Hill_discography" title="Cypress Hill discography">Cypress Hill discography</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Smoke_n_Mirrors" title="Smoke n Mirrors">Smoke n Mirrors</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Mixtapes</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Gunslinger_Part_II:_Fist_Full_of_Dollars" title="The Gunslinger Part II: Fist Full of Dollars">The Gunslinger Part II: Fist Full of Dollars</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Featured singles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Hit_%27Em_High_(The_Monstars%27_Anthem)" title="Hit &#39;Em High (The Monstars&#39; Anthem)">Hit 'Em High (The Monstars' Anthem)</a>"</li>
+<li>"<a href="/wiki/Play_That_Song_(Tony_Touch_song)" title="Play That Song (Tony Touch song)">Play That Song</a>"</li>
+<li>"<a href="/wiki/Vato_(song)" title="Vato (song)">Vato</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related acticles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a></li>
+<li><a href="/wiki/Kush_(band)" title="Kush (band)">Kush</a></li>
+<li><a href="/wiki/Serial_Killers_(musical_group)" title="Serial Killers (musical group)">Serial Killers</a></li>
+<li><a href="/wiki/Prophets_of_Rage" title="Prophets of Rage">Prophets of Rage</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Cypress_Hill" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Cypress_Hill" title="Template:Cypress Hill"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cypress_Hill" title="Template talk:Cypress Hill"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cypress_Hill&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Cypress_Hill" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a class="mw-selflink selflink">B-Real</a></b></li>
+<li><b><a href="/wiki/Sen_Dog" title="Sen Dog">Sen Dog</a></b></li>
+<li><b><a href="/wiki/Eric_%22Bobo%22_Correa" title="Eric &quot;Bobo&quot; Correa">Eric Bobo</a></b></li></ul>
+<ul><li><a href="/wiki/Mellow_Man_Ace" title="Mellow Man Ace">Mellow Man Ace</a></li>
+<li><a href="/wiki/DJ_Muggs" title="DJ Muggs">DJ Muggs</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Cypress_Hill_(album)" title="Cypress Hill (album)">Cypress Hill</a></i></li>
+<li><i><a href="/wiki/Black_Sunday_(Cypress_Hill_album)" title="Black Sunday (Cypress Hill album)">Black Sunday</a></i></li>
+<li><i><a href="/wiki/Cypress_Hill_III:_Temples_of_Boom" title="Cypress Hill III: Temples of Boom">Cypress Hill III: Temples of Boom</a></i></li>
+<li><i><a href="/wiki/Cypress_Hill_IV" title="Cypress Hill IV">Cypress Hill IV</a></i></li>
+<li><i><a href="/wiki/Skull_%26_Bones_(album)" title="Skull &amp; Bones (album)">Skull &amp; Bones</a></i></li>
+<li><i><a href="/wiki/Stoned_Raiders" title="Stoned Raiders">Stoned Raiders</a></i></li>
+<li><i><a href="/wiki/Till_Death_Do_Us_Part_(Cypress_Hill_album)" title="Till Death Do Us Part (Cypress Hill album)">Till Death Do Us Part</a></i></li>
+<li><i><a href="/wiki/Rise_Up_(Cypress_Hill_album)" title="Rise Up (Cypress Hill album)">Rise Up</a></i></li>
+<li><i><a href="/wiki/Elephants_on_Acid" title="Elephants on Acid">Elephants on Acid</a></i></li>
+<li><i><a href="/wiki/Back_in_Black_(Cypress_Hill_album)" title="Back in Black (Cypress Hill album)">Back in Black</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Los_grandes_%C3%A9xitos_en_espa%C3%B1ol" title="Los grandes éxitos en español">Los grandes éxitos en español</a></i></li>
+<li><i><a href="/wiki/Greatest_Hits_from_the_Bong" title="Greatest Hits from the Bong">Greatest Hits from the Bong</a></i></li>
+<li><i><a href="/wiki/Super_Hits_(Cypress_Hill_album)" title="Super Hits (Cypress Hill album)">Super Hits</a></i></li>
+<li><i><a href="/wiki/Collections_(Cypress_Hill_album)" title="Collections (Cypress Hill album)">Collections</a></i></li>
+<li><i><a href="/wiki/Strictly_Hip_Hop:_The_Best_of_Cypress_Hill" title="Strictly Hip Hop: The Best of Cypress Hill">Strictly Hip Hop: The Best of Cypress Hill</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Live albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Live_at_the_Fillmore_(Cypress_Hill_album)" title="Live at the Fillmore (Cypress Hill album)">Live at the Fillmore</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Something_for_the_Blunted" title="Something for the Blunted">Something for the Blunted</a></i></li>
+<li><i><a href="/wiki/Unreleased_and_Revamped" title="Unreleased and Revamped">Unreleased and Revamped</a></i></li>
+<li><i><a href="/wiki/Stash_(EP)" title="Stash (EP)">Stash</a></i></li>
+<li><i><a href="/wiki/Smoke_%27Em_If_You_Got_%27Em_(Cypress_Hill_EP)" title="Smoke &#39;Em If You Got &#39;Em (Cypress Hill EP)">Smoke 'Em If You Got 'Em</a></i></li>
+<li><i><a href="/wiki/Cypress_X_Rusko" title="Cypress X Rusko">Cypress X Rusko</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/How_I_Could_Just_Kill_a_Man" title="How I Could Just Kill a Man">How I Could Just Kill a Man</a>"</li>
+<li>"<a href="/wiki/The_Phuncky_Feel_One" title="The Phuncky Feel One">The Phuncky Feel One</a>"</li>
+<li>"<a href="/wiki/Hand_on_the_Pump" title="Hand on the Pump">Hand on the Pump</a>"</li>
+<li>"<a href="/wiki/Latin_Lingo" title="Latin Lingo">Latin Lingo</a>"</li>
+<li>"<a href="/wiki/Insane_in_the_Brain" title="Insane in the Brain">Insane in the Brain</a>"</li>
+<li>"<a href="/wiki/When_the_Shit_Goes_Down" title="When the Shit Goes Down">When the Shit Goes Down</a>"</li>
+<li>"<a href="/wiki/I_Ain%27t_Goin%27_Out_Like_That" title="I Ain&#39;t Goin&#39; Out Like That">I Ain't Goin' Out Like That</a>"</li>
+<li>"<a href="/wiki/Lick_a_Shot" title="Lick a Shot">Lick a Shot</a>"</li>
+<li>"<a href="/wiki/Throw_Your_Set_in_the_Air" title="Throw Your Set in the Air">Throw Your Set in the Air</a>"</li>
+<li>"<a href="/wiki/Illusions_(Cypress_Hill_song)" title="Illusions (Cypress Hill song)">Illusions</a>"</li>
+<li>"<a href="/wiki/Boom_Biddy_Bye_Bye" title="Boom Biddy Bye Bye">Boom Biddy Bye Bye</a>"</li>
+<li>"<a href="/wiki/Dr._Greenthumb" title="Dr. Greenthumb">Dr. Greenthumb</a>"</li>
+<li>"<a href="/wiki/(Rap)_Superstar" title="(Rap) Superstar">(Rap) Superstar</a>"</li>
+<li>"<a href="/wiki/(Rock)_Superstar" title="(Rock) Superstar">(Rock) Superstar</a>"</li>
+<li>"<a href="/wiki/Highlife_(song)" title="Highlife (song)">Highlife</a>"</li>
+<li>"<a href="/wiki/Can%27t_Get_the_Best_of_Me" title="Can&#39;t Get the Best of Me">Can't Get the Best of Me</a>"</li>
+<li>"<a href="/wiki/Trouble_(Cypress_Hill_song)" title="Trouble (Cypress Hill song)">Trouble</a>"</li>
+<li>"<a href="/wiki/Lowrider_(Cypress_Hill_song)" title="Lowrider (Cypress Hill song)">Lowrider</a>"</li>
+<li>"<a href="/wiki/What%27s_Your_Number%3F_(song)" title="What&#39;s Your Number? (song)">What's Your Number?</a>"</li>
+<li>"<a href="/wiki/Rise_Up_(Cypress_Hill_song)" title="Rise Up (Cypress Hill song)">Rise Up</a>"</li>
+<li>"<a href="/wiki/Armada_Latina" title="Armada Latina">Armada Latina</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cypress_Hill_discography" title="Cypress Hill discography">Discography</a></li>
+<li><i><a href="/wiki/Kingpin:_Life_of_Crime" title="Kingpin: Life of Crime">Kingpin: Life of Crime</a></i></li>
+<li><a href="/wiki/Kush_(band)" title="Kush (band)">Kush</a></li>
+<li><a href="/wiki/Powerflo" title="Powerflo">Powerflo</a></li>
+<li><a href="/wiki/Prophets_of_Rage" title="Prophets of Rage">Prophets of Rage</a></li>
+<li><a href="/wiki/Soul_Assassins" title="Soul Assassins">Soul Assassins</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Psycho_Realm" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Psycho_Realm" title="Template:Psycho Realm"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Psycho_Realm" title="Template talk:Psycho Realm"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Psycho_Realm&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Psycho_Realm" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Psycho_Realm" title="Psycho Realm">Psycho Realm</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b>Jacken</b></li>
+<li><b>Duke</b></li></ul>
+<ul><li><a class="mw-selflink selflink">B-Real</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Psycho_Realm" title="The Psycho Realm">The Psycho Realm</a></i> (1997)</li>
+<li><i><a href="/wiki/A_War_Story_Book_I" title="A War Story Book I">A War Story Book I</a></i> (1999)</li>
+<li><i><a href="/wiki/A_War_Story_Book_II" title="A War Story Book II">A War Story Book II</a></i> (2003)</li></ul>
+</div></td></tr></tbody></table></div>
+<style data-mw-deduplicate="TemplateStyles:r1130092004">.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;justify-content:center;align-items:baseline}.mw-parser-output .portal-bar-bordered{padding:0 2em;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em auto 0}.mw-parser-output .portal-bar-related{font-size:100%;justify-content:flex-start}.mw-parser-output .portal-bar-unbordered{padding:0 1.7em;margin-left:0}.mw-parser-output .portal-bar-header{margin:0 1em 0 0.5em;flex:0 0 auto;min-height:24px}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;flex:0 1 auto;padding:0.15em 0;column-gap:1em;align-items:baseline;margin:0;list-style:none}.mw-parser-output .portal-bar-content-related{margin:0;list-style:none}.mw-parser-output .portal-bar-item{display:inline-block;margin:0.15em 0.2em;min-height:24px;line-height:24px}@media screen and (max-width:768px){.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;flex-flow:column wrap;align-items:baseline}.mw-parser-output .portal-bar-header{text-align:center;flex:0;padding-left:0.5em;margin:0 auto}.mw-parser-output .portal-bar-related{font-size:100%;align-items:flex-start}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:center;flex:0;column-gap:1em;border-top:1px solid #a2a9b1;margin:0 auto;list-style:none}.mw-parser-output .portal-bar-content-related{border-top:none;margin:0;list-style:none}}.mw-parser-output .navbox+link+.portal-bar,.mw-parser-output .navbox+style+.portal-bar,.mw-parser-output .navbox+link+.portal-bar-bordered,.mw-parser-output .navbox+style+.portal-bar-bordered,.mw-parser-output .sister-bar+link+.portal-bar,.mw-parser-output .sister-bar+style+.portal-bar,.mw-parser-output .portal-bar+.navbox-styles+.navbox,.mw-parser-output .portal-bar+.navbox-styles+.sister-bar{margin-top:-1px}</style><div class="portal-bar noprint metadata noviewer portal-bar-bordered" role="navigation" aria-label="Portals"><span class="portal-bar-header"><a href="/wiki/Wikipedia:Contents/Portals" title="Wikipedia:Contents/Portals">Portals</a>:</span><ul class="portal-bar-content"><li class="portal-bar-item"><span class="mw-image-border" typeof="mw:File"><span><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/21px-Flag_of_California.svg.png" decoding="async" width="21" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/32px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/42px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span>&#160;<a href="/wiki/Portal:California" title="Portal:California">California</a></li><li class="portal-bar-item"><span typeof="mw:File"><span><img alt="photo" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/LA_Skyline_Mountains2.jpg/21px-LA_Skyline_Mountains2.jpg" decoding="async" width="21" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/LA_Skyline_Mountains2.jpg/32px-LA_Skyline_Mountains2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/LA_Skyline_Mountains2.jpg/42px-LA_Skyline_Mountains2.jpg 2x" data-file-width="2816" data-file-height="1880" /></span></span>&#160;<a href="/wiki/Portal:Los_Angeles" class="mw-redirect" title="Portal:Los Angeles">Los Angeles</a></li><li class="portal-bar-item"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/19px-P_vip.svg.png" decoding="async" width="19" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/37px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></span></span>&#160;<a href="/wiki/Portal:Biography" title="Portal:Biography">Biography</a></li><li class="portal-bar-item"><span class="mw-image-border" typeof="mw:File"><span><img alt="flag" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/21px-Flag_of_the_United_States.svg.png" decoding="async" width="21" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/42px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></span></span>&#160;<a href="/wiki/Portal:United_States" title="Portal:United States">United States</a></li></ul></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q352246#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q352246#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q352246#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000078245236">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/24225439">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX1598583">Spain</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb14015330w">France</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb14015330w">BnF data</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/135207487">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no98122146">United States</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0095978&amp;CON_LNG=ENG">Czech Republic</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/9c8b5123-d994-4c0c-85c0-465636ae241e">MusicBrainz</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/157863085">IdRef</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐d955b4d8b‐fgp9s
+Cached time: 20230919185842
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.604 seconds
+Real time usage: 0.772 seconds
+Preprocessor visited node count: 2901/1000000
+Post‐expand include size: 82723/2097152 bytes
+Template argument size: 5991/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 80687/5000000 bytes
+Lua time usage: 0.330/10.000 seconds
+Lua memory usage: 9533560/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  674.030      1 -total
+ 28.65%  193.138      1 Template:Reflist
+ 25.73%  173.457      1 Template:Infobox_musical_artist
+ 23.03%  155.250      1 Template:Infobox
+ 19.18%  129.298     12 Template:Cite_web
+  9.38%   63.212      3 Template:Navbox_musical_artist
+  9.14%   61.581      2 Template:Br_separated_entries
+  9.01%   60.737      2 Template:Short_description
+  8.93%   60.164      3 Template:Navbox
+  7.85%   52.904      1 Template:B-Real
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1618709-0!canonical and timestamp 20230919185841 and revision id 1172873964. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=B-Real&amp;oldid=1172873964">https://en.wikipedia.org/w/index.php?title=B-Real&amp;oldid=1172873964</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1970_births" title="Category:1970 births">1970 births</a></li><li><a href="/wiki/Category:American_musicians_of_Cuban_descent" title="Category:American musicians of Cuban descent">American musicians of Cuban descent</a></li><li><a href="/wiki/Category:American_male_actors_of_Mexican_descent" title="Category:American male actors of Mexican descent">American male actors of Mexican descent</a></li><li><a href="/wiki/Category:American_entertainers_of_Cuban_descent" title="Category:American entertainers of Cuban descent">American entertainers of Cuban descent</a></li><li><a href="/wiki/Category:American_rappers_of_Mexican_descent" title="Category:American rappers of Mexican descent">American rappers of Mexican descent</a></li><li><a href="/wiki/Category:American_rap_rock_musicians" title="Category:American rap rock musicians">American rap rock musicians</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:Rap_metal_musicians" title="Category:Rap metal musicians">Rap metal musicians</a></li><li><a href="/wiki/Category:Nu_metal_singers" title="Category:Nu metal singers">Nu metal singers</a></li><li><a href="/wiki/Category:People_from_South_Gate,_California" title="Category:People from South Gate, California">People from South Gate, California</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:Cypress_Hill_members" title="Category:Cypress Hill members">Cypress Hill members</a></li><li><a href="/wiki/Category:Chicano_rap" title="Category:Chicano rap">Chicano rap</a></li><li><a href="/wiki/Category:Bloods" title="Category:Bloods">Bloods</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Prophets_of_Rage_members" title="Category:Prophets of Rage members">Prophets of Rage members</a></li><li><a href="/wiki/Category:American_cannabis_activists" title="Category:American cannabis activists">American cannabis activists</a></li><li><a href="/wiki/Category:Hardcore_hip_hop_artists" title="Category:Hardcore hip hop artists">Hardcore hip hop artists</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:Serial_Killers_(musical_group)_members" title="Category:Serial Killers (musical group) members">Serial Killers (musical group) members</a></li><li><a href="/wiki/Category:Hispanic_and_Latino_American_rappers" title="Category:Hispanic and Latino American rappers">Hispanic and Latino American rappers</a></li><li><a href="/wiki/Category:Rappers_from_Los_Angeles" title="Category:Rappers from Los Angeles">Rappers from Los Angeles</a></li><li><a href="/wiki/Category:Bell_High_School_(California)_alumni" title="Category:Bell High School (California) alumni">Bell High School (California) alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2021" title="Category:Use mdy dates from April 2021">Use mdy dates from April 2021</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNE_identifiers" title="Category:Articles with BNE identifiers">Articles with BNE identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_NKC_identifiers" title="Category:Articles with NKC identifiers">Articles with NKC identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Articles_with_SUDOC_identifiers" title="Category:Articles with SUDOC identifiers">Articles with SUDOC identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 29 August 2023, at 21:31<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=B-Real&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2385","wgBackendResponseTime":118,"wgPageParseReport":{"limitreport":{"cputime":"0.604","walltime":"0.772","ppvisitednodes":{"value":2901,"limit":1000000},"postexpandincludesize":{"value":82723,"limit":2097152},"templateargumentsize":{"value":5991,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":80687,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  674.030      1 -total"," 28.65%  193.138      1 Template:Reflist"," 25.73%  173.457      1 Template:Infobox_musical_artist"," 23.03%  155.250      1 Template:Infobox"," 19.18%  129.298     12 Template:Cite_web","  9.38%   63.212      3 Template:Navbox_musical_artist","  9.14%   61.581      2 Template:Br_separated_entries","  9.01%   60.737      2 Template:Short_description","  8.93%   60.164      3 Template:Navbox","  7.85%   52.904      1 Template:B-Real"]},"scribunto":{"limitreport-timeusage":{"value":"0.330","limit":"10.000"},"limitreport-memusage":{"value":9533560,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-d955b4d8b-fgp9s","timestamp":"20230919185842","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"B-Real","url":"https:\/\/en.wikipedia.org\/wiki\/B-Real","sameAs":"http:\/\/www.wikidata.org\/entity\/Q352246","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q352246","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-18T14:30:19Z","dateModified":"2023-08-29T21:31:43Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/39\/Cypress_Hill_-_B-Real_-_Nova_Rock_-_2016-06-11-17-17-51.jpg","headline":"American rapper"}</script>
+</body>
+</html>

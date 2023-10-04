@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Dame Grease - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"15853493-f527-433c-8a80-d39d2678a363","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dame_Grease","wgTitle":"Dame Grease","wgCurRevisionId":1118014586,"wgRevisionId":1118014586,"wgArticleId":16473099,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from November 2021","Articles with short description","Short description is different from Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","SoundCloud ID same as Wikidata","Articles with VIAF identifiers","Articles with LCCN identifiers","Articles with MusicBrainz identifiers","African-American record producers","Living people","American hip hop record producers","People from Harlem","East Coast hip hop musicians","Musicians from New York City","1974 births","Record producers from New York (state)",
+"21st-century African-American people","20th-century African-American people"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Dame_Grease","wgRelevantArticleId":16473099,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,
+"wgWikibaseItemId":"Q605310","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc",
+"skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Dame Grease - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Dame_Grease">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dame_Grease&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dame_Grease">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dame_Grease rootpage-Dame_Grease skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dame+Grease" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dame+Grease" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dame+Grease" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dame+Grease" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Music_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Music_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Music career</div>
+		</a>
+		
+			<button aria-controls="toc-Music_career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Music career subsection</span>
+			</button>
+		
+		<ul id="toc-Music_career-sublist" class="vector-toc-list">
+			<li id="toc-1996–2006:_Career_beginnings_and_Vacant_Lot"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1996–2006:_Career_beginnings_and_Vacant_Lot">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>1996–2006: Career beginnings and Vacant Lot</div>
+			</a>
+			
+			<ul id="toc-1996–2006:_Career_beginnings_and_Vacant_Lot-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2007–2013:_After_the_Break"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2007–2013:_After_the_Break">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>2007–2013: After the Break</div>
+			</a>
+			
+			<ul id="toc-2007–2013:_After_the_Break-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Albums</div>
+			</a>
+			
+			<ul id="toc-Albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles/EP&#039;s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles/EP&#039;s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Singles/EP's</div>
+			</a>
+			
+			<ul id="toc-Singles/EP&#039;s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Scored_soundtracks"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Scored_soundtracks">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Scored soundtracks</div>
+		</a>
+		
+		<ul id="toc-Scored_soundtracks-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Dame Grease</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 6 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-6" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">6 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%AF%DB%8C%D9%85_%D9%82%D8%B1%DB%8C%D8%B3" title="دیم قریس – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Dame_Grease" title="Dame Grease – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D9%85_%DA%AF%D8%B1%DB%8C%D8%B3" title="دیم گریس – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-ig mw-list-item"><a href="https://ig.wikipedia.org/wiki/Dame_Grease" title="Dame Grease – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target"><span>Igbo</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85_%D8%AC%D8%B1%D8%A7%D9%8A%D8%B3" title="دام جرايس – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Dame_Grease" title="Dame Grease – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q605310#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dame_Grease" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Dame_Grease" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dame_Grease"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dame_Grease&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dame_Grease&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Dame_Grease"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dame_Grease&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dame_Grease&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Dame_Grease" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Dame_Grease" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Dame_Grease&amp;oldid=1118014586" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Dame_Grease&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dame_Grease&amp;id=1118014586&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q605310" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Dame_Grease&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Dame_Grease&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American record producer from New York</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Dame Grease</div></th></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1974-08-09</span>) </span>August 9, 1974<span class="noprint ForceAgeToShow"> (age&#160;49)</span><br />New York City, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>Record producer</li><li>songwriter</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1995–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Vacant Lot</li><li><a href="/wiki/Ruff_Ryders_Entertainment" title="Ruff Ryders Entertainment">Ruff Ryders</a></li><li>Lotmusik</li><li><a href="/wiki/Empire_Distribution" title="Empire Distribution">EMPIRE</a></li></ul></div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://damegrease.com">damegrease<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Damon J. Blackman</b> (born August 9, 1974), better known by his stage name <b>Dame Grease</b> or simply <b>Grease</b>, is an American record producer from New York City. In 1996, he gained recognition in the hip hop industry through his production work with <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy</a> and <a href="/wiki/The_LOX" class="mw-redirect" title="The LOX">The LOX</a>, while also establishing the sound of <a href="/wiki/DMX_(rapper)" class="mw-redirect" title="DMX (rapper)">DMX</a> and <a href="/wiki/Ruff_Ryders_Entertainment" title="Ruff Ryders Entertainment">Ruff Ryders</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Music_career">Music career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;section=1" title="Edit section: Music career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="1996.E2.80.932006:_Career_beginnings_and_Vacant_Lot"></span><span class="mw-headline" id="1996–2006:_Career_beginnings_and_Vacant_Lot">1996–2006: Career beginnings and Vacant Lot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;section=2" title="Edit section: 1996–2006: Career beginnings and Vacant Lot">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Grease has produced several artists throughout his career. He has worked extensively with <a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a> group, <a href="/wiki/The_LOX" class="mw-redirect" title="The LOX">The LOX</a>. Their use of Grease's sounds helped them acquire the street buzz that landed them their deal on <a href="/wiki/Puff_Daddy" class="mw-redirect" title="Puff Daddy">Puff Daddy</a>'s <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy Records</a> in 1996. Grease produced several songs on LOX's debut album, <i><a href="/wiki/Money,_Power_%26_Respect" title="Money, Power &amp; Respect">Money, Power &amp; Respect</a></i>, including the hit <i><a href="/wiki/Big_Poppa" title="Big Poppa">We'll Always Love Big Poppa</a></i>.<sup id="cite_ref-Strickland_1-0" class="reference"><a href="#cite_note-Strickland-1">&#91;1&#93;</a></sup><sup id="cite_ref-Harling_2-0" class="reference"><a href="#cite_note-Harling-2">&#91;2&#93;</a></sup> He was a producer on fellow Bad Boy artist <a href="/wiki/Mase" title="Mase">Mase</a>'s <a href="/wiki/RIAA_certification" title="RIAA certification">quadruple platinum</a> album <i><a href="/wiki/Harlem_World" title="Harlem World">Harlem World</a></i> (1997). This led to Grease's work as the primary <a href="/wiki/Record_producer" title="Record producer">music producer</a> on <a href="/wiki/DMX_(rapper)" class="mw-redirect" title="DMX (rapper)">DMX</a>'s debut <i><a href="/wiki/It%27s_Dark_and_Hell_Is_Hot" title="It&#39;s Dark and Hell Is Hot">It's Dark and Hell Is Hot</a></i> (1998),<sup id="cite_ref-Cornish_3-0" class="reference"><a href="#cite_note-Cornish-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> producing thirteen of its nineteen tracks.<sup id="cite_ref-Strickland_1-1" class="reference"><a href="#cite_note-Strickland-1">&#91;1&#93;</a></sup> With this project Grease helped <a href="/wiki/Ruff_Ryders_Entertainment" title="Ruff Ryders Entertainment">Ruff Ryders Entertainment</a> build its image. During this time, Grease mentored <a href="/wiki/The_Bronx" title="The Bronx">Bronx</a>-bred disc jockey <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a>, who soon became another <a href="/wiki/Sampling_(music)" title="Sampling (music)">sample</a>-free producer.
+</p><p>Dame Grease then landed a deal with <a href="/wiki/Priority_Records" title="Priority Records">Priority Records</a> to release music through his own label, Vacant Lot,<sup id="cite_ref-Cornish_3-1" class="reference"><a href="#cite_note-Cornish-3">&#91;3&#93;</a></sup> despite offers to be one of Puff Daddy's legendary <a href="/wiki/The_Hitmen_(production_team)" class="mw-redirect" title="The Hitmen (production team)">Hitmen</a><sup id="cite_ref-Cornish_3-2" class="reference"><a href="#cite_note-Cornish-3">&#91;3&#93;</a></sup> or an in-house producer on Ruff Ryders.
+</p><p>In 1999, Dame Grease produced two tracks on <a href="/wiki/Tricky_(musician)" title="Tricky (musician)">Tricky</a>'s <i><a href="/wiki/Juxtapose_(album)" title="Juxtapose (album)">Juxtapose</a></i> album.
+</p><p>In 2001 Dame Grease began composing music, providing the score for the <a href="/wiki/Steven_Seagal" title="Steven Seagal">Steven Seagal</a>/<a href="/wiki/DMX_(rapper)" class="mw-redirect" title="DMX (rapper)">DMX</a> blockbuster <i><a href="/wiki/Exit_Wounds" title="Exit Wounds">Exit Wounds</a></i>, as well as for the 2003 box-office hit, <i><a href="/wiki/Cradle_2_the_Grave_(soundtrack)" title="Cradle 2 the Grave (soundtrack)">Cradle 2 the Grave</a></i>, starring <a href="/wiki/Jet_Li" title="Jet Li">Jet Li</a>, DMX, <a href="/wiki/Gabrielle_Union" title="Gabrielle Union">Gabrielle Union</a>, and <a href="/wiki/Anthony_Anderson" title="Anthony Anderson">Anthony Anderson</a>, and for <i><a href="/wiki/Never_Die_Alone" title="Never Die Alone">Never Die Alone</a></i> (2004).<sup id="cite_ref-Strickland_1-2" class="reference"><a href="#cite_note-Strickland-1">&#91;1&#93;</a></sup><sup id="cite_ref-Reid_5-0" class="reference"><a href="#cite_note-Reid-5">&#91;5&#93;</a></sup>
+</p><p>Dame Grease also teamed up with DMX on the "Ain't No Sunshine" soundtrack, a remake of <a href="/wiki/Bill_Withers" title="Bill Withers">Bill Withers</a> <a href="/wiki/Ain%27t_No_Sunshine" title="Ain&#39;t No Sunshine">1972 classic of the same name</a>.
+</p><p>Grease put in work on several music projects throughout 2004 and 2005, including albums from <a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a>, <a href="/wiki/Kelis" title="Kelis">Kelis</a>, DJ Kay Slay, DJ Envy, <a href="/wiki/Slick_Rick" title="Slick Rick">Slick Rick</a>, <a href="/wiki/Ol%27_Dirty_Bastard" title="Ol&#39; Dirty Bastard">Ol' Dirty Bastard</a>, and an artist on <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>'s Aftermath label named Aimee Terrin. Grease also kept the underground bubbling with "Crown Me", a collaboration between <a href="/wiki/T.I." title="T.I.">T.I.</a>, Cam'ron, and <a href="/wiki/Juelz_Santana" title="Juelz Santana">Juelz Santana</a>. In 2006, Dame Grease produced "Life Be My Song", a track on DMX's sixth studio album <i><a href="/wiki/Year_of_the_Dog..._Again" title="Year of the Dog... Again">Year of the Dog... Again</a></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span id="2007.E2.80.932013:_After_the_Break"></span><span class="mw-headline" id="2007–2013:_After_the_Break">2007–2013: After the Break</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;section=3" title="Edit section: 2007–2013: After the Break">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After a break in the mid-2000s, Grease reemerged in 2007, securing <a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a>'s lead-off "Takin' Pictures" (featuring <a href="/wiki/Young_Jeezy" class="mw-redirect" title="Young Jeezy">Young Jeezy</a>, Rick Ross, Jim Jones, <a href="/wiki/T.I." title="T.I.">T.I.</a>, and <a href="/wiki/Young_Buck" title="Young Buck">Young Buck</a>) and Freeway's single <i>Big Spender</i> (featuring Jay-Z).<sup id="cite_ref-Cornish_3-3" class="reference"><a href="#cite_note-Cornish-3">&#91;3&#93;</a></sup> Grease also produced several tracks on <a href="/wiki/Hell_Rell" title="Hell Rell">Hell Rell</a>'s debut album <i>For the Hell of It</i>.<sup id="cite_ref-Cornish_3-4" class="reference"><a href="#cite_note-Cornish-3">&#91;3&#93;</a></sup>
+</p><p>In 2009, Dame Grease produced the track "Lamborghini Dreams" for <a href="/wiki/Curren$y" class="mw-redirect" title="Curren$y">Curren$y</a> which was to have been included on Curren$y's <i>This Aint No Mixtape: (Championship Edition)</i> but which was never released.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>In a 2010 radio interview, Dame discussed projects with the LOX, DMX and his <a href="/wiki/Max_B" title="Max B">Max B</a> project, pairing Max with unreleased verses from Notorious B.I.G. and 2 Pac.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> In that year he also collaborated with <a href="/wiki/Magix_Music_Maker" title="Magix Music Maker">Magix Music Maker</a>, a software, online services and digital content provider, to create a signature software called the <i>Grease-A-Lizer</i> (MAGIX Music Maker Greasealizer Version), which allows users to create their own tracks using "customized loops and keyboard samples" produced by Dame Grease.<sup id="cite_ref-Cornish_3-5" class="reference"><a href="#cite_note-Cornish-3">&#91;3&#93;</a></sup><sup id="cite_ref-Reid_5-1" class="reference"><a href="#cite_note-Reid-5">&#91;5&#93;</a></sup> The product was released March 15, 2010.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>In 2010, Dame Grease continued producing <a href="/wiki/French_Montana" title="French Montana">French Montana</a>.<sup id="cite_ref-Cornish_3-6" class="reference"><a href="#cite_note-Cornish-3">&#91;3&#93;</a></sup><sup id="cite_ref-Reid_5-2" class="reference"><a href="#cite_note-Reid-5">&#91;5&#93;</a></sup> Dame also launched Lot Musik Recording Studio dedicated to fostering young talent.<sup id="cite_ref-Strickland_1-3" class="reference"><a href="#cite_note-Strickland-1">&#91;1&#93;</a></sup>
+</p><p>Dame released his own album, <i>Goon Musik</i> in 2011. It includes the single "<a href="/wiki/Sour_Diesel_(album)" title="Sour Diesel (album)">Sour Diesel</a>", which features <a href="/wiki/N.O.R.E." title="N.O.R.E.">N.O.R.E.</a> and <a href="/wiki/Styles_P" title="Styles P">Styles P</a>. Meeno, Bigga Threat and Tony Wink provided vocals for the album.<sup id="cite_ref-Strickland_1-4" class="reference"><a href="#cite_note-Strickland-1">&#91;1&#93;</a></sup> Dame made a production appearance on <a href="/wiki/French_Montana_discography" title="French Montana discography">French Montana's</a> <a href="/wiki/Mister_16:_Casino_Life" class="mw-redirect" title="Mister 16: Casino Life">Mister 16: Casino Life</a> "All Night". Dame was executive producer on DMX's seventh studio album, <i><a href="/wiki/Undisputed_(DMX_album)" title="Undisputed (DMX album)">Undisputed</a></i>, which was released in September 2012.<sup id="cite_ref-Reid_5-3" class="reference"><a href="#cite_note-Reid-5">&#91;5&#93;</a></sup>
+</p><p>In December 2012, Dame Grease ran into <a href="/wiki/Riff_Raff_(rapper)" title="Riff Raff (rapper)">Riff Raff</a> while working on DMX's <i>Undisputed</i> album at Good Charlotte Studio in <a href="/wiki/Hollywood,_Los_Angeles" title="Hollywood, Los Angeles">Hollywood</a>. A few days later Riff Raff came back to the studio and recorded <i>Hologram Panda</i> in 7 hours. The mixtape version was released December 12, 2012, and the album version was released April 4, 2013, through 101 Distribution.
+</p><p>In 2013 Dame Grease started working with the "New Outlaw Order" a Faction of <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">2pac's</a> <a href="/wiki/Outlawz" title="Outlawz">Outlawz</a> (<a href="/wiki/Makaveli_Records" class="mw-redirect" title="Makaveli Records">Makaveli Records</a>/ Thug Life 365). In 2014 Dame Grease began working with Outlaw Order members Outlaw Muszamil and outlawed Misfit313, Outlawed misfit313 contract expired on January 1, 2015. He was picked up by Vacant Lot Records (Dame Grease) and followed up with the album <i><a href="/wiki/The_Uprising_(album)" title="The Uprising (album)">The Uprising</a></i> Produced by Dame Grease and Niamson Released on December 25, 2015.
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;section=4" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Dame_Grease_production_discography" title="Dame Grease production discography">Dame Grease production discography</a></div>
+<h3><span class="mw-headline" id="Albums">Albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;section=5" title="Edit section: Albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Live on Lenox</i> (2000)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li>
+<li><i>What's Really Hood?</i> (2003)</li>
+<li><i>Goon Musik</i> (2008)</li>
+<li><i>Martial Law</i> (2015)</li>
+<li><i>Diary of Wave God</i> <small>(with Massfivestar)</small> (2016)</li>
+<li><i>Live On Lenox Remastered</i> (2016)</li>
+<li><i>Invincible Armour</i> <small>(with Joe Young)</small> (2017)</li></ul>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;section=6" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Goon Music 1.5 (The Doomship)</i> (2008) <small>with <a href="/wiki/Max_B" title="Max B">Max B</a></small></li>
+<li><i>Goon Music 2.OWWW</i> (2009) <small>with <a href="/wiki/Max_B" title="Max B">Max B</a> and <a href="/wiki/French_Montana" title="French Montana">French Montana</a></small></li>
+<li><i>Tanya aka T6: The Introduction</i> <small>(with <a href="/wiki/Devyn_Rose" title="Devyn Rose">Tanya T6</a>)</small> (2009)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li><i>Strip Club Music</i> (2010)</li>
+<li><i>Stash Box</i> (2010)</li>
+<li><i>Wave Gang</i> volumes&#160;1–10 (2009–2013)<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li>
+<li><i>Hologram Panda</i> <small>(with <a href="/wiki/Riff_Raff_(rapper)" title="Riff Raff (rapper)">Riff Raff</a>)</small> (2012)<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></li>
+<li><i>City of Cocaine</i> <small>(with Cokeboy Brock and Droop Pop)</small> (2016)</li></ul>
+<h3><span id="Singles.2FEP.27s"></span><span class="mw-headline" id="Singles/EP's">Singles/EP's</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;section=7" title="Edit section: Singles/EP&#039;s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Sean_Combs" title="Sean Combs">"We'll Always Love Big Poppa" Puff Daddy</a>, <a href="/wiki/Faith_Evans" title="Faith Evans">Faith Evans</a>, <a href="/wiki/112_(band)" title="112 (band)">112</a>, <a href="/wiki/The_Lox" title="The Lox">the Lox</a> (Tribute To Notorious B.I.G.) (1997)</li>
+<li>"Love and Hate" and "Feel the Rush" Mic Vandalz and Dame Grease (1998)</li>
+<li>"For Real" <a href="/wiki/Tricky_(musician)" title="Tricky (musician)">Tricky</a> with <a href="/wiki/DJ_Muggs" title="DJ Muggs">Dj Muggs</a> and Dame Grease (1999)</li>
+<li>"Bom Bom Diggy/Hot Like a Sauna" <a href="/wiki/Tricky_(musician)" title="Tricky (musician)">Tricky</a> with Dame Grease (1999)</li>
+<li>"God Love Us" <a href="/wiki/Nas" title="Nas">Nas</a> (<a href="/wiki/Nastradamus" title="Nastradamus">Nastradamus</a>) (1999)</li>
+<li>Live on Lenox (12", Promo, Smplr) (2000)</li>
+<li>"Drugs in da Club" (12") (2000)</li>
+<li>"Ur Only a Customer" <a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a> (Exit 13) (2008)</li>
+<li>"We Run NY" <a href="/wiki/French_Montana" title="French Montana">French Montana</a>, <a href="/wiki/Max_B" title="Max B">Max B</a>, Dame Grease (2009)</li>
+<li>"End of Time" <a href="/wiki/Lumidee" title="Lumidee">Lumidee</a>, <a href="/wiki/Styles_P" title="Styles P">Styles P</a> (2010)</li>
+<li>"Crack Babies" <a href="/wiki/Method_Man_discography" title="Method Man discography">Method Man</a>, Joe Young (Invincible Armour) (2017)</li>
+<li>"Crack Babies 2.0" <a href="/wiki/Method_Man" title="Method Man">Method Man</a>, <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a>, <a href="/wiki/Masta_Killa" title="Masta Killa">Masta Killa</a>, <a href="/wiki/Cappadonna" title="Cappadonna">Cappadonna</a>, Joe Young (Invincible Armour) (2017)</li>
+<li>"Dangerous" E-Moe, C Jenkz, Dame Grease (2017)</li>
+<li>"Guerrilla" <a href="/wiki/Vita_(rapper)" title="Vita (rapper)">Vita (rapper)</a>, CHG Unfadable (Lifestyle) (2017)</li></ul>
+<h2><span class="mw-headline" id="Scored_soundtracks">Scored soundtracks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;section=8" title="Edit section: Scored soundtracks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Turn_It_Up_(film)" title="Turn It Up (film)">Turn It Up</a> (New Line Home Entertainment 2000)
+<ul><li>"Ja Rule, Pras, Robert Adetuyi"</li></ul></li>
+<li><i><a href="/wiki/Exit_Wounds" title="Exit Wounds">Exit Wounds</a></i> (Warner Home Video 2001) – Producer<sup id="cite_ref-Strickland_1-5" class="reference"><a href="#cite_note-Strickland-1">&#91;1&#93;</a></sup>
+<ul><li>"Steven Segal, DMX, Andrzej Bartkowiak"</li></ul></li>
+<li><i><a href="/wiki/Cradle_2_the_Grave" title="Cradle 2 the Grave">Cradle 2 the Grave</a></i> (Warner Home Video 2003) – Producer<sup id="cite_ref-Strickland_1-6" class="reference"><a href="#cite_note-Strickland-1">&#91;1&#93;</a></sup>
+<ul><li>"Jet Li, DMX, Andrzej Bartkowiak"</li></ul></li>
+<li><i><a href="/wiki/Never_Die_Alone" title="Never Die Alone">Never Die Alone</a></i> ( Fox Home Entertainment 2004)
+<ul><li>"DMX, David Arquette, Ernest R. Dickerson"</li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Strickland-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Strickland_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Strickland_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Strickland_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Strickland_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Strickland_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Strickland_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Strickland_1-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFStrickland2011" class="citation web cs1">Strickland, Khalid J. (April 12, 2011). <a rel="nofollow" class="external text" href="http://amsterdamnews.com/news/2011/apr/12/rap-maestro-dame-grease-comes-off-slick-with-a/">"Rap maestro Dame Grease comes off slick with a hot new album"</a>. Amsterdam News<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rap+maestro+Dame+Grease+comes+off+slick+with+a+hot+new+album&amp;rft.pub=Amsterdam+News&amp;rft.date=2011-04-12&amp;rft.aulast=Strickland&amp;rft.aufirst=Khalid+J.&amp;rft_id=http%3A%2F%2Famsterdamnews.com%2Fnews%2F2011%2Fapr%2F12%2Frap-maestro-dame-grease-comes-off-slick-with-a%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Harling-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Harling_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHarling2010" class="citation web cs1">Harling, Danielle (March 19, 2010). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.10857/title.dame-grease-to-serve-as-executive-producer-on-lox-album">"Dame Grease To Serve As Executive Producer On LOX Album"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dame+Grease+To+Serve+As+Executive+Producer+On+LOX+Album&amp;rft.date=2010-03-19&amp;rft.aulast=Harling&amp;rft.aufirst=Danielle&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.10857%2Ftitle.dame-grease-to-serve-as-executive-producer-on-lox-album&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Cornish-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cornish_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cornish_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Cornish_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Cornish_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Cornish_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Cornish_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Cornish_3-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCornish2011" class="citation web cs1">Cornish, Melanie (March 4, 2011). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/interviews/id.1662/title.producers-corner-dame-grease">"Producer's Corner: Dame Grease"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Producer%27s+Corner%3A+Dame+Grease&amp;rft.date=2011-03-04&amp;rft.aulast=Cornish&amp;rft.aufirst=Melanie&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Finterviews%2Fid.1662%2Ftitle.producers-corner-dame-grease&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDrakeMacready2013" class="citation web cs1">Drake, David; Macready, Marty (July 18, 2013). <a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/07/max-b-25-best-songs/max-b-french-montana-dame-grease-goon-music-we-run">"The 25 Best Max B songs"</a>. <i><a href="/wiki/Complex_Networks" title="Complex Networks">Complex Networks</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex+Networks&amp;rft.atitle=The+25+Best+Max+B+songs&amp;rft.date=2013-07-18&amp;rft.aulast=Drake&amp;rft.aufirst=David&amp;rft.au=Macready%2C+Marty&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F07%2Fmax-b-25-best-songs%2Fmax-b-french-montana-dame-grease-goon-music-we-run&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Reid-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Reid_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Reid_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Reid_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Reid_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFReid" class="citation web cs1">Reid, Shaheem. <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1473211/mixtape-mondays-dame-grease.jhtml">"Mixtape Mondays: Dame Grease When not busy blessing feature-film circuit with hip-hop-based scores, Dame Grease acts as vanguard for what's good in the 'hood"</a>. <i><a href="/wiki/MTV" title="MTV">MTV</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MTV&amp;rft.atitle=Mixtape+Mondays%3A+Dame+Grease+When+not+busy+blessing+feature-film+circuit+with+hip-hop-based+scores%2C+Dame+Grease+acts+as+vanguard+for+what%27s+good+in+the+%27hood&amp;rft.aulast=Reid&amp;rft.aufirst=Shaheem&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1473211%2Fmixtape-mondays-dame-grease.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWatkins2006" class="citation web cs1">Watkins, Greg (August 7, 2006). <a rel="nofollow" class="external text" href="http://allhiphop.com/2006/08/07/year-of-the-dog-again/">"Year Of The Dog, Again"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Year+Of+The+Dog%2C+Again&amp;rft.date=2006-08-07&amp;rft.aulast=Watkins&amp;rft.aufirst=Greg&amp;rft_id=http%3A%2F%2Fallhiphop.com%2F2006%2F08%2F07%2Fyear-of-the-dog-again%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.earmilk.com/2009/07/01/curreny-lamborghini-dreams-prod-dame-grease/">"Curren$y – Lamborghini Dreams (prod. Dame Grease)"</a>. July 1, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Curren%24y+%E2%80%93+Lamborghini+Dreams+%28prod.+Dame+Grease%29&amp;rft.date=2009-07-01&amp;rft_id=http%3A%2F%2Fwww.earmilk.com%2F2009%2F07%2F01%2Fcurreny-lamborghini-dreams-prod-dame-grease%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://conspiracyworldwide.podomatic.com/entry/index/2010-08-20T21_07_55-07_00">"Dame Grease interview 2010 – DMX, The Lox and Max B"</a>. Conspiracyworldwide.podomatic.com. August 20, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dame+Grease+interview+2010+%E2%80%93+DMX%2C+The+Lox+and+Max+B&amp;rft.pub=Conspiracyworldwide.podomatic.com&amp;rft.date=2010-08-20&amp;rft_id=http%3A%2F%2Fconspiracyworldwide.podomatic.com%2Fentry%2Findex%2F2010-08-20T21_07_55-07_00&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.magix.com/us/music-maker-special-versions/greasealizer/">"MAGIX Music Maker Greasealizer Version – Your own beat maker"</a>. Magix.com<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MAGIX+Music+Maker+Greasealizer+Version+%E2%80%93+Your+own+beat+maker&amp;rft.pub=Magix.com&amp;rft_id=http%3A%2F%2Fwww.magix.com%2Fus%2Fmusic-maker-special-versions%2Fgreasealizer%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMatt_Conaway2000" class="citation web cs1">Matt Conaway (July 18, 2000). <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/live-on-lenox-ave-mw0000050163">"Live on Lenox Ave. - Dame Grease &#124; Songs, Reviews, Credits, Awards"</a>. AllMusic<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Live+on+Lenox+Ave.+-+Dame+Grease+%26%23124%3B+Songs%2C+Reviews%2C+Credits%2C+Awards&amp;rft.pub=AllMusic&amp;rft.date=2000-07-18&amp;rft.au=Matt+Conaway&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Flive-on-lenox-ave-mw0000050163&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.discogs.com/Various-Dame-Greases-Live-On-Lenox-Ave-The-Album/release/354564">"Dame Grease – Dame Grease's "Live On Lenox Ave." The Album (Vinyl, LP) at Discogs"</a>. Discogs.com<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dame+Grease+%E2%80%93+Dame+Grease%27s+%22Live+On+Lenox+Ave.%22+The+Album+%28Vinyl%2C+LP%29+at+Discogs&amp;rft.pub=Discogs.com&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FVarious-Dame-Greases-Live-On-Lenox-Ave-The-Album%2Frelease%2F354564&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.amazon.com/Live-Lenox-Dame-Grease-Presents/dp/B00004UAMR">"Live on Lenox: Music"</a>. <i>Amazon</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Amazon&amp;rft.atitle=Live+on+Lenox%3A+Music&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2FLive-Lenox-Dame-Grease-Presents%2Fdp%2FB00004UAMR&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/JUiCY_RNB_DJ_BENIHANA_TANYA_AKA_T6_The_Introduc.m65722.html">"TANYA AKA T6 – The Introduction Of T6"</a>. Datpiff.com<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TANYA+AKA+T6+%E2%80%93+The+Introduction+Of+T6&amp;rft.pub=Datpiff.com&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FJUiCY_RNB_DJ_BENIHANA_TANYA_AKA_T6_The_Introduc.m65722.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLavish_Life_Recordings2010" class="citation web cs1">Lavish Life Recordings (February 3, 2010). <a rel="nofollow" class="external text" href="https://archive.today/20120711133609/http://lexlevi.ning.com/profiles/blogs/dame-grease-amp-dj-delz-wave">"Dame Grease &amp; DJ Delz – Wave Gang 4 – lexlevi.com"</a>. Lexlevi.ning.com. Archived from <a rel="nofollow" class="external text" href="http://lexlevi.ning.com/profiles/blogs/dame-grease-amp-dj-delz-wave">the original</a> on July 11, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dame+Grease+%26+DJ+Delz+%E2%80%93+Wave+Gang+4+%E2%80%93+lexlevi.com&amp;rft.pub=Lexlevi.ning.com&amp;rft.date=2010-02-03&amp;rft.au=Lavish+Life+Recordings&amp;rft_id=http%3A%2F%2Flexlevi.ning.com%2Fprofiles%2Fblogs%2Fdame-grease-amp-dj-delz-wave&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Riff-Raff-Dame-Grease-Hologram-Panda-mixtape.429249.html">"Riff Raff &amp; Dame Grease – Hologram Panda // Free Mixtape @"</a>. Datpiff.com<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Riff+Raff+%26+Dame+Grease+%E2%80%93+Hologram+Panda+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FRiff-Raff-Dame-Grease-Hologram-Panda-mixtape.429249.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADame+Grease" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://damegrease.com">Official website</a></span></span> <span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q605310#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://soundcloud.com/damegrease">Dame Grease</a> on <a href="/wiki/SoundCloud" title="SoundCloud">SoundCloud</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.wavegang.com/">Official Wave Gang website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.vacantlotrecords.com/">Official Vacant Lot Records website</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/mn0000665518">Dame Grease</a> at <a href="/wiki/AllMusic_(identifier)" class="mw-redirect" title="AllMusic (identifier)">AllMusic</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/Dame+Grease">Damon Blackman</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Ruff_Ryders_Entertainment" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Ruff_Ryders_Entertainment" title="Template:Ruff Ryders Entertainment"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ruff_Ryders_Entertainment" title="Template talk:Ruff Ryders Entertainment"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Ruff_Ryders_Entertainment&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Ruff_Ryders_Entertainment" style="font-size:114%;margin:0 4em"><a href="/wiki/Ruff_Ryders_Entertainment" title="Ruff Ryders Entertainment">Ruff Ryders Entertainment</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Releases</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Ryde_or_Die_Vol._1" title="Ryde or Die Vol. 1">Ryde or Die Vol. 1</a></i> (1999)</li>
+<li><i><a href="/wiki/Ryde_or_Die_Vol._2" title="Ryde or Die Vol. 2">Ryde or Die Vol. 2</a></i> (2000)</li>
+<li><i><a href="/wiki/Ryde_or_Die_Vol._3:_In_the_%22R%22_We_Trust" title="Ryde or Die Vol. 3: In the &quot;R&quot; We Trust">Ryde or Die Vol. 3: In the "R" We Trust</a></i> (2001)</li>
+<li><i><a href="/wiki/Vol._4:_The_Redemption" title="Vol. 4: The Redemption">Vol. 4: The Redemption</a></i> (2005)</li>
+<li><i><a href="/wiki/Ruff_Ryders:_Past,_Present,_Future" title="Ruff Ryders: Past, Present, Future">Ruff Ryders: Past, Present, Future</a></i> (2011)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">In-house producers</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Neo_da_Matrix" title="Neo da Matrix">Neo da Matrix</a></li>
+<li><a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Universal_Music_Group" title="Universal Music Group">Universal Music Group</a></li>
+<li><a href="/wiki/Fontana_Distribution" title="Fontana Distribution">Fontana Distribution</a></li>
+<li><a href="/wiki/Bloodline_Records" title="Bloodline Records">Bloodline Records</a></li>
+<li><a href="/wiki/D-Block_Records" class="mw-redirect" title="D-Block Records">D-Block Records</a></li>
+<li><a href="/wiki/Full_Surface_Records" title="Full Surface Records">Full Surface Records</a></li>
+<li><a href="/wiki/Ruff_Ryders_Indy" title="Ruff Ryders Indy">Ruff Ryders Indy</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q605310#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q605310#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q605310#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/101541009">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2009168012">United States</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/a7994a32-22cf-4cc9-9fe4-0437e863bfa8">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2335
+Cached time: 20230919212725
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.396 seconds
+Real time usage: 0.540 seconds
+Preprocessor visited node count: 2025/1000000
+Post‐expand include size: 48036/2097152 bytes
+Template argument size: 2480/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 62776/5000000 bytes
+Lua time usage: 0.255/10.000 seconds
+Lua memory usage: 8160446/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  492.699      1 -total
+ 27.88%  137.364      1 Template:Infobox_musical_artist
+ 27.80%  136.994      1 Template:Reflist
+ 24.59%  121.173      1 Template:Infobox
+ 23.76%  117.052     15 Template:Cite_web
+ 16.14%   79.501      1 Template:Ruff_Ryders
+ 11.58%   57.059      1 Template:Navbox
+  9.35%   46.051      2 Template:Short_description
+  9.21%   45.392      2 Template:Br_separated_entries
+  7.71%   37.963      1 Template:Birth_date_and_age
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16473099-0!canonical and timestamp 20230919212725 and revision id 1118014586. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dame_Grease&amp;oldid=1118014586">https://en.wikipedia.org/w/index.php?title=Dame_Grease&amp;oldid=1118014586</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:African-American_record_producers" title="Category:African-American record producers">African-American record producers</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:People_from_Harlem" title="Category:People from Harlem">People from Harlem</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Musicians_from_New_York_City" title="Category:Musicians from New York City">Musicians from New York City</a></li><li><a href="/wiki/Category:1974_births" title="Category:1974 births">1974 births</a></li><li><a href="/wiki/Category:Record_producers_from_New_York_(state)" title="Category:Record producers from New York (state)">Record producers from New York (state)</a></li><li><a href="/wiki/Category:21st-century_African-American_people" title="Category:21st-century African-American people">21st-century African-American people</a></li><li><a href="/wiki/Category:20th-century_African-American_people" title="Category:20th-century African-American people">20th-century African-American people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_November_2021" title="Category:Use mdy dates from November 2021">Use mdy dates from November 2021</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:SoundCloud_ID_same_as_Wikidata" title="Category:SoundCloud ID same as Wikidata">SoundCloud ID same as Wikidata</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 24 October 2022, at 19:09<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dame_Grease&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2406","wgBackendResponseTime":116,"wgPageParseReport":{"limitreport":{"cputime":"0.396","walltime":"0.540","ppvisitednodes":{"value":2025,"limit":1000000},"postexpandincludesize":{"value":48036,"limit":2097152},"templateargumentsize":{"value":2480,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":62776,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  492.699      1 -total"," 27.88%  137.364      1 Template:Infobox_musical_artist"," 27.80%  136.994      1 Template:Reflist"," 24.59%  121.173      1 Template:Infobox"," 23.76%  117.052     15 Template:Cite_web"," 16.14%   79.501      1 Template:Ruff_Ryders"," 11.58%   57.059      1 Template:Navbox","  9.35%   46.051      2 Template:Short_description","  9.21%   45.392      2 Template:Br_separated_entries","  7.71%   37.963      1 Template:Birth_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.255","limit":"10.000"},"limitreport-memusage":{"value":8160446,"limit":52428800}},"cachereport":{"origin":"mw2335","timestamp":"20230919212725","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dame Grease","url":"https:\/\/en.wikipedia.org\/wiki\/Dame_Grease","sameAs":"http:\/\/www.wikidata.org\/entity\/Q605310","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q605310","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-03-22T02:16:47Z","dateModified":"2022-10-24T19:09:35Z","headline":"Harlem based music and film producer."}</script>
+</body>
+</html>

@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Skizzy Mars - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"7e403a34-af53-4f61-ae33-3b65e1d821ae","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Skizzy_Mars","wgTitle":"Skizzy Mars","wgCurRevisionId":1173421739,"wgRevisionId":1173421739,"wgArticleId":52404145,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Czech-language sources (cs)","CS1 Slovak-language sources (sk)","Articles with short description","Short description is different from Wikidata","Use mdy dates from April 2021","Articles with hCards","Pages using infobox musical artist with associated acts","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with LCCN identifiers","Articles with MusicBrainz identifiers","1993 births","Living people","American male rappers","East Coast hip hop musicians","St. Bernard's School alumni","Union College (New York) alumni",
+"21st-century American rappers","21st-century American male musicians","Browning School alumni"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Skizzy_Mars","wgRelevantArticleId":52404145,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false
+,"wgWikibaseItemId":"Q22279060","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc",
+"skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Skizzy Mars - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Skizzy_Mars">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Skizzy_Mars&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Skizzy_Mars">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Skizzy_Mars rootpage-Skizzy_Mars skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Skizzy+Mars" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Skizzy+Mars" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Skizzy+Mars" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Skizzy+Mars" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Extended_plays"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Extended_plays">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Extended plays</div>
+			</a>
+			
+			<ul id="toc-Extended_plays-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>Singles</div>
+			</a>
+			
+			<ul id="toc-Singles-sublist" class="vector-toc-list">
+				<li id="toc-As_lead_artist"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#As_lead_artist">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.1</span>As lead artist</div>
+			</a>
+			
+			<ul id="toc-As_lead_artist-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-As_featured_artist"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#As_featured_artist">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.2</span>As featured artist</div>
+			</a>
+			
+			<ul id="toc-As_featured_artist-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Music_videos"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Music_videos">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5</span>Music videos</div>
+			</a>
+			
+			<ul id="toc-Music_videos-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Skizzy Mars</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 4 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-4" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">4 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%DB%8C%D8%B2%DB%8C_%D9%85%D8%A7%D8%B1%D8%B3" title="اسکیزی مارس – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%DB%8C%D8%B2%DB%8C_%D9%85%D8%A7%D8%B1%D8%B3" title="اسکیزی مارس – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%82%A4%EC%A7%80_%EB%A7%88%EC%8A%A4" title="스키지 마스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Skizzy_Mars" title="Skizzy Mars – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q22279060#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Skizzy_Mars" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Skizzy_Mars" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Skizzy_Mars"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Skizzy_Mars&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Skizzy_Mars"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Skizzy_Mars&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Skizzy_Mars" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Skizzy_Mars" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Skizzy_Mars&amp;oldid=1173421739" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Skizzy_Mars&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Skizzy_Mars&amp;id=1173421739&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q22279060" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Skizzy_Mars&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Skizzy_Mars&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="fn">Skizzy Mars</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Myles Mills</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li>Skizzy Mars</li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1996-06-08</span>) </span>June 8, 1996<span class="noprint ForceAgeToShow"> (age&#160;27)</span><br /><a href="/wiki/Harlem,_New_York" class="mw-redirect" title="Harlem, New York">Harlem, New York</a>, United States</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Rapping" title="Rapping">Rapper</a></li><li>songwriter</li><li>record producer</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note">Vocals</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2013–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic</a></li><li>APG</li><li>PHM</li></ul></div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Myles Mills</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> (born June 8, 1993),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> better known by his stage name <b>Skizzy Mars</b>, is an American <a href="/wiki/Rapper" class="mw-redirect" title="Rapper">rapper</a>, songwriter, and record producer from <a href="/wiki/Harlem,_New_York" class="mw-redirect" title="Harlem, New York">Harlem, New York</a>.<sup id="cite_ref-Diep_3-0" class="reference"><a href="#cite_note-Diep-3">&#91;3&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mills was born and raised in <a href="/wiki/Harlem,_New_York" class="mw-redirect" title="Harlem, New York">Harlem, New York</a> to his father, a therapist, and his mother, who operated two daycare centers in <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a>.<sup id="cite_ref-Diep_3-1" class="reference"><a href="#cite_note-Diep-3">&#91;3&#93;</a></sup> He attended an all-boys school <a href="/wiki/St._Bernard%27s_School" title="St. Bernard&#39;s School">St. Bernard's School</a> during his elementary years and later graduated from the <a href="/wiki/Browning_School" title="Browning School">Browning School</a>. Mills attended <a href="/wiki/Union_College" title="Union College">Union College</a> to originally pursue a <a href="/wiki/Sports_journalism" title="Sports journalism">sports journalism</a> major,<sup id="cite_ref-Diep_3-2" class="reference"><a href="#cite_note-Diep-3">&#91;3&#93;</a></sup> but he <a href="/wiki/Dropped_out" class="mw-redirect" title="Dropped out">dropped out</a> ten weeks after starting classes to begin his rapping career.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit&amp;section=2" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit&amp;section=3" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of studio albums, with selected details
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:10em;">Title
+</th>
+<th scope="col" rowspan="2" style="width:13em;">Album details
+</th>
+<th scope="col" colspan="1">Peak chart positions
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:85%;"><a href="/wiki/Billboard_200" title="Billboard 200">US</a><br /><sup id="cite_ref-Billboard200_6-0" class="reference"><a href="#cite_note-Billboard200-6">&#91;6&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row"><i>Alone Together</i><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: April 8, 2016</li>
+<li>Label: PHM</li>
+<li>Format: CD and Digital download</li></ul>
+</td>
+<td>50
+</td></tr>
+<tr>
+<th scope="row"><i>Free Skizzy Mars</i><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: July 26, 2019</li>
+<li>Format: Digital download</li></ul>
+</td>
+<td>—
+</td></tr>
+<tr>
+<th scope="row"><i>Fun &amp; Problems</i><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: June 25, 2021</li>
+<li>Label: Kingmaker Records</li>
+<li>Format: Digital download</li></ul>
+</td>
+<td>—
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Extended_plays">Extended plays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit&amp;section=4" title="Edit section: Extended plays">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of extended plays, with selected details
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:10em;">Title
+</th>
+<th scope="col" rowspan="2" style="width:18em;">Extended play details
+</th>
+<th scope="col" colspan="1">Peak chart positions
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:85%;"><a href="/wiki/Billboard_200" title="Billboard 200">US</a><br /> <sup id="cite_ref-Billboard200_6-1" class="reference"><a href="#cite_note-Billboard200-6">&#91;6&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row"><i>The Red Balloon Project</i><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: February 3, 2015</li>
+<li>Label: PHM</li>
+<li>Format: CD and digital download<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li></ul>
+</td>
+<td>35
+</td></tr>
+<tr>
+<th scope="row"><i>Are You Ok?</i><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: April 13, 2018</li>
+<li>Label: Kingmaker/Please Rewind</li>
+<li>Format: Digital download</li></ul>
+</td>
+<td>—
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit&amp;section=5" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of mixtapes, with selected details
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th scope="col" style="width:12em;">Title
+</th>
+<th scope="col">Mixtape details
+</th></tr>
+<tr>
+<th>
+</th>
+<th scope="row"><i>Kindered Spirit</i>
+</th>
+<td>
+<ul><li>Released: March 13, 2012</li>
+<li>Format: YouTube</li></ul>
+</td></tr>
+<tr>
+<th>
+</th>
+<th scope="row"><i>American Psycho</i>
+</th>
+<td>
+<ul><li>Released: March 14, 2012</li>
+<li>Format: YouTube</li></ul>
+</td></tr>
+<tr>
+<th>
+</th>
+<th scope="row"><i>Phases</i><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: March 26, 2013</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th>
+</th>
+<th scope="row"><i>Pace</i><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: March 4, 2014</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit&amp;section=6" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="As_lead_artist">As lead artist</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit&amp;section=7" title="Edit section: As lead artist">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<tbody><tr>
+<th scope="col" rowspan="1" style="width:15em;">Title
+</th>
+<th scope="col" rowspan="1">Year
+</th></tr>
+<tr>
+<th scope="row">"Make Sense"<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</th>
+<td rowspan="2">2014
+</td></tr>
+<tr>
+<th scope="row">"All Say"<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Wrinkled Sheets"<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</th>
+<td>2021
+</td></tr>
+<tr>
+<th scope="row">"Problems Too"<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</th>
+<td>2022
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="As_featured_artist">As featured artist</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit&amp;section=8" title="Edit section: As featured artist">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:15em;">Title
+</th>
+<th scope="col" rowspan="2">Year
+</th>
+<th scope="col" colspan="2">Peak chart positions
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:85%;"><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">CZE</a><br /><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</th>
+<th scope="col" style="width:3em;font-size:85%;"><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">SVK</a><br /><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Used to Be the S**t"<br /><span style="font-size:85%;">(<a href="/wiki/Miniature_Tigers" title="Miniature Tigers">Miniature Tigers</a> featuring Skizzy Mars)</span><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</th>
+<td rowspan="2">2014
+</td>
+<td>—</td>
+<td>—
+</td></tr>
+<tr>
+<th scope="row">"We Go Back (Jarami Remix)"<br /><span style="font-size:85%;">(<a href="/wiki/Chinah_(band)" class="mw-redirect" title="Chinah (band)">Chinah</a> featuring Skizzy Mars)</span><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</th>
+<td>—</td>
+<td>—
+</td></tr>
+<tr>
+<th scope="row">"Steady 1234"<br /><span style="font-size:85%;">(<a href="/wiki/DJ_Vice" title="DJ Vice">DJ Vice</a> featuring <a href="/wiki/Jasmine_Thompson" title="Jasmine Thompson">Jasmine Thompson</a> and Skizzy Mars)</span><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</th>
+<td>2016
+</td>
+<td>71</td>
+<td>83
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Music_videos">Music videos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit&amp;section=9" title="Edit section: Music videos">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th></tr>
+<tr>
+<td rowspan="2">2013
+</td>
+<td>"Pay for You"<br /><span style="font-size:85%;">(Skizzy Mars featuring <a href="/wiki/G-Eazy" title="G-Eazy">G-Eazy</a>)</span><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"Cheer Up"<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td>"Make Sense"<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td>"Do You There"<br /><span style="font-size:85%;">(Skizzy Mars featuring <a href="/wiki/Marc_E._Bassy" title="Marc E. Bassy">Marc E. Bassy</a>)</span><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td>"I'm Ready"<br /><span style="font-size:85%;">(Skizzy Mars featuring Olivver the Kid)</span><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td>2018
+</td>
+<td>"American Dream"<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</td></tr>
+<tr>
+<td>2019
+</td>
+<td>"Bayside"<br /><span style="font-size:85%;">(featuring 24kGoldn)</span><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skizzy_Mars&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/hip-hop/7468414/skizzy-mars-next-up-minneapolis">"Skizzy Mars Named 'Next Up' Artist, Preps for Minneapolis Showcase"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. August 15, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Skizzy+Mars+Named+%27Next+Up%27+Artist%2C+Preps+for+Minneapolis+Showcase&amp;rft.date=2016-08-15&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F7468414%2Fskizzy-mars-next-up-minneapolis&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/skizzy-mars-mn0003202498/biography">"Skizzy Mars (Biography &amp; History)"</a>. <i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i>. <a href="/wiki/All_Media_Network" class="mw-redirect" title="All Media Network">All Media Network</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Skizzy+Mars+%28Biography+%26+History%29&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fskizzy-mars-mn0003202498%2Fbiography&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Diep-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Diep_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Diep_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Diep_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDiep2015" class="citation web cs1">Diep, Eric (December 10, 2015). <a rel="nofollow" class="external text" href="http://www.villagevoice.com/music/skizzy-mars-wants-to-redefine-the-sound-of-new-york-city-hip-hop-7958409">"Skizzy Mars Wants to Redefine the Sound of New York City Hip-Hop"</a>. <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i>. Village Voice, LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Village+Voice&amp;rft.atitle=Skizzy+Mars+Wants+to+Redefine+the+Sound+of+New+York+City+Hip-Hop&amp;rft.date=2015-12-10&amp;rft.aulast=Diep&amp;rft.aufirst=Eric&amp;rft_id=http%3A%2F%2Fwww.villagevoice.com%2Fmusic%2Fskizzy-mars-wants-to-redefine-the-sound-of-new-york-city-hip-hop-7958409&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGase2015" class="citation web cs1">Gase, Zach (September 4, 2015). <a rel="nofollow" class="external text" href="http://national.suntimes.com/national-music/7/72/1771685/skizzy-mars-details-life-young-rapper/">"Skizzy Mars details the life of a young rapper"</a>. <i>Sun Times National</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 28,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sun+Times+National&amp;rft.atitle=Skizzy+Mars+details+the+life+of+a+young+rapper&amp;rft.date=2015-09-04&amp;rft.aulast=Gase&amp;rft.aufirst=Zach&amp;rft_id=http%3A%2F%2Fnational.suntimes.com%2Fnational-music%2F7%2F72%2F1771685%2Fskizzy-mars-details-life-young-rapper%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://pigeonsandplanes.com/in-depth/2012/02/interview-skizzy-mars-talks-indie-rock-college-and-his-favorite-rapper">"Interview: Skizzy Mars Talks Indie Rock, College, and His Favorite Rapper"</a>. <i>PigeonsandPlanes</i>. Complex Media Inc. February 8, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PigeonsandPlanes&amp;rft.atitle=Interview%3A+Skizzy+Mars+Talks+Indie+Rock%2C+College%2C+and+His+Favorite+Rapper&amp;rft.date=2012-02-08&amp;rft_id=http%3A%2F%2Fpigeonsandplanes.com%2Fin-depth%2F2012%2F02%2Finterview-skizzy-mars-talks-indie-rock-college-and-his-favorite-rapper&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Billboard200-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Billboard200_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Billboard200_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/5916554/skizzy-mars/chart">"Skizzy Mars – Chart History"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Skizzy+Mars+%E2%80%93+Chart+History&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F5916554%2Fskizzy-mars%2Fchart&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/alone-together/id1065049769">"Alone Together by Skizzy Mars on Apple Music"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=Alone+Together+by+Skizzy+Mars+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Falone-together%2Fid1065049769&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/free-skizzy-mars/1472332451">"Free Skizzy Mars by Skizzy Mars on Apple Music"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=Free+Skizzy+Mars+by+Skizzy+Mars+on+Apple+Music&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Ffree-skizzy-mars%2F1472332451&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/fun-problems/1568808163">"Fun &amp; Problems by Skizzy Mars on Apple Music"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 25,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=Fun+%26+Problems+by+Skizzy+Mars+on+Apple+Music&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Ffun-problems%2F1568808163&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/the-red-balloon-project/id952778297">"The Red Balloon Project by Skizzy Mars on Apple Music"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=The+Red+Balloon+Project+by+Skizzy+Mars+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fthe-red-balloon-project%2Fid952778297&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/the-red-balloon-project-mw0002824602/releases">"The Red Balloon Project – Skizzy Mars (Releases)"</a>. <i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i>. <a href="/wiki/All_Media_Network" class="mw-redirect" title="All Media Network">All Media Network</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=The+Red+Balloon+Project+%E2%80%93+Skizzy+Mars+%28Releases%29&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fthe-red-balloon-project-mw0002824602%2Freleases&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.broadwayworld.com/bwwmusic/article/Skizzy-Mars-Releases-New-EP-ARE-YOU-OKAY-Out-Now-20180413">"Skizzy Mars Releases New EP ARE YOU OKAY? Out Now"</a>. <i>Broadway World</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 3,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Broadway+World&amp;rft.atitle=Skizzy+Mars+Releases+New+EP+ARE+YOU+OKAY%3F+Out+Now&amp;rft_id=https%3A%2F%2Fwww.broadwayworld.com%2Fbwwmusic%2Farticle%2FSkizzy-Mars-Releases-New-EP-ARE-YOU-OKAY-Out-Now-20180413&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://fistintheair.com/2013/03/06/skizzy-mars-phases-artwork-release-date/">"Skizzy Mars – Phases (Artwork + Release Date)"</a>. <i>Fist in the Air</i>. FITA, LLC. March 6, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fist+in+the+Air&amp;rft.atitle=Skizzy+Mars+%E2%80%93+Phases+%28Artwork+%2B+Release+Date%29&amp;rft.date=2013-03-06&amp;rft_id=http%3A%2F%2Ffistintheair.com%2F2013%2F03%2F06%2Fskizzy-mars-phases-artwork-release-date%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAhmad2014" class="citation web cs1">Ahmad, Baseer (March 4, 2014). <a rel="nofollow" class="external text" href="http://www.themusicninja.com/hip-hop-skizzy-mars-pace-mixtape/">"&#91;Hip-Hop&#93; Skizzy Mars – Pace (Mixtape) | The Music Ninja"</a>. <i>The Music Ninja</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Music+Ninja&amp;rft.atitle=%5BHip-Hop%5D+Skizzy+Mars+%E2%80%93+Pace+%28Mixtape%29+%7C+The+Music+Ninja&amp;rft.date=2014-03-04&amp;rft.aulast=Ahmad&amp;rft.aufirst=Baseer&amp;rft_id=http%3A%2F%2Fwww.themusicninja.com%2Fhip-hop-skizzy-mars-pace-mixtape%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/make-sense/id858262898?i=858262903">"<span class="cs1-kern-left"></span>"Make Sense" from Make Sense – Single by Skizzy Mars on Apple Music"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=%22Make+Sense%22+from+Make+Sense+%E2%80%93+Single+by+Skizzy+Mars+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fmake-sense%2Fid858262898%3Fi%3D858262903&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/all-say/id858322108?i=858322164">"<span class="cs1-kern-left"></span>"All Say" from All Say – Single by Skizzy Mars on Apple Music"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=%22All+Say%22+from+All+Say+%E2%80%93+Single+by+Skizzy+Mars+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fall-say%2Fid858322108%3Fi%3D858322164&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/wrinkled-sheets/1558766339?i=1558766340">"<span class="cs1-kern-left"></span>"Wrinkled Sheets" from Wrinkled Sheets – Single by Skizzy Mars on Apple Music"</a>. <i><a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 23,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Apple+Music&amp;rft.atitle=%22Wrinkled+Sheets%22+from+Wrinkled+Sheets+%E2%80%93+Single+by+Skizzy+Mars+on+Apple+Music&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fwrinkled-sheets%2F1558766339%3Fi%3D1558766340&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/au/album/problems-too-single/1611307702">"<span class="cs1-kern-left"></span>"Problems Too" Single by Skizzy Mars and Allday on Apple Music"</a>. <i><a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 25,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Apple+Music&amp;rft.atitle=%22Problems+Too%22+Single+by+Skizzy+Mars+and+Allday+on+Apple+Music&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fau%2Falbum%2Fproblems-too-single%2F1611307702&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="http://www.ifpicr.cz/hitparada/index.php?hitp=R">"ČNS IFPI"</a>. <i>Hitparáda – Digital Top 100 Oficiální</i> (in Czech). IFPI Czech Republic<span class="reference-accessdate">. Retrieved <span class="nowrap">November 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hitpar%C3%A1da+%E2%80%93+Digital+Top+100+Ofici%C3%A1ln%C3%AD&amp;rft.atitle=%C4%8CNS+IFPI&amp;rft_id=http%3A%2F%2Fwww.ifpicr.cz%2Fhitparada%2Findex.php%3Fhitp%3DR&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="http://www.ifpicr.cz/hitparadask/index.php?hitp=R">"SNS IFPI"</a>. <i>Hitparáda – Singles Digital Top 100 Oficiálna</i> (in Slovak). IFPI Slovakia<span class="reference-accessdate">. Retrieved <span class="nowrap">November 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hitpar%C3%A1da+%E2%80%93+Singles+Digital+Top+100+Ofici%C3%A1lna&amp;rft.atitle=SNS+IFPI&amp;rft_id=http%3A%2F%2Fwww.ifpicr.cz%2Fhitparadask%2Findex.php%3Fhitp%3DR&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/used-to-be-s**t-feat.-skizzy/id966411113?i=966411114">"<span class="cs1-kern-left"></span>"Used To Be the S**t (feat. Skizzy Mars)" from Used To Be the S**t (feat. Skizzy Mars) – Single by Miniature Tigers on Apple Music"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=%22Used+To+Be+the+S%2A%2At+%28feat.+Skizzy+Mars%29%22+from+Used+To+Be+the+S%2A%2At+%28feat.+Skizzy+Mars%29+%E2%80%93+Single+by+Miniature+Tigers+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fused-to-be-s%2A%2At-feat.-skizzy%2Fid966411113%3Fi%3D966411114&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/we-go-back-feat.-skizzy-mars/id1068195485?i=1068196092">"<span class="cs1-kern-left"></span>"We Go Back (feat. Skizzy Mars) &#91;Jarami Remix&#93;" from We Go Back (feat. Skizzy Mars) &#91;Jarami Remix&#93; – Single by CHINAH on Apple Music"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=%22We+Go+Back+%28feat.+Skizzy+Mars%29+%5BJarami+Remix%5D%22+from+We+Go+Back+%28feat.+Skizzy+Mars%29+%5BJarami+Remix%5D+%E2%80%93+Single+by+CHINAH+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fwe-go-back-feat.-skizzy-mars%2Fid1068195485%3Fi%3D1068196092&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/steady-1234-feat.-jasmine/id1157660202">"Steady 1234 (feat. Jasmine Thompson &amp; Skizzy Mars) – Single by Vice on Apple Music"</a>. <i><a href="/wiki/ITunes" title="ITunes">iTunes</a></i>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=Steady+1234+%28feat.+Jasmine+Thompson+%26+Skizzy+Mars%29+%E2%80%93+Single+by+Vice+on+Apple+Music&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fsteady-1234-feat.-jasmine%2Fid1157660202&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSmith2013" class="citation web cs1">Smith, Alex (May 6, 2013). <a rel="nofollow" class="external text" href="https://defpen.com/music-video-skizzy-mars-pay-for-you-feat-g-eazy/">"MUSIC VIDEO: Skizzy Mars – Pay for You (feat. G-Eazy) | Def Pen"</a>. <i>Def Pen</i>. Def Pen Media, LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Def+Pen&amp;rft.atitle=MUSIC+VIDEO%3A+Skizzy+Mars+%E2%80%93+Pay+for+You+%28feat.+G-Eazy%29+%7C+Def+Pen&amp;rft.date=2013-05-06&amp;rft.aulast=Smith&amp;rft.aufirst=Alex&amp;rft_id=https%3A%2F%2Fdefpen.com%2Fmusic-video-skizzy-mars-pay-for-you-feat-g-eazy%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBosompra2013" class="citation web cs1">Bosompra, Chief (August 14, 2013). <a rel="nofollow" class="external text" href="http://earmilk.com/2013/08/14/skizzy-mars-cheer-up-video/">"Skizzy Mars – "Cheer Up" &#91;Video&#93; – EARMILK"</a>. <i>Earmilk</i>. Earmilk Media Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Earmilk&amp;rft.atitle=Skizzy+Mars+%E2%80%93+%22Cheer+Up%22+%5BVideo%5D+%E2%80%93+EARMILK&amp;rft.date=2013-08-14&amp;rft.aulast=Bosompra&amp;rft.aufirst=Chief&amp;rft_id=http%3A%2F%2Fearmilk.com%2F2013%2F08%2F14%2Fskizzy-mars-cheer-up-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJames2014" class="citation web cs1">James, Jesse (April 23, 2014). <a rel="nofollow" class="external text" href="http://stupiddope.com/2014/04/23/skizzy-mars-make-sense-music-video/">"Skizzy Mars – Make Sense"</a>. <i>stupidDOPE.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=stupidDOPE.com&amp;rft.atitle=Skizzy+Mars+%E2%80%93+Make+Sense&amp;rft.date=2014-04-23&amp;rft.aulast=James&amp;rft.aufirst=Jesse&amp;rft_id=http%3A%2F%2Fstupiddope.com%2F2014%2F04%2F23%2Fskizzy-mars-make-sense-music-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.freshhiphop.net/videos/skizzy-mars-ft-marc-e-bassy-do-you-there-official-video/">"Skizzy Mars ft. Marc E. Bassy – "Do You There" Official Video"</a>. <i>Fresh Hip Hop</i>. January 7, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fresh+Hip+Hop&amp;rft.atitle=Skizzy+Mars+ft.+Marc+E.+Bassy+%E2%80%93+%22Do+You+There%22+Official+Video&amp;rft.date=2015-01-07&amp;rft_id=http%3A%2F%2Fwww.freshhiphop.net%2Fvideos%2Fskizzy-mars-ft-marc-e-bassy-do-you-there-official-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAiello2016" class="citation web cs1">Aiello, Matt (March 11, 2016). <a rel="nofollow" class="external text" href="http://thedosemusic.com/skizzy-mars-feat-olivver-the-kid-im-ready/">"Skizzy Mars feat Olivver the Kid – "I'm Ready" &#91;Music Video&#93;"</a>. <i>The Daily Dose</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Daily+Dose&amp;rft.atitle=Skizzy+Mars+feat+Olivver+the+Kid+%E2%80%93+%22I%27m+Ready%22+%5BMusic+Video%5D&amp;rft.date=2016-03-11&amp;rft.aulast=Aiello&amp;rft.aufirst=Matt&amp;rft_id=http%3A%2F%2Fthedosemusic.com%2Fskizzy-mars-feat-olivver-the-kid-im-ready%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=2Fvllf37K_0/">"Skizzy Mars – American Dream &#91;Music Video&#93;"</a>. <i>YouTube</i>. Skizzy Mars. April 5, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">May 4,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=YouTube&amp;rft.atitle=Skizzy+Mars+%E2%80%93+American+Dream+%5BMusic+Video%5D&amp;rft.date=2018-04-05&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2Fvllf37K_0%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=YJqLoVlway4">"Skizzy Mars – Bayside feat. 24kGoldn &#91;Music Video&#93;"</a>. <i>YouTube</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 17,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=YouTube&amp;rft.atitle=Skizzy+Mars+%E2%80%93+Bayside+feat.+24kGoldn+%5BMusic+Video%5D&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYJqLoVlway4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkizzy+Mars" class="Z3988"></span></span>
+</li>
+</ol></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q22279060#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q22279060#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q22279060#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000467119751">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/9794149489185793810002">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n2017026758">United States</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/d6883393-f517-42c4-b47d-eecf3bcc1f0d">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2269
+Cached time: 20230920040432
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.474 seconds
+Real time usage: 0.575 seconds
+Preprocessor visited node count: 2234/1000000
+Post‐expand include size: 62711/2097152 bytes
+Template argument size: 1995/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 95253/5000000 bytes
+Lua time usage: 0.285/10.000 seconds
+Lua memory usage: 8332543/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  529.887      1 -total
+ 39.86%  211.231      1 Template:Reflist
+ 33.94%  179.820     30 Template:Cite_web
+ 26.60%  140.941      1 Template:Infobox_musical_artist
+ 23.36%  123.777      1 Template:Infobox
+ 14.72%   78.007      1 Template:Authority_control
+ 14.11%   74.743      2 Template:Short_description
+  8.46%   44.836      2 Template:Br_separated_entries
+  7.54%   39.963      4 Template:Pagetype
+  6.78%   35.901      1 Template:Birth_date_and_age
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:52404145-0!canonical and timestamp 20230920040431 and revision id 1173421739. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Skizzy_Mars&amp;oldid=1173421739">https://en.wikipedia.org/w/index.php?title=Skizzy_Mars&amp;oldid=1173421739</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1993_births" title="Category:1993 births">1993 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:St._Bernard%27s_School_alumni" title="Category:St. Bernard&#039;s School alumni">St. Bernard's School alumni</a></li><li><a href="/wiki/Category:Union_College_(New_York)_alumni" title="Category:Union College (New York) alumni">Union College (New York) alumni</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:Browning_School_alumni" title="Category:Browning School alumni">Browning School alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Czech-language_sources_(cs)" title="Category:CS1 Czech-language sources (cs)">CS1 Czech-language sources (cs)</a></li><li><a href="/wiki/Category:CS1_Slovak-language_sources_(sk)" title="Category:CS1 Slovak-language sources (sk)">CS1 Slovak-language sources (sk)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2021" title="Category:Use mdy dates from April 2021">Use mdy dates from April 2021</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 2 September 2023, at 09:17<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Skizzy_Mars&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2359","wgBackendResponseTime":111,"wgPageParseReport":{"limitreport":{"cputime":"0.474","walltime":"0.575","ppvisitednodes":{"value":2234,"limit":1000000},"postexpandincludesize":{"value":62711,"limit":2097152},"templateargumentsize":{"value":1995,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":95253,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  529.887      1 -total"," 39.86%  211.231      1 Template:Reflist"," 33.94%  179.820     30 Template:Cite_web"," 26.60%  140.941      1 Template:Infobox_musical_artist"," 23.36%  123.777      1 Template:Infobox"," 14.72%   78.007      1 Template:Authority_control"," 14.11%   74.743      2 Template:Short_description","  8.46%   44.836      2 Template:Br_separated_entries","  7.54%   39.963      4 Template:Pagetype","  6.78%   35.901      1 Template:Birth_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.285","limit":"10.000"},"limitreport-memusage":{"value":8332543,"limit":52428800}},"cachereport":{"origin":"mw2269","timestamp":"20230920040432","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Skizzy Mars","url":"https:\/\/en.wikipedia.org\/wiki\/Skizzy_Mars","sameAs":"http:\/\/www.wikidata.org\/entity\/Q22279060","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q22279060","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-11-27T20:53:07Z","dateModified":"2023-09-02T09:17:49Z","headline":"American hip hop artist"}</script>
+</body>
+</html>

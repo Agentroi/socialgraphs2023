@@ -1,0 +1,986 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Coi Leray - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"cc0aac65-6356-40d4-ac84-4c96b756cb00","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Coi_Leray","wgTitle":"Coi Leray","wgCurRevisionId":1175075812,"wgRevisionId":1175075812,"wgArticleId":66830445,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use American English from August 2022","All Wikipedia articles written in American English","Use mdy dates from May 2021","Articles with hCards","Commons category link from Wikidata","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with LCCN identifiers","Articles with NSK identifiers","Articles with MusicBrainz identifiers","1997 births","Living people","African-American women singer-songwriters",
+"African-American women rappers","American women rappers","People from Hackensack, New Jersey","Rappers from New Jersey","Universal Music Group artists","American hip hop singers","East Coast hip hop musicians","Singer-songwriters from New Jersey","Republic Records artists","21st-century American rappers","21st-century American women rappers","American musicians of Cape Verdean descent","American musicians of Puerto Rican descent","21st-century African-American women singers","Puerto Rican women rappers","Pop rappers","Montclair High School (New Jersey) alumni"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Coi_Leray","wgRelevantArticleId":66830445,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,
+"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q106376206","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a5/Coi_Leray_Cosmopolitan_Atlanta_2021.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1525">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a5/Coi_Leray_Cosmopolitan_Atlanta_2021.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1017">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="814">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Coi Leray - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Coi_Leray">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Coi_Leray&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Coi_Leray">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Coi_Leray rootpage-Coi_Leray skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Coi+Leray" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Coi+Leray" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Coi+Leray" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Coi+Leray" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-2018–2020:_Career_beginnings"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2018–2020:_Career_beginnings">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>2018–2020: Career beginnings</div>
+			</a>
+			
+			<ul id="toc-2018–2020:_Career_beginnings-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2021–present:_Trendsetter_and_Coi"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2021–present:_Trendsetter_and_Coi">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>2021–present: <i>Trendsetter</i> and <i>Coi</i></div>
+			</a>
+			
+			<ul id="toc-2021–present:_Trendsetter_and_Coi-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Awards_and_nominations"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards_and_nominations">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Awards and nominations</div>
+		</a>
+		
+		<ul id="toc-Awards_and_nominations-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Notes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Notes">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Notes</div>
+		</a>
+		
+		<ul id="toc-Notes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Coi Leray</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 13 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-13" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">13 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%8A_%D9%84%D9%8A%D8%B1%D8%A7%D9%8A" title="كوي ليراي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Coi_Leray" title="Coi Leray – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Coi_Leray" title="Coi Leray – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DB%8C_%D9%84%DB%8C%D8%B1%D8%A7%DB%8C" title="کوی لیرای – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Coi_Leray" title="Coi Leray – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%BD%94%EC%9D%B4_%EB%A5%B4%EB%A0%88%EC%9D%B4" title="코이 르레이 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Coi_Leray" title="Coi Leray – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Coi_Leray" title="Coi Leray – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%99_%D7%9C%D7%A8%D7%90%D7%99" title="קוי לראי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/Coi_Leray_(%E1%83%9B%E1%83%A3%E1%83%A1%E1%83%98%E1%83%99%E1%83%9D%E1%83%A1%E1%83%98)" title="Coi Leray (მუსიკოსი) – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%83%D9%88%D9%89_%D9%84%D9%8A%D8%B1%D8%A7%D9%89" title="كوى ليراى – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/Coi_Leray" title="Coi Leray – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Coi_Leray" title="Coi Leray – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q106376206#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Coi_Leray" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Coi_Leray" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Coi_Leray"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Coi_Leray&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Coi_Leray&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Coi_Leray"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Coi_Leray&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Coi_Leray&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Coi_Leray" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Coi_Leray" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Coi_Leray&amp;oldid=1175075812" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Coi_Leray&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Coi_Leray&amp;id=1175075812&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q106376206" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Coi_Leray&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Coi_Leray&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Coi_Leray" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper and singer (born 1997)</div>
+<p class="mw-empty-elt">
+
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Coi Leray</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Coi_Leray_Cosmopolitan_Atlanta_2021.png" class="mw-file-description" title="Collins performing in 2021"><img alt="Collins performing in 2021" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Coi_Leray_Cosmopolitan_Atlanta_2021.png/220px-Coi_Leray_Cosmopolitan_Atlanta_2021.png" decoding="async" width="220" height="280" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Coi_Leray_Cosmopolitan_Atlanta_2021.png/330px-Coi_Leray_Cosmopolitan_Atlanta_2021.png 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a5/Coi_Leray_Cosmopolitan_Atlanta_2021.png 2x" data-file-width="402" data-file-height="511" /></a></span><div class="infobox-caption">Collins performing in 2021</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1997-05-11</span>) </span>May 11, 1997<span class="noprint ForceAgeToShow"> (age&#160;26)</span><br /><a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Hackensack,_New_Jersey" title="Hackensack, New Jersey">Hackensack, New Jersey</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a><sup id="cite_ref-xxlbreak_1-0" class="reference"><a href="#cite_note-xxlbreak-1">&#91;1&#93;</a></sup></li>
+<li><a href="/wiki/Pop_music" title="Pop music">pop</a><sup id="cite_ref-nj.com_2-0" class="reference"><a href="#cite_note-nj.com-2">&#91;2&#93;</a></sup></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li>Rapper</li>
+<li>singer</li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2011–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>1801</li><li><a href="/wiki/Republic_Records" title="Republic Records">Republic</a></li><li><a href="/wiki/Uptown_Records" title="Uptown Records">Uptown</a></li></ul></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"></td></tr><tr><th scope="row" class="infobox-label">Parent</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li><a href="/wiki/Benzino" title="Benzino">Benzino</a> (father)</li></ul></div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://coileray.com/">coileray<wbr />.com</a></span>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Coi Leray Collins</b><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;a&#93;</a></sup> (born May 11, 1997) is an American rapper and singer. She began posting music to <a href="/wiki/SoundCloud" title="SoundCloud">SoundCloud</a> and released her single "Huddy", along with her debut mixtape <i>Everythingcoz</i> in 2018. After signing a record deal with 1801 Records and <a href="/wiki/Republic_Records" title="Republic Records">Republic Records</a>, Leray released her second mixtape, <i>EC2</i> (2019), and her debut <a href="/wiki/Extended_play" title="Extended play">extended play</a>, <i>Now or Never</i> (2020). In 2021, the <a href="/wiki/Lil_Durk" title="Lil Durk">Lil Durk</a>-assisted remix of her single, "<a href="/wiki/No_More_Parties" title="No More Parties">No More Parties</a>", reached the <a href="/wiki/Top_40" title="Top 40">top 40</a>  on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>, and was certified <a href="/wiki/RIAA_certification" title="RIAA certification">platinum</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA).
+</p><p>In 2022, Leray released her debut studio album <i><a href="/wiki/Trendsetter_(Coi_Leray_album)" title="Trendsetter (Coi Leray album)">Trendsetter</a></i>. The album's collaborative single with <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a>, "<a href="/wiki/Blick_Blick" title="Blick Blick">Blick Blick</a>", also reached the top 40 of the <i>Billboard</i> Hot 100. Her 2022 song "<a href="/wiki/Players_(song)" title="Players (song)">Players</a>" peaked in the top 10 of the <i>Billboard</i> Hot 100,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;5&#93;</a></sup> and preceded her second studio album, <i><a href="/wiki/Coi_(album)" title="Coi (album)">Coi</a></i> (2023). Her 2023 single "<a href="/wiki/Baby_Don%27t_Hurt_Me" title="Baby Don&#39;t Hurt Me">Baby Don't Hurt Me</a>" (with <a href="/wiki/David_Guetta" title="David Guetta">David Guetta</a> and <a href="/wiki/Anne-Marie" title="Anne-Marie">Anne-Marie</a>), reached the top 20 on the <a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coi_Leray&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/File:Benzino_Sister_Circle_2018.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Benzino_Sister_Circle_2018.png/175px-Benzino_Sister_Circle_2018.png" decoding="async" width="175" height="225" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Benzino_Sister_Circle_2018.png/263px-Benzino_Sister_Circle_2018.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Benzino_Sister_Circle_2018.png/350px-Benzino_Sister_Circle_2018.png 2x" data-file-width="584" data-file-height="750" /></a><figcaption>Leray is the daughter of media mogul and <i><a href="/wiki/The_Source_(magazine)" class="mw-redirect" title="The Source (magazine)">The Source</a></i> founder <a href="/wiki/Benzino" title="Benzino">Benzino</a> (<i>pictured</i>)</figcaption></figure>
+<p>Collins was born on May 11, 1997<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;6&#93;</a></sup> in <a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, and raised in <a href="/wiki/Hackensack,_New_Jersey" title="Hackensack, New Jersey">Hackensack</a>, <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>.<sup id="cite_ref-office_8-0" class="reference"><a href="#cite_note-office-8">&#91;7&#93;</a></sup><sup id="cite_ref-law_9-0" class="reference"><a href="#cite_note-law-9">&#91;8&#93;</a></sup> She is the daughter of rapper and media mogul <a href="/wiki/Benzino" title="Benzino">Benzino</a>, and has five brothers. Leray's parents divorced after her father left <i><a href="/wiki/The_Source" title="The Source">The Source</a></i>.<sup id="cite_ref-paperrappers_10-0" class="reference"><a href="#cite_note-paperrappers-10">&#91;9&#93;</a></sup> She started making music at age 14.<sup id="cite_ref-betfetty_11-0" class="reference"><a href="#cite_note-betfetty-11">&#91;10&#93;</a></sup> In 2011, inspired by her father, she started rapping and released her first songs under the name Coi Leray—"Bow Down", with her brother Taj, and "Rock Back"—via YouTube.<sup id="cite_ref-highsnobiety_12-0" class="reference"><a href="#cite_note-highsnobiety-12">&#91;11&#93;</a></sup><sup id="cite_ref-hotnewhiphop.com_13-0" class="reference"><a href="#cite_note-hotnewhiphop.com-13">&#91;12&#93;</a></sup> However, both Leray and her brother stopped rapping shortly after.<sup id="cite_ref-xxlbreak_1-1" class="reference"><a href="#cite_note-xxlbreak-1">&#91;1&#93;</a></sup> At age 16, Leray dropped out of high school and started working in sales.<sup id="cite_ref-law_9-1" class="reference"><a href="#cite_note-law-9">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coi_Leray&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/File:Coi_Leray_2018.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Coi_Leray_2018.png/170px-Coi_Leray_2018.png" decoding="async" width="170" height="216" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Coi_Leray_2018.png/255px-Coi_Leray_2018.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Coi_Leray_2018.png/340px-Coi_Leray_2018.png 2x" data-file-width="448" data-file-height="569" /></a><figcaption>Collins in 2018</figcaption></figure>
+<h3><span id="2018.E2.80.932020:_Career_beginnings"></span><span class="mw-headline" id="2018–2020:_Career_beginnings">2018–2020: Career beginnings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coi_Leray&amp;action=edit&amp;section=3" title="Edit section: 2018–2020: Career beginnings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After quitting her job, Leray released her debut single, a response to <a href="/wiki/A_Boogie_wit_da_Hoodie" title="A Boogie wit da Hoodie">A Boogie wit da Hoodie</a>'s song "DTB" titled "G.A.N.", in 2018 through <a href="/wiki/SoundCloud" title="SoundCloud">SoundCloud</a>.<sup id="cite_ref-law_9-2" class="reference"><a href="#cite_note-law-9">&#91;8&#93;</a></sup><sup id="cite_ref-highsnobiety_12-1" class="reference"><a href="#cite_note-highsnobiety-12">&#91;11&#93;</a></sup> Her breakout single, "Huddy", and her debut mixtape, <i>Everythingcoz</i>, were both released in 2018.<sup id="cite_ref-xxlbreak_1-2" class="reference"><a href="#cite_note-xxlbreak-1">&#91;1&#93;</a></sup>
+</p><p>In December 2018, she was included as a featured artist alongside LouGotCash on the track "Save the Day" by American rapper <a href="/wiki/Ski_Mask_the_Slump_God" title="Ski Mask the Slump God">Ski Mask the Slump God</a> and singer <a href="/wiki/Jacquees" title="Jacquees">Jacquees</a> from <a href="/wiki/Spider-Man:_Into_the_Spider-Verse_(soundtracks)" class="mw-redirect" title="Spider-Man: Into the Spider-Verse (soundtracks)">the soundtrack album</a> for the 2018 film <i><a href="/wiki/Spider-Man:_Into_the_Spider-Verse" title="Spider-Man: Into the Spider-Verse">Spider-Man: Into the Spider-Verse</a></i>. Her second mixtape, <i>EC2</i>, was released on January 18, 2019 through 1801 Records and <a href="/wiki/Republic_Records" title="Republic Records">Republic Records</a>.<sup id="cite_ref-bbfame_14-0" class="reference"><a href="#cite_note-bbfame-14">&#91;13&#93;</a></sup> She accompanied American rapper <a href="/wiki/Trippie_Redd" title="Trippie Redd">Trippie Redd</a> on his Life's a Trip Tour in early 2019, and released the single "Good Days" in March 2019.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;14&#93;</a></sup> She appeared as a featured artist on the song "Everything BoZ" by Trippie Redd from his second studio album, <i><a href="/wiki/!_(Trippie_Redd_album)" title="! (Trippie Redd album)">!</a></i>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;15&#93;</a></sup> In April 2020, she released the single "Better Days" with American rapper <a href="/wiki/Fetty_Wap" title="Fetty Wap">Fetty Wap</a>, and was featured on the remix of American actress <a href="/wiki/Keke_Palmer" title="Keke Palmer">Keke Palmer</a>'s single "Sticky" in May 2020.<sup id="cite_ref-betfetty_11-1" class="reference"><a href="#cite_note-betfetty-11">&#91;10&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;16&#93;</a></sup> Leray released her debut <a href="/wiki/Extended_play" title="Extended play">extended play</a>, <i>Now or Never</i>, in August 2020.
+</p>
+<h3><span id="2021.E2.80.93present:_Trendsetter_and_Coi"></span><span class="mw-headline" id="2021–present:_Trendsetter_and_Coi">2021–present: <i>Trendsetter</i> and <i>Coi</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coi_Leray&amp;action=edit&amp;section=4" title="Edit section: 2021–present: Trendsetter and Coi">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Leray's single "<a href="/wiki/No_More_Parties" title="No More Parties">No More Parties</a>" was released in January 2021, and became her first song to appear on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>, peaking at number 26.<sup id="cite_ref-bbrookie_18-0" class="reference"><a href="#cite_note-bbrookie-18">&#91;17&#93;</a></sup> A remix of the song featuring American rapper <a href="/wiki/Lil_Durk" title="Lil Durk">Lil Durk</a> was released in February 2021, for which a music video was directed by Reel Goats and released the following month.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;18&#93;</a></sup> "No More Parties" was <a href="/wiki/RIAA_certification" title="RIAA certification">certified platinum</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA) in May 2021.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;19&#93;</a></sup> Leray released the single "<a href="/wiki/Big_Purr_(Prrdd)" title="Big Purr (Prrdd)">Big Purr (Prrdd)</a>" in March 2021, featuring vocals from American rapper <a href="/wiki/Pooh_Shiesty" title="Pooh Shiesty">Pooh Shiesty</a>, which debuted at number 69 on the <i>Billboard</i> Hot 100.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;20&#93;</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;21&#93;</a></sup> She starred in the music video for American rapper Mooski's single "<a href="/wiki/Track_Star_(song)" title="Track Star (song)">Track Star</a>" in April 2021, and is starring in the <a href="/wiki/Whistle_Sports_Network" class="mw-redirect" title="Whistle Sports Network">Whistle</a> series <i>Coi Vs.</i> as of April 2021.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;22&#93;</a></sup><sup id="cite_ref-postbenz_24-0" class="reference"><a href="#cite_note-postbenz-24">&#91;23&#93;</a></sup> Also in April 2021, she made her television debut, performing "No More Parties" on <i><a href="/wiki/The_Tonight_Show_Starring_Jimmy_Fallon" title="The Tonight Show Starring Jimmy Fallon">The Tonight Show Starring Jimmy Fallon</a></i>, and was featured on the remix of <a href="/wiki/Pressa_(rapper)" title="Pressa (rapper)">Pressa</a>'s song "Attachments".<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;24&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;25&#93;</a></sup>
+</p><p>In May 2021, Leray released the single "Bout Me" and appeared as a featured artist on <a href="/wiki/EarthGang" title="EarthGang">EarthGang</a>'s remix of their song "Options".<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;26&#93;</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;27&#93;</a></sup> A clip of her performing to a motionless, silent crowd at H-Town Memorial Day Mayhem in May 2021 went viral.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;28&#93;</a></sup> The following month, another clip of her performing to an unresponsive crowd at Rolling Loud Miami went viral.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;29&#93;</a></sup> She was featured on <a href="/wiki/Rich_the_Kid" title="Rich the Kid">Rich the Kid</a>'s song "Boss Bitch" and the remix of <a href="/wiki/YN_Jay" title="YN Jay">YN Jay</a>'s song "Triple S", and released the song "At the Top", featuring <a href="/wiki/Kodak_Black" title="Kodak Black">Kodak Black</a> and <a href="/wiki/Mustard_(record_producer)" title="Mustard (record producer)">Mustard</a>, in June 2021.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;30&#93;</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;31&#93;</a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;32&#93;</a></sup> She was included on the <a href="/wiki/XXL_(magazine)#Annual_Freshman_Class_List" title="XXL (magazine)"><i>XXL</i> Freshman Class</a> of 2021 that same month.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;33&#93;</a></sup> Her participation in the 2021 <i>XXL</i> Freshman Cypher was widely mocked across social media and by critics.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;34&#93;</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;35&#93;</a></sup><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;36&#93;</a></sup> Leray was nominated for <a href="/wiki/BET_Award_for_Best_Female_Hip-Hop_Artist" class="mw-redirect" title="BET Award for Best Female Hip-Hop Artist">Best Female Hip-Hop Artist</a> and <a href="/wiki/BET_Award_for_Best_New_Artist" title="BET Award for Best New Artist">Best New Artist</a> at the <a href="/wiki/BET_Awards_2021" title="BET Awards 2021">BET Awards 2021</a>.<sup id="cite_ref-:1_38-0" class="reference"><a href="#cite_note-:1-38">&#91;37&#93;</a></sup> She also appeared on the song "Ocean Prime" from <a href="/wiki/Bfb_Da_Packman" title="Bfb Da Packman">Bfb Da Packman</a>'s debut album, <i>Fat Niggas Need Love Too</i>, in June 2021.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;38&#93;</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;39&#93;</a></sup>
+</p><p>In July 2021, Leray was featured on the remix of <a href="/wiki/Sleepy_Hallow" title="Sleepy Hallow">Sleepy Hallow</a>'s "<a href="/wiki/2055_(song)" title="2055 (song)">2055</a>", and appeared on the single "What U Want" with Lil Xxel and <a href="/wiki/Tyga" title="Tyga">Tyga</a>.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;40&#93;</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;41&#93;</a></sup> She released the single "Okay Yeah!" in August 2021.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;42&#93;</a></sup> In September 2021, she released the single "Twinnem" with a music video for the song.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;43&#93;</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;44&#93;</a></sup> The song went viral on TikTok, and a remix of the song featuring <a href="/wiki/DaBaby" title="DaBaby">DaBaby</a> was released in November 2021.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;45&#93;</a></sup> Also in September, she began touring as an opening act for <a href="/wiki/Lil_Baby" title="Lil Baby">Lil Baby</a>'s The Back Outside Tour alongside Lil Durk.<sup id="cite_ref-highsnobiety_12-2" class="reference"><a href="#cite_note-highsnobiety-12">&#91;11&#93;</a></sup> She was featured on Lonr's song "Cuffin" from his mixtape <i>Land of Nothing Real 2</i> in October 2021.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;46&#93;</a></sup> At the <a href="/wiki/2021_BET_Hip_Hop_Awards" title="2021 BET Hip Hop Awards">2021 BET Hip Hop Awards</a>, she was nominated for Best New Hip Hop Artist.<sup id="cite_ref-:0_48-0" class="reference"><a href="#cite_note-:0-48">&#91;47&#93;</a></sup>
+</p><p>On March 18, 2022, Leray released a collaboration with <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a> "<a href="/wiki/Blick_Blick" title="Blick Blick">Blick Blick</a>", which debuted and peaked at number 37 on the <i>Billboard</i> Hot 100. Leray released her debut studio album, <i><a href="/wiki/Trendsetter_(Coi_Leray_album)" title="Trendsetter (Coi Leray album)">Trendsetter</a></i>, on April 8, 2022. It includes collaborations with <a href="/wiki/Yung_Bleu" title="Yung Bleu">Yung Bleu</a>, <a href="/wiki/Fivio_Foreign" title="Fivio Foreign">Fivio Foreign</a>, <a href="/wiki/Young_M.A" title="Young M.A">Young M.A</a>, <a href="/wiki/G_Herbo" title="G Herbo">G Herbo</a>, <a href="/wiki/H.E.R." title="H.E.R.">H.E.R.</a>, <a href="/wiki/Nav_(rapper)" title="Nav (rapper)">Nav</a>, <a href="/wiki/Polo_G" title="Polo G">Polo G</a>, <a href="/wiki/Lil_Tecca" title="Lil Tecca">Lil Tecca</a>, and <a href="/wiki/A_Boogie_wit_da_Hoodie" title="A Boogie wit da Hoodie">A Boogie wit da Hoodie</a>, among others.<sup id="cite_ref-flauntint_49-0" class="reference"><a href="#cite_note-flauntint-49">&#91;48&#93;</a></sup><sup id="cite_ref-latimes_50-0" class="reference"><a href="#cite_note-latimes-50">&#91;49&#93;</a></sup>
+</p><p>In 2022, Leray released "<a href="/wiki/Players_(song)" title="Players (song)">Players</a>", which became her first solo song to make <i>Billboard'</i>s Hot 100 list, and first top 10 hit where it peaked at #9 in 2023. The song benefited from some remixes including a <a href="/wiki/Jersey_club" title="Jersey club">Jersey club</a> remix from DJ Smallz 732.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;50&#93;</a></sup>
+</p><p>In January 2023, Leray collaborated on one of the songs of <a href="/wiki/Tomorrow_X_Together" title="Tomorrow X Together">Tomorrow X Together</a>'s 5th mini album, <a href="/wiki/The_Name_Chapter:_Temptation" title="The Name Chapter: Temptation">The Name Chapter: Temptation</a>, <a href="/wiki/Happy_Fools" class="mw-redirect" title="Happy Fools">Happy Fools</a>. On 6 April, Leray teamed up with <a href="/wiki/David_Guetta" title="David Guetta">David Guetta</a> and <a href="/wiki/Anne-Marie" title="Anne-Marie">Anne-Marie</a> on the single "<a href="/wiki/Baby_Don%27t_Hurt_Me" title="Baby Don&#39;t Hurt Me">Baby Don't Hurt Me</a>" which samples <a href="/wiki/Haddaway" title="Haddaway">Haddaways's</a> hit "<a href="/wiki/What_Is_Love" title="What Is Love">What Is Love</a>".<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;51&#93;</a></sup> The song peaked at number 48 on the <i>Billboard</i> Hot 100 and number 13 on the UK Singles Chart. She also collaborated on the track "<a href="/wiki/Self_Love_(song)" title="Self Love (song)">Self Love</a>" with <a href="/wiki/Metro_Boomin" title="Metro Boomin">Metro Boomin</a>, included on the <a href="/wiki/Spider-Man:_Across_the_Spider-Verse_(soundtrack)" title="Spider-Man: Across the Spider-Verse (soundtrack)">soundtrack of <i>Spider-Man: Across the Spider-Verse</i></a>. On 23 June 2023, Leray released her second studio album, <i><a href="/wiki/Coi_(album)" title="Coi (album)">Coi</a>.</i><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;52&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coi_Leray&amp;action=edit&amp;section=5" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Montclair_High_School_(Montclair,_NJ).jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/en/thumb/c/cc/Montclair_High_School_%28Montclair%2C_NJ%29.jpg/220px-Montclair_High_School_%28Montclair%2C_NJ%29.jpg" decoding="async" width="220" height="147" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cc/Montclair_High_School_%28Montclair%2C_NJ%29.jpg/330px-Montclair_High_School_%28Montclair%2C_NJ%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cc/Montclair_High_School_%28Montclair%2C_NJ%29.jpg/440px-Montclair_High_School_%28Montclair%2C_NJ%29.jpg 2x" data-file-width="2496" data-file-height="1664" /></a><figcaption>Leray received an honorary diploma from <a href="/wiki/Montclair_High_School_(New_Jersey)" title="Montclair High School (New Jersey)">Montclair High School</a> (<i>pictured</i>) in 2021</figcaption></figure>
+<p>Leray has cited <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a>, <a href="/wiki/Lady_Gaga" title="Lady Gaga">Lady Gaga</a>, <a href="/wiki/Avril_Lavigne" title="Avril Lavigne">Avril Lavigne</a>, <a href="/wiki/Doja_Cat" title="Doja Cat">Doja Cat</a>, <a href="/wiki/Bon_Jovi" title="Bon Jovi">Bon Jovi</a>, <a href="/wiki/Chief_Keef" title="Chief Keef">Chief Keef</a>, <a href="/wiki/Chris_Brown" title="Chris Brown">Chris Brown</a>, <a href="/wiki/Slick_Woods" title="Slick Woods">Slick Woods</a>, and Jazzelle Zanaughtti as inspirations.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;53&#93;</a></sup><sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;54&#93;</a></sup><sup id="cite_ref-paperrappers_10-1" class="reference"><a href="#cite_note-paperrappers-10">&#91;9&#93;</a></sup><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;55&#93;</a></sup><sup id="cite_ref-latimes_50-1" class="reference"><a href="#cite_note-latimes-50">&#91;49&#93;</a></sup> In 2021, Leray received an <a href="/wiki/Honorary_degree" title="Honorary degree">honorary</a> <a href="/wiki/Diploma" title="Diploma">diploma</a> from <a href="/wiki/Montclair_High_School_(New_Jersey)" title="Montclair High School (New Jersey)">Montclair High School</a> in <a href="/wiki/Montclair,_New_Jersey" title="Montclair, New Jersey">Montclair, New Jersey</a>.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;56&#93;</a></sup> As of 2021, she lives in <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>.<sup id="cite_ref-latimes_50-2" class="reference"><a href="#cite_note-latimes-50">&#91;49&#93;</a></sup><sup id="cite_ref-nj.com_2-1" class="reference"><a href="#cite_note-nj.com-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coi_Leray&amp;action=edit&amp;section=6" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Coi_Leray_discography" title="Coi Leray discography">Coi Leray discography</a></div>
+<ul><li><i><a href="/wiki/Trendsetter_(Coi_Leray_album)" title="Trendsetter (Coi Leray album)">Trendsetter</a></i> (2022)</li>
+<li><i><a href="/wiki/Coi_(album)" title="Coi (album)">Coi</a></i> (2023)</li></ul>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coi_Leray&amp;action=edit&amp;section=7" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Award
+</th>
+<th>Year
+</th>
+<th>Nominee
+</th>
+<th>Category
+</th>
+<th>Result
+</th>
+<th>Ref
+</th></tr>
+<tr>
+<td rowspan="4"><a href="/wiki/BET_Awards" title="BET Awards">BET Awards</a>
+</td>
+<td rowspan="2">2021
+</td>
+<td rowspan="3">Herself
+</td>
+<td>Best New Artist
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td>
+<td rowspan="2"><sup id="cite_ref-:1_38-1" class="reference"><a href="#cite_note-:1-38">&#91;37&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">Best Female Hip hop Artist
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td rowspan="2">2023
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td>
+<td rowspan="2"><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">&#91;57&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Players_(song)" title="Players (song)">Players</a>"
+</td>
+<td>BET Her
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td rowspan="6"><a href="/wiki/BET_Hip_Hop_Awards" title="BET Hip Hop Awards">BET Hip Hop Awards</a>
+</td>
+<td>2021
+</td>
+<td>Herself
+</td>
+<td>Best New Hip hop Artist
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td>
+<td><sup id="cite_ref-:0_48-1" class="reference"><a href="#cite_note-:0-48">&#91;47&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="5">2023
+</td>
+<td>"Players"
+</td>
+<td>Song of the Year
+</td>
+<td style="background: #FFD; vertical-align: middle; text-align: center;" class="partial table-partial">Pending
+</td>
+<td rowspan="5"><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">&#91;58&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"Players" (DJ Smallz 732 Remix)
+</td>
+<td>Best Hip hop Video
+</td>
+<td style="background: #FFD; vertical-align: middle; text-align: center;" class="partial table-partial">Pending
+</td></tr>
+<tr>
+<td>"Players" (DJ Saige Remix)
+</td>
+<td>Best Collaboration
+</td>
+<td style="background: #FFD; vertical-align: middle; text-align: center;" class="partial table-partial">Pending
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Coi_(album)" title="Coi (album)">Coi</a></i>
+</td>
+<td>Hip hop Album of the Year
+</td>
+<td style="background: #FFD; vertical-align: middle; text-align: center;" class="partial table-partial">Pending
+</td></tr>
+<tr>
+<td rowspan="2">Herself
+</td>
+<td>Best Live Performer
+</td>
+<td style="background: #FFD; vertical-align: middle; text-align: center;" class="partial table-partial">Pending
+</td></tr>
+<tr>
+<td><a href="/wiki/IHeartRadio_Music_Awards" title="IHeartRadio Music Awards">iHeartRadio Music Awards</a>
+</td>
+<td>2022
+</td>
+<td>Best New Hip hop Artist
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td>
+<td><sup id="cite_ref-60" class="reference"><a href="#cite_note-60">&#91;59&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coi_Leray&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-lower-alpha">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">According to Collins herself, her real name is Coi Leray Collins;<sup id="cite_ref-interview_3-0" class="reference"><a href="#cite_note-interview-3">&#91;3&#93;</a></sup> other sources cite her name as <b>Brittany Collins</b>.<sup id="cite_ref-blair_4-0" class="reference"><a href="#cite_note-blair-4">&#91;4&#93;</a></sup></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coi_Leray&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734"><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-xxlbreak-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-xxlbreak_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xxlbreak_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-xxlbreak_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFSeabrook_III2019" class="citation web cs1">Seabrook III, Robby (June 26, 2019). <a rel="nofollow" class="external text" href="https://www.xxlmag.com/coi-leray-interview-the-break/">"The Break Presents: Coi Leray"</a>. <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=The+Break+Presents%3A+Coi+Leray&amp;rft.date=2019-06-26&amp;rft.aulast=Seabrook+III&amp;rft.aufirst=Robby&amp;rft_id=https%3A%2F%2Fwww.xxlmag.com%2Fcoi-leray-interview-the-break%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-nj.com-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-nj.com_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nj.com_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFOlivier2021" class="citation web cs1">Olivier, Bobby (August 20, 2021). <a rel="nofollow" class="external text" href="https://www.nj.com/entertainment/2021/08/njs-coi-leray-has-only-just-begun-her-superstar-moment.html">"N.J.'s Coi Leray has only just begun her superstar moment"</a>. <i><a href="/wiki/NJ.com" title="NJ.com">NJ.com</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NJ.com&amp;rft.atitle=N.J.%27s+Coi+Leray+has+only+just+begun+her+superstar+moment&amp;rft.date=2021-08-20&amp;rft.aulast=Olivier&amp;rft.aufirst=Bobby&amp;rft_id=https%3A%2F%2Fwww.nj.com%2Fentertainment%2F2021%2F08%2Fnjs-coi-leray-has-only-just-begun-her-superstar-moment.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-interview-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-interview_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=mB9mGDxlY6o">"Coi Leray How To Pronounce My Name Correctly (part 1)"</a>. <i><a href="/wiki/YouTube" title="YouTube">YouTube</a></i>. March 19, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">May 30,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=YouTube&amp;rft.atitle=Coi+Leray+How+To+Pronounce+My+Name+Correctly+%28part+1%29&amp;rft.date=2021-03-19&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmB9mGDxlY6o&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-blair-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-blair_4-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlair2021" class="citation web cs1">Blair, Robert (May 7, 2021). <a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/coi-leray-and-benzinos-family-history-and-beef-explained-news.131113.html">"Coi Leray &amp; Benzino's Family History &amp; Beef, Explained"</a>. <i>HotNewHipHop</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 27,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Coi+Leray+%26+Benzino%27s+Family+History+%26+Beef%2C+Explained&amp;rft.date=2021-05-07&amp;rft.aulast=Blair&amp;rft.aufirst=Robert&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fcoi-leray-and-benzinos-family-history-and-beef-explained-news.131113.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/charts/hot-100/2023-04-15/">"Billboard Hot 100: Week of April 15, 2023"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Billboard+Hot+100%3A+Week+of+April+15%2C+2023&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fcharts%2Fhot-100%2F2023-04-15%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/coileray/profile/">"Coi Leray"</a>. <i>HotNewHipHop</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Coi+Leray&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fcoileray%2Fprofile%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-office-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-office_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCheng2019" class="citation web cs1">Cheng, Vivian (December 20, 2019). <a rel="nofollow" class="external text" href="http://officemagazine.net/year-coi">"Year of the Coi"</a>. <i>Office Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Magazine&amp;rft.atitle=Year+of+the+Coi&amp;rft.date=2019-12-20&amp;rft.aulast=Cheng&amp;rft.aufirst=Vivian&amp;rft_id=http%3A%2F%2Fofficemagazine.net%2Fyear-coi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-law-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-law_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-law_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-law_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJu2019" class="citation web cs1">Ju, Shirley (February 21, 2019). <a rel="nofollow" class="external text" href="https://www.laweekly.com/coi-leray-is-feeling-cozy-with-her-fame/">"Coi Leray Is Feeling Cozy With Her Fame"</a>. <i><a href="/wiki/LA_Weekly" title="LA Weekly">LA Weekly</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 12,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LA+Weekly&amp;rft.atitle=Coi+Leray+Is+Feeling+Cozy+With+Her+Fame&amp;rft.date=2019-02-21&amp;rft.aulast=Ju&amp;rft.aufirst=Shirley&amp;rft_id=https%3A%2F%2Fwww.laweekly.com%2Fcoi-leray-is-feeling-cozy-with-her-fame%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-paperrappers-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-paperrappers_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-paperrappers_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSmith2019" class="citation web cs1">Smith, Talia Tabatha Binx (February 28, 2019). <a rel="nofollow" class="external text" href="https://www.papermag.com/women-in-hip-hop-2019-2629056759.html?rebelltitem=52#rebelltitem52">"Women in Hip-Hop: The Voices of Our Generation"</a>. <i><a href="/wiki/Paper_(magazine)" title="Paper (magazine)">Paper</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Paper&amp;rft.atitle=Women+in+Hip-Hop%3A+The+Voices+of+Our+Generation&amp;rft.date=2019-02-28&amp;rft.aulast=Smith&amp;rft.aufirst=Talia+Tabatha+Binx&amp;rft_id=https%3A%2F%2Fwww.papermag.com%2Fwomen-in-hip-hop-2019-2629056759.html%3Frebelltitem%3D52%23rebelltitem52&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-betfetty-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-betfetty_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-betfetty_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bet.com/music/2020/06/16/coi-leray-on-fetty-wap-better-days-collab.html">"Coi Leray On Fetty Wap 'Better Days' Collab And Why It's Special To Be A Woman Rapper Now"</a>. <i><a href="/wiki/BET" title="BET">BET</a></i>. June 16, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">April 12,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BET&amp;rft.atitle=Coi+Leray+On+Fetty+Wap+%27Better+Days%27+Collab+And+Why+It%27s+Special+To+Be+A+Woman+Rapper+Now&amp;rft.date=2020-06-16&amp;rft_id=https%3A%2F%2Fwww.bet.com%2Fmusic%2F2020%2F06%2F16%2Fcoi-leray-on-fetty-wap-better-days-collab.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-highsnobiety-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-highsnobiety_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-highsnobiety_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-highsnobiety_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAlston2021" class="citation web cs1">Alston, Trey (November 11, 2021). <a rel="nofollow" class="external text" href="https://www.highsnobiety.com/p/coi-leray-interview/">"Try As You Might, You Can't Stop Coi Leray"</a>. <i><a href="/wiki/Highsnobiety" title="Highsnobiety">Highsnobiety</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 13,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Highsnobiety&amp;rft.atitle=Try+As+You+Might%2C+You+Can%27t+Stop+Coi+Leray&amp;rft.date=2021-11-11&amp;rft.aulast=Alston&amp;rft.aufirst=Trey&amp;rft_id=https%3A%2F%2Fwww.highsnobiety.com%2Fp%2Fcoi-leray-interview%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-hotnewhiphop.com-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-hotnewhiphop.com_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/coi-leray-and-benzinos-family-history-and-beef-explained-news.131113.html">"Coi Leray &amp; Benzino's Family History &amp; Beef, Explained"</a>. <i>HotNewHipHop</i>. May 7, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">September 7,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Coi+Leray+%26+Benzino%27s+Family+History+%26+Beef%2C+Explained&amp;rft.date=2021-05-07&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fcoi-leray-and-benzinos-family-history-and-beef-explained-news.131113.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-bbfame-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-bbfame_14-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCho2019" class="citation magazine cs1">Cho, Regina (January 18, 2019). <a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/hip-hop/8494039/coi-leray-interview-republic-records-deal">"Coi Leray On Her Rise to Fame &amp; Deal With Republic Records: Exclusive"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Coi+Leray+On+Her+Rise+to+Fame+%26+Deal+With+Republic+Records%3A+Exclusive&amp;rft.date=2019-01-18&amp;rft.aulast=Cho&amp;rft.aufirst=Regina&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F8494039%2Fcoi-leray-interview-republic-records-deal&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFChin2018" class="citation web cs1">Chin, Mallory (December 23, 2018). <a rel="nofollow" class="external text" href="https://hypebeast.com/2018/12/trippie-redd-lifes-a-trip-tour-dates">"Trippie Redd Announces 'Life's A Trip' Tour"</a>. <i>Hypebeast</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hypebeast&amp;rft.atitle=Trippie+Redd+Announces+%27Life%27s+A+Trip%27+Tour&amp;rft.date=2018-12-23&amp;rft.aulast=Chin&amp;rft.aufirst=Mallory&amp;rft_id=https%3A%2F%2Fhypebeast.com%2F2018%2F12%2Ftrippie-redd-lifes-a-trip-tour-dates&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJu2019" class="citation web cs1">Ju, Shirley (September 17, 2019). <a rel="nofollow" class="external text" href="https://www.revolt.tv/2019/9/17/20870915/trippie-redd-music-xxxtentacion-interview">"Trippie Redd talks new '!' album, XXXTentacion, Lil Wayne, Coi Leray relationship and more"</a>. <i><a href="/wiki/Revolt_(TV_network)" title="Revolt (TV network)">Revolt</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Revolt&amp;rft.atitle=Trippie+Redd+talks+new+%27%21%27+album%2C+XXXTentacion%2C+Lil+Wayne%2C+Coi+Leray+relationship+and+more&amp;rft.date=2019-09-17&amp;rft.aulast=Ju&amp;rft.aufirst=Shirley&amp;rft_id=https%3A%2F%2Fwww.revolt.tv%2F2019%2F9%2F17%2F20870915%2Ftrippie-redd-music-xxxtentacion-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMarie2020" class="citation web cs1">Marie, Erika (May 15, 2020). <a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/keke-palmer-calls-on-coi-leray-for-sticky-remix-new-song.1987231.html">"Keke Palmer Calls On Coi Leray For "Sticky" Remix"</a>. <i>HotNewHipHop</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Keke+Palmer+Calls+On+Coi+Leray+For+%22Sticky%22+Remix&amp;rft.date=2020-05-15&amp;rft.aulast=Marie&amp;rft.aufirst=Erika&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fkeke-palmer-calls-on-coi-leray-for-sticky-remix-new-song.1987231.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-bbrookie-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-bbrookie_18-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRouhani2021" class="citation magazine cs1">Rouhani, Neena (April 8, 2021). <a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/hip-hop/9553477/coi-leray-interview-hip-hop-rookie-of-the-month">"Billboard's R&amp;B/Hip-Hop Rookie of the Month for April: Coi Leray"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Billboard%27s+R%26B%2FHip-Hop+Rookie+of+the+Month+for+April%3A+Coi+Leray&amp;rft.date=2021-04-08&amp;rft.aulast=Rouhani&amp;rft.aufirst=Neena&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F9553477%2Fcoi-leray-interview-hip-hop-rookie-of-the-month&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFEspinoza2021" class="citation web cs1">Espinoza, Joshua (March 11, 2021). <a rel="nofollow" class="external text" href="https://www.complex.com/music/coi-leray-lil-durk-no-more-parties-remix-video">"Watch Coi Leray's Video for "No More Parties" Remix f/ Lil Durk"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Watch+Coi+Leray%27s+Video+for+%22No+More+Parties%22+Remix+f%2F+Lil+Durk&amp;rft.date=2021-03-11&amp;rft.aulast=Espinoza&amp;rft.aufirst=Joshua&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fcoi-leray-lil-durk-no-more-parties-remix-video&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJefferson2021" class="citation web cs1">Jefferson, Devon (May 8, 2021). <a rel="nofollow" class="external text" href="https://hiphopdx.com/news/id.62017/title.coi-leray-extends-reign-with-bout-me-single-amid-no-more-parties-plaque">"Coi Leray Extends Reign With 'Bout Me' Single Amid 'No More Parties' Plaque"</a>. <i>HipHopDX</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Coi+Leray+Extends+Reign+With+%27Bout+Me%27+Single+Amid+%27No+More+Parties%27+Plaque&amp;rft.date=2021-05-08&amp;rft.aulast=Jefferson&amp;rft.aufirst=Devon&amp;rft_id=https%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.62017%2Ftitle.coi-leray-extends-reign-with-bout-me-single-amid-no-more-parties-plaque&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCallas2021" class="citation web cs1">Callas, Brad (March 26, 2021). <a rel="nofollow" class="external text" href="https://www.complex.com/music/pooh-shiesty-coi-leray-big-purr">"Pooh Shiesty Joins Coi Leray on New Song "Big Purr (Prrdd)"<span class="cs1-kern-right"></span>"</a>. <i><a href="/wiki/Complex_Networks" title="Complex Networks">Complex</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Pooh+Shiesty+Joins+Coi+Leray+on+New+Song+%22Big+Purr+%28Prrdd%29%22&amp;rft.date=2021-03-26&amp;rft.aulast=Callas&amp;rft.aufirst=Brad&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fpooh-shiesty-coi-leray-big-purr&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSaponara2021" class="citation web cs1">Saponara, Michael (April 9, 2021). <a rel="nofollow" class="external text" href="https://hiphopdx.com/news/id.61500/title.coi-leray-gets-1m-instagram-big-prrdd-likes-with-slow-motion-twerk">"Coi Leray Gets 1M Instagram 'Big Prrdd' Likes With Slow-Motion Twerk"</a>. <i>HipHopDX</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Coi+Leray+Gets+1M+Instagram+%27Big+Prrdd%27+Likes+With+Slow-Motion+Twerk&amp;rft.date=2021-04-09&amp;rft.aulast=Saponara&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.61500%2Ftitle.coi-leray-gets-1m-instagram-big-prrdd-likes-with-slow-motion-twerk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFOkon2021" class="citation web cs1">Okon, Wongo (April 7, 2021). <a rel="nofollow" class="external text" href="https://uproxx.com/music/mooski-track-star-video-coi-leray/">"Mooski's 'Track Star' Video Stars Coi Leray As His On-And-Off Lover"</a>. <i><a href="/wiki/Uproxx" title="Uproxx">Uproxx</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Uproxx&amp;rft.atitle=Mooski%27s+%27Track+Star%27+Video+Stars+Coi+Leray+As+His+On-And-Off+Lover&amp;rft.date=2021-04-07&amp;rft.aulast=Okon&amp;rft.aufirst=Wongo&amp;rft_id=https%3A%2F%2Fuproxx.com%2Fmusic%2Fmooski-track-star-video-coi-leray%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-postbenz-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-postbenz_24-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFClark2021" class="citation web cs1">Clark, Trent (April 3, 2021). <a rel="nofollow" class="external text" href="https://hiphopdx.com/news/id.61405/title.coi-lerays-no-more-parties-goes-gold-post-benzino-drama-lil-durk-remix">"Coi Leray's 'No More Parties' Goes Gold Post-Benzino Drama, Lil Durk Remix"</a>. <i><a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 12,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Coi+Leray%27s+%27No+More+Parties%27+Goes+Gold+Post-Benzino+Drama%2C+Lil+Durk+Remix&amp;rft.date=2021-04-03&amp;rft.aulast=Clark&amp;rft.aufirst=Trent&amp;rft_id=https%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.61405%2Ftitle.coi-lerays-no-more-parties-goes-gold-post-benzino-drama-lil-durk-remix&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFZemler2021" class="citation magazine cs1">Zemler, Emily (April 30, 2021). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-news/coi-leray-no-more-parties-fallon-1163395/">"Coi Leray Makes TV Debut With 'No More Parties' on 'Fallon'<span class="cs1-kern-right"></span>"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Coi+Leray+Makes+TV+Debut+With+%27No+More+Parties%27+on+%27Fallon%27&amp;rft.date=2021-04-30&amp;rft.aulast=Zemler&amp;rft.aufirst=Emily&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2Fcoi-leray-no-more-parties-fallon-1163395%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCho2021" class="citation web cs1">Cho, Regina (May 21, 2021). <a rel="nofollow" class="external text" href="https://www.revolt.tv/new-music/2021/5/21/22447429/pressa-remix-attachments-video">"Pressa and Coi Leray link up for "Attachments (Remix)" video"</a>. <i>Revolt</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Revolt&amp;rft.atitle=Pressa+and+Coi+Leray+link+up+for+%22Attachments+%28Remix%29%22+video&amp;rft.date=2021-05-21&amp;rft.aulast=Cho&amp;rft.aufirst=Regina&amp;rft_id=https%3A%2F%2Fwww.revolt.tv%2Fnew-music%2F2021%2F5%2F21%2F22447429%2Fpressa-remix-attachments-video&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMahadevan2021" class="citation web cs1">Mahadevan, Tara C. (May 7, 2021). <a rel="nofollow" class="external text" href="https://www.complex.com/music/coi-leray-bout-me-stream">"Listen to Coi Leray's New Song "Bout Me"<span class="cs1-kern-right"></span>"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Listen+to+Coi+Leray%27s+New+Song+%22Bout+Me%22&amp;rft.date=2021-05-07&amp;rft.aulast=Mahadevan&amp;rft.aufirst=Tara+C.&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fcoi-leray-bout-me-stream&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWilliams2021" class="citation web cs1">Williams, Aaron (June 16, 2021). <a rel="nofollow" class="external text" href="https://uproxx.com/music/earthgang-options-remix-video-coi-leray-wale/">"Watch Earthgang's Wild 'Options Remix' Video With Coi Leray And Wale"</a>. <i>Uproxx</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Uproxx&amp;rft.atitle=Watch+Earthgang%27s+Wild+%27Options+Remix%27+Video+With+Coi+Leray+And+Wale&amp;rft.date=2021-06-16&amp;rft.aulast=Williams&amp;rft.aufirst=Aaron&amp;rft_id=https%3A%2F%2Fuproxx.com%2Fmusic%2Fearthgang-options-remix-video-coi-leray-wale%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFitzgerald2021" class="citation web cs1">Fitzgerald, Trent (May 21, 2021). <a rel="nofollow" class="external text" href="https://www.xxlmag.com/nicki-minaj-polo-g-defend-coi-leray-backlash-performance/">"Nicki Minaj, Polo G Defend Coi Leray After She Receives Backlash for Her Live Performance"</a>. <i>XXL</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL&amp;rft.atitle=Nicki+Minaj%2C+Polo+G+Defend+Coi+Leray+After+She+Receives+Backlash+for+Her+Live+Performance&amp;rft.date=2021-05-21&amp;rft.aulast=Fitzgerald&amp;rft.aufirst=Trent&amp;rft_id=https%3A%2F%2Fwww.xxlmag.com%2Fnicki-minaj-polo-g-defend-coi-leray-backlash-performance%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlanchet2021" class="citation web cs1">Blanchet, Brenton (July 25, 2021). <a rel="nofollow" class="external text" href="https://www.complex.com/music/coi-leray-rolling-loud-response">"Coi Leray Responds to People Criticizing Her Rolling Loud Set"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Coi+Leray+Responds+to+People+Criticizing+Her+Rolling+Loud+Set&amp;rft.date=2021-07-25&amp;rft.aulast=Blanchet&amp;rft.aufirst=Brenton&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fcoi-leray-rolling-loud-response&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTigg2021" class="citation web cs1">Tigg, FNR (June 4, 2021). <a rel="nofollow" class="external text" href="https://www.complex.com/music/rich-the-kid-coi-leray-boss-bitch">"Rich the Kid and Coi Leray Join Forces on New Single "Boss B*tch"<span class="cs1-kern-right"></span>"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Rich+the+Kid+and+Coi+Leray+Join+Forces+on+New+Single+%22Boss+B%2Atch%22&amp;rft.date=2021-06-04&amp;rft.aulast=Tigg&amp;rft.aufirst=FNR&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Frich-the-kid-coi-leray-boss-bitch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRouhaniLee2021" class="citation magazine cs1">Rouhani, Neena; Lee, Cydney (June 29, 2021). <a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/hip-hop/9594226/rb-hip-hop-fresh-picks-est-gee-yn-jay-tobi/">"R&amp;B/Hip-Hop Fresh Picks of the Week: EST Gee, YN Jay, TOBi &amp; More"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=R%26B%2FHip-Hop+Fresh+Picks+of+the+Week%3A+EST+Gee%2C+YN+Jay%2C+TOBi+%26+More&amp;rft.date=2021-06-29&amp;rft.aulast=Rouhani&amp;rft.aufirst=Neena&amp;rft.au=Lee%2C+Cydney&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F9594226%2Frb-hip-hop-fresh-picks-est-gee-yn-jay-tobi%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMahadevan2021" class="citation web cs1">Mahadevan, Tara C. (June 25, 2021). <a rel="nofollow" class="external text" href="https://www.complex.com/music/coi-leray-kodak-black-mustard-at-the-top-stream">"Coi Leray Taps Kodak Black and Mustard for New Track "At the Top"<span class="cs1-kern-right"></span>"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Coi+Leray+Taps+Kodak+Black+and+Mustard+for+New+Track+%22At+the+Top%22&amp;rft.date=2021-06-25&amp;rft.aulast=Mahadevan&amp;rft.aufirst=Tara+C.&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fcoi-leray-kodak-black-mustard-at-the-top-stream&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://pitchfork.com/news/xxl-2021-freshman-class-flo-milli-coi-leray-pooh-shiesty-42-dugg-iann-dior-and-more/">"XXL 2021 Freshman Class: Flo Milli, Coi Leray, Pooh Shiesty, 42 Dugg, Iann Dior, and More"</a>. <i><a href="/wiki/Pitchfork_(website)" title="Pitchfork (website)">Pitchfork</a></i>. June 16, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork&amp;rft.atitle=XXL+2021+Freshman+Class%3A+Flo+Milli%2C+Coi+Leray%2C+Pooh+Shiesty%2C+42+Dugg%2C+Iann+Dior%2C+and+More&amp;rft.date=2021-06-16&amp;rft_id=https%3A%2F%2Fpitchfork.com%2Fnews%2Fxxl-2021-freshman-class-flo-milli-coi-leray-pooh-shiesty-42-dugg-iann-dior-and-more%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.rap-up.com/2021/07/13/coi-leray-xxl-freshman-cypher/">"Watch Coi Leray's XXL Freshman Cypher"</a>. <i><a href="/wiki/Rap-Up" title="Rap-Up">Rap-Up</a></i>. July 13, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rap-Up&amp;rft.atitle=Watch+Coi+Leray%27s+XXL+Freshman+Cypher&amp;rft.date=2021-07-13&amp;rft_id=https%3A%2F%2Fwww.rap-up.com%2F2021%2F07%2F13%2Fcoi-leray-xxl-freshman-cypher%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWilliams2021" class="citation web cs1">Williams, Aaron (July 13, 2021). <a rel="nofollow" class="external text" href="https://uproxx.com/music/coi-leray-xxl-freshman-cypher-verse-fan-reactions/">"Coi Leray's Baffling 'XXL' Freshman Cypher Verse Draws Fire From Fans"</a>. <i><a href="/wiki/Uproxx" title="Uproxx">Uproxx</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Uproxx&amp;rft.atitle=Coi+Leray%27s+Baffling+%27XXL%27+Freshman+Cypher+Verse+Draws+Fire+From+Fans&amp;rft.date=2021-07-13&amp;rft.aulast=Williams&amp;rft.aufirst=Aaron&amp;rft_id=https%3A%2F%2Fuproxx.com%2Fmusic%2Fcoi-leray-xxl-freshman-cypher-verse-fan-reactions%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLee2021" class="citation web cs1">Lee, Cydney (July 15, 2021). <a rel="nofollow" class="external text" href="https://www.vulture.com/2021/07/xxl-debuts-freshman-cypher-inspired-by-fxs-dave.html">"XXL Debuts Freshman Cypher Inspired by FX's Dave (?)"</a>. <i><a href="/wiki/New_York_(magazine)#Vulture" title="New York (magazine)">Vulture</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vulture&amp;rft.atitle=XXL+Debuts+Freshman+Cypher+Inspired+by+FX%27s+Dave+%28%3F%29&amp;rft.date=2021-07-15&amp;rft.aulast=Lee&amp;rft.aufirst=Cydney&amp;rft_id=https%3A%2F%2Fwww.vulture.com%2F2021%2F07%2Fxxl-debuts-freshman-cypher-inspired-by-fxs-dave.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_38-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFClark2021" class="citation web cs1">Clark, Anne Victoria (June 27, 2021). <a rel="nofollow" class="external text" href="https://www.vulture.com/2021/06/2021-bet-awards-winners-the-full-list.html">"Megan Thee Stallion Leads the 2021 BET Awards Winners"</a>. <i>Vulture</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vulture&amp;rft.atitle=Megan+Thee+Stallion+Leads+the+2021+BET+Awards+Winners&amp;rft.date=2021-06-27&amp;rft.aulast=Clark&amp;rft.aufirst=Anne+Victoria&amp;rft_id=https%3A%2F%2Fwww.vulture.com%2F2021%2F06%2F2021-bet-awards-winners-the-full-list.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMahadevan2021" class="citation web cs1">Mahadevan, Tara C. (June 25, 2021). <a rel="nofollow" class="external text" href="https://www.complex.com/music/bfb-da-packman-debut-album">"BfB Da Packman Shares Album 'Fat N****s Need Love Too' f/ Benny the Butcher, Coi Leray, Sada Baby, and More"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=BfB+Da+Packman+Shares+Album+%27Fat+N%2A%2A%2A%2As+Need+Love+Too%27+f%2F+Benny+the+Butcher%2C+Coi+Leray%2C+Sada+Baby%2C+and+More&amp;rft.date=2021-06-25&amp;rft.aulast=Mahadevan&amp;rft.aufirst=Tara+C.&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fbfb-da-packman-debut-album&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPierre2021" class="citation web cs1">Pierre, Alphonse (June 30, 2021). <a rel="nofollow" class="external text" href="https://pitchfork.com/reviews/albums/bfb-da-packman-fat-niggas-need-love-too/">"Bfb Da Packman&#160;: Fat N****s Need Love Too"</a>. <i>Pitchfork</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork&amp;rft.atitle=Bfb+Da+Packman+%3A+Fat+N%2A%2A%2A%2As+Need+Love+Too&amp;rft.date=2021-06-30&amp;rft.aulast=Pierre&amp;rft.aufirst=Alphonse&amp;rft_id=https%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2Fbfb-da-packman-fat-niggas-need-love-too%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMartinez2021" class="citation web cs1">Martinez, Jose (May 30, 2021). <a rel="nofollow" class="external text" href="https://www.complex.com/music/sleepy-hallow-coi-leray-2055-remix">"Sleepy Hallow Enlists Coi Leray for "2055" Remix"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Sleepy+Hallow+Enlists+Coi+Leray+for+%222055%22+Remix&amp;rft.date=2021-05-30&amp;rft.aulast=Martinez&amp;rft.aufirst=Jose&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fsleepy-hallow-coi-leray-2055-remix&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWeinberg2021" class="citation web cs1">Weinberg, Lindsay (July 23, 2021). <a rel="nofollow" class="external text" href="https://www.eonline.com/news/1292271/the-mixtape-presents-lil-nas-x-camila-cabello-khalid-and-more-new-music-musts">"The MixtapE! Presents Lil Nas X, Camila Cabello, Khalid and More New Music Musts"</a>. <i>E! Online</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=E%21+Online&amp;rft.atitle=The+MixtapE%21+Presents+Lil+Nas+X%2C+Camila+Cabello%2C+Khalid+and+More+New+Music+Musts&amp;rft.date=2021-07-23&amp;rft.aulast=Weinberg&amp;rft.aufirst=Lindsay&amp;rft_id=https%3A%2F%2Fwww.eonline.com%2Fnews%2F1292271%2Fthe-mixtape-presents-lil-nas-x-camila-cabello-khalid-and-more-new-music-musts&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMoran2021" class="citation web cs1">Moran, Justin (September 11, 2021). <a rel="nofollow" class="external text" href="https://www.papermag.com/coi-leray-moschino-2654991624.html?rebelltitem=16#rebelltitem16">"Getting Fitted With Coi Leray for Moschino"</a>. <i>Paper</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Paper&amp;rft.atitle=Getting+Fitted+With+Coi+Leray+for+Moschino&amp;rft.date=2021-09-11&amp;rft.aulast=Moran&amp;rft.aufirst=Justin&amp;rft_id=https%3A%2F%2Fwww.papermag.com%2Fcoi-leray-moschino-2654991624.html%3Frebelltitem%3D16%23rebelltitem16&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLeeRouhani2021" class="citation magazine cs1">Lee, Cydney; Rouhani, Neena (September 21, 2021). <a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/hip-hop/9632871/rb-hip-hop-fresh-picks-coi-leray-amaarae">"R&amp;B/Hip-Hop Fresh Picks of the Week: Coi Leray, Amaarae &amp; More"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=R%26B%2FHip-Hop+Fresh+Picks+of+the+Week%3A+Coi+Leray%2C+Amaarae+%26+More&amp;rft.date=2021-09-21&amp;rft.aulast=Lee&amp;rft.aufirst=Cydney&amp;rft.au=Rouhani%2C+Neena&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F9632871%2Frb-hip-hop-fresh-picks-coi-leray-amaarae&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWilliams2021" class="citation web cs1">Williams, Aaron (September 20, 2021). <a rel="nofollow" class="external text" href="https://uproxx.com/music/coi-leray-twinnem-video/">"Coi Leray 'Twinnem' Video Demands Loyalty And Denounces Yes Men"</a>. <i><a href="/wiki/Uproxx" title="Uproxx">Uproxx</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Uproxx&amp;rft.atitle=Coi+Leray+%27Twinnem%27+Video+Demands+Loyalty+And+Denounces+Yes+Men&amp;rft.date=2021-09-20&amp;rft.aulast=Williams&amp;rft.aufirst=Aaron&amp;rft_id=https%3A%2F%2Fuproxx.com%2Fmusic%2Fcoi-leray-twinnem-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGrant2021" class="citation web cs1">Grant, Shawn (November 10, 2021). <a rel="nofollow" class="external text" href="https://thesource.com/2021/11/10/coi-leray-twinnem-dababy/">"Coi Leray Taps DaBaby for a Remix for Her Viral Hit "Twinnem"<span class="cs1-kern-right"></span>"</a>. <i>The Source</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 13,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Source&amp;rft.atitle=Coi+Leray+Taps+DaBaby+for+a+Remix+for+Her+Viral+Hit+%22Twinnem%22&amp;rft.date=2021-11-10&amp;rft.aulast=Grant&amp;rft.aufirst=Shawn&amp;rft_id=https%3A%2F%2Fthesource.com%2F2021%2F11%2F10%2Fcoi-leray-twinnem-dababy%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLeeRouhani2021" class="citation magazine cs1">Lee, Cydney; Rouhani, Neena (October 4, 2021). <a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/hip-hop/9640120/rb-hip-hop-fresh-picks-chase-b-skip-marley/">"R&amp;B/Hip-Hop Fresh Picks of the Week: Chase B, Skip Marley, Ye Ali &amp; More"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=R%26B%2FHip-Hop+Fresh+Picks+of+the+Week%3A+Chase+B%2C+Skip+Marley%2C+Ye+Ali+%26+More&amp;rft.date=2021-10-04&amp;rft.aulast=Lee&amp;rft.aufirst=Cydney&amp;rft.au=Rouhani%2C+Neena&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F9640120%2Frb-hip-hop-fresh-picks-chase-b-skip-marley%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-48"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_48-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_48-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFNazareno2021" class="citation magazine cs1">Nazareno, Mia (October 5, 2021). <a rel="nofollow" class="external text" href="https://www.billboard.com/articles/news/awards/9640727/2021-bet-hip-hop-awards-winners-list">"2021 BET Hip Hop Awards Winners: Complete List"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=2021+BET+Hip+Hop+Awards+Winners%3A+Complete+List&amp;rft.date=2021-10-05&amp;rft.aulast=Nazareno&amp;rft.aufirst=Mia&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2Fawards%2F9640727%2F2021-bet-hip-hop-awards-winners-list&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-flauntint-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-flauntint_49-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCastillo2021" class="citation web cs1">Castillo, Bree (November 4, 2021). <a rel="nofollow" class="external text" href="https://flaunt.com/content/coi-leray-the-magic-issue">"Coi Leray: The Crystal Ball Says Up Up Up"</a>. <i>Flaunt</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 13,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Flaunt&amp;rft.atitle=Coi+Leray%3A+The+Crystal+Ball+Says+Up+Up+Up&amp;rft.date=2021-11-04&amp;rft.aulast=Castillo&amp;rft.aufirst=Bree&amp;rft_id=https%3A%2F%2Fflaunt.com%2Fcontent%2Fcoi-leray-the-magic-issue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-latimes-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-latimes_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-latimes_50-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-latimes_50-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFExposito2021" class="citation web cs1">Exposito, Suzy (August 25, 2021). <a rel="nofollow" class="external text" href="https://www.latimes.com/entertainment-arts/music/story/2021-08-25/coi-leray-no-more-parties-xxl-freshmen">"Coi Leray keeps stirring up outrage. She wouldn't have it any other way"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Coi+Leray+keeps+stirring+up+outrage.+She+wouldn%27t+have+it+any+other+way&amp;rft.date=2021-08-25&amp;rft.aulast=Exposito&amp;rft.aufirst=Suzy&amp;rft_id=https%3A%2F%2Fwww.latimes.com%2Fentertainment-arts%2Fmusic%2Fstory%2F2021-08-25%2Fcoi-leray-no-more-parties-xxl-freshmen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRaniaLipshutzUnterbergerLeight2023" class="citation magazine cs1">Rania, Aniftos; Lipshutz, Jason; Unterberger, Andrew; Leight, Elias; Rouhani, Neena (March 28, 2023). <a rel="nofollow" class="external text" href="https://www.billboard.com/music/chart-beat/coi-leray-players-top-10-hit-five-burning-questions-1235293852/">"What Does Coi Leray's 'Players' Hitting the Top 10 Mean for Her Career?"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=What+Does+Coi+Leray%27s+%27Players%27+Hitting+the+Top+10+Mean+for+Her+Career%3F&amp;rft.date=2023-03-28&amp;rft.aulast=Rania&amp;rft.aufirst=Aniftos&amp;rft.au=Lipshutz%2C+Jason&amp;rft.au=Unterberger%2C+Andrew&amp;rft.au=Leight%2C+Elias&amp;rft.au=Rouhani%2C+Neena&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fchart-beat%2Fcoi-leray-players-top-10-hit-five-burning-questions-1235293852%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMier2023" class="citation web cs1">Mier, Tomás (April 7, 2023). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-news/david-guetta-anne-marie-coi-leray-baby-dont-hurt-me-1234710930/">"David Guetta Revives Haddaway's 'What Is Love' With the Help of Anne-Marie and Coi Leray"</a>. <i>Rolling Stone</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 28,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=David+Guetta+Revives+Haddaway%27s+%27What+Is+Love%27+With+the+Help+of+Anne-Marie+and+Coi+Leray&amp;rft.date=2023-04-07&amp;rft.aulast=Mier&amp;rft.aufirst=Tom%C3%A1s&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2Fdavid-guetta-anne-marie-coi-leray-baby-dont-hurt-me-1234710930%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKearns2023" class="citation web cs1">Kearns, Sarah (June 23, 2023). <a rel="nofollow" class="external text" href="https://hypebeast.com/2023/6/coi-leray-sophomore-album-coi-stream">"Coi Leray Returns With Her Sophomore Album 'Coi'<span class="cs1-kern-right"></span>"</a>. <i>Hypebeast</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 28,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hypebeast&amp;rft.atitle=Coi+Leray+Returns+With+Her+Sophomore+Album+%E2%80%98Coi%E2%80%99&amp;rft.date=2023-06-23&amp;rft.aulast=Kearns&amp;rft.aufirst=Sarah&amp;rft_id=https%3A%2F%2Fhypebeast.com%2F2023%2F6%2Fcoi-leray-sophomore-album-coi-stream&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.complex.com/music/coi-leray-shuts-down-body-shaming-comments-tweets/">"Coi Leray: 'Is It a Sin to Be Thin?'<span class="cs1-kern-right"></span>"</a>. <i>Complex</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Coi+Leray%3A+%27Is+It+a+Sin+to+Be+Thin%3F%27&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fcoi-leray-shuts-down-body-shaming-comments-tweets%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nylon.com/entertainment/black-musicians-reflect-on-an-influential-album-2021">"19 Black Musicians Reflect On An Influential Album In Their Life"</a>. <i>nylon</i>. February 9, 2021.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nylon&amp;rft.atitle=19+Black+Musicians+Reflect+On+An+Influential+Album+In+Their+Life&amp;rft.date=2021-02-09&amp;rft_id=https%3A%2F%2Fwww.nylon.com%2Fentertainment%2Fblack-musicians-reflect-on-an-influential-album-2021&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMowatt2019" class="citation web cs1">Mowatt, Robyn (March 11, 2019). <a rel="nofollow" class="external text" href="https://hypebae.com/2019/3/coi-leray-interview-baewatch">"BAEwatch: Coi Leray"</a>. <i>Hypebae</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hypebae&amp;rft.atitle=BAEwatch%3A+Coi+Leray&amp;rft.date=2019-03-11&amp;rft.aulast=Mowatt&amp;rft.aufirst=Robyn&amp;rft_id=https%3A%2F%2Fhypebae.com%2F2019%2F3%2Fcoi-leray-interview-baewatch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFElibert2021" class="citation web cs1">Elibert, Mark (June 25, 2021). <a rel="nofollow" class="external text" href="https://hiphopdx.com/news/id.62857/title.coi-leray-celebrates-honorary-diploma-with-republic-records-founders#">"Coi Leray Celebrates Honorary Diploma With Republic Records Founders"</a>. <i><a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Coi+Leray+Celebrates+Honorary+Diploma+With+Republic+Records+Founders&amp;rft.date=2021-06-25&amp;rft.aulast=Elibert&amp;rft.aufirst=Mark&amp;rft_id=https%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.62857%2Ftitle.coi-leray-celebrates-honorary-diploma-with-republic-records-founders%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bet.com/article/0c07vt/bet-announces-the-nominations-for-bet-awards-2023">"The Nominees For 'BET Awards' 2023 Are Here!"</a>. <i>BET</i>. June 8, 2023.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BET&amp;rft.atitle=The+Nominees+For+%27BET+Awards%27+2023+Are+Here%21&amp;rft.date=2023-06-08&amp;rft_id=https%3A%2F%2Fwww.bet.com%2Farticle%2F0c07vt%2Fbet-announces-the-nominations-for-bet-awards-2023&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGrein2023" class="citation web cs1">Grein, Paul (September 7, 2023). <a rel="nofollow" class="external text" href="https://www.billboard.com/music/awards/2023-bet-hip-hop-awards-nominations-full-list-cardi-b-21-savage-1235407999/">"Cardi B &amp; 21 Savage Lead Nominations for 2023 BET Hip Hop Awards: Full List"</a>. <i>Billboard</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Cardi+B+%26+21+Savage+Lead+Nominations+for+2023+BET+Hip+Hop+Awards%3A+Full+List&amp;rft.date=2023-09-07&amp;rft.aulast=Grein&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fawards%2F2023-bet-hip-hop-awards-nominations-full-list-cardi-b-21-savage-1235407999%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.marca.com/en/lifestyle/music/2022/03/23/623a9f1cca4741b47e8b45f3.html">"iHeartRadio Music Awards 2022: Full list of winners"</a>. <i>Marca</i>. March 22, 2022.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Marca&amp;rft.atitle=iHeartRadio+Music+Awards+2022%3A+Full+list+of+winners&amp;rft.date=2022-03-22&amp;rft_id=https%3A%2F%2Fwww.marca.com%2Fen%2Flifestyle%2Fmusic%2F2022%2F03%2F23%2F623a9f1cca4741b47e8b45f3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoi+Leray" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coi_Leray&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Commons-logo.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Coi_Leray" class="extiw" title="commons:Category:Coi Leray">Coi Leray</a> at Wikimedia Commons</li>
+<li><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/mn0003777748">Coi Leray</a> at <a href="/wiki/AllMusic_(identifier)" class="mw-redirect" title="AllMusic (identifier)">AllMusic</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q106376206#P1728" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Coi_Leray" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Coi_Leray" title="Template:Coi Leray"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Coi_Leray" title="Template talk:Coi Leray"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Coi_Leray&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Coi_Leray" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Coi Leray</a></div></th></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="background: #EEEEEE;"><div><a href="/wiki/Coi_Leray_discography" title="Coi Leray discography">Discography</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Trendsetter_(Coi_Leray_album)" title="Trendsetter (Coi Leray album)">Trendsetter</a></i></li>
+<li><i><a href="/wiki/Coi_(album)" title="Coi (album)">Coi</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/No_More_Parties" title="No More Parties">No More Parties</a>"</li>
+<li>"<a href="/wiki/Big_Purr_(Prrdd)" title="Big Purr (Prrdd)">Big Purr (Prrdd)</a>"</li>
+<li>"<a href="/wiki/Blick_Blick" title="Blick Blick">Blick Blick</a>"</li>
+<li>"<a href="/wiki/Players_(song)" title="Players (song)">Players</a>"</li>
+<li>"<a href="/wiki/Baby_Don%27t_Hurt_Me" title="Baby Don&#39;t Hurt Me">Baby Don't Hurt Me</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Featured singles</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/2055_(song)#Remix" title="2055 (song)">2055</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Other songs</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Self_Love_(song)" title="Self Love (song)">Self Love</a>"</li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q106376206#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q106376206#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q106376206#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000479457790">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/43155224523084372602">VIAF</a></span>
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/7693167445390888860007">2</a></span></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb18071498m">France</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb18071498m">BnF data</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2019034079">United States</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="http://katalog.nsk.hr/F/?func=direct&amp;doc_number=000415636&amp;local_base=nsk10">Croatia</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Coi Leray"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/e1115c6a-6705-4d17-bbf2-0efd2ef1bbb2">MusicBrainz</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2378
+Cached time: 20230920024430
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.725 seconds
+Real time usage: 0.852 seconds
+Preprocessor visited node count: 5713/1000000
+Post‐expand include size: 133621/2097152 bytes
+Template argument size: 4352/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 190330/5000000 bytes
+Lua time usage: 0.433/10.000 seconds
+Lua memory usage: 10304411/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  757.430      1 -total
+ 43.64%  330.522      2 Template:Reflist
+ 32.91%  249.288     50 Template:Cite_web
+ 28.35%  214.757      1 Template:Infobox_musical_artist
+ 26.94%  204.063      2 Template:Infobox
+  8.74%   66.198      1 Template:Infobox_person
+  8.10%   61.381      7 Template:Br_separated_entries
+  7.22%   54.698      2 Template:Short_description
+  6.40%   48.497      1 Template:Birth_date_and_age
+  5.80%   43.964      1 Template:Coi_Leray
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:66830445-0!canonical and timestamp 20230920024429 and revision id 1175075812. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Coi_Leray&amp;oldid=1175075812">https://en.wikipedia.org/w/index.php?title=Coi_Leray&amp;oldid=1175075812</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1997_births" title="Category:1997 births">1997 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:African-American_women_singer-songwriters" title="Category:African-American women singer-songwriters">African-American women singer-songwriters</a></li><li><a href="/wiki/Category:African-American_women_rappers" title="Category:African-American women rappers">African-American women rappers</a></li><li><a href="/wiki/Category:American_women_rappers" title="Category:American women rappers">American women rappers</a></li><li><a href="/wiki/Category:People_from_Hackensack,_New_Jersey" title="Category:People from Hackensack, New Jersey">People from Hackensack, New Jersey</a></li><li><a href="/wiki/Category:Rappers_from_New_Jersey" title="Category:Rappers from New Jersey">Rappers from New Jersey</a></li><li><a href="/wiki/Category:Universal_Music_Group_artists" title="Category:Universal Music Group artists">Universal Music Group artists</a></li><li><a href="/wiki/Category:American_hip_hop_singers" title="Category:American hip hop singers">American hip hop singers</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Singer-songwriters_from_New_Jersey" title="Category:Singer-songwriters from New Jersey">Singer-songwriters from New Jersey</a></li><li><a href="/wiki/Category:Republic_Records_artists" title="Category:Republic Records artists">Republic Records artists</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_women_rappers" title="Category:21st-century American women rappers">21st-century American women rappers</a></li><li><a href="/wiki/Category:American_musicians_of_Cape_Verdean_descent" title="Category:American musicians of Cape Verdean descent">American musicians of Cape Verdean descent</a></li><li><a href="/wiki/Category:American_musicians_of_Puerto_Rican_descent" title="Category:American musicians of Puerto Rican descent">American musicians of Puerto Rican descent</a></li><li><a href="/wiki/Category:21st-century_African-American_women_singers" title="Category:21st-century African-American women singers">21st-century African-American women singers</a></li><li><a href="/wiki/Category:Puerto_Rican_women_rappers" title="Category:Puerto Rican women rappers">Puerto Rican women rappers</a></li><li><a href="/wiki/Category:Pop_rappers" title="Category:Pop rappers">Pop rappers</a></li><li><a href="/wiki/Category:Montclair_High_School_(New_Jersey)_alumni" title="Category:Montclair High School (New Jersey) alumni">Montclair High School (New Jersey) alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_American_English_from_August_2022" title="Category:Use American English from August 2022">Use American English from August 2022</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_May_2021" title="Category:Use mdy dates from May 2021">Use mdy dates from May 2021</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_NSK_identifiers" title="Category:Articles with NSK identifiers">Articles with NSK identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 12 September 2023, at 17:10<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Coi_Leray&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2276","wgBackendResponseTime":129,"wgPageParseReport":{"limitreport":{"cputime":"0.725","walltime":"0.852","ppvisitednodes":{"value":5713,"limit":1000000},"postexpandincludesize":{"value":133621,"limit":2097152},"templateargumentsize":{"value":4352,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":190330,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  757.430      1 -total"," 43.64%  330.522      2 Template:Reflist"," 32.91%  249.288     50 Template:Cite_web"," 28.35%  214.757      1 Template:Infobox_musical_artist"," 26.94%  204.063      2 Template:Infobox","  8.74%   66.198      1 Template:Infobox_person","  8.10%   61.381      7 Template:Br_separated_entries","  7.22%   54.698      2 Template:Short_description","  6.40%   48.497      1 Template:Birth_date_and_age","  5.80%   43.964      1 Template:Coi_Leray"]},"scribunto":{"limitreport-timeusage":{"value":"0.433","limit":"10.000"},"limitreport-memusage":{"value":10304411,"limit":52428800}},"cachereport":{"origin":"mw2378","timestamp":"20230920024430","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Coi Leray","url":"https:\/\/en.wikipedia.org\/wiki\/Coi_Leray","sameAs":"http:\/\/www.wikidata.org\/entity\/Q106376206","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q106376206","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2021-02-20T11:36:23Z","dateModified":"2023-09-12T17:10:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a5\/Coi_Leray_Cosmopolitan_Atlanta_2021.png","headline":"American rapper and singer"}</script>
+</body>
+</html>

@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Tim Dog - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"536f7a3e-6e81-4b97-a410-29fa3b94aedc","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tim_Dog","wgTitle":"Tim Dog","wgCurRevisionId":1176131170,"wgRevisionId":1176131170,"wgArticleId":2012569,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Wikipedia indefinitely semi-protected pages","Articles with hCards","Pages using infobox musical artist with associated acts","All articles with unsourced statements","Articles with unsourced statements from June 2012","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with GND identifiers","Articles with LCCN identifiers","Articles with MusicBrainz identifiers","1967 births","2013 deaths",
+"African-American male rappers","American male rappers","People convicted of fraud","Rappers from the Bronx","Hardcore hip hop artists","East Coast hip hop musicians","20th-century African-American people","21st-century African-American people"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Tim_Dog","wgRelevantArticleId":2012569,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":
+"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q348257","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/0/02/Tim_Dog_pic.jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1200">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/0/02/Tim_Dog_pic.jpeg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="800">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="640">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Tim Dog - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Tim_Dog">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tim_Dog">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tim_Dog rootpage-Tim_Dog skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tim+Dog" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tim+Dog" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tim+Dog" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tim+Dog" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Biography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Biography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Biography</div>
+		</a>
+		
+			<button aria-controls="toc-Biography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Biography subsection</span>
+			</button>
+		
+		<ul id="toc-Biography-sublist" class="vector-toc-list">
+			<li id="toc-Legal_issues_and_death"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Legal_issues_and_death">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Legal issues and death</div>
+			</a>
+			
+			<ul id="toc-Legal_issues_and_death-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Tim Dog</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 5 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-5" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">5 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D9%85_%D8%AF%D9%88%D8%BA" title="تيم دوغ – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Tim_Dog" title="Tim Dog – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Tim_Dog" title="Tim Dog – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Tim_Dog" title="Tim Dog – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Tim_Dog" title="Tim Dog – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q348257#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Tim_Dog" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Tim_Dog" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Tim_Dog"><span>Read</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Tim_Dog&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Tim_Dog&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Tim_Dog"><span>Read</span></a></li><li id="ca-more-viewsource" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Tim_Dog&amp;action=edit"><span>View source</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Tim_Dog&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Tim_Dog" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Tim_Dog" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Tim_Dog&amp;oldid=1176131170" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Tim_Dog&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tim_Dog&amp;id=1176131170&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q348257" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Tim_Dog&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Tim_Dog&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-pp-default" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper (1967–2013)</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="fn">Tim Dog</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Tim_Dog_pic.jpeg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/en/thumb/0/02/Tim_Dog_pic.jpeg/220px-Tim_Dog_pic.jpeg" decoding="async" width="220" height="220" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/0/02/Tim_Dog_pic.jpeg 1.5x" data-file-width="316" data-file-height="316" /></a></span></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Timothy J. Blair<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none">(<span class="bday">1967-01-03</span>)</span>January 3, 1967<sup id="cite_ref-NBC_Confirmed_2-0" class="reference"><a href="#cite_note-NBC_Confirmed-2">&#91;2&#93;</a></sup><br /><a href="/wiki/The_Bronx" title="The Bronx">The Bronx</a>, <a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Died</th><td class="infobox-data">February 14, 2013<span style="display:none">(2013-02-14)</span> (aged&#160;46)<sup id="cite_ref-The_Source_3-0" class="reference"><a href="#cite_note-The_Source-3">&#91;3&#93;</a></sup><br /><a href="/wiki/Atlanta" title="Atlanta">Atlanta</a>, <a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a>, U.S.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a>, <a href="/wiki/Hardcore_hip-hop" class="mw-redirect" title="Hardcore hip-hop">hardcore hip-hop</a></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note">Vocals</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1988–2009</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><a href="/wiki/Ruffhouse" class="mw-redirect" title="Ruffhouse">Ruffhouse</a>/ <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Timothy J. Blair</b> (January 3, 1967 – February 14, 2013),<sup id="cite_ref-NBC_Confirmed_2-1" class="reference"><a href="#cite_note-NBC_Confirmed-2">&#91;2&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-meby_7-0" class="reference"><a href="#cite_note-meby-7">&#91;7&#93;</a></sup> better known by his <a href="/wiki/Stage_name" title="Stage name">stage name</a> <b>Tim Dog</b>, was an American <a href="/wiki/Rapper" class="mw-redirect" title="Rapper">rapper</a> from <a href="/wiki/The_Bronx" title="The Bronx">the Bronx</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, who rose to notoriety during the early 1990s with his debut LP <i><a href="/wiki/Penicillin_on_Wax" title="Penicillin on Wax">Penicillin on Wax</a></i> and the celebrated <a href="/wiki/Diss_track" class="mw-redirect" title="Diss track">diss track</a> "<a href="/wiki/Fuck_Compton" title="Fuck Compton">Fuck Compton</a>". Tim had already appeared on songs with the <a href="/wiki/Ultramagnetic_MCs" title="Ultramagnetic MCs">Ultramagnetic MCs</a> and went on to form a duo, <a href="/wiki/Ultramagnetic_MCs" title="Ultramagnetic MCs">Ultra</a>, with member <a href="/wiki/Kool_Keith" title="Kool Keith">Kool Keith</a>. "Fuck Compton" appeared in <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i> magazine's "Top 25 Diss Tracks of All Time" and earned Tim Dog critical acclaim from progressive hip-hop producer <a href="/wiki/Blockhead_(music)" class="mw-redirect" title="Blockhead (music)">Blockhead</a>, who said Tim Dog's "The Dog's Gonna Getcha" (off <i>Penicillin on Wax</i>) is "quite possibly the hardest song ever made."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+<a href="/wiki/Nas" title="Nas">Nas</a> references Tim Dog on his track "Where Are They Now?" from his 2006 album <i><a href="/wiki/Hip_Hop_Is_Dead" title="Hip Hop Is Dead">Hip Hop Is Dead</a></i>, and despite Tim Dog's feud with <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/wiki/Eminem" title="Eminem">Eminem</a> (whom Dre had discovered) name-checked him on the track "Ricky Ticky Toc".
+</p><p>On February 14, 2013, the media reported that Tim Dog died of complications from <a href="/wiki/Diabetes" title="Diabetes">diabetes</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> By May 2013, he was under investigation for allegedly faking his death to avoid charges of <a href="/wiki/Grand_larceny" class="mw-redirect" title="Grand larceny">grand larceny</a>, and a warrant was issued in <a href="/wiki/Mississippi" title="Mississippi">Mississippi</a> for his arrest.<sup id="cite_ref-meby_7-1" class="reference"><a href="#cite_note-meby-7">&#91;7&#93;</a></sup><sup id="cite_ref-deathfraud_10-0" class="reference"><a href="#cite_note-deathfraud-10">&#91;10&#93;</a></sup><sup id="cite_ref-guardian_11-0" class="reference"><a href="#cite_note-guardian-11">&#91;11&#93;</a></sup> However, on September 15, 2014, it was finally confirmed by NBC News that Tim Dog had indeed died on February 14, 2013, as had been initially reported. A death certificate was filed in <a href="/wiki/DeKalb_County,_Georgia" title="DeKalb County, Georgia">DeKalb County, Georgia</a>, putting an end to speculation that he was still alive and trying to avoid his court-mandated debts.<sup id="cite_ref-NBC_Confirmed_2-2" class="reference"><a href="#cite_note-NBC_Confirmed-2">&#91;2&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Biography">Biography</span></h2>
+<p>During the early 1990s, seminal rap group <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a> and several other <a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast</a> rap artists were becoming popular within the <a href="/wiki/Hip_hop" class="mw-redirect" title="Hip hop">hip hop</a> community and magazines such as <i><a href="/wiki/Word_Up!_(magazine)" title="Word Up! (magazine)">Word Up!</a></i> and <i><a href="/wiki/The_Source" title="The Source">The Source</a></i> provided significant coverage to artists from <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>. The success of N.W.A and their focus on the <a href="/wiki/South_Los_Angeles" title="South Los Angeles">South Central</a> L.A. suburb of <a href="/wiki/Compton,_California" title="Compton, California">Compton</a> via their <a href="/wiki/Platinum_album" class="mw-redirect" title="Platinum album">platinum album</a> <i><a href="/wiki/Straight_Outta_Compton" title="Straight Outta Compton">Straight Outta Compton</a></i> had spawned a number of imitators and other groups who also claimed to represent the suburb. The success of artists such as <a href="/wiki/Compton%27s_Most_Wanted" title="Compton&#39;s Most Wanted">Compton's Most Wanted</a> and <a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a> led to a period in hip hop where so-called "<a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a>" and its trademark dress of black <a href="/wiki/Los_Angeles_Raiders" title="Los Angeles Raiders">Los Angeles Raiders</a> and <a href="/wiki/Los_Angeles_Kings" title="Los Angeles Kings">Los Angeles Kings</a> gear were <i>de rigueur.</i>
+</p><p>Some New York hip hop artists resented the exposure and success of their West Coast counterparts, an animosity which Tim Dog would tap into via the release of his groundbreaking first single. Frustrated at the apparent lack of interest in <a href="/wiki/East_Coast_of_the_United_States" title="East Coast of the United States">East Coast</a> artists from <a href="/wiki/Record_companies" class="mw-redirect" title="Record companies">record companies</a>, Tim recorded "<a href="/wiki/Fuck_Compton" title="Fuck Compton">Fuck Compton</a>", a scathing <a href="/wiki/Diss_track" class="mw-redirect" title="Diss track">diss track</a> from his debut album <i><a href="/wiki/Penicillin_on_Wax" title="Penicillin on Wax">Penicillin on Wax</a></i>. "Fuck Compton" attacked the city's style of dress and musical output and made threatening gestures to several Compton rappers including <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a>, <a href="/wiki/MC_Ren" title="MC Ren">MC Ren</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> and <a href="/wiki/Michel%27le" title="Michel&#39;le">Michel'le</a>. Tim Dog would later exclude Ice Cube on "Step to Me", another diss track attacking <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a>.
+</p><p>The lyrics also made reference to an infamous incident involving N.W.A's Dr. Dre and <i>Pump It Up</i> host <a href="/wiki/Dee_Barnes" title="Dee Barnes">Dee Barnes</a>. Barnes had accused Dre (real name Andre Young) of assaulting her after <i>Pump It Up</i> had edited an N.W.A interview to include disparaging comments made by <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, who was embroiled in a feud with his former group at the time. The single was released by <a href="/wiki/Ruffhouse_Records" title="Ruffhouse Records">Ruffhouse Records</a>, home to other artists such as <a href="/wiki/Cypress_Hill" title="Cypress Hill">Cypress Hill</a> and <a href="/wiki/Kris_Kross" title="Kris Kross">Kris Kross</a>, and became a worldwide underground hit in the clubs and hip hop circles. Two versions of a music video were released—the original version and a censored edition.
+</p><p><i>Penicillin on Wax</i> included several additional "disses" aimed at both Compton artists and commercially successful artists such as <a href="/wiki/Kid_%27n_Play" title="Kid &#39;n Play">Kid 'n Play</a> and <a href="/wiki/Kwam%C3%A9" title="Kwamé">Kwamé</a>. The intro used the same beat as N.W.A's <i><a href="/wiki/Niggaz4Life" title="Niggaz4Life">Efil4zaggin</a></i> album intro. Tim taunted, "I stole your beat and made it better, to show the whole world that you ain't nothing but a bunch of pussies," before a number of disparaging answering machine messages supported Tim's position as he rapped, "Wearing all that black, driving them cars, but you still look wack!" In another skit, "DJ Quik Beat Down," Tim Dog "physically assaulted" DJ Quik. Since the release, incoming responses came the following years from west coast artists <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, <a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a>, <a href="/wiki/Compton%27s_Most_Wanted" title="Compton&#39;s Most Wanted">Compton's Most Wanted</a>, <a href="/wiki/Penthouse_Players_Clique" title="Penthouse Players Clique">Penthouse Players Clique</a>, <a href="/wiki/Rodney_O_%26_Joe_Cooley" class="mw-redirect" title="Rodney O &amp; Joe Cooley">Rodney O &amp; Joe Cooley</a>, and <a href="/wiki/Tweedy_Bird_Loc" class="mw-redirect" title="Tweedy Bird Loc">Tweedy Bird Loc</a>.
+</p><p>Tim followed up with his second album <i><a href="/wiki/Do_or_Die_(Tim_Dog_album)" title="Do or Die (Tim Dog album)">Do or Die</a></i> in 1993. The album represented Tim's shift of focus away from confrontation with the West Coast and instead concentrated on <a href="/wiki/Hardcore_hip_hop" title="Hardcore hip hop">hardcore</a> East Coast rap. The album contained a shout-out to <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a> whom Tim thanked for assisting him when involved in a potentially violent situation when touring in California.
+</p><p>In 1994, Tim Dog released the EP <i>Bitch with a Perm</i>. The second track, "Dog Baby", was another diss to Dr. Dre and Snoop Dogg.
+</p><p>Tim Dog moved to the UK in 1995 and worked with UK artist <a href="/wiki/Apache_Indian" title="Apache Indian">Apache Indian</a>, producing the hit single "Make Way for the Indian". Tim then toured with <a href="/wiki/Kool_Keith" title="Kool Keith">Kool Keith</a> and recorded several other tracks, including his August 2005 collaboration with Percee P, "NY to the UK."
+</p><p>Tim Dog had been the head of "Rap Legends Recordings" and previously co-founded Our Turn Records in Los Angeles with Eddie Pugh, President of Black Music Sony Records.<sup id="cite_ref-TIMDOGMUSIC.com_12-0" class="reference"><a href="#cite_note-TIMDOGMUSIC.com-12">&#91;12&#93;</a></sup> Previously, he was the CEO President of Big Xity Entertainment based in New York and BMC Management based in Atlanta.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2012)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Legal_issues_and_death">Legal issues and death</span></h3>
+<p>In 2011, Tim Dog pleaded guilty to <a href="/wiki/Grand_larceny" class="mw-redirect" title="Grand larceny">grand larceny</a> for conning a woman, Esther Pilgrim,<sup id="cite_ref-huffpost_13-0" class="reference"><a href="#cite_note-huffpost-13">&#91;13&#93;</a></sup> out of $32,000 in an online dating scam. He was sentenced to five years' probation and ordered to pay restitution of $19,000 to Pilgrim.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> The case was featured on the June 15, 2012, episode of <i><a href="/wiki/Dateline_nbc" class="mw-redirect" title="Dateline nbc">Dateline NBC</a></i>,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> which clarified that it was a best interest plea (<a href="/wiki/Alford_plea" title="Alford plea">Alford plea</a>) to theft.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>Tim Dog reportedly died of complications from diabetes on February 14, 2013. However, the funeral was canceled and no death certificate or autopsy existed.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> His family also stayed away from the media claiming religious reasons as a justification for their shunning of the press and wanting to mourn in private.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> After Pilgrim alleged in May 2013 that Tim Dog's "reported death" may have been a scheme by Tim Dog to avoid payments to her, she came public demanding further investigation about his death. A warrant was issued in <a href="/wiki/Mississippi" title="Mississippi">Mississippi</a> for his arrest in case he was still alive.<sup id="cite_ref-meby_7-2" class="reference"><a href="#cite_note-meby-7">&#91;7&#93;</a></sup><sup id="cite_ref-deathfraud_10-1" class="reference"><a href="#cite_note-deathfraud-10">&#91;10&#93;</a></sup><sup id="cite_ref-guardian_11-1" class="reference"><a href="#cite_note-guardian-11">&#91;11&#93;</a></sup>
+</p><p>On September 15, 2014, it was finally confirmed by NBC News that Tim Dog had indeed died on February 14, 2013, as had been initially reported. A death certificate was filed in Dekalb County, Georgia, putting an end to speculation that he was still alive and trying to avoid his court-mandated debts.<sup id="cite_ref-NBC_Confirmed_2-3" class="reference"><a href="#cite_note-NBC_Confirmed-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span></h2>
+<ul><li>1991: <i><a href="/wiki/Penicillin_on_Wax" title="Penicillin on Wax">Penicillin on Wax</a></i></li>
+<li>1993: <i><a href="/wiki/Do_or_Die_(Tim_Dog_album)" title="Do or Die (Tim Dog album)">Do or Die</a></i></li>
+<li>1994: <i>Bitch with a Perm</i> (EP)</li>
+<li>1996: <i><a href="/wiki/Big_Time_(Ultra_album)" title="Big Time (Ultra album)">Big Time</a></i> (with Kool Keith as <a href="/wiki/Ultramagnetic_MCs" title="Ultramagnetic MCs">Ultra</a>)</li>
+<li>2003: <i><a href="/wiki/Immortal_(Tim_Dog_album)" title="Immortal (Tim Dog album)">Immortal</a></i></li>
+<li>2006: <i><a href="/wiki/BX_Warrior" title="BX Warrior">BX Warrior</a></i></li>
+<li>2009: <i>Project X: Iconic</i> (with Kool Keith)</li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ascap.com/repertory#/ace/search/workID/390541761">"I GET WRECKED"</a>. <i>ASCAP</i>. American Society of Composers, Authors and Publishers<span class="reference-accessdate">. Retrieved <span class="nowrap">April 28,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ASCAP&amp;rft.atitle=I+GET+WRECKED&amp;rft_id=https%3A%2F%2Fwww.ascap.com%2Frepertory%23%2Face%2Fsearch%2FworkID%2F390541761&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-NBC_Confirmed-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-NBC_Confirmed_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NBC_Confirmed_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NBC_Confirmed_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-NBC_Confirmed_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.nbcnews.com/dateline/mystery-rapper-tim-dogs-death-solved-n203776">"The Mystery of Rapper Tim Dog's Death Is Solved"</a>. NBC News. 15 September 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Mystery+of+Rapper+Tim+Dog%27s+Death+Is+Solved&amp;rft.date=2014-09-15&amp;rft_id=http%3A%2F%2Fwww.nbcnews.com%2Fdateline%2Fmystery-rapper-tim-dogs-death-solved-n203776&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-The_Source-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Source_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130217053957/http://www.thesource.com/articles/267578">"The Source: R.I.P. Tim Dog"</a>. <i>The Source</i>. United States. Archived from <a rel="nofollow" class="external text" href="http://www.thesource.com/articles/267578">the original</a> on February 17, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">February 12,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Source&amp;rft.atitle=The+Source%3A+R.I.P.+Tim+Dog&amp;rft_id=http%3A%2F%2Fwww.thesource.com%2Farticles%2F267578&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://pitchfork.com/news/56719-tim-dogs-death-confirmed/">"Tim Dog's Death Confirmed"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tim+Dog%27s+Death+Confirmed&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Fnews%2F56719-tim-dogs-death-confirmed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091208162019/http://www.onelinerhyme.com/rhymes/artist/tim-dog">"One Line Rhyme: Tim Dog"</a>. United Kingdom: One Line Rhyme. Archived from <a rel="nofollow" class="external text" href="http://www.onelinerhyme.com/rhymes/artist/tim-dog">the original</a> on December 8, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">January 1,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=One+Line+Rhyme%3A+Tim+Dog&amp;rft.place=United+Kingdom&amp;rft.pub=One+Line+Rhyme&amp;rft_id=http%3A%2F%2Fwww.onelinerhyme.com%2Frhymes%2Fartist%2Ftim-dog&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/tim-dog-f-k-compton-rapper-dead-at-46-20130214">"Tim Dog, 'F--k Compton' Rapper, Dead at 46"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. February 14, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">February 14,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Tim+Dog%2C+%27F--k+Compton%27+Rapper%2C+Dead+at+46&amp;rft.date=2013-02-14&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Ftim-dog-f-k-compton-rapper-dead-at-46-20130214&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-meby-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-meby_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-meby_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-meby_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Margaret Eby, <a rel="nofollow" class="external text" href="http://www.nydailynews.com/entertainment/music-arts/rapper-tim-dog-believed-faked-death-faces-arrest-article-1.1352066">"Rapper Tim Dog slapped with arrest warrant on suspicion of faking own death,"</a> <i><a href="/wiki/New_York_Daily_News" title="New York Daily News">New York Daily News</a></i>, May 22, 2013.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.artistdirect.com/nad/music/artist/bio/0,,2628020,00.html">Blockhead Biography</a>. ArtistDirect.com</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Sha Be Allah, <a rel="nofollow" class="external text" href="https://archive.today/20130411233045/http://www.thesource.com/articles/267578/R.I.P.-Tim-Dog-/">"R.I.P. Tim Dog,"</a> <i><a href="/wiki/The_Source_(magazine)" class="mw-redirect" title="The Source (magazine)">The Source</a></i>, February 14, 2013.</span>
+</li>
+<li id="cite_note-deathfraud-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-deathfraud_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-deathfraud_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFThurm2013" class="citation news cs1">Thurm, Eric (2013-05-22). <a rel="nofollow" class="external text" href="https://www.avclub.com/articles/tim-dog-probably-faked-his-death-to-avoid-paying-t,98098/">"Rapper Tim Dog Probably Faked His Death to Avoid Paying the Women He Scammed, Has an Arrest Warrant Out"</a>. <i><a href="/wiki/The_A.V._Club" title="The A.V. Club">The A.V. Club</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+A.V.+Club&amp;rft.atitle=Rapper+Tim+Dog+Probably+Faked+His+Death+to+Avoid+Paying+the+Women+He+Scammed%2C+Has+an+Arrest+Warrant+Out&amp;rft.date=2013-05-22&amp;rft.aulast=Thurm&amp;rft.aufirst=Eric&amp;rft_id=http%3A%2F%2Fwww.avclub.com%2Farticles%2Ftim-dog-probably-faked-his-death-to-avoid-paying-t%2C98098%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-guardian-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-guardian_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-guardian_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Daniel Martin, <a rel="nofollow" class="external text" href="https://www.theguardian.com/music/2013/may/23/tim-dog-accused-faking-death">"Rapper Tim Dog Accused of Faking Own Death,"</a> <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>, May 23, 2013.</span>
+</li>
+<li id="cite_note-TIMDOGMUSIC.com-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-TIMDOGMUSIC.com_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120619191853/http://www.timdogmusic.com/biography.html">"Tim Dog's Biography"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.timdogmusic.com/biography.html">the original</a> on June 19, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tim+Dog%27s+Biography&amp;rft_id=http%3A%2F%2Fwww.timdogmusic.com%2Fbiography.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-huffpost-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-huffpost_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSieczkowski2013" class="citation news cs1">Sieczkowski, Cavan (May 23, 2013). <a rel="nofollow" class="external text" href="https://www.huffingtonpost.com/entry/rapper-faked-own-death_n_3327925">"Rapper 'Tim Dog' Reportedly Faked His Own Death to Avoid Paying Thousands of Dollars in Restitution"</a>. <i><a href="/wiki/Huffington_Post" class="mw-redirect" title="Huffington Post">Huffington Post</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 27,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huffington+Post&amp;rft.atitle=Rapper+%27Tim+Dog%27+Reportedly+Faked+His+Own+Death+to+Avoid+Paying+Thousands+of+Dollars+in+Restitution&amp;rft.date=2013-05-23&amp;rft.aulast=Sieczkowski&amp;rft.aufirst=Cavan&amp;rft_id=https%3A%2F%2Fwww.huffingtonpost.com%2Fentry%2Frapper-faked-own-death_n_3327925&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.buffalonews.com/wire-feeds/24-hour-national-news/article557344.ece">"Former rapper Tim Dog pleads guilty in fraud case"</a>. <i>Buffalo News</i>. September 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Buffalo+News&amp;rft.atitle=Former+rapper+Tim+Dog+pleads+guilty+in+fraud+case&amp;rft.date=2011-09&amp;rft_id=http%3A%2F%2Fwww.buffalonews.com%2Fwire-feeds%2F24-hour-national-news%2Farticle557344.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://thegrio.com/2011/09/15/former-rapper-tim-dog-pleads-guilty-in-fraud-case/">"Former rapper Tim Dog pleads guilty in fraud case"</a>. <i>Thegrio.com</i>. September 15, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Thegrio.com&amp;rft.atitle=Former+rapper+Tim+Dog+pleads+guilty+in+fraud+case&amp;rft.date=2011-09-15&amp;rft_id=http%3A%2F%2Fthegrio.com%2F2011%2F09%2F15%2Fformer-rapper-tim-dog-pleads-guilty-in-fraud-case%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.wlbt.com/story/18689179/music-investment-scam">"Memphis woman's online dating nightmare will air on Dateline NBC tonight"</a>. <i>WLBT.com</i>. June 15, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=WLBT.com&amp;rft.atitle=Memphis+woman%27s+online+dating+nightmare+will+air+on+Dateline+NBC+tonight&amp;rft.date=2012-06-15&amp;rft_id=http%3A%2F%2Fwww.wlbt.com%2Fstory%2F18689179%2Fmusic-investment-scam&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120618000633/http://insidedateline.msnbc.msn.com/_news/2012/06/13/12204061-jun-15-the-perfect-catch?lite">"Jun. 15: 'The Perfect Catch'<span class="cs1-kern-right"></span>"</a>. Archived from <a rel="nofollow" class="external text" href="https://insidedateline.msnbc.msn.com/_news/2012/06/13/12204061-jun-15-the-perfect-catch?lite">the original</a> on June 18, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jun.+15%3A+%27The+Perfect+Catch%27&amp;rft_id=http%3A%2F%2Finsidedateline.msnbc.msn.com%2F_news%2F2012%2F06%2F13%2F12204061-jun-15-the-perfect-catch%3Flite&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://definitions.uslegal.com/b/best-interest-plea/">"Best Interest Plea Law &amp; Legal Definition"</a>. USLegal<span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Best+Interest+Plea+Law+%26+Legal+Definition&amp;rft.pub=USLegal&amp;rft_id=http%3A%2F%2Fdefinitions.uslegal.com%2Fb%2Fbest-interest-plea%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/06/hip-hop-fails-of-2013-so-far/tim-dog-fakes-his-own-death">"Tim Dog Fakes His Own Death — The Biggest Hip-Hop Fails of 2013 (So Far)"</a>. <i>Complex</i>. 2013-06-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Complex&amp;rft.atitle=Tim+Dog+Fakes+His+Own+Death+%E2%80%94+The+Biggest+Hip-Hop+Fails+of+2013+%28So+Far%29&amp;rft.date=2013-06-28&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F06%2Fhip-hop-fails-of-2013-so-far%2Ftim-dog-fakes-his-own-death&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://thesource.com/2013/05/25/the-reported-death-of-tim-dog-update-fam-says-its-a-shame-police-says-its-a-sham/">"The Reported Death Of Tim Dog UPDATE: Fam Says It's A Shame; Police Says It's A Sham"</a>. TheSource. 2013-05-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Reported+Death+Of+Tim+Dog+UPDATE%3A+Fam+Says+It%27s+A+Shame%3B+Police+Says+It%27s+A+Sham&amp;rft.pub=TheSource&amp;rft.date=2013-05-25&amp;rft_id=http%3A%2F%2Fthesource.com%2F2013%2F05%2F25%2Fthe-reported-death-of-tim-dog-update-fam-says-its-a-shame-police-says-its-a-sham%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATim+Dog" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.discogs.com/artist/Tim+Dog">Tim Dog discography on Discogs</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q348257#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q348257#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q348257#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000055194157">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/71587291">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb13987733c">France</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb13987733c">BnF data</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/134769953">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n92034665">United States</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/8a536149-ced3-47f6-9fdd-f33f422c7c01">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2339
+Cached time: 20230919185814
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.486 seconds
+Real time usage: 0.644 seconds
+Preprocessor visited node count: 1912/1000000
+Post‐expand include size: 41190/2097152 bytes
+Template argument size: 2212/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 52465/5000000 bytes
+Lua time usage: 0.335/10.000 seconds
+Lua memory usage: 7993378/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  587.580      1 -total
+ 31.37%  184.342      1 Template:Reflist
+ 24.25%  142.506      1 Template:Infobox_musical_artist
+ 21.69%  127.451      1 Template:Infobox
+ 18.70%  109.875      1 Template:Authority_control
+ 18.09%  106.291      7 Template:Cite_web
+ 14.88%   87.425      2 Template:Br_separated_entries
+ 10.13%   59.550      2 Template:Short_description
+  7.82%   45.931      1 Template:Pp-semi-indef
+  7.00%   41.154      1 Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2012569-0!canonical and timestamp 20230919185813 and revision id 1176131170. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tim_Dog&amp;oldid=1176131170">https://en.wikipedia.org/w/index.php?title=Tim_Dog&amp;oldid=1176131170</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1967_births" title="Category:1967 births">1967 births</a></li><li><a href="/wiki/Category:2013_deaths" title="Category:2013 deaths">2013 deaths</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:People_convicted_of_fraud" title="Category:People convicted of fraud">People convicted of fraud</a></li><li><a href="/wiki/Category:Rappers_from_the_Bronx" title="Category:Rappers from the Bronx">Rappers from the Bronx</a></li><li><a href="/wiki/Category:Hardcore_hip_hop_artists" title="Category:Hardcore hip hop artists">Hardcore hip hop artists</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:20th-century_African-American_people" title="Category:20th-century African-American people">20th-century African-American people</a></li><li><a href="/wiki/Category:21st-century_African-American_people" title="Category:21st-century African-American people">21st-century African-American people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_semi-protected_pages" title="Category:Wikipedia indefinitely semi-protected pages">Wikipedia indefinitely semi-protected pages</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2012" title="Category:Articles with unsourced statements from June 2012">Articles with unsourced statements from June 2012</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 19 September 2023, at 17:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tim_Dog&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2391","wgBackendResponseTime":102,"wgPageParseReport":{"limitreport":{"cputime":"0.486","walltime":"0.644","ppvisitednodes":{"value":1912,"limit":1000000},"postexpandincludesize":{"value":41190,"limit":2097152},"templateargumentsize":{"value":2212,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":52465,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  587.580      1 -total"," 31.37%  184.342      1 Template:Reflist"," 24.25%  142.506      1 Template:Infobox_musical_artist"," 21.69%  127.451      1 Template:Infobox"," 18.70%  109.875      1 Template:Authority_control"," 18.09%  106.291      7 Template:Cite_web"," 14.88%   87.425      2 Template:Br_separated_entries"," 10.13%   59.550      2 Template:Short_description","  7.82%   45.931      1 Template:Pp-semi-indef","  7.00%   41.154      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.335","limit":"10.000"},"limitreport-memusage":{"value":7993378,"limit":52428800}},"cachereport":{"origin":"mw2339","timestamp":"20230919185814","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tim Dog","url":"https:\/\/en.wikipedia.org\/wiki\/Tim_Dog","sameAs":"http:\/\/www.wikidata.org\/entity\/Q348257","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q348257","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-09T01:36:10Z","dateModified":"2023-09-19T17:41:15Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/02\/Tim_Dog_pic.jpeg","headline":"American rapper"}</script>
+</body>
+</html>

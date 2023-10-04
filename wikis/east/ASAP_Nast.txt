@@ -1,0 +1,1097 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>ASAP Nast - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"e3024db1-131e-4f79-b09e-a0903989ad60","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ASAP_Nast","wgTitle":"ASAP Nast","wgCurRevisionId":1175295495,"wgRevisionId":1175295495,"wgArticleId":40106771,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Wikipedia articles in need of updating from September 2021","All Wikipedia articles in need of updating","Short description is different from Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","Articles with ISNI identifiers","Articles with MusicBrainz identifiers","African-American male rappers","American male rappers","Living people","Rappers from Manhattan","Musicians from Harlem","1990 births","East Coast hip hop musicians","ASAP Mob members",
+"21st-century American rappers","21st-century American male musicians","21st-century African-American musicians"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"ASAP_Nast","wgRelevantArticleId":40106771,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,
+"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q16148807","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready",
+"jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ASAP_Nast_2013.jpg/1200px-ASAP_Nast_2013.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="2208">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ASAP_Nast_2013.jpg/800px-ASAP_Nast_2013.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1472">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ASAP_Nast_2013.jpg/640px-ASAP_Nast_2013.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="1178">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="ASAP Nast - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/ASAP_Nast">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=ASAP_Nast&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/ASAP_Nast">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-ASAP_Nast rootpage-ASAP_Nast skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=ASAP+Nast" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ASAP+Nast" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=ASAP+Nast" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ASAP+Nast" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life_and_education"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life_and_education">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life and education</div>
+		</a>
+		
+		<ul id="toc-Early_life_and_education-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Musical_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Musical_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Musical career</div>
+		</a>
+		
+			<button aria-controls="toc-Musical_career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Musical career subsection</span>
+			</button>
+		
+		<ul id="toc-Musical_career-sublist" class="vector-toc-list">
+			<li id="toc-2007–12:_Career_beginnings_with_ASAP_Mob"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2007–12:_Career_beginnings_with_ASAP_Mob">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>2007–12: Career beginnings with ASAP Mob</div>
+			</a>
+			
+			<ul id="toc-2007–12:_Career_beginnings_with_ASAP_Mob-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2013–14:_L.O.R.D."
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2013–14:_L.O.R.D.">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>2013–14: <i>L.O.R.D.</i></div>
+			</a>
+			
+			<ul id="toc-2013–14:_L.O.R.D.-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Musical_style"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Musical_style">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Musical style</div>
+		</a>
+		
+		<ul id="toc-Musical_style-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Other_Ventures"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Other_Ventures">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Other Ventures</div>
+		</a>
+		
+			<button aria-controls="toc-Other_Ventures-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Other Ventures subsection</span>
+			</button>
+		
+		<ul id="toc-Other_Ventures-sublist" class="vector-toc-list">
+			<li id="toc-Collaborations"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Collaborations">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Collaborations</div>
+			</a>
+			
+			<ul id="toc-Collaborations-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>Singles</div>
+			</a>
+			
+			<ul id="toc-Singles-sublist" class="vector-toc-list">
+				<li id="toc-As_lead_artist"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#As_lead_artist">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3.1</span>As lead artist</div>
+			</a>
+			
+			<ul id="toc-As_lead_artist-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-As_featured_artist"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#As_featured_artist">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3.2</span>As featured artist</div>
+			</a>
+			
+			<ul id="toc-As_featured_artist-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Guest_appearances"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Guest_appearances">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.4</span>Guest appearances</div>
+			</a>
+			
+			<ul id="toc-Guest_appearances-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">ASAP Nast</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 2 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-2" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">2 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/ASAP_Nast" title="ASAP Nast – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/ASAP_Nast" title="ASAP Nast – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16148807#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/ASAP_Nast" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:ASAP_Nast" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/ASAP_Nast"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=ASAP_Nast&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=ASAP_Nast&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/ASAP_Nast"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=ASAP_Nast&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=ASAP_Nast&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/ASAP_Nast" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/ASAP_Nast" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=ASAP_Nast&amp;oldid=1175295495" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=ASAP_Nast&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=ASAP_Nast&amp;id=1175295495&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16148807" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=ASAP_Nast&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=ASAP_Nast&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:ASAP_Nast" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-Update plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/42px-Ambox_current_red_Asia_Australia.svg.png" decoding="async" width="42" height="34" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/63px-Ambox_current_red_Asia_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/84px-Ambox_current_red_Asia_Australia.svg.png 2x" data-file-width="360" data-file-height="290" /></span></span></div></td><td class="mbox-text"><div class="mbox-text-span">This article needs to be <b>updated</b>.<span class="hide-when-compact"> Please help update this article to reflect recent events or newly available information.</span>  <span class="date-container"><i>(<span class="date">September 2021</span>)</i></span></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">ASAP Nast</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:ASAP_Nast_2013.jpg" class="mw-file-description" title="A$AP Nast performing in December 2013"><img alt="A$AP Nast performing in December 2013" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ASAP_Nast_2013.jpg/220px-ASAP_Nast_2013.jpg" decoding="async" width="220" height="405" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ASAP_Nast_2013.jpg/330px-ASAP_Nast_2013.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ASAP_Nast_2013.jpg/440px-ASAP_Nast_2013.jpg 2x" data-file-width="1754" data-file-height="3228" /></a></span><div class="infobox-caption">A$AP Nast performing in December 2013</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Tariq Devega<sup id="cite_ref-hotnewhiphop1_1-0" class="reference"><a href="#cite_note-hotnewhiphop1-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>Nasty Baby</li><li>TY Nast</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1990-07-26</span>) </span>July 26, 1990<span class="noprint ForceAgeToShow"> (age&#160;33)</span><br /><a href="/wiki/New_York_City" title="New York City">New York City</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Rapping" title="Rapping">Rapper</a></li><li><a href="/wiki/Songwriter" title="Songwriter">songwriter</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2011–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>A$AP Worldwide</li><li><a href="/wiki/Polo_Grounds_Music" title="Polo Grounds Music">Polo Grounds</a></li><li><a href="/wiki/RCA_Records" title="RCA Records">RCA</a></li></ul></div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://asapmob.com">asapmob<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Tariq Amar Devega</b> (born July 26, 1990), known professionally as <b>ASAP Nast</b> (stylized <b>A$AP Nast</b>), is an American rapper, songwriter and model from <a href="/wiki/Harlem,_New_York" class="mw-redirect" title="Harlem, New York">Harlem, New York</a>. Nast is best known as a member of the hip hop collective <a href="/wiki/ASAP_Mob" title="ASAP Mob">A$AP Mob</a>. As part of A$AP Mob, they released their first project as a group, a mixtape titled <i><a href="/wiki/Lords_Never_Worry" title="Lords Never Worry">Lord$ Never Worry</a></i> in 2012. His breakout song, "<a href="/wiki/Trillmatic" title="Trillmatic">Trillmatic</a>" featuring <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a>'s <a href="/wiki/Method_Man" title="Method Man">Method Man</a> was released on December 4, 2013.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life_and_education">Early life and education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=1" title="Edit section: Early life and education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ASAP Nast was raised in <a href="/wiki/Harlem" title="Harlem">West Harlem</a>, <a href="/wiki/New_York_City" title="New York City">New York City</a> on 116th and Morningside Avenue, and frequently spent time with his cousin <a href="/wiki/ASAP_Rocky" title="ASAP Rocky">ASAP Rocky</a> when they were children.<sup id="cite_ref-hotnewhiphop1_1-1" class="reference"><a href="#cite_note-hotnewhiphop1-1">&#91;1&#93;</a></sup><sup id="cite_ref-villagevoice2_2-0" class="reference"><a href="#cite_note-villagevoice2-2">&#91;2&#93;</a></sup> When Rocky moved to <a href="/wiki/The_Bronx" title="The Bronx">The Bronx</a> as a teen, the two lost contact, but were reunited by ASAP Bari, one of <a href="/wiki/ASAP_Mob" title="ASAP Mob">ASAP Mob</a>'s founding members.<sup id="cite_ref-hotnewhiphop1_1-2" class="reference"><a href="#cite_note-hotnewhiphop1-1">&#91;1&#93;</a></sup> Nast went to <a href="/wiki/Martin_Luther_King,_Jr._Educational_Campus" class="mw-redirect" title="Martin Luther King, Jr. Educational Campus">Martin Luther King, Jr. High School</a> in <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a> but dropped out before  graduating  to pursue a  career in music. After dropping out of high school, he worked at the <a href="/wiki/Sneakers" title="Sneakers">sneaker</a> store Atmos.<sup id="cite_ref-villagevoice2_2-1" class="reference"><a href="#cite_note-villagevoice2-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Musical_career">Musical career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=2" title="Edit section: Musical career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="2007.E2.80.9312:_Career_beginnings_with_ASAP_Mob"></span><span class="mw-headline" id="2007–12:_Career_beginnings_with_ASAP_Mob">2007–12: Career beginnings with ASAP Mob</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=3" title="Edit section: 2007–12: Career beginnings with ASAP Mob">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ASAP Nast was one of the first members to join the hip hop collective <a href="/wiki/ASAP_Mob" title="ASAP Mob">ASAP Mob</a>, that was formed by ASAP Yams, ASAP Bari and ASAP Illz in Harlem during 2007. He was originally known by the name New York Nast, however he adjusted his stage name to include the ASAP prefix, as all the other Mob members have; aside from <a href="/wiki/Dash_(rapper)" title="Dash (rapper)">Dash</a>.<sup id="cite_ref-autogenerated1_3-0" class="reference"><a href="#cite_note-autogenerated1-3">&#91;3&#93;</a></sup> Nast made his official debut on ASAP Rocky's early song "Uptown" and then he appeared on two <i><a href="/wiki/Live.Love.ASAP" class="mw-redirect" title="Live.Love.ASAP">Live.Love.ASAP</a></i> songs, "Purple Swag: Chapter 2" and "Trilla".<sup id="cite_ref-hotnewhiphop1_1-3" class="reference"><a href="#cite_note-hotnewhiphop1-1">&#91;1&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>On August 27, 2012, ASAP Mob released their debut project, a mixtape titled <i><a href="/wiki/Lords_Never_Worry" title="Lords Never Worry">Lords Never Worry</a></i>, as a free download.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Nast appeared on four of the mixtape's tracks, including the standout "Black Mane".<sup id="cite_ref-complex1_7-0" class="reference"><a href="#cite_note-complex1-7">&#91;7&#93;</a></sup> Following the mixtape's release, Nast toured with the rest of ASAP Mob. Throughout that tour they performed 48 shows in 61 days, the majority of which were sold out.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span id="2013.E2.80.9314:_L.O.R.D."></span><span class="mw-headline" id="2013–14:_L.O.R.D.">2013–14: <i>L.O.R.D.</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=4" title="Edit section: 2013–14: L.O.R.D.">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Singer <a href="/wiki/Tinashe" title="Tinashe">Tinashe</a> released the remix to her song "Who Am I Working For?" on April 16, 2013, featuring Nast.<sup id="cite_ref-complex2_9-0" class="reference"><a href="#cite_note-complex2-9">&#91;9&#93;</a></sup> In July 2013, <a href="/wiki/ASAP_Ferg" title="ASAP Ferg">ASAP Ferg</a> announced that ASAP Mob would release their debut album after the release of his solo debut album <i><a href="/wiki/Trap_Lord" title="Trap Lord">Trap Lord</a></i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> During October 2013, ASAP Nast along with ASAP Rocky, Ferg, Twelvy and Ant, participated in the ASAP Mob's cypher during the <a href="/wiki/2013_BET_Hip_Hop_Awards" title="2013 BET Hip Hop Awards">2013 BET Hip Hop Awards</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> On December 3, 2013, it was announced that the album would be released on March 4, 2014.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> The following day, the album's first <a href="/wiki/Single_(music)" title="Single (music)">single</a>, "<a href="/wiki/Trillmatic" title="Trillmatic">Trillmatic</a>" by ASAP Nast, was released along with an accompanying music video. The single, produced by ASAP Ty Beats, features a <a href="/wiki/Verse_(popular_music)" class="mw-redirect" title="Verse (popular music)">verse</a> from American rapper and New York City-native, <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a>'s <a href="/wiki/Method_Man" title="Method Man">Method Man</a>.<sup id="cite_ref-mv_13-0" class="reference"><a href="#cite_note-mv-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> It had previously been previewed at the end of the music video for ASAP Ant's song "The Way It Go".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> The single was met with generally positive reviews from <a href="/wiki/Music_critic" class="mw-redirect" title="Music critic">music critics</a>.<sup id="cite_ref-complex2_9-1" class="reference"><a href="#cite_note-complex2-9">&#91;9&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The album was then changed to be titled <i><a href="/wiki/L.O.R.D._(album)" class="mw-redirect" title="L.O.R.D. (album)">L.O.R.D.</a></i>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>It has been predicted that <i>L.O.R.D.</i> could've resulted in Nast being the next breakout member of the group.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> Originally, he was being considered for the 2014 <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i> freshman class,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> but was not added. <i>L.O.R.D.</i> was expected for a 2014 release, however, ASAP Mob leader, the late ASAP Yams announced on his <a href="/wiki/Tumblr" title="Tumblr">Tumblr</a> account that the album was officially scrapped.<sup id="cite_ref-tumblr_23-0" class="reference"><a href="#cite_note-tumblr-23">&#91;23&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Musical_style">Musical style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=5" title="Edit section: Musical style">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i><a href="/wiki/Complex_(magazine)" class="mw-redirect" title="Complex (magazine)">Complex</a></i> said that ASAP Nast's style is deeply rooted in 1990's <a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a>, omitting the <a href="/wiki/Trap_music_(hip_hop)" class="mw-redirect" title="Trap music (hip hop)">trap</a> and <a href="/wiki/Southern_hip_hop" title="Southern hip hop">southern hip hop</a> influence that some other ASAP Mob members have.<sup id="cite_ref-complex1_7-1" class="reference"><a href="#cite_note-complex1-7">&#91;7&#93;</a></sup> <i><a href="/wiki/Vibe_(magazine)" title="Vibe (magazine)">Vibe</a></i> called him a brash, rapid-fire rhymer.<sup id="cite_ref-autogenerated1_3-1" class="reference"><a href="#cite_note-autogenerated1-3">&#91;3&#93;</a></sup> He has been credited as able to "adapt his flow to match beats of all styles and eras." His verses are usually boastful and full of multi-syllable rhyme schemes.<sup id="cite_ref-hotnewhiphop1_1-4" class="reference"><a href="#cite_note-hotnewhiphop1-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Other_Ventures">Other Ventures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=6" title="Edit section: Other Ventures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Collaborations">Collaborations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=7" title="Edit section: Collaborations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Various brands such as <a href="/wiki/Converse_(shoe_company)" class="mw-redirect" title="Converse (shoe company)">Converse</a> and <a href="/wiki/Reebok" title="Reebok">Reebok</a> have acknowledged his influence and thus granted him the opportunity to design sneakers that merge heritage with his street-style sensibilities.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> The rapper has released a number of collaborative pairs with Converse as they played with silhouettes from One Stars and Chuck 70s to the Jack Purcell Mid.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> In Spring of 2021, ASAP Nast formed a relationship with Reebok as they dropped a new Classic Leather Legacy colorway followed by a Zig Kinetica II Edge.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=8" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=9" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of studio albums, with year released
+</caption>
+<tbody><tr>
+<th scope="col" style="width:11em;">Title
+</th>
+<th scope="col" style="width:16em;">Album details
+</th></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/Cozy_Tapes_Vol._1:_Friends" title="Cozy Tapes Vol. 1: Friends">Cozy Tapes Vol. 1: Friends</a></i><br /><span style="font-size:85%;">(with <a href="/wiki/ASAP_Mob" title="ASAP Mob">A$AP Mob</a>)</span>
+</th>
+<td>
+<ul><li>Released: October 31, 2016</li>
+<li>Label: A$AP Worldwide, <a href="/wiki/Polo_Grounds_Music" title="Polo Grounds Music">Polo Grounds</a>, <a href="/wiki/RCA_Records" title="RCA Records">RCA</a></li>
+<li>Formats: Digital download, CD</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/Cozy_Tapes_Vol._2:_Too_Cozy" title="Cozy Tapes Vol. 2: Too Cozy">Cozy Tapes Vol. 2: Too Cozy</a></i><br /><span style="font-size:85%;">(with <a href="/wiki/ASAP_Mob" title="ASAP Mob">A$AP Mob</a>)</span>
+</th>
+<td>
+<ul><li>Released: August 25, 2017</li>
+<li>Label: A$AP Worldwide, <a href="/wiki/Polo_Grounds_Music" title="Polo Grounds Music">Polo Grounds</a>, <a href="/wiki/RCA_Records" title="RCA Records">RCA</a></li>
+<li>Formats: Digital download, CD</li></ul>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=10" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of
+</caption>
+<tbody><tr>
+<th scope="col" style="width:11em;">Title
+</th>
+<th scope="col" style="width:16em;">Album details
+</th></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/Lords_Never_Worry" title="Lords Never Worry">Lord$ Never Worry</a></i><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup><br /><span style="font-size:85%;">(with A$AP Mob)</span>
+</th>
+<td>
+<ul><li>Released: August 28, 2012</li>
+<li>Label: A$AP Worldwide, Polo Grounds, RCA</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=11" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="As_lead_artist">As lead artist</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=12" title="Edit section: As lead artist">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of singles, with selected chart positions, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:20em;">Title
+</th>
+<th scope="col" rowspan="2">Year
+</th>
+<th scope="col" colspan="3">Peak chart positions
+</th>
+<th scope="col" rowspan="2">Album
+</th></tr>
+<tr>
+<th style="width:3em;font-size:90%;"><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">US</a>
+</th>
+<th style="width:3em;font-size:90%;"><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">US<br />R&amp;B</a>
+</th>
+<th style="width:3em;font-size:90%;"><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">US<br />Rap</a>
+</th></tr>
+<tr>
+<th scope="row">"Designer Boi"<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> <span style="font-size:85%;">(featuring <a href="/wiki/D33J" title="D33J">D33J</a>)</span>
+</th>
+<td>2020
+</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;
+</td>
+<td data-sort-value="" style="background: #DDF; vertical-align: middle; text-align: center;" class="no table-no2"><abbr title="To be announced">TBA</abbr>
+</td></tr>
+<tr>
+<td colspan="6" style="font-size:90%">"—" denotes a recording that did not chart or was not released in that territory.
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="As_featured_artist">As featured artist</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=13" title="Edit section: As featured artist">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of singles, with selected chart positions, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:20em;">Title
+</th>
+<th scope="col" rowspan="2">Year
+</th>
+<th scope="col" colspan="5">Peak chart positions
+</th>
+<th scope="col" rowspan="2">Album
+</th></tr>
+<tr>
+<th style="width:3em;font-size:90%;"><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">US</a>
+</th>
+<th style="width:3em;font-size:90%;"><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">US<br />R&amp;B</a>
+</th>
+<th style="width:3em;font-size:90%;"><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">US<br />Rap</a>
+</th>
+<th style="width:3em;font-size:90%;"><a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK</a>
+</th>
+<th style="width:3em;font-size:90%;"><a href="/wiki/UK_R%26B_Chart" class="mw-redirect" title="UK R&amp;B Chart">UK<br />R&amp;B</a>
+</th></tr>
+<tr>
+<th scope="row">"<a href="/wiki/Trillmatic" title="Trillmatic">Trillmatic</a>"<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup><br /><span style="font-size:85%;">(<a href="/wiki/ASAP_Mob" title="ASAP Mob">ASAP Mob</a> featuring ASAP Nast and <a href="/wiki/Method_Man" title="Method Man">Method Man</a>)</span>
+</th>
+<td>2013
+</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>193</td>
+<td>29
+</td>
+<td rowspan="2" data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">non-album singles
+</td></tr>
+<tr>
+<th scope="row">"<a href="/wiki/Hella_Hoes" title="Hella Hoes">Hella Hoes</a>"<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup><br /><span style="font-size:85%;">(ASAP Mob featuring <a href="/wiki/ASAP_Rocky" title="ASAP Rocky">ASAP Rocky</a>, <a href="/wiki/ASAP_Ferg" title="ASAP Ferg">ASAP Ferg</a>, ASAP Nast and <a href="/wiki/ASAP_Twelvyy" title="ASAP Twelvyy">ASAP Twelvyy</a>)</span>
+</th>
+<td>2014
+</td>
+<td>—</td>
+<td>60</td>
+<td>—</td>
+<td>—</td>
+<td>—
+</td></tr>
+<tr>
+<th scope="row">"<a href="/wiki/Yamborghini_High" title="Yamborghini High">Yamborghini High</a>" <span style="font-size:85%;">(ASAP Mob featuring ASAP Rocky, ASAP Nast, ASAP Ant, ASAP Ferg, and <a href="/wiki/Juicy_J" title="Juicy J">Juicy J</a>)</span>
+</th>
+<td rowspan="2">2016
+</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—
+</td>
+<td><i><a href="/wiki/Cozy_Tapes_Vol._1:_Friends" title="Cozy Tapes Vol. 1: Friends">Cozy Tapes Vol. 1: Friends</a></i>
+</td></tr>
+<tr>
+<th scope="row">"<a href="/wiki/Ladies_Hit_Squad_(song)" title="Ladies Hit Squad (song)">Ladies Hit Squad</a>" <span style="font-size:85%;">(<a href="/wiki/Skepta" title="Skepta">Skepta</a> featuring <a href="/wiki/D_Double_E" title="D Double E">D Double E</a> and ASAP Nast)</span>
+</th>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>89</td>
+<td>28
+</td>
+<td><i><a href="/wiki/Konnichiwa_(Skepta_album)" title="Konnichiwa (Skepta album)">Konnichiwa</a></i>
+</td></tr>
+<tr>
+<td colspan="8" style="font-size:90%">"—" denotes a recording that did not chart or was not released in that territory.
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Guest_appearances">Guest appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=14" title="Edit section: Guest appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of non-single guest appearances, with other performing artists, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" style="width:19em;">Title
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Other artist(s)
+</th>
+<th scope="col">Album
+</th></tr>
+<tr>
+<th scope="row">"Purple Swag: Chapter 2"
+</th>
+<td rowspan="2">2011
+</td>
+<td><a href="/wiki/ASAP_Rocky" title="ASAP Rocky">A$AP Rocky</a>, <a href="/wiki/SpaceGhostPurrp" title="SpaceGhostPurrp">SpaceGhostPurrp</a>
+</td>
+<td rowspan="2"><i><a href="/wiki/Live._Love._ASAP" title="Live. Love. ASAP">LIVE.LOVE.A$AP</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Trilla"
+</th>
+<td>A$AP Rocky, <a href="/wiki/ASAP_Twelvyy" title="ASAP Twelvyy">A$AP Twelvyy</a>
+</td></tr>
+<tr>
+<th scope="row">"So Cold"
+</th>
+<td rowspan="3">2012
+</td>
+<td><a href="/wiki/ASAP_Mob" title="ASAP Mob">A$AP Mob</a>, <a href="/wiki/ASAP_Ferg" title="ASAP Ferg">A$AP Ferg</a>
+</td>
+<td rowspan="3"><i><a href="/wiki/Lords_Never_Worry" title="Lords Never Worry">Lord$ Never Worry</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Black Mane"
+</th>
+<td>A$AP Mob
+</td></tr>
+<tr>
+<th scope="row">"Gotham City"
+</th>
+<td>A$AP Mob, A$AP Ferg, A$AP Twelvyy
+</td></tr>
+<tr>
+<th scope="row">"So Cold"
+</th>
+<td>2013
+</td>
+<td><a href="/wiki/Dash_(rapper)" title="Dash (rapper)">Da$H</a>, A$AP Ferg
+</td>
+<td><i>V.I.C.E.S</i>
+</td></tr>
+<tr>
+<th scope="row">"NV"
+</th>
+<td>2014
+</td>
+<td>A$AP Ferg
+</td>
+<td><i><a href="/wiki/Ferg_Forever" title="Ferg Forever">Ferg Forever</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Nasty's World"
+</th>
+<td rowspan="2">2016
+</td>
+<td>A$AP Mob, <a href="/wiki/Onyx_(American_band)" class="mw-redirect" title="Onyx (American band)">Onyx</a>
+</td>
+<td rowspan="2"><i><a href="/wiki/Cozy_Tapes_Vol._1:_Friends" title="Cozy Tapes Vol. 1: Friends">Cozy Tapes Vol. 1: Friends</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Money Man"
+</th>
+<td>A$AP Mob, A$AP Rocky, <a href="/wiki/ASAP_Mob" title="ASAP Mob">Yung Lord</a>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width reflist-columns-2">
+<ol class="references">
+<li id="cite_note-hotnewhiphop1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-hotnewhiphop1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hotnewhiphop1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hotnewhiphop1_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hotnewhiphop1_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-hotnewhiphop1_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/crew-love-asap-mob-news.9160.html?gallery-14903-photo-0">"Crew Love: A$AP Mob"</a>. Hotnewhiphop.com. 2014-02-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Crew+Love%3A+A%24AP+Mob&amp;rft.pub=Hotnewhiphop.com&amp;rft.date=2014-02-03&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fcrew-love-asap-mob-news.9160.html%3Fgallery-14903-photo-0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-villagevoice2-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-villagevoice2_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-villagevoice2_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJ._Pablo_Tue.,_Aug._28_2012_at_2:00_PM2012" class="citation web cs1">J. Pablo Tue., Aug. 28 2012 at 2:00 PM (2012-08-28). <a rel="nofollow" class="external text" href="http://blogs.villagevoice.com/music/2012/08/meet_asap_mob.php?page=2">"Meet The A$AP Mob: Talking To Ant, Ferg, J. Scott, Nast, Twelvy, And Yams"</a>. Blogs.villagevoice.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Meet+The+A%24AP+Mob%3A+Talking+To+Ant%2C+Ferg%2C+J.+Scott%2C+Nast%2C+Twelvy%2C+And+Yams&amp;rft.pub=Blogs.villagevoice.com&amp;rft.date=2012-08-28&amp;rft.au=J.+Pablo+Tue.%2C+Aug.+28+2012+at+2%3A00+PM&amp;rft_id=http%3A%2F%2Fblogs.villagevoice.com%2Fmusic%2F2012%2F08%2Fmeet_asap_mob.php%3Fpage%3D2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-autogenerated1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.vibe.com/article/vibe-tv-meet-asap-mob">"TV: Meet the ASAP Mob"</a>. Vibe. 2013-09-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TV%3A+Meet+the+ASAP+Mob&amp;rft.pub=Vibe&amp;rft.date=2013-09-10&amp;rft_id=http%3A%2F%2Fwww.vibe.com%2Farticle%2Fvibe-tv-meet-asap-mob&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.djbooth.net/index/tracks/review/asap-rocky-trilla">"ASAP Rocky ft. ASAP Twelvy &amp; ASAP Nast - Trilla &#124; Stream &amp; Download"</a>. DJBooth.net<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ASAP+Rocky+ft.+ASAP+Twelvy+%26+ASAP+Nast+-+Trilla+%26%23124%3B+Stream+%26+Download&amp;rft.pub=DJBooth.net&amp;rft_id=http%3A%2F%2Fwww.djbooth.net%2Findex%2Ftracks%2Freview%2Fasap-rocky-trilla&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPEDRO_says2011" class="citation web cs1">PEDRO says (2011-09-19). <a rel="nofollow" class="external text" href="http://www.thefader.com/2011/09/19/asap-rocky-f-asap-nast-and-asap-twelvy-trilla-mp3/">"ASAP Rocky f. ASAP Nast and ASAP Twelvy, "Trillamatic" MP3"</a>. The Fader<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ASAP+Rocky+f.+ASAP+Nast+and+ASAP+Twelvy%2C+%22Trillamatic%22+MP3&amp;rft.pub=The+Fader&amp;rft.date=2011-09-19&amp;rft.au=PEDRO+says&amp;rft_id=http%3A%2F%2Fwww.thefader.com%2F2011%2F09%2F19%2Fasap-rocky-f-asap-nast-and-asap-twelvy-trilla-mp3%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPelly2012" class="citation web cs1">Pelly, Jenn (August 27, 2012). <a rel="nofollow" class="external text" href="http://pitchfork.com/news/47648-download-the-new-mixtape-lords-never-worry-from-aap-rockys-aap-mob/">"Download the New Mixtape Lords Never Worry From A$AP Rocky's A$AP Mob"</a>. Pitchfork Media<span class="reference-accessdate">. Retrieved <span class="nowrap">August 28,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Download+the+New+Mixtape+Lords+Never+Worry+From+A%24AP+Rocky%27s+A%24AP+Mob&amp;rft.pub=Pitchfork+Media&amp;rft.date=2012-08-27&amp;rft.aulast=Pelly&amp;rft.aufirst=Jenn&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Fnews%2F47648-download-the-new-mixtape-lords-never-worry-from-aap-rockys-aap-mob%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-complex1-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-complex1_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-complex1_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/07/25-new-rappers-to-watch-out-for/asap-nast">"A$AP Nast — 25 New Rappers to Watch Out For"</a>. Complex<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A%24AP+Nast+%E2%80%94+25+New+Rappers+to+Watch+Out+For&amp;rft.pub=Complex&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F07%2F25-new-rappers-to-watch-out-for%2Fasap-nast&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.vibe.com/article/mob-ties-meet-aap-nast">"Mob Ties: Meet A$Ap Nast"</a>. Vibe. 2012-11-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mob+Ties%3A+Meet+A%24Ap+Nast&amp;rft.pub=Vibe&amp;rft.date=2012-11-28&amp;rft_id=http%3A%2F%2Fwww.vibe.com%2Farticle%2Fmob-ties-meet-aap-nast&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-complex2-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-complex2_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-complex2_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/04/premiere-tinashe-f-aap-nast-who-am-i-working-for-remix">"Premiere: Tinashe f/ A$AP Nast "Who Am I Working For? (Remix)"<span class="cs1-kern-right"></span>"</a>. Complex. 2013-04-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Premiere%3A+Tinashe+f%2F+A%24AP+Nast+%22Who+Am+I+Working+For%3F+%28Remix%29%22&amp;rft.pub=Complex&amp;rft.date=2013-04-16&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F04%2Fpremiere-tinashe-f-aap-nast-who-am-i-working-for-remix&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBuyanovsky2013" class="citation web cs1">Buyanovsky, Dan (2013-07-10). <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2013/07/asap-ferg-teases-new-asap-mob-album/">"A$AP Ferg Teases New A$AP Mob Album - XXL"</a>. Xxlmag.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A%24AP+Ferg+Teases+New+A%24AP+Mob+Album+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft.date=2013-07-10&amp;rft.aulast=Buyanovsky&amp;rft.aufirst=Dan&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2013%2F07%2Fasap-ferg-teases-new-asap-mob-album%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBaker2013" class="citation web cs1">Baker, Soren (2013-09-29). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.25592/title.kendrick-lamar-a-ap-rocky-slaughterhouse-among-bet-hip-hop-awards-cypher-participants">"Kendrick Lamar, A$AP Rocky, Slaughterhouse Among BET Hip Hop Awards Cypher Participants &#124; Get The Latest Hip Hop News, Rap News &amp; Hip Hop Album Sales"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kendrick+Lamar%2C+A%24AP+Rocky%2C+Slaughterhouse+Among+BET+Hip+Hop+Awards+Cypher+Participants+%26%23124%3B+Get+The+Latest+Hip+Hop+News%2C+Rap+News+%26+Hip+Hop+Album+Sales&amp;rft.pub=HipHop+DX&amp;rft.date=2013-09-29&amp;rft.aulast=Baker&amp;rft.aufirst=Soren&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.25592%2Ftitle.kendrick-lamar-a-ap-rocky-slaughterhouse-among-bet-hip-hop-awards-cypher-participants&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.rap-up.com/2013/12/03/video-asap-mob-f-asap-nast-method-man-trillmatic/">"Video: A$AP Mob f/ A$AP Nast &amp; Method Man – 'Trillmatic'<span class="cs1-kern-right"></span>"</a>. Rap-Up.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Video%3A+A%24AP+Mob+f%2F+A%24AP+Nast+%26+Method+Man+%E2%80%93+%27Trillmatic%27&amp;rft.pub=Rap-Up.com&amp;rft_id=http%3A%2F%2Fwww.rap-up.com%2F2013%2F12%2F03%2Fvideo-asap-mob-f-asap-nast-method-man-trillmatic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-mv-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-mv_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFZoladz2013" class="citation web cs1">Zoladz, Lindsay (December 5, 2013). <a rel="nofollow" class="external text" href="http://pitchfork.com/news/53247-video-aap-mob-trillmatic-ft-aap-nast-and-method-man/">"Video: A$AP Mob: "Trillmatic" &#91;ft. A$AP Nast and Method Man&#93;"</a>. Pitchfork Media<span class="reference-accessdate">. Retrieved <span class="nowrap">January 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Video%3A+A%24AP+Mob%3A+%22Trillmatic%22+%5Bft.+A%24AP+Nast+and+Method+Man%5D&amp;rft.pub=Pitchfork+Media&amp;rft.date=2013-12-05&amp;rft.aulast=Zoladz&amp;rft.aufirst=Lindsay&amp;rft_id=http%3A%2F%2Fpitchfork.com%2Fnews%2F53247-video-aap-mob-trillmatic-ft-aap-nast-and-method-man%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/12/asap-mob-asap-nast-method-man-trillmatic">"A$AP Mob A$AP Nast Method Man "Trillmatic"<span class="cs1-kern-right"></span>"</a>. Complex. 2013-12-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A%24AP+Mob+A%24AP+Nast+Method+Man+%22Trillmatic%22&amp;rft.pub=Complex&amp;rft.date=2013-12-03&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F12%2Fasap-mob-asap-nast-method-man-trillmatic&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/07/video-asap-ant-asap-the-way-it-gotrillmatic">"A$AP Ant &amp; A$AP Nast "The Way It Go/Trillmatic"<span class="cs1-kern-right"></span>"</a>. Complex. 2013-07-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A%24AP+Ant+%26+A%24AP+Nast+%22The+Way+It+Go%2FTrillmatic%22&amp;rft.pub=Complex&amp;rft.date=2013-07-09&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F07%2Fvideo-asap-ant-asap-the-way-it-gotrillmatic&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFJohnson,_Jr.2013" class="citation web cs1">Johnson, Jr., Billy (2013-12-04). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/a-ap-mob-s-trillmatic-video-count-the-aa99-s-references-20131204">"AAP Mobs Trillmatic Video: Count the 1990s References &#124; Music News"</a>. Rolling Stone<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AAP+Mobs+Trillmatic+Video%3A+Count+the+1990s+References+%26%23124%3B+Music+News&amp;rft.pub=Rolling+Stone&amp;rft.date=2013-12-04&amp;rft.aulast=Johnson%2C+Jr.&amp;rft.aufirst=Billy&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Fa-ap-mob-s-trillmatic-video-count-the-aa99-s-references-20131204&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://theboombox.com/asap-nast-method-man-trillmatic-video/">"A$AP Nast, Method Man Take It to the '90s With 'Trillmatic'<span class="cs1-kern-right"></span>"</a>. Theboombox.com. 2013-12-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A%24AP+Nast%2C+Method+Man+Take+It+to+the+%2790s+With+%27Trillmatic%27&amp;rft.pub=Theboombox.com&amp;rft.date=2013-12-04&amp;rft_id=http%3A%2F%2Ftheboombox.com%2Fasap-nast-method-man-trillmatic-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMeara2014" class="citation web cs1">Meara, Paul (2014-01-14). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.27038/title.rap-release-dates-juicy-j-meek-mill-murs-curtiss-king-killa-sha">"Rap Release Dates: Juicy J, Meek Mill, Murs &amp; Curtiss King, Killa Sha &#124; Get The Latest Hip Hop News, Rap News &amp; Hip Hop Album Sales"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rap+Release+Dates%3A+Juicy+J%2C+Meek+Mill%2C+Murs+%26+Curtiss+King%2C+Killa+Sha+%26%23124%3B+Get+The+Latest+Hip+Hop+News%2C+Rap+News+%26+Hip+Hop+Album+Sales&amp;rft.pub=HipHop+DX&amp;rft.date=2014-01-14&amp;rft.aulast=Meara&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.27038%2Ftitle.rap-release-dates-juicy-j-meek-mill-murs-curtiss-king-killa-sha&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2014/01/15-artists-to-watch-out-for-in-2014/asap-nast">"A$AP Nast — 15 Artists To Watch Out For In 2014"</a>. Complex<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A%24AP+Nast+%E2%80%94+15+Artists+To+Watch+Out+For+In+2014&amp;rft.pub=Complex&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2014%2F01%2F15-artists-to-watch-out-for-in-2014%2Fasap-nast&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2014/01/most-anticipated-albums-2014/asap-mob-lords">"16. A$AP Mob, Lords — The Most Anticipated Albums of 2014"</a>. Complex. 2014-01-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=16.+A%24AP+Mob%2C+Lords+%E2%80%94+The+Most+Anticipated+Albums+of+2014&amp;rft.pub=Complex&amp;rft.date=2014-01-06&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2014%2F01%2Fmost-anticipated-albums-2014%2Fasap-mob-lords&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://atlantablackstar.com/2013/12/04/straight-mobbin-aap-nast-trillmatic-video-feat-method-man/">"Straight Mobbin': A$AP Nast Drops "Trillmatic" Video Featuring Method Man"</a>. Atlanta Black Star. 2013-12-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Straight+Mobbin%27%3A+A%24AP+Nast+Drops+%22Trillmatic%22+Video+Featuring+Method+Man&amp;rft.pub=Atlanta+Black+Star&amp;rft.date=2013-12-04&amp;rft_id=http%3A%2F%2Fatlantablackstar.com%2F2013%2F12%2F04%2Fstraight-mobbin-aap-nast-trillmatic-video-feat-method-man%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/10spot-artist/2014/03/aap-nast/">"A$AP Nast - XXL"</a>. Xxlmag.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A%24AP+Nast+-+XXL&amp;rft.pub=Xxlmag.com&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2F10spot-artist%2F2014%2F03%2Faap-nast%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-tumblr-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-tumblr_23-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://yamborghini.tumblr.com/post/98450145494/you-my-dude-and-a-ap-is-my-fav-rap-fashionable-but">"You my dude and A$AP Is my fav rap / fashionable ..."</a> Yamborghini.tumblr.com<span class="reference-accessdate">. Retrieved <span class="nowrap">19 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=You+my+dude+and+A%24AP+Is+my+fav+rap+%2F+fashionable+...&amp;rft.pub=Yamborghini.tumblr.com&amp;rft_id=http%3A%2F%2Fyamborghini.tumblr.com%2Fpost%2F98450145494%2Fyou-my-dude-and-a-ap-is-my-fav-rap-fashionable-but&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hypebeast.com/2022/2/asap-nast-reebok-zig-kinetica-ii-edge-sole-mates-interview">"Sole Mates: A$AP Nast and the Reebok Zig Kinetica II Edge"</a>. <i>HYPEBEAST</i>. 2022-02-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HYPEBEAST&amp;rft.atitle=Sole+Mates%3A+A%24AP+Nast+and+the+Reebok+Zig+Kinetica+II+Edge&amp;rft.date=2022-02-26&amp;rft_id=https%3A%2F%2Fhypebeast.com%2F2022%2F2%2Fasap-nast-reebok-zig-kinetica-ii-edge-sole-mates-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hypebeast.com/2017/11/asap-nast-converse-collaboration-footlocker-online-rerelease">"The A$AP Nast x Converse Collaboration Is Set for an Online Rerelease"</a>. <i>HYPEBEAST</i>. 2017-11-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HYPEBEAST&amp;rft.atitle=The+A%24AP+Nast+x+Converse+Collaboration+Is+Set+for+an+Online+Rerelease&amp;rft.date=2017-11-26&amp;rft_id=https%3A%2F%2Fhypebeast.com%2F2017%2F11%2Fasap-nast-converse-collaboration-footlocker-online-rerelease&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hypebeast.com/2019/12/asap-nast-converse-jack-purcell-167378c-167379c-release-date">"A$AP Nast and Converse Turn up the Heat With Second Jack Purcell Mid Collaboration"</a>. <i>HYPEBEAST</i>. 2019-12-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HYPEBEAST&amp;rft.atitle=A%24AP+Nast+and+Converse+Turn+up+the+Heat+With+Second+Jack+Purcell+Mid+Collaboration&amp;rft.date=2019-12-02&amp;rft_id=https%3A%2F%2Fhypebeast.com%2F2019%2F12%2Fasap-nast-converse-jack-purcell-167378c-167379c-release-date&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hypebeast.com/2021/3/asap-nast-reebok-classic-leather-legacy-h01280-release-date">"A$AP Nast Links With Reebok For Earth Toned Classic Leather Legacy Collaboration"</a>. <i>HYPEBEAST</i>. 2021-03-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HYPEBEAST&amp;rft.atitle=A%24AP+Nast+Links+With+Reebok+For+Earth+Toned+Classic+Leather+Legacy+Collaboration&amp;rft.date=2021-03-29&amp;rft_id=https%3A%2F%2Fhypebeast.com%2F2021%2F3%2Fasap-nast-reebok-classic-leather-legacy-h01280-release-date&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hypebeast.com/2021/11/aap-nast-reebok-zig-kinetica-ii-edge-collaboration-gy5805-release-info">"A$AP Nast and Reebok Reunite for a Zig Kinetica II Edge Collaboration"</a>. <i>HYPEBEAST</i>. 2021-11-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HYPEBEAST&amp;rft.atitle=A%24AP+Nast+and+Reebok+Reunite+for+a+Zig+Kinetica+II+Edge+Collaboration&amp;rft.date=2021-11-18&amp;rft_id=https%3A%2F%2Fhypebeast.com%2F2021%2F11%2Faap-nast-reebok-zig-kinetica-ii-edge-collaboration-gy5805-release-info&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBreihan2012" class="citation web cs1">Breihan, Tom (August 28, 2012). <a rel="nofollow" class="external text" href="http://stereogum.com/1136751/download-aap-mob-lord-never-worry-mixtape/mp3s/">"Download A$AP Mob Lord$ Never Worry Mixtape"</a>. <i><a href="/wiki/Stereogum" title="Stereogum">Stereogum</a></i>. <a href="/wiki/Spin_Media" class="mw-redirect" title="Spin Media">Spin Media</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 9,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Stereogum&amp;rft.atitle=Download+A%24AP+Mob+Lord%24+Never+Worry+Mixtape&amp;rft.date=2012-08-28&amp;rft.aulast=Breihan&amp;rft.aufirst=Tom&amp;rft_id=http%3A%2F%2Fstereogum.com%2F1136751%2Fdownload-aap-mob-lord-never-worry-mixtape%2Fmp3s%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://genius.com/A-ap-nast-designer-boi-lyrics">"A$AP NAST &#8211; Designer Boi Lyrics / Genius Lyrics"</a>. Genius<span class="reference-accessdate">. Retrieved <span class="nowrap">May 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A%24AP+NAST+%26ndash%3B+Designer+Boi+Lyrics+%2F+Genius+Lyrics&amp;rft.pub=Genius&amp;rft_id=https%3A%2F%2Fgenius.com%2FA-ap-nast-designer-boi-lyrics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/trillmatic-feat.-a$ap-nast/id772147278">"Trillmatic (feat. A$AP Nast &amp; Method Man) - Single by ASAP Mob"</a>. <i><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a></i>. <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 6,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes+Store&amp;rft.atitle=Trillmatic+%28feat.+A%24AP+Nast+%26+Method+Man%29+-+Single+by+ASAP+Mob&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Ftrillmatic-feat.-a%24ap-nast%2Fid772147278&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/hella-hoes-feat.-a$ap-rocky/id886816955">"iTunes - Music - Hella Hoes (feat. A$AP Rocky, A$AP Ferg, A$AP Nast &amp; A$AP Twelvyy) - Single by A$AP Mob"</a>. Itunes.apple.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=iTunes+-+Music+-+Hella+Hoes+%28feat.+A%24AP+Rocky%2C+A%24AP+Ferg%2C+A%24AP+Nast+%26+A%24AP+Twelvyy%29+-+Single+by+A%24AP+Mob&amp;rft.pub=Itunes.apple.com&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fhella-hoes-feat.-a%24ap-rocky%2Fid886816955&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASAP+Nast" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASAP_Nast&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://twitter.com/ASVPNVST">ASAP Nast</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="ASAP_Mob" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:ASAP_Mob" title="Template:ASAP Mob"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:ASAP_Mob" title="Template talk:ASAP Mob"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:ASAP_Mob&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="ASAP_Mob" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/ASAP_Mob" title="ASAP Mob">ASAP Mob</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a href="/wiki/ASAP_Ferg" title="ASAP Ferg">ASAP Ferg</a></b></li>
+<li><b><a class="mw-selflink selflink">ASAP Nast</a></b></li>
+<li><b><a href="/wiki/ASAP_Rocky" title="ASAP Rocky">ASAP Rocky</a></b></li>
+<li><b><a href="/wiki/ASAP_Twelvyy" title="ASAP Twelvyy">ASAP Twelvyy</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Cozy_Tapes_Vol._1:_Friends" title="Cozy Tapes Vol. 1: Friends">Cozy Tapes Vol. 1: Friends</a></i></li>
+<li><i><a href="/wiki/Cozy_Tapes_Vol._2:_Too_Cozy" title="Cozy Tapes Vol. 2: Too Cozy">Cozy Tapes Vol. 2: Too Cozy</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Mixtapes</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Lords_Never_Worry" title="Lords Never Worry">Lords Never Worry</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Trillmatic" title="Trillmatic">Trillmatic</a>"</li>
+<li>"<a href="/wiki/Hella_Hoes" title="Hella Hoes">Hella Hoes</a>"</li>
+<li>"<a href="/wiki/Yamborghini_High" title="Yamborghini High">Yamborghini High</a>"</li>
+<li>"<a href="/wiki/Raf_(song)" title="Raf (song)">Raf</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/ASAP_Mob_discography" class="mw-redirect" title="ASAP Mob discography">Discography</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q16148807#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q16148807#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q16148807#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000466184770">ISNI</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/920fcaa0-a167-4cef-92c8-88c1724f6adc">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2359
+Cached time: 20230920000849
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.533 seconds
+Real time usage: 0.683 seconds
+Preprocessor visited node count: 2834/1000000
+Post‐expand include size: 81774/2097152 bytes
+Template argument size: 3298/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 111386/5000000 bytes
+Lua time usage: 0.359/10.000 seconds
+Lua memory usage: 8856117/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  605.241      1 -total
+ 37.71%  228.232      1 Template:Reflist
+ 33.35%  201.872     32 Template:Cite_web
+ 21.77%  131.748      1 Template:Infobox_musical_artist
+ 19.37%  117.265      1 Template:Infobox
+ 15.95%   96.550     12 Template:Main_other
+ 12.15%   73.531      1 Template:Update
+ 11.38%   68.869      1 Template:Ambox
+ 11.01%   66.633      2 Template:Short_description
+  8.14%   49.292      1 Template:ASAP_Mob
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40106771-0!canonical and timestamp 20230920000849 and revision id 1175295495. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=ASAP_Nast&amp;oldid=1175295495">https://en.wikipedia.org/w/index.php?title=ASAP_Nast&amp;oldid=1175295495</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Rappers_from_Manhattan" title="Category:Rappers from Manhattan">Rappers from Manhattan</a></li><li><a href="/wiki/Category:Musicians_from_Harlem" title="Category:Musicians from Harlem">Musicians from Harlem</a></li><li><a href="/wiki/Category:1990_births" title="Category:1990 births">1990 births</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:ASAP_Mob_members" title="Category:ASAP Mob members">ASAP Mob members</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_September_2021" title="Category:Wikipedia articles in need of updating from September 2021">Wikipedia articles in need of updating from September 2021</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 14 September 2023, at 02:14<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=ASAP_Nast&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2367","wgBackendResponseTime":102,"wgPageParseReport":{"limitreport":{"cputime":"0.533","walltime":"0.683","ppvisitednodes":{"value":2834,"limit":1000000},"postexpandincludesize":{"value":81774,"limit":2097152},"templateargumentsize":{"value":3298,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":111386,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  605.241      1 -total"," 37.71%  228.232      1 Template:Reflist"," 33.35%  201.872     32 Template:Cite_web"," 21.77%  131.748      1 Template:Infobox_musical_artist"," 19.37%  117.265      1 Template:Infobox"," 15.95%   96.550     12 Template:Main_other"," 12.15%   73.531      1 Template:Update"," 11.38%   68.869      1 Template:Ambox"," 11.01%   66.633      2 Template:Short_description","  8.14%   49.292      1 Template:ASAP_Mob"]},"scribunto":{"limitreport-timeusage":{"value":"0.359","limit":"10.000"},"limitreport-memusage":{"value":8856117,"limit":52428800}},"cachereport":{"origin":"mw2359","timestamp":"20230920000849","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"ASAP Nast","url":"https:\/\/en.wikipedia.org\/wiki\/ASAP_Nast","sameAs":"http:\/\/www.wikidata.org\/entity\/Q16148807","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q16148807","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-07-30T00:49:53Z","dateModified":"2023-09-14T02:14:00Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2a\/ASAP_Nast_2013.jpg","headline":"American rapper"}</script>
+</body>
+</html>

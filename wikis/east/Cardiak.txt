@@ -1,0 +1,1826 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Cardiak - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"ff07f7e9-f301-4b72-a33b-0069a4a2dd14","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cardiak","wgTitle":"Cardiak","wgCurRevisionId":1166363482,"wgRevisionId":1166363482,"wgArticleId":23589796,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Use mdy dates from May 2022","Short description is different from Wikidata","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from March 2016","1988 births","Living people","People from Willingboro Township, New Jersey","Musicians from New Jersey","African-American record producers","American hip hop record producers","American rhythm and blues keyboardists","East Coast hip hop musicians","21st-century African-American people",
+"20th-century African-American people"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Cardiak","wgRelevantArticleId":23589796,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1392679",
+"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d6/Cardiak.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1477">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d6/Cardiak.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="985">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cardiak.jpg/640px-Cardiak.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="788">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Cardiak - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Cardiak">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cardiak&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cardiak">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cardiak rootpage-Cardiak skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cardiak" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cardiak" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cardiak" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cardiak" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Career</div>
+		</a>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Production_discography"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Production_discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Production discography</div>
+		</a>
+		
+			<button aria-controls="toc-Production_discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Production discography subsection</span>
+			</button>
+		
+		<ul id="toc-Production_discography-sublist" class="vector-toc-list">
+			<li id="toc-2008"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2008">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>2008</div>
+			</a>
+			
+			<ul id="toc-2008-sublist" class="vector-toc-list">
+				<li id="toc-Joe_Budden_–_Halfway_House"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Joe_Budden_–_Halfway_House">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1.1</span>Joe Budden – <i>Halfway House</i></div>
+			</a>
+			
+			<ul id="toc-Joe_Budden_–_Halfway_House-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Freeway_–_Month_of_Madness"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Freeway_–_Month_of_Madness">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1.2</span>Freeway – <i>Month of Madness</i></div>
+			</a>
+			
+			<ul id="toc-Freeway_–_Month_of_Madness-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-2009"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2009">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>2009</div>
+			</a>
+			
+			<ul id="toc-2009-sublist" class="vector-toc-list">
+				<li id="toc-Lloyd_Banks_–_The_Cold_Corner"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Lloyd_Banks_–_The_Cold_Corner">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2.1</span>Lloyd Banks – <i>The Cold Corner</i></div>
+			</a>
+			
+			<ul id="toc-Lloyd_Banks_–_The_Cold_Corner-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Havoc_–_From_Now_On"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Havoc_–_From_Now_On">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2.2</span>Havoc – <i>From Now On</i></div>
+			</a>
+			
+			<ul id="toc-Havoc_–_From_Now_On-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Lil_Twist_–_The_Yearbook"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Lil_Twist_–_The_Yearbook">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2.3</span>Lil Twist – <i>The Yearbook</i></div>
+			</a>
+			
+			<ul id="toc-Lil_Twist_–_The_Yearbook-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Lola_Monroe_–_Art_Of_Motivation"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Lola_Monroe_–_Art_Of_Motivation">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2.4</span>Lola Monroe – <i>Art Of Motivation</i></div>
+			</a>
+			
+			<ul id="toc-Lola_Monroe_–_Art_Of_Motivation-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ace_Hood_–_Street_Certified"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Ace_Hood_–_Street_Certified">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2.5</span>Ace Hood – <i>Street Certified</i></div>
+			</a>
+			
+			<ul id="toc-Ace_Hood_–_Street_Certified-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ace_Hood_–_Ruthless"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Ace_Hood_–_Ruthless">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2.6</span>Ace Hood – <i>Ruthless</i></div>
+			</a>
+			
+			<ul id="toc-Ace_Hood_–_Ruthless-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Lil_Twist_–_Class_President"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Lil_Twist_–_Class_President">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2.7</span>Lil Twist – <i>Class President</i></div>
+			</a>
+			
+			<ul id="toc-Lil_Twist_–_Class_President-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Lola_Monroe_–_The_Untouchables"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Lola_Monroe_–_The_Untouchables">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2.8</span>Lola Monroe – <i>The Untouchables</i></div>
+			</a>
+			
+			<ul id="toc-Lola_Monroe_–_The_Untouchables-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-2010"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2010">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>2010</div>
+			</a>
+			
+			<ul id="toc-2010-sublist" class="vector-toc-list">
+				<li id="toc-Mike_Knox_–_Money_Machine"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Mike_Knox_–_Money_Machine">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3.1</span>Mike Knox – <i>Money Machine</i></div>
+			</a>
+			
+			<ul id="toc-Mike_Knox_–_Money_Machine-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Meek_Mill_–_Mr._Philadelphia"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Meek_Mill_–_Mr._Philadelphia">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3.2</span>Meek Mill – <i>Mr. Philadelphia</i></div>
+			</a>
+			
+			<ul id="toc-Meek_Mill_–_Mr._Philadelphia-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Lloyd_Banks_–_The_Hunger_for_More_2"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Lloyd_Banks_–_The_Hunger_for_More_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3.3</span>Lloyd Banks – <i>The Hunger for More 2</i></div>
+			</a>
+			
+			<ul id="toc-Lloyd_Banks_–_The_Hunger_for_More_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-2011"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2011">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>2011</div>
+			</a>
+			
+			<ul id="toc-2011-sublist" class="vector-toc-list">
+				<li id="toc-USDA_–_CTE_Or_Nothing"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#USDA_–_CTE_Or_Nothing">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.1</span>USDA – <i>CTE Or Nothing</i></div>
+			</a>
+			
+			<ul id="toc-USDA_–_CTE_Or_Nothing-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Red_Cafe_–_Above_The_Clouds"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Red_Cafe_–_Above_The_Clouds">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.2</span>Red Cafe – <i>Above The Clouds</i></div>
+			</a>
+			
+			<ul id="toc-Red_Cafe_–_Above_The_Clouds-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Maybach_Music_Group_–_Self_Made_Vol._1"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Maybach_Music_Group_–_Self_Made_Vol._1">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.3</span>Maybach Music Group – <i>Self Made Vol. 1</i></div>
+			</a>
+			
+			<ul id="toc-Maybach_Music_Group_–_Self_Made_Vol._1-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Fabolous_–_&#039;The_S.O.U.L._Tape_(Mixtape)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Fabolous_–_&#039;The_S.O.U.L._Tape_(Mixtape)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.4</span>Fabolous – '<i>The S.O.U.L. Tape (Mixtape)</i></div>
+			</a>
+			
+			<ul id="toc-Fabolous_–_&#039;The_S.O.U.L._Tape_(Mixtape)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ace_Hood_–_Body_Bag_Vol.1"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Ace_Hood_–_Body_Bag_Vol.1">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.5</span>Ace Hood – <i>Body Bag Vol.1</i></div>
+			</a>
+			
+			<ul id="toc-Ace_Hood_–_Body_Bag_Vol.1-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Tory_Lanez_–_Swavey_(Mixtape)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Tory_Lanez_–_Swavey_(Mixtape)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.6</span>Tory Lanez – <i>Swavey (Mixtape)</i></div>
+			</a>
+			
+			<ul id="toc-Tory_Lanez_–_Swavey_(Mixtape)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Kid_Ink_–_Daydreamer"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Kid_Ink_–_Daydreamer">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.7</span>Kid Ink – <i>Daydreamer</i></div>
+			</a>
+			
+			<ul id="toc-Kid_Ink_–_Daydreamer-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Cory_Gunz_–_Son_Of_A_Gun_(Mixtape)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Cory_Gunz_–_Son_Of_A_Gun_(Mixtape)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.8</span>Cory Gunz – <i>Son Of A Gun (Mixtape)</i></div>
+			</a>
+			
+			<ul id="toc-Cory_Gunz_–_Son_Of_A_Gun_(Mixtape)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ace_Hood_–_Blood,_Sweat_&amp;_Tears"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Ace_Hood_–_Blood,_Sweat_&amp;_Tears">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.9</span>Ace Hood – <i>Blood, Sweat & Tears</i></div>
+			</a>
+			
+			<ul id="toc-Ace_Hood_–_Blood,_Sweat_&amp;_Tears-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Triple_C&#039;s_–_Money_Burning_Mother****er_(Mixtape)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Triple_C&#039;s_–_Money_Burning_Mother****er_(Mixtape)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.10</span>Triple C's – <i>Money Burning Mother****er (Mixtape)</i></div>
+			</a>
+			
+			<ul id="toc-Triple_C&#039;s_–_Money_Burning_Mother****er_(Mixtape)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-P.L._–_The_Turning_Lane"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#P.L._–_The_Turning_Lane">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.11</span>P.L. – <i>The Turning Lane</i></div>
+			</a>
+			
+			<ul id="toc-P.L._–_The_Turning_Lane-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Meek_Mill_–_Dreamchasers_(Mixtape)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Meek_Mill_–_Dreamchasers_(Mixtape)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.12</span>Meek Mill – <i>Dreamchasers (Mixtape)</i></div>
+			</a>
+			
+			<ul id="toc-Meek_Mill_–_Dreamchasers_(Mixtape)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-DJ_Drama_–_Third_Power"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#DJ_Drama_–_Third_Power">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.13</span>DJ Drama – <i>Third Power</i></div>
+			</a>
+			
+			<ul id="toc-DJ_Drama_–_Third_Power-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Young_Chris_&amp;_Cardiak_–_The_Revival_(Mixtape)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Young_Chris_&amp;_Cardiak_–_The_Revival_(Mixtape)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.14</span>Young Chris & Cardiak – <i>The Revival (Mixtape)</i></div>
+			</a>
+			
+			<ul id="toc-Young_Chris_&amp;_Cardiak_–_The_Revival_(Mixtape)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ace_Hood_–_The_Statement_2_(Mixtape)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Ace_Hood_–_The_Statement_2_(Mixtape)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4.15</span>Ace Hood – <i>The Statement 2 (Mixtape)</i></div>
+			</a>
+			
+			<ul id="toc-Ace_Hood_–_The_Statement_2_(Mixtape)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-2012"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2012">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5</span>2012</div>
+			</a>
+			
+			<ul id="toc-2012-sublist" class="vector-toc-list">
+				<li id="toc-French_Montana_&amp;_Coke_Boys_–_Coke_Boys_3_(Mixtape)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#French_Montana_&amp;_Coke_Boys_–_Coke_Boys_3_(Mixtape)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.1</span>French Montana & Coke Boys – <i>Coke Boys 3 (Mixtape)</i></div>
+			</a>
+			
+			<ul id="toc-French_Montana_&amp;_Coke_Boys_–_Coke_Boys_3_(Mixtape)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Meek_Mill_–_Dreamchasers_2_(Mixtape)"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Meek_Mill_–_Dreamchasers_2_(Mixtape)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.2</span>Meek Mill – <i>Dreamchasers 2 (Mixtape)</i></div>
+			</a>
+			
+			<ul id="toc-Meek_Mill_–_Dreamchasers_2_(Mixtape)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Maybach_Music_Group_–_Self_Made_Vol._2"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Maybach_Music_Group_–_Self_Made_Vol._2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.3</span>Maybach Music Group – <i>Self Made Vol. 2</i></div>
+			</a>
+			
+			<ul id="toc-Maybach_Music_Group_–_Self_Made_Vol._2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Bow_Wow_–_Underrated"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Bow_Wow_–_Underrated">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.4</span>Bow Wow – <i>Underrated</i></div>
+			</a>
+			
+			<ul id="toc-Bow_Wow_–_Underrated-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Lloyd_Banks_–_V.6:_The_Gift"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Lloyd_Banks_–_V.6:_The_Gift">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.5</span>Lloyd Banks – <i>V.6: The Gift</i></div>
+			</a>
+			
+			<ul id="toc-Lloyd_Banks_–_V.6:_The_Gift-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Rick_Ross_–_God_Forgives,_I_Don&#039;t"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Rick_Ross_–_God_Forgives,_I_Don&#039;t">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.6</span>Rick Ross – <i>God Forgives, I Don't</i></div>
+			</a>
+			
+			<ul id="toc-Rick_Ross_–_God_Forgives,_I_Don&#039;t-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-DJ_Drama_–_Quality_Street_Music"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#DJ_Drama_–_Quality_Street_Music">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.7</span>DJ Drama – <i>Quality Street Music</i></div>
+			</a>
+			
+			<ul id="toc-DJ_Drama_–_Quality_Street_Music-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ryan_Leslie_–_Les_Is_More"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Ryan_Leslie_–_Les_Is_More">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.8</span>Ryan Leslie – <i>Les Is More</i></div>
+			</a>
+			
+			<ul id="toc-Ryan_Leslie_–_Les_Is_More-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Meek_Mill_–_Dreams_&amp;_Nightmares"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Meek_Mill_–_Dreams_&amp;_Nightmares">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.9</span>Meek Mill – <i>Dreams & Nightmares</i></div>
+			</a>
+			
+			<ul id="toc-Meek_Mill_–_Dreams_&amp;_Nightmares-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-T.I_–_Trouble_Man:_Heavy_is_the_Head"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#T.I_–_Trouble_Man:_Heavy_is_the_Head">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.10</span>T.I – <i>Trouble Man: Heavy is the Head</i></div>
+			</a>
+			
+			<ul id="toc-T.I_–_Trouble_Man:_Heavy_is_the_Head-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Joe_Budden_–_A_Loose_Quarter"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Joe_Budden_–_A_Loose_Quarter">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5.11</span>Joe Budden – <i>A Loose Quarter</i></div>
+			</a>
+			
+			<ul id="toc-Joe_Budden_–_A_Loose_Quarter-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-2013"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2013">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6</span>2013</div>
+			</a>
+			
+			<ul id="toc-2013-sublist" class="vector-toc-list">
+				<li id="toc-Casey_Veggies_–_Life_Changes"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Casey_Veggies_–_Life_Changes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6.1</span>Casey Veggies – <i>Life Changes</i></div>
+			</a>
+			
+			<ul id="toc-Casey_Veggies_–_Life_Changes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Wale_–_The_Gifted"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Wale_–_The_Gifted">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6.2</span>Wale – <i>The Gifted</i></div>
+			</a>
+			
+			<ul id="toc-Wale_–_The_Gifted-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ace_Hood_–_Trials_&amp;_Tribulations"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Ace_Hood_–_Trials_&amp;_Tribulations">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6.3</span>Ace Hood – <i>Trials & Tribulations</i></div>
+			</a>
+			
+			<ul id="toc-Ace_Hood_–_Trials_&amp;_Tribulations-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ryan_Leslie_–_Black_Mozart"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Ryan_Leslie_–_Black_Mozart">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6.4</span>Ryan Leslie – <i>Black Mozart</i></div>
+			</a>
+			
+			<ul id="toc-Ryan_Leslie_–_Black_Mozart-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Joe_Budden_–_No_Love_Lost"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Joe_Budden_–_No_Love_Lost">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6.5</span>Joe Budden – <i>No Love Lost</i></div>
+			</a>
+			
+			<ul id="toc-Joe_Budden_–_No_Love_Lost-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-The_Game_–_OKE:_Operation_Kill_Everything"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#The_Game_–_OKE:_Operation_Kill_Everything">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6.6</span>The Game – <i>OKE: Operation Kill Everything</i></div>
+			</a>
+			
+			<ul id="toc-The_Game_–_OKE:_Operation_Kill_Everything-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Eminem_–_The_Marshall_Mathers_LP_2"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Eminem_–_The_Marshall_Mathers_LP_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6.7</span>Eminem – <i>The Marshall Mathers LP 2</i></div>
+			</a>
+			
+			<ul id="toc-Eminem_–_The_Marshall_Mathers_LP_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-2014"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2014">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.7</span>2014</div>
+			</a>
+			
+			<ul id="toc-2014-sublist" class="vector-toc-list">
+				<li id="toc-Kid_Ink_–_My_Own_Lane"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Kid_Ink_–_My_Own_Lane">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.7.1</span>Kid Ink – <i>My Own Lane</i></div>
+			</a>
+			
+			<ul id="toc-Kid_Ink_–_My_Own_Lane-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Rick_Ross_–_Hood_Billionaire"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Rick_Ross_–_Hood_Billionaire">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.7.2</span>Rick Ross – <i>Hood Billionaire</i></div>
+			</a>
+			
+			<ul id="toc-Rick_Ross_–_Hood_Billionaire-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-J._Cole_–_2014_Forest_Hills_Drive"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#J._Cole_–_2014_Forest_Hills_Drive">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.7.3</span>J. Cole – <i>2014 Forest Hills Drive</i></div>
+			</a>
+			
+			<ul id="toc-J._Cole_–_2014_Forest_Hills_Drive-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-2015"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2015">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.8</span>2015</div>
+			</a>
+			
+			<ul id="toc-2015-sublist" class="vector-toc-list">
+				<li id="toc-Trey_Songz_–_Intermission_I_&amp;_II"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Trey_Songz_–_Intermission_I_&amp;_II">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.8.1</span>Trey Songz – <i>Intermission I & II</i></div>
+			</a>
+			
+			<ul id="toc-Trey_Songz_–_Intermission_I_&amp;_II-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Dr._Dre_–_Compton"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Dr._Dre_–_Compton">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.8.2</span>Dr. Dre – <i>Compton</i></div>
+			</a>
+			
+			<ul id="toc-Dr._Dre_–_Compton-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Scarface_–_Deeply_Rooted"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Scarface_–_Deeply_Rooted">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.8.3</span>Scarface – <i>Deeply Rooted</i></div>
+			</a>
+			
+			<ul id="toc-Scarface_–_Deeply_Rooted-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Fabolous_–_Summertime_Shootout"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Fabolous_–_Summertime_Shootout">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.8.4</span>Fabolous – <i>Summertime Shootout</i></div>
+			</a>
+			
+			<ul id="toc-Fabolous_–_Summertime_Shootout-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Jeremih_–_Late_Nights"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Jeremih_–_Late_Nights">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.8.5</span>Jeremih – <i>Late Nights</i></div>
+			</a>
+			
+			<ul id="toc-Jeremih_–_Late_Nights-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-2016"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2016">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.9</span>2016</div>
+			</a>
+			
+			<ul id="toc-2016-sublist" class="vector-toc-list">
+				<li id="toc-Macklemore_&amp;_Ryan_Lewis_–_This_Unruly_Mess_I&#039;ve_Made"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Macklemore_&amp;_Ryan_Lewis_–_This_Unruly_Mess_I&#039;ve_Made">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.9.1</span>Macklemore & Ryan Lewis – <i>This Unruly Mess I've Made</i></div>
+			</a>
+			
+			<ul id="toc-Macklemore_&amp;_Ryan_Lewis_–_This_Unruly_Mess_I&#039;ve_Made-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Drake_–_Views"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Drake_–_Views">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.9.2</span>Drake – <i>Views</i></div>
+			</a>
+			
+			<ul id="toc-Drake_–_Views-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-J._Cole_–_4_Your_Eyez_Only"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#J._Cole_–_4_Your_Eyez_Only">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.9.3</span>J. Cole – <i>4 Your Eyez Only</i></div>
+			</a>
+			
+			<ul id="toc-J._Cole_–_4_Your_Eyez_Only-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-2017"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2017">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.10</span>2017</div>
+			</a>
+			
+			<ul id="toc-2017-sublist" class="vector-toc-list">
+				<li id="toc-Trey_Songz_–_Tremaine:_The_Album"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Trey_Songz_–_Tremaine:_The_Album">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.10.1</span>Trey Songz – <i>Tremaine: The Album</i></div>
+			</a>
+			
+			<ul id="toc-Trey_Songz_–_Tremaine:_The_Album-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Phora_–_Yours_Truly_Forever"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Phora_–_Yours_Truly_Forever">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.11</span>Phora – <i>Yours Truly Forever</i></div>
+			</a>
+			
+			<ul id="toc-Phora_–_Yours_Truly_Forever-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2020"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2020">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.12</span>2020</div>
+			</a>
+			
+			<ul id="toc-2020-sublist" class="vector-toc-list">
+				<li id="toc-T.I._–_The_L.I.B.R.A."
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#T.I._–_The_L.I.B.R.A.">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.12.1</span>T.I. – <i>The L.I.B.R.A.</i></div>
+			</a>
+			
+			<ul id="toc-T.I._–_The_L.I.B.R.A.-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-2021"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2021">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.13</span>2021</div>
+			</a>
+			
+			<ul id="toc-2021-sublist" class="vector-toc-list">
+				<li id="toc-Jazmine_Sullivan_–_Heaux_Tales"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Jazmine_Sullivan_–_Heaux_Tales">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.13.1</span>Jazmine Sullivan – <i>Heaux Tales</i></div>
+			</a>
+			
+			<ul id="toc-Jazmine_Sullivan_–_Heaux_Tales-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Unsorted"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Unsorted">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Unsorted</div>
+		</a>
+		
+			<button aria-controls="toc-Unsorted-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Unsorted subsection</span>
+			</button>
+		
+		<ul id="toc-Unsorted-sublist" class="vector-toc-list">
+			<li id="toc-Mike_Knox_(2009)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mike_Knox_(2009)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Mike Knox (2009)</div>
+			</a>
+			
+			<ul id="toc-Mike_Knox_(2009)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Audio_Push_(2010)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Audio_Push_(2010)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Audio Push (2010)</div>
+			</a>
+			
+			<ul id="toc-Audio_Push_(2010)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Havoc_(2010)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Havoc_(2010)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>Havoc (2010)</div>
+			</a>
+			
+			<ul id="toc-Havoc_(2010)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Lola_Monroe_(2010)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Lola_Monroe_(2010)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>Lola Monroe (2010)</div>
+			</a>
+			
+			<ul id="toc-Lola_Monroe_(2010)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Reed_Dollaz_(2010)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Reed_Dollaz_(2010)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.5</span>Reed Dollaz (2010)</div>
+			</a>
+			
+			<ul id="toc-Reed_Dollaz_(2010)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Meek_Mill_(2010)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Meek_Mill_(2010)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.6</span>Meek Mill (2010)</div>
+			</a>
+			
+			<ul id="toc-Meek_Mill_(2010)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mistah_F.A.B._(2010)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mistah_F.A.B._(2010)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.7</span>Mistah F.A.B. (2010)</div>
+			</a>
+			
+			<ul id="toc-Mistah_F.A.B._(2010)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-50_Cent_(2011)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#50_Cent_(2011)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.8</span>50 Cent (2011)</div>
+			</a>
+			
+			<ul id="toc-50_Cent_(2011)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Kid_Ink_(2011)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Kid_Ink_(2011)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.9</span>Kid Ink (2011)</div>
+			</a>
+			
+			<ul id="toc-Kid_Ink_(2011)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Young_Jeezy_(2011)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Young_Jeezy_(2011)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.10</span>Young Jeezy (2011)</div>
+			</a>
+			
+			<ul id="toc-Young_Jeezy_(2011)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Young_Chris_(2011)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Young_Chris_(2011)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.11</span>Young Chris (2011)</div>
+			</a>
+			
+			<ul id="toc-Young_Chris_(2011)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mike_Knox_(2011)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mike_Knox_(2011)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.12</span>Mike Knox (2011)</div>
+			</a>
+			
+			<ul id="toc-Mike_Knox_(2011)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ace_Hood_(2012)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Ace_Hood_(2012)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.13</span>Ace Hood (2012)</div>
+			</a>
+			
+			<ul id="toc-Ace_Hood_(2012)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Slaughterhouse_(2013)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Slaughterhouse_(2013)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.14</span>Slaughterhouse (2013)</div>
+			</a>
+			
+			<ul id="toc-Slaughterhouse_(2013)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Dave_East_(2017)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Dave_East_(2017)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.15</span>Dave East (2017)</div>
+			</a>
+			
+			<ul id="toc-Dave_East_(2017)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Chris_Brown_(2019)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Chris_Brown_(2019)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.16</span>Chris Brown (2019)</div>
+			</a>
+			
+			<ul id="toc-Chris_Brown_(2019)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-H.E.R._(2021)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#H.E.R._(2021)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.17</span>H.E.R. (2021)</div>
+			</a>
+			
+			<ul id="toc-H.E.R._(2021)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Singles"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Singles">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Singles</div>
+		</a>
+		
+			<button aria-controls="toc-Singles-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Singles subsection</span>
+			</button>
+		
+		<ul id="toc-Singles-sublist" class="vector-toc-list">
+			<li id="toc-Lloyd_Banks_–_The_Hunger_for_More_2_(2010)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Lloyd_Banks_–_The_Hunger_for_More_2_(2010)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Lloyd Banks – <i>The Hunger for More 2</i> (2010)</div>
+			</a>
+			
+			<ul id="toc-Lloyd_Banks_–_The_Hunger_for_More_2_(2010)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Maybach_Music_Group_–_Self_Made_Vol._1_(2011)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Maybach_Music_Group_–_Self_Made_Vol._1_(2011)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Maybach Music Group – <i>Self Made Vol. 1</i> (2011)</div>
+			</a>
+			
+			<ul id="toc-Maybach_Music_Group_–_Self_Made_Vol._1_(2011)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Lloyd_Banks_–_TBA_(2011)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Lloyd_Banks_–_TBA_(2011)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>Lloyd Banks – TBA (2011)</div>
+			</a>
+			
+			<ul id="toc-Lloyd_Banks_–_TBA_(2011)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-P.L._–_The_Turning_Lane_(2011)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#P.L._–_The_Turning_Lane_(2011)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4</span>P.L. – <i>The Turning Lane</i> (2011)</div>
+			</a>
+			
+			<ul id="toc-P.L._–_The_Turning_Lane_(2011)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Paypa_–_Feel_Good_Music_(Unreleased)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Paypa_–_Feel_Good_Music_(Unreleased)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.5</span>Paypa – <i>Feel Good Music</i> (Unreleased)</div>
+			</a>
+			
+			<ul id="toc-Paypa_–_Feel_Good_Music_(Unreleased)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Cardiak</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 1 language"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-1" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">1 language</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Cardiak" title="Cardiak – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1392679#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Cardiak" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Cardiak" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Cardiak"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Cardiak&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Cardiak&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Cardiak"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Cardiak&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Cardiak&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Cardiak" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Cardiak" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Cardiak&amp;oldid=1166363482" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Cardiak&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cardiak&amp;id=1166363482&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1392679" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Cardiak&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Cardiak&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American record producer</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Cardiak</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Cardiak.jpg" class="mw-file-description" title="Cardiak in 2016"><img alt="Cardiak in 2016" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cardiak.jpg/220px-Cardiak.jpg" decoding="async" width="220" height="271" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cardiak.jpg/330px-Cardiak.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cardiak.jpg/440px-Cardiak.jpg 2x" data-file-width="750" data-file-height="923" /></a></span><div class="infobox-caption">Cardiak in 2016</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Carl McCormick</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>Cardiak</li><li>Cardiak Flatline</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1988-06-26</span>) </span>June 26, 1988<span class="noprint ForceAgeToShow"> (age&#160;35)</span><br /><a href="/wiki/Willingboro_Township,_New_Jersey" title="Willingboro Township, New Jersey">Willingboro Township, New Jersey</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li><li><a href="/wiki/Trap_music_(hip_hop)" class="mw-redirect" title="Trap music (hip hop)">trap</a></li><li><a href="/wiki/Contemporary_R%26B" title="Contemporary R&amp;B">R&amp;B</a></li><li><a href="/wiki/Pop_music" title="Pop music">pop</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role">Record producer</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2008–present</td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://cardiakflatline.com">cardiakflatline<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Carl McCormick</b> (born June 26, 1988), professionally known as <b>Cardiak</b>, is an American record producer from <a href="/wiki/Willingboro_Township,_New_Jersey" title="Willingboro Township, New Jersey">Willingboro Township, New Jersey</a>. He began producing music in 2008 and is known for his work with closely associated artists such as <a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a>, <a href="/wiki/J._Cole" title="J. Cole">J. Cole</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> <a href="/wiki/Drake_(musician)" title="Drake (musician)">Drake</a>, <a href="/wiki/Joe_Budden" title="Joe Budden">Joe Budden</a>, <a href="/wiki/G-Unit" title="G-Unit">G-Unit</a>/<a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a>, <a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a>, <a href="/wiki/DJ_Khaled" title="DJ Khaled">DJ Khaled</a>, <a href="/wiki/Rick_Ross_(rapper)" class="mw-redirect" title="Rick Ross (rapper)">Rick Ross</a>, <a href="/wiki/Meek_Mill" title="Meek Mill">Meek Mill</a>, <a href="/wiki/Trina" title="Trina">Trina</a>, <a href="/wiki/Red_Cafe" class="mw-redirect" title="Red Cafe">Red Cafe</a>, <a href="/wiki/Boosie_Badazz" title="Boosie Badazz">Boosie Badazz</a>, <a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>, <a href="/wiki/The_Lox" title="The Lox">D-Block</a>, <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, among others.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2016)">citation needed</span></a></i>&#93;</sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886046785">.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}</style><div class="toclimit-2"><meta property="mw:PageProp/toc" /></div>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cardiak received notoriety for his first major placement in 2010 for his production of <a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a>' underground hit single "<a href="/wiki/Start_It_Up_(song)" title="Start It Up (song)">Start It Up</a>", featuring <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, Ryan Leslie, <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a> and <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>, featured on Banks' third studio album, <i><a href="/wiki/The_Hunger_for_More_2" class="mw-redirect" title="The Hunger for More 2">The Hunger for More 2</a></i>, accompanied by his two other contributions as producer, "Take Em to War" (featuring <a href="/wiki/Tony_Yayo" title="Tony Yayo">Tony Yayo</a>, Banks' fellow <a href="/wiki/G-Unit" title="G-Unit">G-Unit</a> member) and "Unexplainable" (featuring <a href="/wiki/Styles_P" title="Styles P">Styles P</a>). <i>Start It Up</i> peaked at position 52 on the <a href="/wiki/Billboard_Hot_R%26B/Hip-Hop_Songs" class="mw-redirect" title="Billboard Hot R&amp;B/Hip-Hop Songs">Billboard Hot R&amp;B/Hip-Hop Songs</a> list.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Cardiak received his first <a href="/wiki/Grammy_Award" class="mw-redirect" title="Grammy Award">Grammy award</a> nomination in 2013 for <a href="/wiki/Grammy_Award_for_Best_Rap_Album" title="Grammy Award for Best Rap Album">Best Rap Album</a>, because of his production of "Amsterdam" and "<a href="/wiki/Diced_Pineapples" title="Diced Pineapples">Diced Pineapples</a>" (featuring <a href="/wiki/Drake_(musician)" title="Drake (musician)">Drake</a> and <a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a>) for rapper <a href="/wiki/Rick_Ross_(rapper)" class="mw-redirect" title="Rick Ross (rapper)">Rick Ross</a>' fifth studio album, <i><a href="/wiki/God_Forgives,_I_Don%27t" title="God Forgives, I Don&#39;t">God Forgives, I Don't</a></i>, which was released on July 31, 2012, and peaked at number–one on the <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a> <a href="/wiki/Billboard_200" title="Billboard 200">200</a>. In early 2015, Cardiak won his first Grammy for Best Rap Album for his production of "Groundhog Day" for the deluxe edition of <a href="/wiki/Eminem" title="Eminem">Eminem</a>'s eighth studio album, <i><a href="/wiki/The_Marshall_Mathers_LP_2" title="The Marshall Mathers LP 2">The Marshall Mathers LP 2</a></i>, released on November 9, 2013.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Production_discography">Production discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=2" title="Edit section: Production discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="2008">2008</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=3" title="Edit section: 2008">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Joe_Budden_.E2.80.93_Halfway_House"></span><span class="mw-headline" id="Joe_Budden_–_Halfway_House"><a href="/wiki/Joe_Budden" title="Joe Budden">Joe Budden</a> – <i><a href="/wiki/Halfway_House_(album)" title="Halfway House (album)">Halfway House</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=4" title="Edit section: Joe Budden – Halfway House">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>08. "The Soul"</li></ul>
+<h4><span id="Freeway_.E2.80.93_Month_of_Madness"></span><span class="mw-headline" id="Freeway_–_Month_of_Madness"><a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a> – <i>Month of Madness</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=5" title="Edit section: Freeway – Month of Madness">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>07. "Mindstate Takeover"</li>
+<li>12. "Straight Madness"</li>
+<li>28. "NP Finest"</li>
+<li>30. "Back for More"</li></ul>
+<h3><span class="mw-headline" id="2009">2009</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=6" title="Edit section: 2009">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Lloyd_Banks_.E2.80.93_The_Cold_Corner"></span><span class="mw-headline" id="Lloyd_Banks_–_The_Cold_Corner"><a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a> – <i>The Cold Corner</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=7" title="Edit section: Lloyd Banks – The Cold Corner">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>05. "On My Way" <small>(co-produced with Dilemma)</small></li></ul>
+<h4><span id="Havoc_.E2.80.93_From_Now_On"></span><span class="mw-headline" id="Havoc_–_From_Now_On"><a href="/wiki/Havoc_(Mobb_Deep)" class="mw-redirect" title="Havoc (Mobb Deep)">Havoc</a> – <i>From Now On</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=8" title="Edit section: Havoc – From Now On">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>02. "Whats That Smell"</li>
+<li>04. "Thats How You Feel"</li>
+<li>15. "Sex Tape"</li></ul>
+<h4><span id="Lil_Twist_.E2.80.93_The_Yearbook"></span><span class="mw-headline" id="Lil_Twist_–_The_Yearbook"><a href="/wiki/Lil_Twist" title="Lil Twist">Lil Twist</a> – <i>The Yearbook</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=9" title="Edit section: Lil Twist – The Yearbook">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>12. "I'ma Do Me"</li>
+<li>15. "King"</li></ul>
+<h4><span id="Lola_Monroe_.E2.80.93_Art_Of_Motivation"></span><span class="mw-headline" id="Lola_Monroe_–_Art_Of_Motivation">Lola Monroe – <i>Art Of Motivation</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=10" title="Edit section: Lola Monroe – Art Of Motivation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>12. "Make A Way"</li>
+<li>15. "Art Of Motivation"</li>
+<li>23. "Divas Gettin' Money" <small>(featuring <a href="/wiki/Rasheeda" title="Rasheeda">Rasheeda</a>)</small></li>
+<li>35. "Bout Me"</li></ul>
+<h4><span id="Ace_Hood_.E2.80.93_Street_Certified"></span><span class="mw-headline" id="Ace_Hood_–_Street_Certified"><a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a> – <i>Street Certified</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=11" title="Edit section: Ace Hood – Street Certified">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>11. "Takeover"</li></ul>
+<h4><span id="Ace_Hood_.E2.80.93_Ruthless"></span><span class="mw-headline" id="Ace_Hood_–_Ruthless"><a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a> – <i><a href="/wiki/Ruthless_(Ace_Hood_album)" title="Ruthless (Ace Hood album)">Ruthless</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=12" title="Edit section: Ace Hood – Ruthless">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>11. "Bout Me" <small>(featuring Ballgreezy)</small></li></ul>
+<h4><span id="Lil_Twist_.E2.80.93_Class_President"></span><span class="mw-headline" id="Lil_Twist_–_Class_President">Lil Twist – <i>Class President</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=13" title="Edit section: Lil Twist – Class President">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>07. "Forever"</li></ul>
+<h4><span id="Lola_Monroe_.E2.80.93_The_Untouchables"></span><span class="mw-headline" id="Lola_Monroe_–_The_Untouchables">Lola Monroe – <i>The Untouchables</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=14" title="Edit section: Lola Monroe – The Untouchables">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>06. "Crazy World" <small>(featuring <a href="/wiki/Boosie_Badazz" title="Boosie Badazz">Lil Boosie</a>)</small></li>
+<li>13. "Love Me"</li></ul>
+<h3><span class="mw-headline" id="2010">2010</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=15" title="Edit section: 2010">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Mike_Knox_.E2.80.93_Money_Machine"></span><span class="mw-headline" id="Mike_Knox_–_Money_Machine">Mike Knox – <i>Money Machine</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=16" title="Edit section: Mike Knox – Money Machine">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>04. "They Say I Got Issues"</li>
+<li>07. "Let It Rock" <small>(remix; featuring <a href="/wiki/Red_Cafe" class="mw-redirect" title="Red Cafe">Red Cafe</a> and <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a>)</small></li></ul>
+<h4><span id="Meek_Mill_.E2.80.93_Mr._Philadelphia"></span><span class="mw-headline" id="Meek_Mill_–_Mr._Philadelphia">Meek Mill – <i>Mr. Philadelphia</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=17" title="Edit section: Meek Mill – Mr. Philadelphia">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>04. "Hate Is My Motivator"</li>
+<li>09. "This Is How We Do It" <small>(featuring <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a>, Mel Love, and Mike Knox)</small></li>
+<li>12. "Ain't Gonna Sleep"</li>
+<li>15. "Hardbody" <small>(featuring <a href="/wiki/Peedi_Crakk" class="mw-redirect" title="Peedi Crakk">Peedi Crakk</a> and Shizz Nitti)</small></li></ul>
+<h4><span id="Lloyd_Banks_.E2.80.93_The_Hunger_for_More_2"></span><span class="mw-headline" id="Lloyd_Banks_–_The_Hunger_for_More_2">Lloyd Banks – <i><a href="/wiki/The_Hunger_for_More_2" class="mw-redirect" title="The Hunger for More 2">The Hunger for More 2</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=18" title="Edit section: Lloyd Banks – The Hunger for More 2">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>01. "Take Em To War" <small>(featuring <a href="/wiki/Tony_Yayo" title="Tony Yayo">Tony Yayo</a>)</small></li>
+<li>02. "Unexplainable" <small>(featuring <a href="/wiki/Styles_P" title="Styles P">Styles P</a>)</small></li>
+<li>08. "<a href="/wiki/Start_It_Up_(song)" title="Start It Up (song)">Start It Up</a>" <small>(featuring <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a>, <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a> and <a href="/wiki/Ryan_Leslie" title="Ryan Leslie">Ryan Leslie</a>)</small></li></ul>
+<h3><span class="mw-headline" id="2011">2011</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=19" title="Edit section: 2011">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="USDA_.E2.80.93_CTE_Or_Nothing"></span><span class="mw-headline" id="USDA_–_CTE_Or_Nothing"><a href="/wiki/USDA" class="mw-redirect" title="USDA">USDA</a> – <i>CTE Or Nothing</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=20" title="Edit section: USDA – CTE Or Nothing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>03. "Off Safety"</li></ul>
+<h4><span id="Red_Cafe_.E2.80.93_Above_The_Clouds"></span><span class="mw-headline" id="Red_Cafe_–_Above_The_Clouds"><a href="/wiki/Red_Cafe" class="mw-redirect" title="Red Cafe">Red Cafe</a> – <i>Above The Clouds</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=21" title="Edit section: Red Cafe – Above The Clouds">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>07. "The Realest" <small>(featuring <a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a> and <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>)</small></li>
+<li>08. "Big In The Hood"</li>
+<li>12. "We Get It On" <small>(featuring <a href="/wiki/Omarion" title="Omarion">Omarion</a>)</small></li></ul>
+<h4><span id="Maybach_Music_Group_.E2.80.93_Self_Made_Vol._1"></span><span class="mw-headline" id="Maybach_Music_Group_–_Self_Made_Vol._1"><a href="/wiki/Maybach_Music_Group" title="Maybach Music Group">Maybach Music Group</a> – <i><a href="/wiki/Self_Made_Vol._1" title="Self Made Vol. 1">Self Made Vol. 1</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=22" title="Edit section: Maybach Music Group – Self Made Vol. 1">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>03. "600 Benz" <small>(<a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a> and <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a> featuring <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>)</small></li>
+<li>07. "Rise" <small><a href="/wiki/Pill_(rapper)" title="Pill (rapper)">Pill</a>, <a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a> &amp; <a href="/wiki/Teedra_Moses" title="Teedra Moses">Teedra Moses</a> featuring <a href="/wiki/Cyhi_Da_Prynce" class="mw-redirect" title="Cyhi Da Prynce">Cyhi Da Prynce</a> and <a href="/wiki/Currensy" title="Currensy">Currensy</a>)</small></li></ul>
+<h4><span id="Fabolous_.E2.80.93_.27The_S.O.U.L._Tape_.28Mixtape.29"></span><span class="mw-headline" id="Fabolous_–_'The_S.O.U.L._Tape_(Mixtape)"><a href="/wiki/Fabolous" title="Fabolous">Fabolous</a> – '<i>The S.O.U.L. Tape (Mixtape)</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=23" title="Edit section: Fabolous – &#039;The S.O.U.L. Tape (Mixtape)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>08. "Y'all Don't Hear Me Tho" (featuring <a href="/wiki/Red_Cafe" class="mw-redirect" title="Red Cafe">Red Cafe</a>)</li></ul>
+<h4><span id="Ace_Hood_.E2.80.93_Body_Bag_Vol.1"></span><span class="mw-headline" id="Ace_Hood_–_Body_Bag_Vol.1"><a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a> – <i>Body Bag Vol.1</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=24" title="Edit section: Ace Hood – Body Bag Vol.1">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>10. "Just Living"</li>
+<li>11. "Real Big"</li></ul>
+<h4><span id="Tory_Lanez_.E2.80.93_Swavey_.28Mixtape.29"></span><span class="mw-headline" id="Tory_Lanez_–_Swavey_(Mixtape)"><a href="/wiki/Tory_Lanez" title="Tory Lanez">Tory Lanez</a> – <i>Swavey (Mixtape)</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=25" title="Edit section: Tory Lanez – Swavey (Mixtape)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>"Slept On You" (featuring <a href="/wiki/Bun_B" title="Bun B">Bun B</a>)</li></ul>
+<h4><span id="Kid_Ink_.E2.80.93_Daydreamer"></span><span class="mw-headline" id="Kid_Ink_–_Daydreamer">Kid Ink – <i>Daydreamer</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=26" title="Edit section: Kid Ink – Daydreamer">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>00."My City" (featuring.Killa Kyleon, <a href="/wiki/Red_Cafe" class="mw-redirect" title="Red Cafe">Red Cafe</a> &amp; Machine Gun Kelly)</li></ul>
+<h4><span id="Cory_Gunz_.E2.80.93_Son_Of_A_Gun_.28Mixtape.29"></span><span class="mw-headline" id="Cory_Gunz_–_Son_Of_A_Gun_(Mixtape)"><a href="/wiki/Cory_Gunz" title="Cory Gunz">Cory Gunz</a> – <i>Son Of A Gun (Mixtape)</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=27" title="Edit section: Cory Gunz – Son Of A Gun (Mixtape)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>13.Sh*t Ain't A Game (featuring Pop Dolla$)</li>
+<li>17.Bedtime</li>
+<li>22.Sick 'Em (Feat. Kid Ink &amp; Gudda Gudda)</li></ul>
+<h4><span id="Ace_Hood_.E2.80.93_Blood.2C_Sweat_.26_Tears"></span><span class="mw-headline" id="Ace_Hood_–_Blood,_Sweat_&amp;_Tears"><a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a> – <i><a href="/wiki/Blood,_Sweat_%26_Tears_(Ace_Hood_album)" title="Blood, Sweat &amp; Tears (Ace Hood album)">Blood, Sweat &amp; Tears</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=28" title="Edit section: Ace Hood – Blood, Sweat &amp; Tears">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>07."Letter to My Ex's"</li>
+<li>11."Spoke to My Momma"</li>
+<li>16."Real Big"</li></ul>
+<h4><span id="Triple_C.27s_.E2.80.93_Money_Burning_Mother.2A.2A.2A.2Aer_.28Mixtape.29"></span><span class="mw-headline" id="Triple_C's_–_Money_Burning_Mother****er_(Mixtape)"><a href="/wiki/Triple_C%27s" title="Triple C&#39;s">Triple C's</a> – <i>Money Burning Mother****er (Mixtape)</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=29" title="Edit section: Triple C&#039;s – Money Burning Mother****er (Mixtape)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>00."Fly ****"</li></ul>
+<h4><span id="P.L._.E2.80.93_The_Turning_Lane"></span><span class="mw-headline" id="P.L._–_The_Turning_Lane">P.L. – <i>The Turning Lane</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=30" title="Edit section: P.L. – The Turning Lane">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>"U Mad"</li></ul>
+<h4><span id="Meek_Mill_.E2.80.93_Dreamchasers_.28Mixtape.29"></span><span class="mw-headline" id="Meek_Mill_–_Dreamchasers_(Mixtape)"><a href="/wiki/Meek_Mill" title="Meek Mill">Meek Mill</a> – <i><a href="/wiki/Dreamchasers" title="Dreamchasers">Dreamchasers</a> (Mixtape)</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=31" title="Edit section: Meek Mill – Dreamchasers (Mixtape)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>15. "Sparkle" (featuring Young Pooh)</li>
+<li>17. "Y'all Don't Really Hear Me Tho Freestyle"</li></ul>
+<h4><span id="DJ_Drama_.E2.80.93_Third_Power"></span><span class="mw-headline" id="DJ_Drama_–_Third_Power"><a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a> – <i><a href="/wiki/Third_Power_(album)" title="Third Power (album)">Third Power</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=32" title="Edit section: DJ Drama – Third Power">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>3. "Lay Low" <small>(feat. (<a href="/wiki/Young_Chris" title="Young Chris">Young Chris</a>, <a href="/wiki/Meek_Mill_(rapper)" class="mw-redirect" title="Meek Mill (rapper)">Meek Mill</a> and <a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a>)</small></li></ul>
+<h4><span id="Young_Chris_.26_Cardiak_.E2.80.93_The_Revival_.28Mixtape.29"></span><span class="mw-headline" id="Young_Chris_&amp;_Cardiak_–_The_Revival_(Mixtape)"><a href="/wiki/Young_Chris" title="Young Chris">Young Chris</a> &amp; Cardiak – <i>The Revival (Mixtape)</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=33" title="Edit section: Young Chris &amp; Cardiak – The Revival (Mixtape)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>All tracks</li></ul>
+<h4><span id="Ace_Hood_.E2.80.93_The_Statement_2_.28Mixtape.29"></span><span class="mw-headline" id="Ace_Hood_–_The_Statement_2_(Mixtape)"><a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a> – <i>The Statement 2 (Mixtape)</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=34" title="Edit section: Ace Hood – The Statement 2 (Mixtape)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>11. "Pay Her Bills"</li></ul>
+<h3><span class="mw-headline" id="2012">2012</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=35" title="Edit section: 2012">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="French_Montana_.26_Coke_Boys_.E2.80.93_Coke_Boys_3_.28Mixtape.29"></span><span class="mw-headline" id="French_Montana_&amp;_Coke_Boys_–_Coke_Boys_3_(Mixtape)"><a href="/wiki/French_Montana" title="French Montana">French Montana</a> &amp; Coke Boys – <i>Coke Boys 3 (Mixtape)</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=36" title="Edit section: French Montana &amp; Coke Boys – Coke Boys 3 (Mixtape)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>05. "Headquarters" (featuring <a href="/wiki/Red_Cafe" class="mw-redirect" title="Red Cafe">Red Cafe</a>)</li></ul>
+<h4><span id="Meek_Mill_.E2.80.93_Dreamchasers_2_.28Mixtape.29"></span><span class="mw-headline" id="Meek_Mill_–_Dreamchasers_2_(Mixtape)"><a href="/wiki/Meek_Mill" title="Meek Mill">Meek Mill</a> – <i><a href="/wiki/Dreamchasers_2" title="Dreamchasers 2">Dreamchasers 2</a> (Mixtape)</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=37" title="Edit section: Meek Mill – Dreamchasers 2 (Mixtape)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>09. "Everyday"</li>
+<li>11. "Lean Wit It"</li></ul>
+<h4><span id="Maybach_Music_Group_.E2.80.93_Self_Made_Vol._2"></span><span class="mw-headline" id="Maybach_Music_Group_–_Self_Made_Vol._2"><a href="/wiki/Maybach_Music_Group" title="Maybach Music Group">Maybach Music Group</a> – <i><a href="/wiki/Self_Made_Vol._2" title="Self Made Vol. 2">Self Made Vol. 2</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=38" title="Edit section: Maybach Music Group – Self Made Vol. 2">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>06. "Fountain of Youth" <a href="/wiki/Stalley" title="Stalley">Stalley</a> &amp; <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a> featuring <a href="/wiki/Nipsey_Hussle" title="Nipsey Hussle">Nipsey Hussle</a></li>
+<li>13. "Fluorescent Ink" <a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a>, <a href="/wiki/Stalley" title="Stalley">Stalley</a> &amp; <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a></li></ul>
+<h4><span id="Bow_Wow_.E2.80.93_Underrated"></span><span class="mw-headline" id="Bow_Wow_–_Underrated"><a href="/wiki/Bow_Wow_(rapper)" title="Bow Wow (rapper)">Bow Wow</a> – <i><a href="/wiki/Underrated_(Bow_Wow_album)" class="mw-redirect" title="Underrated (Bow Wow album)">Underrated</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=39" title="Edit section: Bow Wow – Underrated">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>02. "Where My Dogs At"</li>
+<li>05. "We Going Hard" (feat. <a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a>)</li></ul>
+<h4><span id="Lloyd_Banks_.E2.80.93_V.6:_The_Gift"></span><span class="mw-headline" id="Lloyd_Banks_–_V.6:_The_Gift"><a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a> – <i><a href="/wiki/V.6:_The_Gift" title="V.6: The Gift">V.6: The Gift</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=40" title="Edit section: Lloyd Banks – V.6: The Gift">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>11. "Live It Up"</li>
+<li>14. "Show And Prove"</li></ul>
+<h4><span id="Rick_Ross_.E2.80.93_God_Forgives.2C_I_Don.27t"></span><span class="mw-headline" id="Rick_Ross_–_God_Forgives,_I_Don't"><a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a> – <i><a href="/wiki/God_Forgives,_I_Don%27t" title="God Forgives, I Don&#39;t">God Forgives, I Don't</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=41" title="Edit section: Rick Ross – God Forgives, I Don&#039;t">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>07. "Amsterdam"</li>
+<li>14. "Diced Pineapples" (feat. <a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a> and <a href="/wiki/Drake_(entertainer)" class="mw-redirect" title="Drake (entertainer)">Drake</a>)</li></ul>
+<h4><span id="DJ_Drama_.E2.80.93_Quality_Street_Music"></span><span class="mw-headline" id="DJ_Drama_–_Quality_Street_Music"><a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a> – <i><a href="/wiki/Quality_Street_Music" title="Quality Street Music">Quality Street Music</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=42" title="Edit section: DJ Drama – Quality Street Music">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>02. "Never Die" (feat. <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>, <a href="/wiki/Cee_Lo_Green" class="mw-redirect" title="Cee Lo Green">Cee Lo Green</a>, <a href="/wiki/Nipsey_Hussle" title="Nipsey Hussle">Nipsey Hussle</a> and <a href="/wiki/Young_Jeezy" class="mw-redirect" title="Young Jeezy">Young Jeezy</a>)</li></ul>
+<h4><span id="Ryan_Leslie_.E2.80.93_Les_Is_More"></span><span class="mw-headline" id="Ryan_Leslie_–_Les_Is_More"><a href="/wiki/Ryan_Leslie" title="Ryan Leslie">Ryan Leslie</a> – <i><a href="/wiki/Les_Is_More" title="Les Is More">Les Is More</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=43" title="Edit section: Ryan Leslie – Les Is More">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>12. "The Black Flag"</li></ul>
+<h4><span id="Meek_Mill_.E2.80.93_Dreams_.26_Nightmares"></span><span class="mw-headline" id="Meek_Mill_–_Dreams_&amp;_Nightmares"><a href="/wiki/Meek_Mill" title="Meek Mill">Meek Mill</a> – <i><a href="/wiki/Dreams_%26_Nightmares" class="mw-redirect" title="Dreams &amp; Nightmares">Dreams &amp; Nightmares</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=44" title="Edit section: Meek Mill – Dreams &amp; Nightmares">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>12. "Polo &amp; Shell Tops"</li></ul>
+<h4><span id="T.I_.E2.80.93_Trouble_Man:_Heavy_is_the_Head"></span><span class="mw-headline" id="T.I_–_Trouble_Man:_Heavy_is_the_Head"><a href="/wiki/T.I" class="mw-redirect" title="T.I">T.I</a> – <i><a href="/wiki/Trouble_Man:_Heavy_is_the_Head" class="mw-redirect" title="Trouble Man: Heavy is the Head">Trouble Man: Heavy is the Head</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=45" title="Edit section: T.I – Trouble Man: Heavy is the Head">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>02. "G Season" <small>(feat. <a href="/wiki/Meek_Mill" title="Meek Mill">Meek Mill</a>; co-produced with Chinky P.)</small></li></ul>
+<h4><span id="Joe_Budden_.E2.80.93_A_Loose_Quarter"></span><span class="mw-headline" id="Joe_Budden_–_A_Loose_Quarter"><a href="/wiki/Joe_Budden" title="Joe Budden">Joe Budden</a> – <i><a href="/wiki/A_Loose_Quarter" title="A Loose Quarter">A Loose Quarter</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=46" title="Edit section: Joe Budden – A Loose Quarter">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>4. "Cut From a Different Cloth" <small>(feat. <a href="/wiki/Ab-Soul" title="Ab-Soul">Ab-Soul</a>; co-produced by CritaCal)</small></li>
+<li>13. "All In My Head" <small>(feat. <a href="/wiki/Royce_Da_5%279%22" class="mw-redirect" title="Royce Da 5&#39;9&quot;">Royce Da 5'9"</a> and Kobe Honeycutt)</small></li>
+<li>14. "More Of Me" <small>(feat. Emanny)</small></li></ul>
+<h3><span class="mw-headline" id="2013">2013</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=47" title="Edit section: 2013">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Casey_Veggies_.E2.80.93_Life_Changes"></span><span class="mw-headline" id="Casey_Veggies_–_Life_Changes"><a href="/wiki/Casey_Veggies" title="Casey Veggies">Casey Veggies</a> – <i>Life Changes</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=48" title="Edit section: Casey Veggies – Life Changes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>6. "Life$tyle"</li></ul>
+<h4><span id="Wale_.E2.80.93_The_Gifted"></span><span class="mw-headline" id="Wale_–_The_Gifted"><a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a> – <i><a href="/wiki/The_Gifted_(album)" title="The Gifted (album)">The Gifted</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=49" title="Edit section: Wale – The Gifted">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>08. "Bricks" <small>(feat. <a href="/wiki/Yo_Gotti" title="Yo Gotti">Yo Gotti</a> &amp; Lyfe Jennings)</small></li></ul>
+<h4><span id="Ace_Hood_.E2.80.93_Trials_.26_Tribulations"></span><span class="mw-headline" id="Ace_Hood_–_Trials_&amp;_Tribulations"><a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a> – <i><a href="/wiki/Trials_%26_Tribulations_(Ace_Hood_album)" title="Trials &amp; Tribulations (Ace Hood album)">Trials &amp; Tribulations</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=50" title="Edit section: Ace Hood – Trials &amp; Tribulations">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>03. "Another Statistic"</li>
+<li>14. "Mama" <small>(featuring <a href="/wiki/Betty_Wright" title="Betty Wright">Betty Wright</a>; produced with CritaCal)</small></li>
+<li>17. "Have Mercy" <small>(Deluxe edition bonus track)</small></li></ul>
+<h4><span id="Ryan_Leslie_.E2.80.93_Black_Mozart"></span><span class="mw-headline" id="Ryan_Leslie_–_Black_Mozart"><a href="/wiki/Ryan_Leslie" title="Ryan Leslie">Ryan Leslie</a> – <i><a href="/wiki/Black_Mozart_(Ryan_Leslie_album)" class="mw-redirect" title="Black Mozart (Ryan Leslie album)">Black Mozart</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=51" title="Edit section: Ryan Leslie – Black Mozart">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>02. "Black Mozart"</li>
+<li>04. "History"</li>
+<li>09. "Green" <small>(feat. <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>)</small></li>
+<li>12. "Coke Cans" <small>(co-produced by Ryan Leslie; additional production by Gabe Lambirth)</small></li></ul>
+<h4><span id="Joe_Budden_.E2.80.93_No_Love_Lost"></span><span class="mw-headline" id="Joe_Budden_–_No_Love_Lost"><a href="/wiki/Joe_Budden" title="Joe Budden">Joe Budden</a> – <i><a href="/wiki/No_Love_Lost_(Joe_Budden_album)" title="No Love Lost (Joe Budden album)">No Love Lost</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=52" title="Edit section: Joe Budden – No Love Lost">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>05. "You &amp; I" featuring Emanny</li>
+<li>07. "All In My Head" featuring <a href="/wiki/Royce_da_5%279%22" title="Royce da 5&#39;9&quot;">Royce da 5'9"</a> and Kobe</li>
+<li>09. "Switch Positions" featuring <a href="/wiki/Omarion" title="Omarion">Omarion</a></li>
+<li>12. "No Love Lost Outro"</li></ul>
+<h4><span id="The_Game_.E2.80.93_OKE:_Operation_Kill_Everything"></span><span class="mw-headline" id="The_Game_–_OKE:_Operation_Kill_Everything"><a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a> – <i><a href="/wiki/OKE:_Operation_Kill_Everything" title="OKE: Operation Kill Everything">OKE: Operation Kill Everything</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=53" title="Edit section: The Game – OKE: Operation Kill Everything">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>01. "Kill Everything" <small>(feat. <a href="/wiki/Sean_Combs" title="Sean Combs">Diddy</a>; co-produced by CritaCal)</small></li></ul>
+<h4><span id="Eminem_.E2.80.93_The_Marshall_Mathers_LP_2"></span><span class="mw-headline" id="Eminem_–_The_Marshall_Mathers_LP_2"><a href="/wiki/Eminem" title="Eminem">Eminem</a> – <i><a href="/wiki/The_Marshall_Mathers_LP_2" title="The Marshall Mathers LP 2">The Marshall Mathers LP 2</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=54" title="Edit section: Eminem – The Marshall Mathers LP 2">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>03. "Groundhog Day" <small>(Deluxe edition bonus track; co-produced by <a href="/wiki/Frank_Dukes" title="Frank Dukes">Frank Dukes</a> and <a href="/wiki/Eminem" title="Eminem">Eminem</a>; additional keyboards by <a href="/wiki/Luis_Resto_(musician)" title="Luis Resto (musician)">Luis Resto</a>)</small></li></ul>
+<h3><span class="mw-headline" id="2014">2014</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=55" title="Edit section: 2014">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Kid_Ink_.E2.80.93_My_Own_Lane"></span><span class="mw-headline" id="Kid_Ink_–_My_Own_Lane"><a href="/wiki/Kid_Ink" title="Kid Ink">Kid Ink</a> – <i><a href="/wiki/My_Own_Lane" title="My Own Lane">My Own Lane</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=56" title="Edit section: Kid Ink – My Own Lane">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>12. "I Don't Care" ft <a href="/wiki/Maejor_Ali" class="mw-redirect" title="Maejor Ali">Maejor Ali</a> <small>(co-produced by Larance Dopson of <a href="/wiki/1500_or_Nothin%27" title="1500 or Nothin&#39;">1500 or Nothin'</a>)</small></li></ul>
+<h4><span id="Rick_Ross_.E2.80.93_Hood_Billionaire"></span><span class="mw-headline" id="Rick_Ross_–_Hood_Billionaire"><a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a> – <i><a href="/wiki/Hood_Billionaire" title="Hood Billionaire">Hood Billionaire</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=57" title="Edit section: Rick Ross – Hood Billionaire">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>15. "Family Ties" <small>(co-produced by CritaCal)</small></li></ul>
+<h4><span id="J._Cole_.E2.80.93_2014_Forest_Hills_Drive"></span><span class="mw-headline" id="J._Cole_–_2014_Forest_Hills_Drive"><a href="/wiki/J._Cole" title="J. Cole">J. Cole</a> – <i><a href="/wiki/2014_Forest_Hills_Drive" title="2014 Forest Hills Drive">2014 Forest Hills Drive</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=58" title="Edit section: J. Cole – 2014 Forest Hills Drive">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>12. "Love Yourz" <small>(produced with <a href="/wiki/Illmind" title="Illmind">Illmind</a> and CritaCal)</small></li></ul>
+<h3><span class="mw-headline" id="2015">2015</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=59" title="Edit section: 2015">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Trey_Songz_.E2.80.93_Intermission_I_.26_II"></span><span class="mw-headline" id="Trey_Songz_–_Intermission_I_&amp;_II"><a href="/wiki/Trey_Songz" title="Trey Songz">Trey Songz</a> – <i><a href="/wiki/Intermission_I_%26_II" title="Intermission I &amp; II">Intermission I &amp; II</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=60" title="Edit section: Trey Songz – Intermission I &amp; II">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>04. "Do It Now" <small>(produced with <a href="/wiki/Yung_Berg" class="mw-redirect" title="Yung Berg">Hitmaka</a> and Young 'N Fly)</small></li></ul>
+<h4><span id="Dr._Dre_.E2.80.93_Compton"></span><span class="mw-headline" id="Dr._Dre_–_Compton"><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> – <i><a href="/wiki/Compton_(album)" title="Compton (album)">Compton</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=61" title="Edit section: Dr. Dre – Compton">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>09. "Deep Water" <small>(feat. <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a>, Justus and <a href="/wiki/Anderson_Paak" class="mw-redirect" title="Anderson Paak">Anderson .Paak</a>; co-produced with Dr. Dre, <a href="/wiki/Focus..._(producer)" class="mw-redirect" title="Focus... (producer)">Focus...</a>, <a href="/wiki/Dem_Jointz" title="Dem Jointz">Dem Jointz</a> and <a href="/wiki/DJ_Dahi" title="DJ Dahi">DJ Dahi</a>)</small></li>
+<li>12. "For the Love of Money" <small>(feat. <a href="/wiki/Jon_Connor" title="Jon Connor">Jon Connor</a>, <a href="/wiki/Jill_Scott_(singer)" title="Jill Scott (singer)">Jill Scott</a> and Anderson .Paak)</small></li></ul>
+<h4><span id="Scarface_.E2.80.93_Deeply_Rooted"></span><span class="mw-headline" id="Scarface_–_Deeply_Rooted"><a href="/wiki/Scarface_(rapper)" title="Scarface (rapper)">Scarface</a> – <i><a href="/wiki/Deeply_Rooted" title="Deeply Rooted">Deeply Rooted</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=62" title="Edit section: Scarface – Deeply Rooted">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>16. "Exit Plan" <small>(feat. <a href="/wiki/Akon" title="Akon">Akon</a>; Deluxe edition bonus track)</small></li></ul>
+<h4><span id="Fabolous_.E2.80.93_Summertime_Shootout"></span><span class="mw-headline" id="Fabolous_–_Summertime_Shootout"><a href="/wiki/Fabolous" title="Fabolous">Fabolous</a> – <i><a href="/wiki/Summertime_Shootout" class="mw-redirect" title="Summertime Shootout">Summertime Shootout</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=63" title="Edit section: Fabolous – Summertime Shootout">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>03. "Doin' It Well" <small>(feat. <a href="/wiki/Trey_Songz" title="Trey Songz">Trey Songz</a> and <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a>; co-produced by CritaCal)</small></li></ul>
+<h4><span id="Jeremih_.E2.80.93_Late_Nights"></span><span class="mw-headline" id="Jeremih_–_Late_Nights"><a href="/wiki/Jeremih" title="Jeremih">Jeremih</a> – <i><a href="/wiki/Late_Nights" class="mw-redirect" title="Late Nights">Late Nights</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=64" title="Edit section: Jeremih – Late Nights">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>14. "Worthy" <small>(feat. <a href="/wiki/Jhen%C3%A9_Aiko" title="Jhené Aiko">Jhené Aiko</a>; co-produced by Hitmaka)</small></li></ul>
+<h3><span class="mw-headline" id="2016">2016</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=65" title="Edit section: 2016">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Macklemore_.26_Ryan_Lewis_.E2.80.93_This_Unruly_Mess_I.27ve_Made"></span><span class="mw-headline" id="Macklemore_&amp;_Ryan_Lewis_–_This_Unruly_Mess_I've_Made"><a href="/wiki/Macklemore" title="Macklemore">Macklemore</a> &amp; <a href="/wiki/Ryan_Lewis" title="Ryan Lewis">Ryan Lewis</a> – <i><a href="/wiki/This_Unruly_Mess_I%27ve_Made" title="This Unruly Mess I&#39;ve Made">This Unruly Mess I've Made</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=66" title="Edit section: Macklemore &amp; Ryan Lewis – This Unruly Mess I&#039;ve Made">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>08. "Need to Know" <small>(featuring <a href="/wiki/Chance_the_Rapper" title="Chance the Rapper">Chance the Rapper</a>; co-produced by CritiCal)</small></li></ul>
+<h4><span id="Drake_.E2.80.93_Views"></span><span class="mw-headline" id="Drake_–_Views"><a href="/wiki/Drake_(rapper)" class="mw-redirect" title="Drake (rapper)">Drake</a> – <i><a href="/wiki/Views_(album)" title="Views (album)">Views</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=67" title="Edit section: Drake – Views">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>08. "With You" <small>(featuring <a href="/wiki/PartyNextDoor" title="PartyNextDoor">PartyNextDoor</a>; produced by <a href="/wiki/Murda_Beatz" title="Murda Beatz">Murda Beatz</a>; co-produced by <a href="/wiki/Nineteen85" title="Nineteen85">Nineteen85</a>; additional production by Cardiak)</small></li></ul>
+<h4><span id="J._Cole_.E2.80.93_4_Your_Eyez_Only"></span><span class="mw-headline" id="J._Cole_–_4_Your_Eyez_Only">J. Cole – <i><a href="/wiki/4_Your_Eyez_Only" title="4 Your Eyez Only">4 Your Eyez Only</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=68" title="Edit section: J. Cole – 4 Your Eyez Only">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>02. "<a href="/wiki/Immortal_(J._Cole_song)" title="Immortal (J. Cole song)">Immortal</a>" <small>(produced with Frank Dukes; additional production by J. Cole)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></small></li></ul>
+<h3><span class="mw-headline" id="2017">2017</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=69" title="Edit section: 2017">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Trey_Songz_.E2.80.93_Tremaine:_The_Album"></span><span class="mw-headline" id="Trey_Songz_–_Tremaine:_The_Album">Trey Songz – <i><a href="/wiki/Tremaine:_The_Album" class="mw-redirect" title="Tremaine: The Album">Tremaine: The Album</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=70" title="Edit section: Trey Songz – Tremaine: The Album">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>14. "Picture Perfect"</li></ul>
+<h3><span id="Phora_.E2.80.93_Yours_Truly_Forever"></span><span class="mw-headline" id="Phora_–_Yours_Truly_Forever"><a href="/wiki/Phora" title="Phora">Phora</a> – <i><a href="/wiki/Yours_Truly_Forever" title="Yours Truly Forever">Yours Truly Forever</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=71" title="Edit section: Phora – Yours Truly Forever">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>07. "Forever" <span style="font-size:85%;">(produced with Eskupe &amp; Anthro Beats)</span></li></ul>
+<h3><span class="mw-headline" id="2020">2020</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=72" title="Edit section: 2020">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="T.I._.E2.80.93_The_L.I.B.R.A."></span><span class="mw-headline" id="T.I._–_The_L.I.B.R.A."><a href="/wiki/T.I." title="T.I.">T.I.</a> – <i><a href="/wiki/The_L.I.B.R.A." title="The L.I.B.R.A.">The L.I.B.R.A.</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=73" title="Edit section: T.I. – The L.I.B.R.A.">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>06. "Moon Juice" <small>(with <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> featuring <a href="/wiki/Jeremih" title="Jeremih">Jeremih</a>)</small><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="2021">2021</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=74" title="Edit section: 2021">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Jazmine_Sullivan_.E2.80.93_Heaux_Tales"></span><span class="mw-headline" id="Jazmine_Sullivan_–_Heaux_Tales"><a href="/wiki/Jazmine_Sullivan" title="Jazmine Sullivan">Jazmine Sullivan</a> – <i><a href="/wiki/Heaux_Tales" title="Heaux Tales">Heaux Tales</a></i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=75" title="Edit section: Jazmine Sullivan – Heaux Tales">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>06. "On It" <span style="font-size:85%;">(featuring <a href="/wiki/Ari_Lennox" title="Ari Lennox">Ari Lennox</a>; produced with Wu10)</span></li></ul>
+<h2><span class="mw-headline" id="Unsorted">Unsorted</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=76" title="Edit section: Unsorted">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Mike_Knox_.282009.29"></span><span class="mw-headline" id="Mike_Knox_(2009)">Mike Knox (2009)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=77" title="Edit section: Mike Knox (2009)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Let it Rock" <small>(featuring <a href="/wiki/Beanie_Sigel" title="Beanie Sigel">Beanie Sigel</a>)</small></li></ul>
+<h3><span id="Audio_Push_.282010.29"></span><span class="mw-headline" id="Audio_Push_(2010)"><a href="/wiki/Audio_Push" title="Audio Push">Audio Push</a> (2010)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=78" title="Edit section: Audio Push (2010)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Got it Goin' on"</li></ul>
+<h3><span id="Havoc_.282010.29"></span><span class="mw-headline" id="Havoc_(2010)"><a href="/wiki/Havoc_(Mobb_Deep)" class="mw-redirect" title="Havoc (Mobb Deep)">Havoc</a> (2010)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=79" title="Edit section: Havoc (2010)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Thats How You Feel (Remix)" <small>(featuring Nyce Da Future &amp; <a href="/wiki/Cory_Gunz" title="Cory Gunz">Cory Gunz</a>)</small></li></ul>
+<h3><span id="Lola_Monroe_.282010.29"></span><span class="mw-headline" id="Lola_Monroe_(2010)">Lola Monroe (2010)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=80" title="Edit section: Lola Monroe (2010)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Overtime" <small>(featuring <a href="/wiki/Trina" title="Trina">Trina</a>)</small></li></ul>
+<h3><span id="Reed_Dollaz_.282010.29"></span><span class="mw-headline" id="Reed_Dollaz_(2010)">Reed Dollaz (2010)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=81" title="Edit section: Reed Dollaz (2010)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"I Be On That Money" <small>(featuring <a href="/wiki/Peedi_Crakk" class="mw-redirect" title="Peedi Crakk">Peedi Crakk</a> &amp; Eness)</small></li></ul>
+<h3><span id="Meek_Mill_.282010.29"></span><span class="mw-headline" id="Meek_Mill_(2010)">Meek Mill (2010)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=82" title="Edit section: Meek Mill (2010)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Let's Get It" <small>(featuring Kre Forch)</small></li></ul>
+<h3><span id="Mistah_F.A.B._.282010.29"></span><span class="mw-headline" id="Mistah_F.A.B._(2010)"><a href="/wiki/Mistah_F.A.B." title="Mistah F.A.B.">Mistah F.A.B.</a> (2010)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=83" title="Edit section: Mistah F.A.B. (2010)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"She Don't Belong To Me" <small>(featuring London)</small></li></ul>
+<h3><span id="50_Cent_.282011.29"></span><span class="mw-headline" id="50_Cent_(2011)"><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> (2011)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=84" title="Edit section: 50 Cent (2011)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>"<a href="/wiki/Outlaw_(50_Cent_song)" title="Outlaw (50 Cent song)">Outlaw</a>"
+</p>
+<h3><span id="Kid_Ink_.282011.29"></span><span class="mw-headline" id="Kid_Ink_(2011)"><a href="/wiki/Kid_Ink" title="Kid Ink">Kid Ink</a> (2011)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=85" title="Edit section: Kid Ink (2011)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Insane"</li>
+<li>"Tats On My Face"</li>
+<li>"Here We Go"</li></ul>
+<h3><span id="Young_Jeezy_.282011.29"></span><span class="mw-headline" id="Young_Jeezy_(2011)"><a href="/wiki/Young_Jeezy" class="mw-redirect" title="Young Jeezy">Young Jeezy</a> (2011)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=86" title="Edit section: Young Jeezy (2011)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Off Safety" <small>(featuring <a href="/wiki/USDA" class="mw-redirect" title="USDA">USDA</a>)</small></li></ul>
+<h3><span id="Young_Chris_.282011.29"></span><span class="mw-headline" id="Young_Chris_(2011)"><a href="/wiki/Young_Chris" title="Young Chris">Young Chris</a> (2011)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=87" title="Edit section: Young Chris (2011)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Flatline" <small>(featuring <a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a>)</small></li></ul>
+<h3><span id="Mike_Knox_.282011.29"></span><span class="mw-headline" id="Mike_Knox_(2011)">Mike Knox (2011)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=88" title="Edit section: Mike Knox (2011)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Get Gully" <small>(featuring <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> &amp; <a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a>)</small></li></ul>
+<h3><span id="Ace_Hood_.282012.29"></span><span class="mw-headline" id="Ace_Hood_(2012)">Ace Hood (2012)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=89" title="Edit section: Ace Hood (2012)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"The Trailer" <small>(produced with Frank Dukes)</small></li></ul>
+<h3><span id="Slaughterhouse_.282013.29"></span><span class="mw-headline" id="Slaughterhouse_(2013)"><a href="/wiki/Slaughterhouse" title="Slaughterhouse">Slaughterhouse</a> (2013)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=90" title="Edit section: Slaughterhouse (2013)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Party" <small>(co-produced by <a href="/wiki/Just_Blaze" title="Just Blaze">Just Blaze</a>)</small></li></ul>
+<h3><span id="Dave_East_.282017.29"></span><span class="mw-headline" id="Dave_East_(2017)"><a href="/wiki/Dave_East" title="Dave East">Dave East</a> (2017)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=91" title="Edit section: Dave East (2017)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Paper Chasin'" <small>(featuring <a href="/wiki/ASAP_Ferg" title="ASAP Ferg">ASAP Ferg</a>)</small><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li></ul>
+<h3><span id="Chris_Brown_.282019.29"></span><span class="mw-headline" id="Chris_Brown_(2019)"><a href="/wiki/Chris_Brown" title="Chris Brown">Chris Brown</a> (2019)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=92" title="Edit section: Chris Brown (2019)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"<a href="/wiki/Indigo_(Chris_Brown_album)" title="Indigo (Chris Brown album)">Come Together</a>" (featuring H.E.R.)</li></ul>
+<h3><span id="H.E.R._.282021.29"></span><span class="mw-headline" id="H.E.R._(2021)"><a href="/wiki/H.E.R." title="H.E.R.">H.E.R.</a> (2021)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=93" title="Edit section: H.E.R. (2021)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"<a href="/wiki/Damage_(H.E.R._song)" title="Damage (H.E.R. song)">Damage</a>"</li>
+<li>"<a href="/wiki/Come_Through_(H.E.R._song)" title="Come Through (H.E.R. song)">Come Through</a>" (featuring Chris Brown)</li></ul>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=94" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Lloyd_Banks_.E2.80.93_The_Hunger_for_More_2_.282010.29"></span><span class="mw-headline" id="Lloyd_Banks_–_The_Hunger_for_More_2_(2010)"><a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a> – <i><a href="/wiki/The_Hunger_for_More_2" class="mw-redirect" title="The Hunger for More 2">The Hunger for More 2</a></i> (2010)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=95" title="Edit section: Lloyd Banks – The Hunger for More 2 (2010)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>08. "<a href="/wiki/Start_It_Up_(song)" title="Start It Up (song)">Start It Up</a>" <small>(feat. <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>, <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a> and <a href="/wiki/Ryan_Leslie" title="Ryan Leslie">Ryan Leslie</a>)</small></li></ul>
+<h3><span id="Maybach_Music_Group_.E2.80.93_Self_Made_Vol._1_.282011.29"></span><span class="mw-headline" id="Maybach_Music_Group_–_Self_Made_Vol._1_(2011)"><a href="/wiki/Maybach_Music_Group" title="Maybach Music Group">Maybach Music Group</a> – <i><a href="/wiki/Self_Made_Vol._1" title="Self Made Vol. 1">Self Made Vol. 1</a></i> (2011)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=96" title="Edit section: Maybach Music Group – Self Made Vol. 1 (2011)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>03. "600 Benz" <small>(<a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a> and <a href="/wiki/Rick_Ross_(rapper)" class="mw-redirect" title="Rick Ross (rapper)">Rick Ross</a> featuring <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>)</small></li></ul>
+<h3><span id="Lloyd_Banks_.E2.80.93_TBA_.282011.29"></span><span class="mw-headline" id="Lloyd_Banks_–_TBA_(2011)"><a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a> – TBA (2011)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=97" title="Edit section: Lloyd Banks – TBA (2011)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>00. "Check Me Out"</li></ul>
+<h3><span id="P.L._.E2.80.93_The_Turning_Lane_.282011.29"></span><span class="mw-headline" id="P.L._–_The_Turning_Lane_(2011)">P.L. – <i>The Turning Lane</i> (2011)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=98" title="Edit section: P.L. – The Turning Lane (2011)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"U Mad"</li></ul>
+<h3><span id="Paypa_.E2.80.93_Feel_Good_Music_.28Unreleased.29"></span><span class="mw-headline" id="Paypa_–_Feel_Good_Music_(Unreleased)">Paypa – <i>Feel Good Music</i> (Unreleased)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=99" title="Edit section: Paypa – Feel Good Music (Unreleased)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"Time Zone" feat. <a href="/wiki/French_Montana" title="French Montana">French Montana</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cardiak&amp;action=edit&amp;section=100" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2016/12/producers-speak-on-making-j-cole-4-your-eyez-only-album/2/">"Producers Explain How J. Cole's '4 Your Eyez Only' Album Came Together"</a>. <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 14,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=XXL&amp;rft.atitle=Producers+Explain+How+J.+Cole%27s+%274+Your+Eyez+Only%27+Album+Came+Together&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F12%2Fproducers-speak-on-making-j-cole-4-your-eyez-only-album%2F2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACardiak" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/1663900/cardiak-600-benz/">"Producer Cardiak Talks '600 Benz'<span class="cs1-kern-right"></span>"</a>. <i><a href="/wiki/MTV" title="MTV">MTV</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 29,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MTV&amp;rft.atitle=Producer+Cardiak+Talks+%27600+Benz%27&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2F1663900%2Fcardiak-600-benz%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACardiak" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161222192708/http://www.billboard.com/artist/307702/Lloyd+Banks/chart?f=367">"Lloyd Banks Chart History"</a>. <i><a href="/wiki/Billboard_Hot_R%26B/Hip-Hop_Songs" class="mw-redirect" title="Billboard Hot R&amp;B/Hip-Hop Songs">Billboard Hot R&amp;B/Hip-Hop Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.com/artist/307702/Lloyd+Banks/chart?f=367">the original</a> on December 22, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">December 14,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard+Hot+R%26B%2FHip-Hop+Songs&amp;rft.atitle=Lloyd+Banks+Chart+History&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F307702%2FLloyd%2BBanks%2Fchart%3Ff%3D367&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACardiak" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://hiphopmakers.com/cardiak-making-eminems-groundhog-day-in-fl-studio/">"Cardiak Making Eminem's Groundhog Day FL Studios"</a>. <i>Hip Hop Makers</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 14,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hip+Hop+Makers&amp;rft.atitle=Cardiak+Making+Eminem%27s+Groundhog+Day+FL+Studios&amp;rft_id=http%3A%2F%2Fhiphopmakers.com%2Fcardiak-making-eminems-groundhog-day-in-fl-studio%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACardiak" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://dreamville.com/4YEOCredits/">"4YEO Credits – Dreamville"</a>. <a href="/wiki/Dreamville_Records" title="Dreamville Records">Dreamville</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=4YEO+Credits+%E2%80%93+Dreamville&amp;rft.pub=Dreamville&amp;rft_id=http%3A%2F%2Fdreamville.com%2F4YEOCredits%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACardiak" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://listen.tidal.com/album/158513479">"Try the TIDAL Web Player"</a>. <i>listen.tidal.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 16,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=listen.tidal.com&amp;rft.atitle=Try+the+TIDAL+Web+Player&amp;rft_id=https%3A%2F%2Flisten.tidal.com%2Falbum%2F158513479&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACardiak" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/dave-east-paper-chasing-feat-asap-ferg-new-song.1973137.html">"Dave East – Paper Chasing Feat. A$AP Ferg"</a>. <i>HotNewHipHop</i>. March 3, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=Dave+East+%E2%80%93+Paper+Chasing+Feat.+A%24AP+Ferg&amp;rft.date=2017-03-03&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fdave-east-paper-chasing-feat-asap-ferg-new-song.1973137.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACardiak" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw2449
+Cached time: 20230919225116
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.255 seconds
+Real time usage: 0.357 seconds
+Preprocessor visited node count: 1906/1000000
+Post‐expand include size: 23801/2097152 bytes
+Template argument size: 2579/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 25469/5000000 bytes
+Lua time usage: 0.131/10.000 seconds
+Lua memory usage: 6041389/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  287.952      1 -total
+ 37.11%  106.863      1 Template:Infobox_musical_artist
+ 33.25%   95.733      1 Template:Infobox
+ 28.22%   81.248      1 Template:Reflist
+ 20.83%   59.993      4 Template:Cite_news
+ 19.65%   56.582      2 Template:Short_description
+ 11.09%   31.923      2 Template:Hlist
+ 10.13%   29.170      2 Template:Br_separated_entries
+ 10.08%   29.019      4 Template:Pagetype
+  8.69%   25.027      1 Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23589796-0!canonical and timestamp 20230919225115 and revision id 1166363482. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cardiak&amp;oldid=1166363482">https://en.wikipedia.org/w/index.php?title=Cardiak&amp;oldid=1166363482</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1988_births" title="Category:1988 births">1988 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_Willingboro_Township,_New_Jersey" title="Category:People from Willingboro Township, New Jersey">People from Willingboro Township, New Jersey</a></li><li><a href="/wiki/Category:Musicians_from_New_Jersey" title="Category:Musicians from New Jersey">Musicians from New Jersey</a></li><li><a href="/wiki/Category:African-American_record_producers" title="Category:African-American record producers">African-American record producers</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:American_rhythm_and_blues_keyboardists" title="Category:American rhythm and blues keyboardists">American rhythm and blues keyboardists</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_people" title="Category:21st-century African-American people">21st-century African-American people</a></li><li><a href="/wiki/Category:20th-century_African-American_people" title="Category:20th-century African-American people">20th-century African-American people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_May_2022" title="Category:Use mdy dates from May 2022">Use mdy dates from May 2022</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2016" title="Category:Articles with unsourced statements from March 2016">Articles with unsourced statements from March 2016</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 21 July 2023, at 02:13<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cardiak&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2301","wgBackendResponseTime":121,"wgPageParseReport":{"limitreport":{"cputime":"0.255","walltime":"0.357","ppvisitednodes":{"value":1906,"limit":1000000},"postexpandincludesize":{"value":23801,"limit":2097152},"templateargumentsize":{"value":2579,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":25469,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  287.952      1 -total"," 37.11%  106.863      1 Template:Infobox_musical_artist"," 33.25%   95.733      1 Template:Infobox"," 28.22%   81.248      1 Template:Reflist"," 20.83%   59.993      4 Template:Cite_news"," 19.65%   56.582      2 Template:Short_description"," 11.09%   31.923      2 Template:Hlist"," 10.13%   29.170      2 Template:Br_separated_entries"," 10.08%   29.019      4 Template:Pagetype","  8.69%   25.027      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.131","limit":"10.000"},"limitreport-memusage":{"value":6041389,"limit":52428800}},"cachereport":{"origin":"mw2449","timestamp":"20230919225116","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cardiak","url":"https:\/\/en.wikipedia.org\/wiki\/Cardiak","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1392679","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1392679","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-07-13T06:41:50Z","dateModified":"2023-07-21T02:13:46Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d6\/Cardiak.jpg","headline":"American record producer"}</script>
+</body>
+</html>

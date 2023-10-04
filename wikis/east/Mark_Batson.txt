@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Mark Batson - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"39d4f177-99ee-4f88-8a41-db00ac6c180d","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mark_Batson","wgTitle":"Mark Batson","wgCurRevisionId":1174757693,"wgRevisionId":1174757693,"wgArticleId":12582759,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["BLP articles lacking sources from February 2023","All BLP articles lacking sources","Articles with short description","Short description matches Wikidata","Short description is different from Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","Articles with VIAF identifiers","Articles with LCCN identifiers","Articles with Grammy identifiers","Articles with MusicBrainz identifiers","American male composers","21st-century American composers","American music arrangers","American pop pianists","American male pianists",
+"American hip hop record producers","Businesspeople from Los Angeles","Businesspeople from New York City","East Coast hip hop musicians","Howard University alumni","Living people","People from Bushwick, Brooklyn","Musicians from Brooklyn","Songwriters from California","Songwriters from New York (state)","21st-century American pianists","Record producers from New York (state)","Record producers from California","21st-century American male musicians","1968 births","American male songwriters"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mark_Batson","wgRelevantArticleId":12582759,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{
+"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q3293994","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
+"codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022",
+"ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Mark Batson - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Mark_Batson">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mark_Batson&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Mark_Batson">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Mark_Batson rootpage-Mark_Batson skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mark+Batson" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mark+Batson" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mark+Batson" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mark+Batson" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life_and_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life_and_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life and career</div>
+		</a>
+		
+		<ul id="toc-Early_life_and_career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Awards"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Awards</div>
+		</a>
+		
+		<ul id="toc-Awards-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Production_and_songwriting"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Production_and_songwriting">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Production and songwriting</div>
+			</a>
+			
+			<ul id="toc-Production_and_songwriting-sublist" class="vector-toc-list">
+				<li id="toc-Albums"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1.1</span>Albums</div>
+			</a>
+			
+			<ul id="toc-Albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Songs"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Songs">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1.2</span>Songs</div>
+			</a>
+			
+			<ul id="toc-Songs-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Score_composer"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Score_composer">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Score composer</div>
+			</a>
+			
+			<ul id="toc-Score_composer-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Mark Batson</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 3 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-3" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">3 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Mark_Batson" title="Mark Batson – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Mark_Batson" title="Mark Batson – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D9%83_%D8%A8%D8%A7%D8%AA%D8%B3%D9%88%D9%86" title="مارك باتسون – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3293994#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Mark_Batson" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Mark_Batson" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Mark_Batson"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Mark_Batson&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Mark_Batson&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Mark_Batson"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Mark_Batson&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Mark_Batson&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Mark_Batson" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Mark_Batson" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Mark_Batson&amp;oldid=1174757693" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Mark_Batson&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mark_Batson&amp;id=1174757693&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3293994" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Mark_Batson&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Mark_Batson&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-BLP_sources plainlinks metadata ambox ambox-content ambox-BLP_sources" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><div class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biography of a living person</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help by adding <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable sources</a>. <a href="/wiki/Wikipedia:BLPREMOVE" class="mw-redirect" title="Wikipedia:BLPREMOVE">Contentious material</a> about living persons that is unsourced or <a href="/wiki/Wikipedia:QUESTIONABLE" class="mw-redirect" title="Wikipedia:QUESTIONABLE">poorly sourced</a> <b>must be removed immediately</b> from the article and its talk page, especially if potentially <a href="/wiki/Wikipedia:Libel" title="Wikipedia:Libel">libelous</a>.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?as_eq=wikipedia&amp;q=%22Mark+Batson%22">"Mark Batson"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?tbm=nws&amp;q=%22Mark+Batson%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?&amp;q=%22Mark+Batson%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?tbs=bks:1&amp;q=%22Mark+Batson%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://scholar.google.com/scholar?q=%22Mark+Batson%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Mark+Batson%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">February 2023</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American record producer</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="fn">Mark Batson</div></th></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data">1968<br /><a href="/wiki/Bushwick,_Brooklyn" title="Bushwick, Brooklyn">Bushwick, Brooklyn</a>, New York</td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, California</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li><li><a href="/wiki/Jazz" title="Jazz">jazz</a></li><li><a href="/wiki/Contemporary_R%26B" title="Contemporary R&amp;B">R&amp;B</a></li><li><a href="/wiki/Pop_music" title="Pop music">pop</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Record_producer" title="Record producer">Producer</a></li><li>songwriter</li><li>musician</li><li><a href="/wiki/Arranger" class="mw-redirect" title="Arranger">arranger</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note">Piano</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2001–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath</a></li><li><a href="/wiki/Interscope_Records" title="Interscope Records">Interscope</a></li></ul></div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://www.TheRealMarkBatson.com">www<wbr />.therealmarkbatson<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Mark Batson</b> is an American producer, musician and songwriter. He has worked on albums by artists including <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a>, <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a>, <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a>, <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a>, <a href="/wiki/Eminem" title="Eminem">Eminem</a>, <a href="/wiki/India_Arie" title="India Arie">India Arie</a>, <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>, <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, <a href="/wiki/Maroon_5" title="Maroon 5">Maroon 5</a>, <a href="/wiki/Skylar_Grey" title="Skylar Grey">Skylar Grey</a>, <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a>, <a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a>, <a href="/wiki/Nas" title="Nas">Nas</a>, and <a href="/wiki/Sting_(musician)" title="Sting (musician)">Sting</a>.  He has also composed music for films and television shows including <i><a href="/wiki/I,_Tonya" title="I, Tonya">I, Tonya</a></i>, <i><a href="/wiki/American_Hustle" title="American Hustle">American Hustle</a></i>, <i><a href="/wiki/Sharp_Objects_(miniseries)" title="Sharp Objects (miniseries)">Sharp Objects</a></i>,  <i><a href="/wiki/Spider-Man_2" title="Spider-Man 2">Spider-Man 2</a></i> and  <i><a href="/wiki/Power_Book_IV:_Force" title="Power Book IV: Force">Power Book IV: Force</a>.</i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life_and_career">Early life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=1" title="Edit section: Early life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Batson was formally trained in classical piano as a child growing up in the Bushwick Houses in Brooklyn, New York. He performed classical piano pieces at <a href="/wiki/Carnegie_Hall" title="Carnegie Hall">Carnegie Hall</a> and <a href="/wiki/Brooklyn_Academy_of_Music" title="Brooklyn Academy of Music">Brooklyn Academy of Music</a> at the ages of 12. He later studied jazz piano at <a href="/wiki/Howard_University" title="Howard University">Howard University</a>. He was the pianist for the <a href="/wiki/Smithsonian_Institution" title="Smithsonian Institution">Smithsonian Institution</a>'s African American Culture department. He first mixed hip hop sampling and drum programming with live instrumentation as part of the group Get Set V.O.P. This blend is characteristic of much of his later production work.<sup id="cite_ref-Vibe_early_2-0" class="reference"><a href="#cite_note-Vibe_early-2">&#91;2&#93;</a></sup><sup id="cite_ref-Pareles_3-0" class="reference"><a href="#cite_note-Pareles-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Batson has composed music for the feature films <i><a href="/wiki/Beauty_Shop" title="Beauty Shop">Beauty Shop</a></i>, <i><a href="/wiki/Miami_Vice_(film)" title="Miami Vice (film)">Miami Vice</a>,</i> <i><a href="/wiki/American_Hustle" title="American Hustle">American Hustle</a>.</i> and <i><a href="/wiki/Triple_9" title="Triple 9">Triple 9</a></i>. He is also the writer of the graphic novel series <i>Loaded</i>, and is developing the music for the series with <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=3" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Batson won <a href="/wiki/Grammy_Award" class="mw-redirect" title="Grammy Award">Grammy Awards</a> in 2010 and 2011 for Best Rap Album For <a href="/wiki/Eminem" title="Eminem">Eminem</a>'s <i><a href="/wiki/Relapse_(Eminem_album)" title="Relapse (Eminem album)">Relapse</a></i> (2010) and <i><a href="/wiki/Recovery_(Eminem_album)" title="Recovery (Eminem album)">Recovery</a></i> (2011).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> He also won the Grammy for Best R&amp;B album in 2004 for <a href="/wiki/Beyonc%C3%A9" title="Beyoncé">Beyoncé</a>'s <i><a href="/wiki/Dangerously_in_Love" title="Dangerously in Love">Dangerously in Love</a>.</i><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>  In 2016, he produced albums for <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a>, <a href="/wiki/Skylar_Grey" title="Skylar Grey">Skylar Grey</a>, <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> and <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a>.<sup id="cite_ref-All_Music_credits_7-0" class="reference"><a href="#cite_note-All_Music_credits-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=4" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Production_and_songwriting">Production and songwriting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=5" title="Edit section: Production and songwriting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Albums">Albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=6" title="Edit section: Albums">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> - "<a href="/wiki/As_I_Am_(Alicia_Keys_album)" class="mw-redirect" title="As I Am (Alicia Keys album)">As I Am</a>"  (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> -  "<a href="/wiki/Here_(Alicia_Keys_album)" title="Here (Alicia Keys album)">Here</a>" (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> - "<a href="/wiki/What_I%27m_Feelin%27" title="What I&#39;m Feelin&#39;">What I'm Feelin'</a>"  (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> - "<a href="/wiki/Comin%27_from_Where_I%27m_From" title="Comin&#39; from Where I&#39;m From">Comin' from Where I'm From</a> (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> - <i><a href="/wiki/Stand_Up_(Dave_Matthews_Band_album)" title="Stand Up (Dave Matthews Band album)">Stand Up</a></i> (Producer, Writer, Musician, String Arranger, Conductor)</li>
+<li><a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> - <i><a href="/wiki/Come_Tomorrow_(album)" title="Come Tomorrow (album)">Come Tomorrow</a></i> (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> - The Batson Sessions (unreleased) (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> - <i><a href="/wiki/Relapse_(Eminem_album)" title="Relapse (Eminem album)">Relapse</a></i> (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> - <i><a href="/wiki/Relapse:_Refill" class="mw-redirect" title="Relapse: Refill">Relapse: Refill</a></i> (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> - <i><a href="/wiki/Grace_Potter_and_the_Nocturnals_(album)" title="Grace Potter and the Nocturnals (album)">Grace Potter and the Nocturnals</a></i> (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a> - <i><a href="/wiki/Seal_IV" title="Seal IV">Seal IV</a></i> (Co-Producer, Writer, Musician, Piano/Horn/String Arrangements)</li>
+<li><a href="/wiki/Sekou_Sundiata" title="Sekou Sundiata">Sekou Sundiata</a> - <i>Longstoryshort</i> (Producer, Writer, Musician)</li>
+<li><a href="/wiki/India_Arie" title="India Arie">India Arie</a> - "<a href="/wiki/Acoustic_Soul" title="Acoustic Soul">Acoustic Soul</a>"  (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Lianne_La_Havas" title="Lianne La Havas">Lianne La Havas</a> - "<a href="/wiki/Blood_(Lianne_La_Havas_album)" title="Blood (Lianne La Havas album)">Blood</a>" (Producer, Writer, Musician)</li>
+<li><a href="/wiki/Skylar_Grey" title="Skylar Grey">Skylar Grey</a> - "<a href="/wiki/Natural_Causes_(Skylar_Grey_album)" title="Natural Causes (Skylar Grey album)">Natural Causes</a>" (Producer)</li>
+<li><a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> - "<a href="/wiki/Remnants_(LeAnn_Rimes_album)" title="Remnants (LeAnn Rimes album)">Remnants</a>" (Producer, Writer, Musician)</li>
+<li>Mark Batson - "I Want To See You Shining" (Producer, Writer, Musician, Artist as King Batson)</li></ul>
+<h4><span class="mw-headline" id="Songs">Songs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=7" title="Edit section: Songs">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<dl><dd><i>Main: <a href="/wiki/Category:Songs_written_by_Mark_Batson" title="Category:Songs written by Mark Batson">List of songs written or co-written by Batson</a></i></dd></dl>
+<ul><li>"1963" <a href="/wiki/Rachael_Yamagata" title="Rachael Yamagata">Rachael Yamagata</a> (Writer, Musician)</li>
+<li>"<a href="/wiki/1973_(song)" title="1973 (song)">1973</a>" <a href="/wiki/James_Blunt" title="James Blunt">James Blunt</a> (Writer)</li>
+<li>"<a href="/wiki/28_Thousand_Days" title="28 Thousand Days">28 Thousand Days</a>" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer, Writer, Musician)</li>
+<li>"3 A.M." <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"30 Something" <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> (Writer, Musician)</li>
+<li>"A-500" Mark Batson and <a href="/wiki/Klaus_Badelt" title="Klaus Badelt">Klaus Badelt</a> (Producer, Composer, Musician)</li>
+<li>"Against All Odds" <a href="/wiki/Godfather_of_Harlem" title="Godfather of Harlem">Godfather of Harlem</a> feat Sean Cross (Producer, Writer, Musician)</li>
+<li>"Água Também É Mar" <a href="/wiki/Marisa_Monte" title="Marisa Monte">Marisa Monte</a> (Musician)</li>
+<li>"Ain't No Shame" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"About Me" <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a> feat <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/American_Baby" title="American Baby">American Baby</a>" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician)</li>
+<li>"American Baby Intro" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician)</li>
+<li>"Angels" <a href="/wiki/Robert_Randolph_and_the_Family_Band" title="Robert Randolph and the Family Band">Robert Randolph and the Family Band</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/Ass_Like_That" title="Ass Like That">Ass Like That</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Bagpipes From Baghdad" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Beach of the War Goddess" <a href="/wiki/Caron_Wheeler" title="Caron Wheeler">Caron Wheeler</a> (Producer, Writer, Musician)</li>
+<li>"Better Days" <a href="/wiki/Joe_(singer)" title="Joe (singer)">Joe</a> (String Arranger, Conductor)</li>
+<li>"Big Weenie" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"<a href="/wiki/Blended_Family_(What_You_Do_for_Love)" title="Blended Family (What You Do for Love)">Blended Family (What You Do for Love)</a>" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> feat <a href="/wiki/ASAP_Rocky" title="ASAP Rocky">A$AP Rocky</a> (Producer)</li>
+<li>"Born to Lose" <a href="/wiki/Empire_(2015_TV_series)" title="Empire (2015 TV series)">Empire</a> Cast feat Sean Cross, <a href="/wiki/Jussie_Smollett" title="Jussie Smollett">Jussie Smollett</a>, <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a>, and Yazz</li>
+<li>"Bring Me to Life" <a href="/wiki/MK_(DJ)" title="MK (DJ)">MK</a> feat Milly Pye (Writer, Musician)</li>
+<li>"<a href="/wiki/Brown_Skin" title="Brown Skin">Brown Skin</a>" <a href="/wiki/India_Arie" title="India Arie">India Arie</a> (Producer, Writer, Musician)</li>
+<li>"Buffalo Bill" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"Butterflies" <a href="/wiki/Raheem_DeVaughn" title="Raheem DeVaughn">Raheem DeVaughn</a> (Producer, Writer, Musician)</li>
+<li>"Butterfly" <a href="/wiki/India.arie" class="mw-redirect" title="India.arie">india.arie</a> (Producer, Musician)</li>
+<li>"<a href="/wiki/Campaign_Speech" title="Campaign Speech">Campaign Speech</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/Can%27t_Let_Go_(Anthony_Hamilton_song)" title="Can&#39;t Let Go (Anthony Hamilton song)">Can't Let Go</a>" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"Can't Stop" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer)</li>
+<li>"Catalina" <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a> feat <a href="/wiki/Lyfe_Jennings" title="Lyfe Jennings">Lyfe Jennings</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/Charlene_(song)" title="Charlene (song)">Charlene</a>" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"Cocaina" <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a> (Producer, Writer, Musician)</li>
+<li>"Cold, Cold World" <a href="/wiki/Carl_Thomas_(singer)" title="Carl Thomas (singer)">Carl Thomas</a> (Producer, Writer, Musician)</li>
+<li>"Colors" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer, String Arranger, Conductor)</li>
+<li>"Come &amp; Go" <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> feat <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> (Writer, Musician)</li>
+<li>"Come On, Come On" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer)</li>
+<li>"Come Tomorrow" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/Comin%27_from_Where_I%27m_From_(song)" title="Comin&#39; from Where I&#39;m From (song)">Comin' from Where I'm From</a>" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"Compliments of Mr. Chang" Mark Batson (Artist, Producer, Composer, Musician)</li>
+<li>"Cornbread" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Writer, Musician)</li>
+<li>"<a href="/wiki/Crack_a_Bottle" title="Crack a Bottle">Crack a Bottle</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> feat <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> and <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> (Writer, Musician)</li>
+<li>"<a href="/wiki/Daddy_(Beyonc%C3%A9_Knowles_song)" class="mw-redirect" title="Daddy (Beyoncé Knowles song)">Daddy</a>" <a href="/wiki/Beyonc%C3%A9" title="Beyoncé">Beyoncé</a> (Producer, Writer, Musician, Arranger, Conductor)</li>
+<li>"Dang Dang" <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> (Producer, Writer)</li>
+<li>"Death to My Enemies" <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> (Producer, Writer, Musician)</li>
+<li>"Déjà Vu" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Diane" <a href="/wiki/Robert_Randolph_and_the_Family_Band" title="Robert Randolph and the Family Band">Robert Randolph and the Family Band</a> (Producer, Writer)</li>
+<li>"Don't Make Me Wait" <a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a> (Writer, Piano Arrangement, String Arrangement)</li>
+<li>"Dope On A Rope" <a href="/wiki/Miami_Vice_(film)" title="Miami Vice (film)">Miami Vice</a> (Composer)</li>
+<li>"<a href="/wiki/Dreamgirl_(Dave_Matthews_Band_song)" class="mw-redirect" title="Dreamgirl (Dave Matthews Band song)">Dreamgirl</a>" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician, String Arranger, Conductor)</li>
+<li>"Drop The Bomb On 'Em" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"<a href="/wiki/Encore_(Eminem_song)" title="Encore (Eminem song)">Encore</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"Ever Seen Heaven" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/Everybody_Wake_Up_(Our_Finest_Hour_Arrives)" title="Everybody Wake Up (Our Finest Hour Arrives)">Everybody Wake Up (Our Finest Hour Arrives)</a>" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician, String Arranger, Conductor)</li>
+<li>"Evil Deeds" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Fallin' in Love" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"Father" <a href="/wiki/Caron_Wheeler" title="Caron Wheeler">Caron Wheeler</a> (Producer, Writer, Musician)</li>
+<li>"Fire" <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> feat <a href="/wiki/Young_Buck" title="Young Buck">Young Buck</a> and <a href="/wiki/Nicole_Scherzinger" title="Nicole Scherzinger">Nicole Scherzinger</a> (Writer, Musician)</li>
+<li>"Forever One Flesh" Lathun (Producer, Writer, Musician)</li>
+<li>"Gentileza" <a href="/wiki/Marisa_Monte" title="Marisa Monte">Marisa Monte</a> (Musician)</li>
+<li>"<a href="/wiki/Get_It_Together_(Seal_song)" title="Get It Together (Seal song)">Get It Together</a>" <a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a> (Co-Producer, Writer, Musician, Horn Arrangements, String Arrangements)</li>
+<li>"Get It Together (Reprise)" <a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a> (Co-Producer, Writer, Musician, Horn Arrangements, String Arrangements)</li>
+<li>"Get You Some" <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a> (Producer, Writer, Musician)</li>
+<li>"Girl Can't Be Herself" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer, Writer)</li>
+<li>"Go Ahead" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer, Writer, Musician)</li>
+<li>"Grateful" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"Grow" <a href="/wiki/Lianne_La_Havas" title="Lianne La Havas">Lianne La Havas</a> (Producer, Writer, Musician)</li>
+<li>"Happy Town" <a href="/wiki/Tank_and_the_Bangas" title="Tank and the Bangas">Tank and the Bangas</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/Happy_Xmas_(War_Is_Over)" title="Happy Xmas (War Is Over)">Happy Xmas (War Is Over)</a>" by <a href="/wiki/Maroon_5" title="Maroon 5">Maroon 5</a> (Producer, Arranger, Conductor)</li>
+<li>"Hard To Breathe" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"Heartbreak" <a href="/wiki/Yelawolf" title="Yelawolf">Yelawolf</a> (Additional Production, Writer, Musician)</li>
+<li>"<a href="/wiki/Hell_Breaks_Loose" title="Hell Breaks Loose">Hell Breaks Loose</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Musician)</li>
+<li>"Hello" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"Hello Again" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer)</li>
+<li>"Higher" <a href="/wiki/Game_(rapper)" class="mw-redirect" title="Game (rapper)">The Game</a> (Producer, Writer, Musician)</li>
+<li>"Hold Down The Block" <a href="/wiki/Nas" title="Nas">Nas</a> (Producer, Writer, Musician)</li>
+<li>"Hot Summer Night" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer, Writer, Musician)</li>
+<li>"How to Kiss a Boy" <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> (Producer)</li>
+<li>"Humbled" <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> (Producer)</li>
+<li>"Hunger For The Great Light" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician, String Arranger, Conductor)</li>
+<li>"I Choose" <a href="/wiki/India_Arie" title="India Arie">India Arie</a> (Writer)</li>
+<li>"I Couldn't Do That to Me" <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> (Producer)</li>
+<li>"I Do, Didn't I" Lathun (Producer, Writer, Musician)</li>
+<li>"I Don't Get High" <a href="/wiki/Tank_and_the_Bangas" title="Tank and the Bangas">Tank and the Bangas</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/I_Get_It_In_(50_Cent_song)" title="I Get It In (50 Cent song)">I Get It In</a>" <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> (Producer, Writer, Musician)</li>
+<li>"I Luv" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer, Writer)</li>
+<li>"I Need You" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer, Writer, Musician, Horn Arranger)</li>
+<li>"I Understand" <a href="/wiki/Joe_(singer)" title="Joe (singer)">Joe</a> (String Arranger, Conductor)</li>
+<li>"I Want You" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"I'm Waiting" Sharissa (Producer, Writer, Musician)</li>
+<li>"Idea of You" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer)</li>
+<li>"Illusion of Bliss" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer, Writer)</li>
+<li>"Imagine" <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> feat <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> and <a href="/wiki/D%27Angelo" title="D&#39;Angelo">D'Angelo</a> (Producer, Writer, Musician)</li>
+<li>"Indigo" <a href="/wiki/Kandace_Springs" title="Kandace Springs">Kandace Springs</a> (Writer)</li>
+<li>"Insane" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Intro" <a href="/wiki/Chika_(rapper)" title="Chika (rapper)">Chika</a> (Producer, Writer, Musician)</li>
+<li>"Jason" <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a> feat <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/Just_Lose_It" title="Just Lose It">Just Lose It</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Jump" <a href="/wiki/Skylar_Grey" title="Skylar Grey">Skylar Grey</a> (Producer, Writer)</li>
+<li>"Kill for You" <a href="/wiki/Skylar_Grey" title="Skylar Grey">Skylar Grey</a> feat <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer)</li>
+<li>"Knocked Up, Locked Down" <a href="/wiki/Sandra_St._Victor" title="Sandra St. Victor">Sandra St. Victor</a> (Producer, Writer, Musician)</li>
+<li>"Let Me Roll" <a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a> (Co-Producer, Writer, Musician, Drum Programming)</li>
+<li>"Let's Stay Home Tonight" <a href="/wiki/Joe_(singer)" title="Joe (singer)">Joe</a> (String Arranger, Conductor)</li>
+<li>"Lite As a Feather" <a href="/wiki/Caron_Wheeler" title="Caron Wheeler">Caron Wheeler</a> (Producer, Writer, Musician)</li>
+<li>"Loneliest Star" <a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a> (Musician)</li>
+<li>"<a href="/wiki/Lost_One" title="Lost One">Lost One</a>" <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> feat Chrisette Michele (Producer, Writer, Musician)</li>
+<li>"Louisiana Bayou" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/Long_Live_Love_(LeAnn_Rimes_song)" title="Long Live Love (LeAnn Rimes song)">Long Live Love</a>" <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> (Producer, Writer)</li>
+<li>"Love Intro" <a href="/wiki/Miami_Vice_(film)" title="Miami Vice (film)">Miami Vice</a> (Composer)</li>
+<li>"Love Is an Angry Thing" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"Love Is Love Is Love" <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> (Producer)</li>
+<li>"Love Is The Only Way" <a href="/wiki/Robert_Randolph_and_the_Family_Band" title="Robert Randolph and the Family Band">Robert Randolph and the Family Band</a> feat <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a>, Leroi Moore and Rashawn Ross (Producer, Writer)</li>
+<li>"Love Line" <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> (Producer)</li>
+<li>"Love Won't Let Me" Lathun (Producer, Writer, Musician)</li>
+<li>"Love's Divine" <a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a> (Co-Producer, Writer, Musician, Drum Programming, Horn Arrangements, String Arrangements)</li>
+<li>"Low Road" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/Medicine_(Grace_Potter_and_the_Nocturnals_song)" title="Medicine (Grace Potter and the Nocturnals song)">Medicine</a>" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer)</li>
+<li>"Medicine Ball" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"Megadeth" <a href="/wiki/French_Montana" title="French Montana">French Montana</a> feat <a href="/wiki/Remy_Ma" title="Remy Ma">Remy Ma</a>, <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a> and <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a> (Producer, Writer, Musician)</li>
+<li>"Minority Report" <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> (Writer, Musician)</li>
+<li>"Mother" <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> (Producer, Writer)</li>
+<li>"Money" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer, Drum machine)</li>
+<li>"More Than We Know" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/Mosh_(song)" title="Mosh (song)">Mosh</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"Moving Mountains" <a href="/wiki/Skylar_Grey" title="Skylar Grey">Skylar Grey</a> (Producer, Writer)</li>
+<li>"M.P.A." <a href="/wiki/Pusha_T" title="Pusha T">Pusha T</a> feat <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>, <a href="/wiki/ASAP_Rocky" title="ASAP Rocky">A$AP Rocky</a>, and <a href="/wiki/The-Dream" title="The-Dream">The-Dream</a> (Writer, Musician)</li>
+<li>"Music Box" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"Must Be The Ganja" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"My Enemies" <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> (Producer, Writer, Musician)</li>
+<li>"My Mom" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Não É Fácil" <a href="/wiki/Marisa_Monte" title="Marisa Monte">Marisa Monte</a> (Musician)</li>
+<li>"Não Vá Embora" <a href="/wiki/Marisa_Monte" title="Marisa Monte">Marisa Monte</a> (Musician)</li>
+<li>"Nature" <a href="/wiki/India_Arie" title="India Arie">India Arie</a> (Producer, Writer, Musician)</li>
+<li>"Never Get Enough" <a href="/wiki/Lianne_La_Havas" title="Lianne La Havas">Lianne La Havas</a> (Producer, Writer, Musician)</li>
+<li>"Never Letting Go" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"No Manners" <a href="/wiki/Teyana_Taylor" title="Teyana Taylor">Teyana Taylor</a> (Producer, Writer, Musician)</li>
+<li>"No More Playing Games" <a href="/wiki/Jimmy_Cozier" title="Jimmy Cozier">Jimmy Cozier</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/Nowhere_Fast_(Eminem_song)" title="Nowhere Fast (Eminem song)">Nowhere Fast</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> feat <a href="/wiki/Kehlani" title="Kehlani">Kehlani</a> (Writer)</li>
+<li>"O Que Me Importa" <a href="/wiki/Marisa_Monte" title="Marisa Monte">Marisa Monte</a> (Musician)</li>
+<li>"Oasis" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/Ok,_You%27re_Right" title="Ok, You&#39;re Right">Ok, You're Right</a>" <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> (Producer, Writer, Musician)</li>
+<li>"Old Dirt Hill (Bring That Beat Back)" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician, String Arranger, Conductor)</li>
+<li>"<a href="/wiki/Old_Time%27s_Sake" title="Old Time&#39;s Sake">Old Time's Sake</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> feat <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> (Producer, Writer, Musician)</li>
+<li>"On My Way" <a href="/wiki/Chika_(rapper)" title="Chika (rapper)">Chika</a> (Producer, Writer, Musician)</li>
+<li>"One of These Mornings" <a href="/wiki/Moby" title="Moby">Moby</a> feat <a href="/wiki/Patti_LaBelle" title="Patti LaBelle">Patti LaBelle</a> (Producer, Musician)</li>
+<li>"Only Love" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer, Writer)</li>
+<li>"Open Your Eyes" <a href="/wiki/Bonnie_McKee" title="Bonnie McKee">Bonnie McKee</a> (Writer)</li>
+<li>"Out of My Hands" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer)</li>
+<li>"Outta Control (Remix)" <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> feat <a href="/wiki/Mobb_Deep" title="Mobb Deep">Mobb Deep</a> (Writer, Musician)</li>
+<li>"Outrageous Love" <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> (Producer)</li>
+<li>"<a href="/wiki/Paris_(Ooh_La_La)" title="Paris (Ooh La La)">Paris (Ooh La La)</a>" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer)</li>
+<li>"Part of My Life" <a href="/wiki/India_Arie" title="India Arie">India Arie</a> (Producer, Musician)</li>
+<li>"Pawn It All" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer, Writer)</li>
+<li>"Premonition (Intro)" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"Psycho" <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> feat <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Rain Man" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Remnants" <a href="/wiki/LeAnn_Rimes" title="LeAnn Rimes">LeAnn Rimes</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/Rich_Girl_(Gwen_Stefani_song)" title="Rich Girl (Gwen Stefani song)">Rich Girl</a>" <a href="/wiki/Gwen_Stefani" title="Gwen Stefani">Gwen Stefani</a> (Writer, Musician)</li>
+<li>"Rich Girls" <a href="/wiki/Raheem_DeVaughn" title="Raheem DeVaughn">Raheem DeVaughn</a> feat <a href="/wiki/Too_$hort" class="mw-redirect" title="Too $hort">Too $hort</a> (Producer, Writer, Musician)</li>
+<li>"Ridaz" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"Rocket Love" Black Coffey (Producer, Musician, Horn Arranger)</li>
+<li>"Same Song &amp; Dance" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Saturday Dancing" <a href="/wiki/Melissa_Etheridge" title="Melissa Etheridge">Melissa Etheridge</a> (Producer, Writer, Musician)</li>
+<li>"Save Me" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"Share a Little Road" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"Simple" <a href="/wiki/India_Arie" title="India Arie">India Arie</a> (Producer, Writer, Musician)</li>
+<li>"Since I Seen't You" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/Sista_Big_Bones" title="Sista Big Bones">Sista Big Bones</a>" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/Smoke_(50_Cent_song)" title="Smoke (50 Cent song)">Smoke</a>" <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> feat <a href="/wiki/Trey_Songz" title="Trey Songz">Trey Songz</a> (Producer, Writer, Musician)</li>
+<li>"Smooth Rider" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician)</li>
+<li>"So Bad" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"Soul Brothers" <a href="/wiki/Melissa_Etheridge" title="Melissa Etheridge">Melissa Etheridge</a> (Producer, Writer, Musician)</li>
+<li>"Soul Street" <a href="/wiki/Caron_Wheeler" title="Caron Wheeler">Caron Wheeler</a> (Producer, Writer, Musician)</li>
+<li>"Soul's On Fire" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"Southern Stuff" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"Spaceships" <a href="/wiki/Tank_and_the_Bangas" title="Tank and the Bangas">Tank and the Bangas</a> (Producer, Writer)</li>
+<li>"Stand Up (For It)" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician)</li>
+<li>"Stay Wide Awake" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"Steady as We Go" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician)</li>
+<li>"Still" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"Stolen Away on 55th and 3rd" <a href="/wiki/Dave_Matthews" title="Dave Matthews">Dave Matthews</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/Stolen_Car_(Take_Me_Dancing)" title="Stolen Car (Take Me Dancing)">Stolen Car (Take Me Dancing) [Batson-Doc-Will.I.Am Remix]</a>" <a href="/wiki/Sting_(musician)" title="Sting (musician)">Sting</a> feat <a href="/wiki/Will.i.am" title="Will.i.am">will.i.am</a> (Producer, Musician, Programmer)</li>
+<li>"Strength, Courage &amp; Wisdom" <a href="/wiki/India.arie" class="mw-redirect" title="India.arie">india.arie</a> (Producer, Musician)</li>
+<li>"<a href="/wiki/Sunday_Morning_(Maroon_5_song)" title="Sunday Morning (Maroon 5 song)">Sunday Morning (Urban Remix)</a>" <a href="/wiki/Maroon_5" title="Maroon 5">Maroon 5</a> (Producer, Programmer, Musician)</li>
+<li>"<a href="/wiki/Superwoman_(Alicia_Keys_song)" title="Superwoman (Alicia Keys song)">Superwoman</a>" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Musician)</li>
+<li>"Sweetest Thing" Lathun (Producer, Writer, Musician)</li>
+<li>"Taking My Ball" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer, Musician)</li>
+<li>"Talk About Me" <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> (Writer, Musician)</li>
+<li>"Tearing Me Apart" <a href="/wiki/Ry_Cuming" class="mw-redirect" title="Ry Cuming">Ry Cuming</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/Tell_Me_What_We%27re_Gonna_Do_Now" title="Tell Me What We&#39;re Gonna Do Now">Tell Me What We're Gonna Do Now</a>" <a href="/wiki/Joss_Stone" title="Joss Stone">Joss Stone</a> feat <a href="/wiki/Common_(rapper)" title="Common (rapper)">Common</a> (Writer)</li>
+<li>"Tema De Amor" <a href="/wiki/Marisa_Monte" title="Marisa Monte">Marisa Monte</a> (Musician)</li>
+<li>"Testify" <a href="/wiki/Nas" title="Nas">Nas</a> (Producer, Writer, Musician)</li>
+<li>"That Phone" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer, Writer, Piano)</li>
+<li>"The Day We Met" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"The Gettin' (Instrumental)" <a href="/wiki/Arrested_Development_(group)" title="Arrested Development (group)">Arrested Development</a> (Writer, Musical Director)</li>
+<li>"The Gospel" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer)</li>
+<li>"The News" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"The Set Up / Mr. Chang Sends Regards" Mark Batson (Artist, Producer, Composer, Musician)</li>
+<li>"These Eyes" <a href="/wiki/India_Arie" title="India Arie">India Arie</a> (Producer, Writer, Musician)</li>
+<li>"This Too Shall Pass (Hidden Track)" <a href="/wiki/India_Arie" title="India Arie">India Arie</a> (Producer, Writer, Musician)</li>
+<li>"Tiny Light" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer, Writer, Piano)</li>
+<li>"Touch" <a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a> (Co-Producer, Writer, Musician, Drum Programming)</li>
+<li>"Trainwreck" Willie Jones (Producer, Writer, Musician)</li>
+<li>"Trouble" <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> (Producer, Writer, Musician)</li>
+<li>"Try Again" <a href="/wiki/Raheem_DeVaughn" title="Raheem DeVaughn">Raheem DeVaughn</a> (Producer, Writer, Musician)</li>
+<li>"U Ain't Goin' Nowhere" <a href="/wiki/Young_Buck" title="Young Buck">Young Buck</a> feat Latoiya Williams (Producer, Writer, Musician)</li>
+<li>"Underground" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"<a href="/wiki/Untouchable_(Eminem_song)" title="Untouchable (Eminem song)">Untouchable</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/Waiting_for_You_(Seal_song)" title="Waiting for You (Seal song)">Waiting for You</a>" <a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a> (Co-Producer, Writer, Musician, Drum Programming, Horn Arrangements, String Arrangements)</li>
+<li>"Walk in My Shoes" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"<a href="/wiki/We_Are_Here_(Alicia_Keys_song)" title="We Are Here (Alicia Keys song)">We Are Here</a>" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer, Writer, Musician)</li>
+<li>"<a href="/wiki/We_Made_You" title="We Made You">We Made You</a>" <a href="/wiki/Eminem" title="Eminem">Eminem</a> (Writer, Musician)</li>
+<li>"What I'm Feelin" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer)</li>
+<li>"When I'm Weary" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician)</li>
+<li>"When Love Come In" Lathun feat <a href="/wiki/India_Arie" title="India Arie">India Arie</a> (Producer, Writer, Musician)</li>
+<li>"Where Did It Go Wrong" <a href="/wiki/Anthony_Hamilton_(musician)" title="Anthony Hamilton (musician)">Anthony Hamilton</a> (Producer, Writer, Musician)</li>
+<li>"Where Do We Begin Now" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Producer, Writer)</li>
+<li>"Where Do We Go from Here" <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a> (Musician, Horn Arranger)</li>
+<li>"Where There's Gold" <a href="/wiki/Seal_(musician)" title="Seal (musician)">Seal</a> (Co-Producer, Writer, Musician)</li>
+<li>"White Rabbit" <a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a> (Producer)</li>
+<li>"White Rabbit" <a href="/wiki/Mayssa_Karaa" title="Mayssa Karaa">Mayssa Karaa</a> (Producer, Arranger, Lyric Adaptor)</li>
+<li>"Woman" <a href="/wiki/Maroon_5" title="Maroon 5">Maroon 5</a> (Producer, Arranger, Conductor)</li>
+<li>"Wonderful" <a href="/wiki/India_Arie" title="India Arie">India Arie</a> (Producer, Writer, Musician)</li>
+<li>"You Might Die Trying" <a href="/wiki/Dave_Matthews_Band" title="Dave Matthews Band">Dave Matthews Band</a> (Producer, Writer, Musician)</li></ul>
+<h3><span class="mw-headline" id="Score_composer">Score composer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=8" title="Edit section: Score composer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Battlegrounds: Ball or Fall</i> (2003)</li>
+<li><i>Afro-Arabian Nights</i> (2010)</li>
+<li><i>Incorruptible</i> (2015)</li>
+<li><i>The Tale of Four</i> (2016)</li>
+<li><i><a href="/wiki/Dude_(film)" title="Dude (film)">Dude</a></i> (2018)</li>
+<li><i><a href="/wiki/Power_Book_IV:_Force" title="Power Book IV: Force">Power Book IV: Force</a></i> (2022-)</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_record_producers" class="mw-redirect" title="List of record producers">List of record producers</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/mark-batson-mn0000282400/credits">"Mark Batson | Credits"</a>. <i>AllMusic</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-10-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Mark+Batson+%7C+Credits&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Fartist%2Fmark-batson-mn0000282400%2Fcredits&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Batson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Vibe_early-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Vibe_early_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFVan_Meter1993" class="citation news cs1">Van Meter, Jonathan (November 1, 1993). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=zScEAAAAMBAJ&amp;pg=PT37">"Get Ready, Get Set for The Influence of Classical Jazz"</a>. Vibe<span class="reference-accessdate">. Retrieved <span class="nowrap">24 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Get+Ready%2C+Get+Set+for+The+Influence+of+Classical+Jazz&amp;rft.date=1993-11-01&amp;rft.aulast=Van+Meter&amp;rft.aufirst=Jonathan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DzScEAAAAMBAJ%26pg%3DPT37&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Batson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Pareles-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pareles_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPareles1989" class="citation news cs1">Pareles, Jon (December 4, 1989). <a rel="nofollow" class="external text" href="https://www.nytimes.com/1989/12/04/arts/reviews-music-the-jazz-generation-pays-tribute-to-jimi-hendrix.html">"Reviews/Music; The Jazz Generation Pays Tribute to Jimi Hendrix"</a>. <i>New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Reviews%2FMusic%3B+The+Jazz+Generation+Pays+Tribute+to+Jimi+Hendrix&amp;rft.date=1989-12-04&amp;rft.aulast=Pareles&amp;rft.aufirst=Jon&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1989%2F12%2F04%2Farts%2Freviews-music-the-jazz-generation-pays-tribute-to-jimi-hendrix.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Batson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBaker2016" class="citation news cs1">Baker, Soren (March 9, 2016). <a rel="nofollow" class="external text" href="http://hiphopdx.com/news/id.37830/title.dr-dre-producing-original-music-for-adaptation-of-graphic-novel-loaded">"Dr. Dre Producing Original Music For Adaptation Of Graphic Novel "LOADED"<span class="cs1-kern-right"></span>"</a>. <i>Hip Hop DX</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hip+Hop+DX&amp;rft.atitle=Dr.+Dre+Producing+Original+Music+For+Adaptation+Of+Graphic+Novel+%22LOADED%22&amp;rft.date=2016-03-09&amp;rft.aulast=Baker&amp;rft.aufirst=Soren&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.37830%2Ftitle.dr-dre-producing-original-music-for-adaptation-of-graphic-novel-loaded&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Batson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.grammy.com/news/and-the-grammy-went-to-eminem">"And the Grammy Went to...Eminem"</a>. <i>grammy.com</i>. NARAS<span class="reference-accessdate">. Retrieved <span class="nowrap">15 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=grammy.com&amp;rft.atitle=And+the+Grammy+Went+to...Eminem&amp;rft_id=http%3A%2F%2Fwww.grammy.com%2Fnews%2Fand-the-grammy-went-to-eminem&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Batson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.chicagotribune.com/sns-grammys-nominees-story.html">"Complete List of Grammy Winners: 2004"</a>. <i>Associated Press, via Chicago Tribune</i>. February 6, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">15 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Associated+Press%2C+via+Chicago+Tribune&amp;rft.atitle=Complete+List+of+Grammy+Winners%3A+2004&amp;rft.date=2004-02-06&amp;rft_id=http%3A%2F%2Fwww.chicagotribune.com%2Fsns-grammys-nominees-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Batson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-All_Music_credits-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-All_Music_credits_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/mark-batson-mn0000282400/credits">"Mark Batson: Credits"</a>. <i>allmusic.com</i>. All Music<span class="reference-accessdate">. Retrieved <span class="nowrap">15 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=allmusic.com&amp;rft.atitle=Mark+Batson%3A+Credits&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fmark-batson-mn0000282400%2Fcredits&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Batson" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Batson&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.aftermathmusic.com/blog/producer/mark-batson/">Aftermath Entertainment</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0061246/">Mark Batson</a> at <a href="/wiki/IMDb_(identifier)" class="mw-redirect" title="IMDb (identifier)">IMDb</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Aftermath_Entertainment" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Aftermath_Entertainment" title="Template:Aftermath Entertainment"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Aftermath_Entertainment" title="Template talk:Aftermath Entertainment"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Aftermath_Entertainment&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Aftermath_Entertainment" style="font-size:114%;margin:0 4em"><a href="/wiki/Aftermath_Entertainment" title="Aftermath Entertainment">Aftermath Entertainment</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Founder</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Releases</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Dr._Dre_Presents:_The_Aftermath" title="Dr. Dre Presents: The Aftermath">The Aftermath</a></i> (1996)</li>
+<li><i><a href="/wiki/The_Wash_(soundtrack)" title="The Wash (soundtrack)">The Wash</a></i> (2001)</li>
+<li><i><a href="/wiki/Black_Panther_(soundtrack)" title="Black Panther (soundtrack)">Black Panther</a></i> (2018)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Interscope_Records" title="Interscope Records">Interscope Records</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Grace_Potter_and_the_Nocturnals" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Grace_Potter_and_the_Nocturnals" title="Template:Grace Potter and the Nocturnals"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Grace_Potter_and_the_Nocturnals" title="Template talk:Grace Potter and the Nocturnals"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Grace_Potter_and_the_Nocturnals&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Grace_Potter_and_the_Nocturnals" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Grace_Potter_and_the_Nocturnals" title="Grace Potter and the Nocturnals">Grace Potter and the Nocturnals</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a href="/wiki/Grace_Potter" title="Grace Potter">Grace Potter</a></b></li>
+<li><b>Matt Burr</b></li>
+<li><b>Scott Tournet</b></li>
+<li><b>Benny Yurco</b></li>
+<li><b>Michael Libramento</b></li></ul>
+<ul><li>Bryan Dondero</li>
+<li><a href="/wiki/Catherine_Popper" title="Catherine Popper">Catherine Popper</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Nothing_but_the_Water" title="Nothing but the Water">Nothing but the Water</a></i> (2005)</li>
+<li><i><a href="/wiki/This_Is_Somewhere" title="This Is Somewhere">This Is Somewhere</a></i> (2007)</li>
+<li><i><a href="/wiki/Grace_Potter_and_the_Nocturnals_(album)" title="Grace Potter and the Nocturnals (album)">Grace Potter and the Nocturnals</a></i> (2010)</li>
+<li><i><a href="/wiki/The_Lion_the_Beast_the_Beat" title="The Lion the Beast the Beat">The Lion the Beast the Beat</a></i> (2012)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Live albums</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Live_from_the_Legendary_Sun_Studio" title="Live from the Legendary Sun Studio">Live from the Legendary Sun Studio</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Medicine_(Grace_Potter_and_the_Nocturnals_song)" title="Medicine (Grace Potter and the Nocturnals song)">Medicine</a>"</li>
+<li>"<a href="/wiki/Paris_(Ooh_La_La)" title="Paris (Ooh La La)">Paris (Ooh La La)</a>"</li>
+<li>"<a href="/wiki/Stars_(Grace_Potter_and_the_Nocturnals_song)" title="Stars (Grace Potter and the Nocturnals song)">Stars</a>"</li>
+<li>"<a href="/wiki/You_and_Tequila" title="You and Tequila">You and Tequila</a>"</li>
+<li>"<a href="/wiki/Wild_Child_(Kenny_Chesney_and_Grace_Potter_song)" title="Wild Child (Kenny Chesney and Grace Potter song)">Wild Child</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Grace Potter solo albums</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Midnight_(Grace_Potter_album)" title="Midnight (Grace Potter album)">Midnight</a></i></li>
+<li><i><a href="/wiki/Daylight_(Grace_Potter_album)" title="Daylight (Grace Potter album)">Daylight</a></i></li>
+<li><i><a href="/wiki/Mother_Road_(album)" title="Mother Road (album)">Mother Road</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Grace_Potter_and_the_Nocturnals_discography" title="Grace Potter and the Nocturnals discography">Discography</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3293994#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3293994#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q3293994#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/143149196470974791480">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2002052508">United States</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.grammy.com/grammys/artists/mark-batson/286">Grammy Awards</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/8e802f24-c726-455d-a390-71fb18762e9c">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2377
+Cached time: 20230919205621
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.374 seconds
+Real time usage: 0.498 seconds
+Preprocessor visited node count: 2089/1000000
+Post‐expand include size: 56299/2097152 bytes
+Template argument size: 3248/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49846/5000000 bytes
+Lua time usage: 0.225/10.000 seconds
+Lua memory usage: 7071839/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  415.302      1 -total
+ 23.83%   98.946      1 Template:Reflist
+ 23.41%   97.231      1 Template:Infobox_musical_artist
+ 19.75%   82.018      1 Template:BLP_sources
+ 19.31%   80.202      1 Template:Infobox
+ 16.02%   66.539      3 Template:Cite_web
+ 15.78%   65.547      1 Template:Ambox
+ 10.64%   44.201      2 Template:Navbox
+ 10.03%   41.643      2 Template:Short_description
+  9.62%   39.966      1 Template:Aftermath_Entertainment
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12582759-0!canonical and timestamp 20230919205620 and revision id 1174757693. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mark_Batson&amp;oldid=1174757693">https://en.wikipedia.org/w/index.php?title=Mark_Batson&amp;oldid=1174757693</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_male_composers" title="Category:American male composers">American male composers</a></li><li><a href="/wiki/Category:21st-century_American_composers" title="Category:21st-century American composers">21st-century American composers</a></li><li><a href="/wiki/Category:American_music_arrangers" title="Category:American music arrangers">American music arrangers</a></li><li><a href="/wiki/Category:American_pop_pianists" title="Category:American pop pianists">American pop pianists</a></li><li><a href="/wiki/Category:American_male_pianists" title="Category:American male pianists">American male pianists</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:Businesspeople_from_Los_Angeles" title="Category:Businesspeople from Los Angeles">Businesspeople from Los Angeles</a></li><li><a href="/wiki/Category:Businesspeople_from_New_York_City" title="Category:Businesspeople from New York City">Businesspeople from New York City</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Howard_University_alumni" title="Category:Howard University alumni">Howard University alumni</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_Bushwick,_Brooklyn" title="Category:People from Bushwick, Brooklyn">People from Bushwick, Brooklyn</a></li><li><a href="/wiki/Category:Musicians_from_Brooklyn" title="Category:Musicians from Brooklyn">Musicians from Brooklyn</a></li><li><a href="/wiki/Category:Songwriters_from_California" title="Category:Songwriters from California">Songwriters from California</a></li><li><a href="/wiki/Category:Songwriters_from_New_York_(state)" title="Category:Songwriters from New York (state)">Songwriters from New York (state)</a></li><li><a href="/wiki/Category:21st-century_American_pianists" title="Category:21st-century American pianists">21st-century American pianists</a></li><li><a href="/wiki/Category:Record_producers_from_New_York_(state)" title="Category:Record producers from New York (state)">Record producers from New York (state)</a></li><li><a href="/wiki/Category:Record_producers_from_California" title="Category:Record producers from California">Record producers from California</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:1968_births" title="Category:1968 births">1968 births</a></li><li><a href="/wiki/Category:American_male_songwriters" title="Category:American male songwriters">American male songwriters</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_February_2023" title="Category:BLP articles lacking sources from February 2023">BLP articles lacking sources from February 2023</a></li><li><a href="/wiki/Category:All_BLP_articles_lacking_sources" title="Category:All BLP articles lacking sources">All BLP articles lacking sources</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_Grammy_identifiers" title="Category:Articles with Grammy identifiers">Articles with Grammy identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 10 September 2023, at 13:46<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mark_Batson&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2338","wgBackendResponseTime":125,"wgPageParseReport":{"limitreport":{"cputime":"0.374","walltime":"0.498","ppvisitednodes":{"value":2089,"limit":1000000},"postexpandincludesize":{"value":56299,"limit":2097152},"templateargumentsize":{"value":3248,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49846,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  415.302      1 -total"," 23.83%   98.946      1 Template:Reflist"," 23.41%   97.231      1 Template:Infobox_musical_artist"," 19.75%   82.018      1 Template:BLP_sources"," 19.31%   80.202      1 Template:Infobox"," 16.02%   66.539      3 Template:Cite_web"," 15.78%   65.547      1 Template:Ambox"," 10.64%   44.201      2 Template:Navbox"," 10.03%   41.643      2 Template:Short_description","  9.62%   39.966      1 Template:Aftermath_Entertainment"]},"scribunto":{"limitreport-timeusage":{"value":"0.225","limit":"10.000"},"limitreport-memusage":{"value":7071839,"limit":52428800}},"cachereport":{"origin":"mw2377","timestamp":"20230919205621","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mark Batson","url":"https:\/\/en.wikipedia.org\/wiki\/Mark_Batson","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3293994","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3293994","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-08-02T19:44:16Z","dateModified":"2023-09-10T13:46:58Z","headline":"American record producer"}</script>
+</body>
+</html>

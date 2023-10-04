@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Oompa (rapper) - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"8b60045c-4170-4bc6-8687-2273179f9227","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Oompa_(rapper)","wgTitle":"Oompa (rapper)","wgCurRevisionId":1172865575,"wgRevisionId":1172865575,"wgArticleId":72850505,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Date of birth not in Wikidata","Short description is different from Wikidata","Articles with hCards","East Coast hip hop musicians","American lesbian musicians","LGBT rappers","21st-century American rappers","21st-century American women musicians","American women hip hop musicians","African-American women rappers","American women rappers","21st-century American LGBT people","21st-century American writers","LGBT hip hop musicians","21st-century African-American musicians",
+"Songwriters from Massachusetts","Rappers from Boston","African-American feminists","21st-century African-American writers","21st-century American women writers","21st-century African-American women writers","American feminist writers","Feminist theorists","LGBT African Americans","Living people","1991 births"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Oompa_(rapper)","wgRelevantArticleId":72850505,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr",
+"pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q119241933","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":
+"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Oompa (rapper) - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Oompa_(rapper)">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Oompa_(rapper)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Oompa_(rapper)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Oompa_rapper rootpage-Oompa_rapper skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert vector-main-menu-action-lang-alert-empty">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Oompa+%28rapper%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Oompa+%28rapper%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Oompa+%28rapper%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Oompa+%28rapper%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+			<button aria-controls="toc-Early_life-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Early life subsection</span>
+			</button>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+			<li id="toc-Childhood"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Childhood">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Childhood</div>
+			</a>
+			
+			<ul id="toc-Childhood-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Education"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Education">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>Education</div>
+			</a>
+			
+			<ul id="toc-Education-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Poetry_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Poetry_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Poetry career</div>
+		</a>
+		
+		<ul id="toc-Poetry_career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Music_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Music_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Music career</div>
+		</a>
+		
+			<button aria-controls="toc-Music_career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Music career subsection</span>
+			</button>
+		
+		<ul id="toc-Music_career-sublist" class="vector-toc-list">
+			<li id="toc-Influences"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Influences">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Influences</div>
+			</a>
+			
+			<ul id="toc-Influences-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Critical_acclaim"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Critical_acclaim">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Critical acclaim</div>
+			</a>
+			
+			<ul id="toc-Critical_acclaim-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Cultural_impact"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Cultural_impact">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>Cultural impact</div>
+			</a>
+			
+			<ul id="toc-Cultural_impact-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Awards"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Awards</div>
+		</a>
+		
+		<ul id="toc-Awards-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Oompa (rapper)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="This article exist only in this language. Add the article for other languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Add languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q119241933#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Oompa_(rapper)" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Oompa_(rapper)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Oompa_(rapper)"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Oompa_(rapper)&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Oompa_(rapper)"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Oompa_(rapper)&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Oompa_(rapper)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Oompa_(rapper)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Oompa_(rapper)&amp;oldid=1172865575" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Oompa_(rapper)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Oompa_%28rapper%29&amp;id=1172865575&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q119241933" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Oompa_%28rapper%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Oompa_(rapper)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper, poet, and vocalist</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Oompa</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Lakiyra Williams</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1991-02-24</span>) </span>February 24, 1991<span class="noprint ForceAgeToShow"> (age&#160;32)</span><br />Roxbury, MA</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/Hip_Hop" class="mw-redirect" title="Hip Hop">Hip Hop</a></li><li><a href="/wiki/R%26B" class="mw-redirect" title="R&amp;B">R&amp;B</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2016–present</td></tr><tr><th scope="row" class="infobox-label">Formerly of</th><td class="infobox-data">HipStory</td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="https://www.oompoutloud.com/">www<wbr />.oompoutloud<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Lakiyra Williams</b>, known professionally as <b>Oompa</b>, is a rapper, poet, and vocalist from <a href="/wiki/Roxbury,_Boston" title="Roxbury, Boston">Roxbury, Massachusetts</a>.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Childhood">Childhood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=2" title="Edit section: Childhood">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Oompa was put into <a href="/wiki/Foster_care" title="Foster care">foster care</a> at six weeks old.<sup id="cite_ref-:16_2-0" class="reference"><a href="#cite_note-:16-2">&#91;2&#93;</a></sup> She grew up in Academy Homes, a low-income housing development near <a href="/wiki/Jackson_Square_station" title="Jackson Square station">Jackson Square</a>. When she was 5, she and her two biological sisters were adopted.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup>
+</p><p>Oompa started rapping in middle school, competing in <a href="/wiki/Battle_rap" title="Battle rap">battle rap</a> in the cafeteria for lunch money.  As a kid, she played basketball at Washington Park in Roxbury, where she was given the nickname, "Oompa Loompa" because she was short and speedy. This inspired her stage name.<sup id="cite_ref-:2_3-0" class="reference"><a href="#cite_note-:2-3">&#91;3&#93;</a></sup><sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4">&#91;4&#93;</a></sup>
+</p><p>In high school, Oompa's sister, Nicky, died from <a href="/wiki/Lupus" title="Lupus">lupus</a>.<sup id="cite_ref-:16_2-1" class="reference"><a href="#cite_note-:16-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=3" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Oompa attended <a href="/wiki/Bucknell_University" title="Bucknell University">Bucknell University</a> in <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a>, on a full ride scholarship.<sup id="cite_ref-:16_2-2" class="reference"><a href="#cite_note-:16-2">&#91;2&#93;</a></sup> She performed rap and poetry at open mics on campus and taught herself how to professionally record music in her college's computer lab.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup><sup id="cite_ref-:6_5-0" class="reference"><a href="#cite_note-:6-5">&#91;5&#93;</a></sup>
+</p><p>In 2009, when she was a freshman in college, Oompa's mom died, which she described in 2019 as "the hardest thing in my life, thus far." Her debut album "November 3rd" was named for the day her mom died, and features the track, "Dear Mama" in dedication. After her mother's death, Oompa took a leave of absence from school to care for her younger sister while she was still a minor. They struggled with food insecurity and homelessness.<sup id="cite_ref-:16_2-3" class="reference"><a href="#cite_note-:16-2">&#91;2&#93;</a></sup><sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4">&#91;4&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-:6_5-1" class="reference"><a href="#cite_note-:6-5">&#91;5&#93;</a></sup> Oompa returned to Bucknell later on, changed her <a href="/wiki/Academic_major" title="Academic major">major</a> from <a href="/wiki/Mathematics_education" title="Mathematics education">mathematics</a>, and earned an undergraduate degree in <a href="/wiki/English_studies" title="English studies">English</a> and <a href="/wiki/Pedagogy" title="Pedagogy">Education</a>.<sup id="cite_ref-:16_2-4" class="reference"><a href="#cite_note-:16-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Poetry_career">Poetry career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=4" title="Edit section: Poetry career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2016, Oompa won a spot on the Boston House Slam team. The team qualified for finals at the <a href="/wiki/National_Poetry_Slam" title="National Poetry Slam">National Poetry Slam</a>. She also coached a team of youth poets for <a href="/wiki/Louder_Than_a_Bomb" title="Louder Than a Bomb">Louder than a Bomb Massachusetts</a>, who placed 5th in the state. In 2017, Oompa won the <a href="/wiki/Women_of_the_World_Poetry_Slam" title="Women of the World Poetry Slam">Women of the World Poetry Slam</a> in <a href="/wiki/Dallas" title="Dallas">Dallas, Texas</a>.<sup id="cite_ref-:5_7-0" class="reference"><a href="#cite_note-:5-7">&#91;7&#93;</a></sup>
+</p><p>She has stated about her experience doing slam poetry, "A lot of slam was competition over who has the most important oppression and how awful things are. The truth is suffering is part of the human condition. We all hurt. It's not a competition."<sup id="cite_ref-:16_2-5" class="reference"><a href="#cite_note-:16-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Music_career">Music career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=5" title="Edit section: Music career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2022, Oompa performed at <a href="/wiki/Boston_Calling_Music_Festival" title="Boston Calling Music Festival">Boston Calling Music Festival</a>,<sup id="cite_ref-:0_1-3" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup> was accepted into <a href="/wiki/The_Recording_Academy" title="The Recording Academy">The Recording Academy</a>,<sup id="cite_ref-:16_2-6" class="reference"><a href="#cite_note-:16-2">&#91;2&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> and was one of 12 artists selected to be a part of <a href="/wiki/Pepsi" title="Pepsi">Pepsi</a> Music Lab Academy class of 22–23'.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-:7_11-0" class="reference"><a href="#cite_note-:7-11">&#91;11&#93;</a></sup> In 2023, Oompa performed at the <a href="/wiki/Boston_Celtics" title="Boston Celtics">Boston Celtics</a> half-time performance at <a href="/wiki/TD_Garden" title="TD Garden">TD Garden</a>,<sup id="cite_ref-:2_3-1" class="reference"><a href="#cite_note-:2-3">&#91;3&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> and at <a href="/wiki/Maura_Healey" title="Maura Healey">Massachusetts Governor Maura Healy</a>'s inauguration.<sup id="cite_ref-:10_13-0" class="reference"><a href="#cite_note-:10-13">&#91;13&#93;</a></sup><sup id="cite_ref-:14_14-0" class="reference"><a href="#cite_note-:14-14">&#91;14&#93;</a></sup> In August 2023, Oompa's song, "Outta Patience", was featured in a <a href="/wiki/Beats_Electronics" title="Beats Electronics">Beats</a> commercial starring <a href="/wiki/Alessia_Russo" title="Alessia Russo">Alessia Russo</a> for the <a href="/wiki/2023_FIFA_Women%27s_World_Cup" title="2023 FIFA Women&#39;s World Cup">Women's World Cup</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>Oompa has won four <a href="/wiki/Boston_Music_Awards" title="Boston Music Awards">Boston Music Awards</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-:3_17-0" class="reference"><a href="#cite_note-:3-17">&#91;17&#93;</a></sup><sup id="cite_ref-:4_18-0" class="reference"><a href="#cite_note-:4-18">&#91;18&#93;</a></sup> She has performed with <a href="/wiki/Jill_Scott_(singer)" title="Jill Scott (singer)">Jill Scott</a>,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> <a href="/wiki/2_Chainz" title="2 Chainz">2-Chainz</a>,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> <a href="/wiki/Marc_Rebillet" title="Marc Rebillet">Marc Rebillet</a>,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> <a href="/wiki/Palehound" title="Palehound">Palehound</a>,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> and <a href="/wiki/Brandi_Carlile" title="Brandi Carlile">Brandi Carlile</a>.<sup id="cite_ref-:10_13-1" class="reference"><a href="#cite_note-:10-13">&#91;13&#93;</a></sup><sup id="cite_ref-:14_14-1" class="reference"><a href="#cite_note-:14-14">&#91;14&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Influences">Influences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=6" title="Edit section: Influences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Oompa has cited <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, <a href="/wiki/Lauryn_Hill" title="Lauryn Hill">Lauryn Hill</a>, <a href="/wiki/J._Cole" title="J. Cole">J. Cole</a>, <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a>, <a href="/wiki/James_Brown" title="James Brown">James Brown</a>, <a href="/wiki/Gospel_music" title="Gospel music">Gospel music</a>, and <a href="/wiki/Black_music" title="Black music">Black music</a> across genres as her influences.<sup id="cite_ref-:2_3-2" class="reference"><a href="#cite_note-:2-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Critical_acclaim">Critical acclaim</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=7" title="Edit section: Critical acclaim">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2016, Oompa joined HipStory (founded by Cliff Notez and Tim Hall), a Boston collective and multimedia production company that worked with her to record and release her first album, "November 3rd". A review from <i>Sound of Boston</i> called Oompa's rhymes "deadly" and referred to the project as "a deeply confessional collection of songs over smooth soul beats".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The album was listed as one of <i>Allston Pudding's</i> favorite albums of the year and <i><a href="/wiki/DigBoston" title="DigBoston">DigBoston</a>'s</i> Top 30 Local Albums of the year in 2016.<sup id="cite_ref-:12_24-0" class="reference"><a href="#cite_note-:12-24">&#91;24&#93;</a></sup><sup id="cite_ref-:11_25-0" class="reference"><a href="#cite_note-:11-25">&#91;25&#93;</a></sup>
+</p><p>In 2019, Oompa released the album, "Cleo", named for <a href="/wiki/Queen_Latifah" title="Queen Latifah">Queen Latifah</a>'s character in <a href="/wiki/Set_It_Off_(film)" title="Set It Off (film)">Set It Off</a>.<sup id="cite_ref-:8_26-0" class="reference"><a href="#cite_note-:8-26">&#91;26&#93;</a></sup> <a href="/wiki/WBUR-FM" title="WBUR-FM"><i>WBUR</i></a> commented, that the songs on "Cleo" "all benefit from Oompa's keen sense of melody, her knack for grabbing the ear with a certain phrase or rhythm and telling it something funny and incisive and memorable".<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> <a href="/wiki/Telegram_%26_Gazette" title="Telegram &amp; Gazette"><i>Telegram</i></a> called the album captivating and viscerally inspiring.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> <i>Allston Pudding</i> attended the album release and called the performance of "Cleo" "powerful from beginning to end".<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> With "Cleo", Oompa landed on <a href="/wiki/NPR_Music" title="NPR Music"><i>NPR</i></a>'s Slingshot Artist to Watch list.<sup id="cite_ref-:13_30-0" class="reference"><a href="#cite_note-:13-30">&#91;30&#93;</a></sup>
+</p><p>In 2021, Oompa released the album, "Unbothered".<sup id="cite_ref-:9_31-0" class="reference"><a href="#cite_note-:9-31">&#91;31&#93;</a></sup> <i><a href="/wiki/The_Harvard_Crimson" title="The Harvard Crimson">The Harvard Crimson</a></i> characterized the album as, "personal, unapologetic, inspirational, and incredibly deserving of all the glowing receptions it will receive".<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> <i>Vanyaland</i> called the album, "a sacred space, the Boston's emcee commitment to herself — and her listeners — to cultivate a life worth living".<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> <i>Galore Mag</i> hailed Oompa as having "a cadence and energy akin to the legendary <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a> and the poetic finesse of <a href="/wiki/Noname_(rapper)" title="Noname (rapper)">Noname</a>".<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> <i>The Three-Sixty Mag</i> called "Unbothered", "an album brimming with gems".<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> <i><a href="/wiki/Okayplayer" title="Okayplayer">Okayplayer</a></i> named the project to their 15 New Hip-Hop &amp; R&amp;B Albums You Should Be Listening To list, and called the project, "an album riddled with self-reflective undertones and vibrant lyrics".<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Cultural_impact">Cultural impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=8" title="Edit section: Cultural impact">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Oompa is on the leadership council at The Record Co., a nonprofit that provides affordable rehearsal and recording space for Boston-based music makers.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup> Oompa partnered with the <a href="/wiki/Somerville,_Massachusetts" title="Somerville, Massachusetts">Somerville</a> Arts Council to create Black, Brown &amp; Queer Fest.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> <i>The Gumbo</i> has praised Oompa's music for uplifting women.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</p><p>According to <a href="/wiki/Boston_(magazine)" title="Boston (magazine)"><i>Boston</i></a>, in 2022, "she was one of 12 people and organizations awarded $500,000 in workforce development contracts as part of a program established by the city's Mayor's Office of Arts and Culture. She's using the funding to establish Outlaud Entertainment, an artists' collective and incubator that will mentor five emerging artists over the course of fifteen months."<sup id="cite_ref-:16_2-7" class="reference"><a href="#cite_note-:16-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=9" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2023, Oompa reconnected with her birth father, who was a popular R &amp; B singer in the '90s.<sup id="cite_ref-:16_2-8" class="reference"><a href="#cite_note-:16-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=10" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Pepsi" title="Pepsi">Pepsi</a>'s Music Lab Class of '22-'23<sup id="cite_ref-:7_11-1" class="reference"><a href="#cite_note-:7-11">&#91;11&#93;</a></sup></li>
+<li><a href="/wiki/Mayor_of_Boston" title="Mayor of Boston">City of Boston</a>, Workforce Development Contracts For Artists And Creative Workers, 2022<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup></li>
+<li><a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">City of Cambridge</a>'s Local Cultural Council Grants, 2022<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup></li>
+<li>Live Artist of the Year, Boston Music Awards, 2022<sup id="cite_ref-:3_17-1" class="reference"><a href="#cite_note-:3-17">&#91;17&#93;</a></sup></li>
+<li><a href="/wiki/NPR_Music" title="NPR Music"><i>NPR</i></a> Slingshot Artist to Watch, 2020<sup id="cite_ref-:13_30-1" class="reference"><a href="#cite_note-:13-30">&#91;30&#93;</a></sup></li>
+<li>Live Artist of the Year, Boston Music Awards, 2019<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup></li>
+<li><a href="/wiki/The_Boston_Foundation" title="The Boston Foundation">The Boston Foundation</a> Brother Thomas Fellow, 2019<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup></li>
+<li>Unsigned Artist of the Year, Boston Music Awards, 2018<sup id="cite_ref-:4_18-1" class="reference"><a href="#cite_note-:4-18">&#91;18&#93;</a></sup></li>
+<li>617Session Winner, Boston Music Awards, 2018<sup id="cite_ref-:4_18-2" class="reference"><a href="#cite_note-:4-18">&#91;18&#93;</a></sup></li>
+<li><a href="/wiki/Club_Passim" title="Club Passim">Passim</a> Awards Iguana Music Fund Grant Recipient, 2018<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup></li>
+<li>Women of the World Poetry Slam Champion, 2017<sup id="cite_ref-:5_7-1" class="reference"><a href="#cite_note-:5-7">&#91;7&#93;</a></sup></li>
+<li>National Poetry Slam finalist, 2016<sup id="cite_ref-:5_7-2" class="reference"><a href="#cite_note-:5-7">&#91;7&#93;</a></sup></li>
+<li><i>Allston Pudding's</i> favorite albums of the year, 2016<sup id="cite_ref-:11_25-1" class="reference"><a href="#cite_note-:11-25">&#91;25&#93;</a></sup></li>
+<li><i>DigBoston's</i> Top 30 Local Albums of the year, 2016<sup id="cite_ref-:12_24-1" class="reference"><a href="#cite_note-:12-24">&#91;24&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=11" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>Albums
+</caption>
+<tbody><tr>
+<th>Title
+</th>
+<th>Year
+</th>
+<th>Source
+</th></tr>
+<tr>
+<td>Unbothered
+</td>
+<td>2021
+</td>
+<td><sup id="cite_ref-:9_31-1" class="reference"><a href="#cite_note-:9-31">&#91;31&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Cleo
+</td>
+<td>2019
+</td>
+<td><sup id="cite_ref-:8_26-1" class="reference"><a href="#cite_note-:8-26">&#91;26&#93;</a></sup>
+</td></tr>
+<tr>
+<td>November 3
+</td>
+<td>2016
+</td>
+<td><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
+</td></tr></tbody></table>
+<table class="wikitable">
+<caption>Singles
+</caption>
+<tbody><tr>
+<th>Title
+</th>
+<th>Year
+</th>
+<th>Source
+</th></tr>
+<tr>
+<td>"Think Too Much"
+</td>
+<td>2023
+</td>
+<td><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"OUTTA PATIENCE"
+</td>
+<td>2021
+</td>
+<td><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"LEBRON"
+</td>
+<td>2021
+</td>
+<td><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"Go"
+</td>
+<td>2021
+</td>
+<td><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"Closer"
+</td>
+<td>2020
+</td>
+<td><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"By You"
+</td>
+<td>2019
+</td>
+<td><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"Feel Like Cole"
+</td>
+<td>2019
+</td>
+<td><sup id="cite_ref-:15_52-0" class="reference"><a href="#cite_note-:15-52">&#91;52&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"Your Girl"
+</td>
+<td>2016
+</td>
+<td><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;53&#93;</a></sup>
+</td></tr></tbody></table>
+<table class="wikitable">
+<caption>Music videos
+</caption>
+<tbody><tr>
+<th>Title
+</th>
+<th>Year
+</th>
+<th>Source
+</th></tr>
+<tr>
+<td>"Think Too Much"
+</td>
+<td>2023
+</td>
+<td><sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"LEBRON"
+</td>
+<td>2021
+</td>
+<td><sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"Go"
+</td>
+<td>2021
+</td>
+<td><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;56&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"Closer"
+</td>
+<td>2020
+</td>
+<td><sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;57&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"Feel Like Cole"
+</td>
+<td>2019
+</td>
+<td><sup id="cite_ref-:15_52-1" class="reference"><a href="#cite_note-:15-52">&#91;52&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"I Deserve That"
+</td>
+<td>2018
+</td>
+<td><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">&#91;58&#93;</a></sup>
+</td></tr></tbody></table>
+<ul><li class="mw-empty-elt"></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oompa_(rapper)&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702195244/https://www.boston.com/community/music-club/meet-rapper-oompa-to-perform-at-boston-calling/">"Meet the local rapper set to perform at Boston Calling 2022"</a>. <i>Boston.com</i>. Archived from <a rel="nofollow" class="external text" href="https://www.boston.com/community/music-club/meet-rapper-oompa-to-perform-at-boston-calling/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boston.com&amp;rft.atitle=Meet+the+local+rapper+set+to+perform+at+Boston+Calling+2022&amp;rft_id=https%3A%2F%2Fwww.boston.com%2Fcommunity%2Fmusic-club%2Fmeet-rapper-oompa-to-perform-at-boston-calling%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:16-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:16_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:16_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:16_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:16_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:16_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:16_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-:16_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-:16_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-:16_2-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGiacobbe2023" class="citation web cs1">Giacobbe, Alyssa (2023-05-25). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230713040216/https://www.bostonmagazine.com/arts-entertainment/2023/05/25/oompa-boston-rapper/">"The Many Faces of Boston Rap Star Oompa"</a>. <i>Boston Magazine</i>. Archived from <a rel="nofollow" class="external text" href="https://www.bostonmagazine.com/arts-entertainment/2023/05/25/oompa-boston-rapper/">the original</a> on 2023-07-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-07-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boston+Magazine&amp;rft.atitle=The+Many+Faces+of+Boston+Rap+Star+Oompa&amp;rft.date=2023-05-25&amp;rft.aulast=Giacobbe&amp;rft.aufirst=Alyssa&amp;rft_id=https%3A%2F%2Fwww.bostonmagazine.com%2Farts-entertainment%2F2023%2F05%2F25%2Foompa-boston-rapper%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:2-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:2_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702195409/https://www.nbcboston.com/news/local/10-questions-with-nbc10-boston/10-questions-oompa-performs-at-celtics-halftime-ahead-of-new-single-release/2950537/">"10 Questions: Oompa Performs at Celtics Halftime Ahead of New Single Release"</a>. <i>NBC Boston</i>. Archived from <a rel="nofollow" class="external text" href="https://www.nbcboston.com/news/local/10-questions-with-nbc10-boston/10-questions-oompa-performs-at-celtics-halftime-ahead-of-new-single-release/2950537/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NBC+Boston&amp;rft.atitle=10+Questions%3A+Oompa+Performs+at+Celtics+Halftime+Ahead+of+New+Single+Release&amp;rft_id=https%3A%2F%2Fwww.nbcboston.com%2Fnews%2Flocal%2F10-questions-with-nbc10-boston%2F10-questions-oompa-performs-at-celtics-halftime-ahead-of-new-single-release%2F2950537%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702195531/https://www.wbur.org/news/2019/08/06/oompa-cleo-sophomore-album">"On New Album, Oompa Defies The Tragic Story The World Wrote For Her"</a>. <i>WBUR</i>. Archived from <a rel="nofollow" class="external text" href="https://www.wbur.org/news/2019/08/06/oompa-cleo-sophomore-album">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=WBUR&amp;rft.atitle=On+New+Album%2C+Oompa+Defies+The+Tragic+Story+The+World+Wrote+For+Her&amp;rft_id=https%3A%2F%2Fwww.wbur.org%2Fnews%2F2019%2F08%2F06%2Foompa-cleo-sophomore-album&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:6-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-:6_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:6_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCORCORAN2018" class="citation web cs1">CORCORAN, NINA (27 April 2018). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702195645/https://digboston.com/oompa-the-poetic-justice-of-roxburys-most-positive-rapper/">"OOMPA: THE POETIC JUSTICE OF ROXBURY'S MOST POSITIVE RAPPER"</a>. <i>Dig Bos</i>. Archived from <a rel="nofollow" class="external text" href="https://digboston.com/oompa-the-poetic-justice-of-roxburys-most-positive-rapper/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dig+Bos&amp;rft.atitle=OOMPA%3A+THE+POETIC+JUSTICE+OF+ROXBURY%27S+MOST+POSITIVE+RAPPER&amp;rft.date=2018-04-27&amp;rft.aulast=CORCORAN&amp;rft.aufirst=NINA&amp;rft_id=https%3A%2F%2Fdigboston.com%2Foompa-the-poetic-justice-of-roxburys-most-positive-rapper%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSteinberg2018" class="citation web cs1">Steinberg, Jared (2018-08-23). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702195801/https://soundofboston.com/album-review-november-3rd-by-oompa/">"Album Review: November 3rd by Oompa"</a>. <i>Sound of Boston</i>. Archived from <a rel="nofollow" class="external text" href="https://soundofboston.com/album-review-november-3rd-by-oompa/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sound+of+Boston&amp;rft.atitle=Album+Review%3A+November+3rd+by+Oompa&amp;rft.date=2018-08-23&amp;rft.aulast=Steinberg&amp;rft.aufirst=Jared&amp;rft_id=https%3A%2F%2Fsoundofboston.com%2Falbum-review-november-3rd-by-oompa%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:5-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-:5_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:5_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:5_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBrunoKlein2019" class="citation web cs1">Bruno, Jackie; Klein, Asher (27 July 2019). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702195930/https://www.nbcboston.com/news/local/rapper-poet-oompa-represents-roxbury/62995/">"Rapper and Poet Oompa Represents Boston's Roxbury Her Way"</a>. <i>NBC Boston</i>. Archived from <a rel="nofollow" class="external text" href="https://www.nbcboston.com/news/local/rapper-poet-oompa-represents-roxbury/62995/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NBC+Boston&amp;rft.atitle=Rapper+and+Poet+Oompa+Represents+Boston%27s+Roxbury+Her+Way&amp;rft.date=2019-07-27&amp;rft.aulast=Bruno&amp;rft.aufirst=Jackie&amp;rft.au=Klein%2C+Asher&amp;rft_id=https%3A%2F%2Fwww.nbcboston.com%2Fnews%2Flocal%2Frapper-poet-oompa-represents-roxbury%2F62995%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKENNEDY2023" class="citation web cs1">KENNEDY, DAKOTAH (2023-04-06). <a rel="nofollow" class="external text" href="https://digboston.com/im-not-on-that-grammys-stage-yet-but-it-feels-one-step-closer/">"<span class="cs1-kern-left"></span>"I'm Not On That Grammys Stage Yet, But It Feels One Step Closer"<span class="cs1-kern-right"></span>"</a>. <i>Dig Bos</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2023-07-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dig+Bos&amp;rft.atitle=%22I%27m+Not+On+That+Grammys+Stage+Yet%2C+But+It+Feels+One+Step+Closer%22&amp;rft.date=2023-04-06&amp;rft.aulast=KENNEDY&amp;rft.aufirst=DAKOTAH&amp;rft_id=https%3A%2F%2Fdigboston.com%2Fim-not-on-that-grammys-stage-yet-but-it-feels-one-step-closer%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLee2022" class="citation magazine cs1">Lee, Cydney (2022-10-20). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702200045/https://www.billboard.com/pro/pepsi-boost-aspiring-music-artists-newplatform/">"Pepsi Unveils Pepsi Music Lab, a Platform to Help Aspiring Artists Grow Their Careers"</a>. <i>Billboard</i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/pro/pepsi-boost-aspiring-music-artists-newplatform/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Pepsi+Unveils+Pepsi+Music+Lab%2C+a+Platform+to+Help+Aspiring+Artists+Grow+Their+Careers&amp;rft.date=2022-10-20&amp;rft.aulast=Lee&amp;rft.aufirst=Cydney&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fpro%2Fpepsi-boost-aspiring-music-artists-newplatform%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCorrine2022" class="citation web cs1">Corrine, Amber (2022-10-20). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702200238/https://www.vibe.com/music/music-news/pepsi-music-lab-announces-class-1234703952/">"Pepsi Announces Music Lab Bootcamp For Next-Gen Music Artists"</a>. <i>VIBE</i>. Archived from <a rel="nofollow" class="external text" href="https://www.vibe.com/music/music-news/pepsi-music-lab-announces-class-1234703952/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=VIBE&amp;rft.atitle=Pepsi+Announces+Music+Lab+Bootcamp+For+Next-Gen+Music+Artists&amp;rft.date=2022-10-20&amp;rft.aulast=Corrine&amp;rft.aufirst=Amber&amp;rft_id=https%3A%2F%2Fwww.vibe.com%2Fmusic%2Fmusic-news%2Fpepsi-music-lab-announces-class-1234703952%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:7-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:7_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:7_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702200408/https://vanyaland.com/2022/10/20/boston-thriving-oompa-joins-pepsis-music-lab-class-of-22-23/">"Boston Thriving: Oompa joins Pepsi's Music Lab Class of '22–'23"</a>. <i>Vanyaland</i>. 2022-10-20. Archived from <a rel="nofollow" class="external text" href="https://vanyaland.com/2022/10/20/boston-thriving-oompa-joins-pepsis-music-lab-class-of-22-23/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vanyaland&amp;rft.atitle=Boston+Thriving%3A+Oompa+joins+Pepsi%27s+Music+Lab+Class+of+%2722%E2%80%93%2723&amp;rft.date=2022-10-20&amp;rft_id=https%3A%2F%2Fvanyaland.com%2F2022%2F10%2F20%2Fboston-thriving-oompa-joins-pepsis-music-lab-class-of-22-23%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703001530/https://www.youtube.com/watch?v=ENCF291KoCI"><i>Oompa's Celtics vs Warriors Halftime Takeover – 1/19/23</i></a>, archived from <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=ENCF291KoCI">the original</a> on 2023-07-03<span class="reference-accessdate">, retrieved <span class="nowrap">2023-01-26</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Oompa%27s+Celtics+vs+Warriors+Halftime+Takeover+%E2%80%93+1%2F19%2F23&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DENCF291KoCI&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:10-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-:10_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:10_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703011411/https://vanyaland.com/2023/01/03/brandi-carlile-oompa-and-others-to-perform-at-maura-healey-inauguration/">"Brandi Carlile, Oompa, and others to perform at Maura Healey inauguration"</a>. <i>Vanyaland</i>. 2023-01-03. Archived from <a rel="nofollow" class="external text" href="https://vanyaland.com/2023/01/03/brandi-carlile-oompa-and-others-to-perform-at-maura-healey-inauguration/">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vanyaland&amp;rft.atitle=Brandi+Carlile%2C+Oompa%2C+and+others+to+perform+at+Maura+Healey+inauguration&amp;rft.date=2023-01-03&amp;rft_id=https%3A%2F%2Fvanyaland.com%2F2023%2F01%2F03%2Fbrandi-carlile-oompa-and-others-to-perform-at-maura-healey-inauguration%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:14-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-:14_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:14_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703011708/https://www.wgbh.org/news/politics/2023/01/05/healey-driscoll-celebrate-their-historic-firsts-with-basketball-themed-garden-party">"Healey, Driscoll celebrate their historic firsts with basketball-themed 'Garden party'<span class="cs1-kern-right"></span>"</a>. <i>News</i>. 2023-01-06. Archived from <a rel="nofollow" class="external text" href="https://www.wgbh.org/news/politics/2023/01/05/healey-driscoll-celebrate-their-historic-firsts-with-basketball-themed-garden-party">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=News&amp;rft.atitle=Healey%2C+Driscoll+celebrate+their+historic+firsts+with+basketball-themed+%27Garden+party%27&amp;rft.date=2023-01-06&amp;rft_id=https%3A%2F%2Fwww.wgbh.org%2Fnews%2Fpolitics%2F2023%2F01%2F05%2Fhealey-driscoll-celebrate-their-historic-firsts-with-basketball-themed-garden-party&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://adage.com/creativity/work/beats-dre-gamifies-england-star-alessia-russos-journey-world-cup/2508626">"Beats by Dre gamifies England star Alessia Russo's journey to the World Cup"</a>. <i>Ad Age</i>. 2023-08-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-08-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ad+Age&amp;rft.atitle=Beats+by+Dre+gamifies+England+star+Alessia+Russo%27s+journey+to+the+World+Cup&amp;rft.date=2023-08-04&amp;rft_id=https%3A%2F%2Fadage.com%2Fcreativity%2Fwork%2Fbeats-dre-gamifies-england-star-alessia-russos-journey-world-cup%2F2508626&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703011938/https://bostonmusicawards.com/bma/boston-music-awards-2019/">"Boston Music Awards 2019"</a>. <i>Boston Music Awards</i>. Archived from <a rel="nofollow" class="external text" href="https://bostonmusicawards.com/bma/boston-music-awards-2019/">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boston+Music+Awards&amp;rft.atitle=Boston+Music+Awards+2019&amp;rft_id=https%3A%2F%2Fbostonmusicawards.com%2Fbma%2Fboston-music-awards-2019%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:3-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702201735/https://www.wbur.org/news/2022/12/15/2022-boston-music-awards">"Hip-hop sweeps the major categories at the 2022 Boston Music Awards"</a>. <i>WBUR</i>. Archived from <a rel="nofollow" class="external text" href="https://www.wbur.org/news/2022/12/15/2022-boston-music-awards">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=WBUR&amp;rft.atitle=Hip-hop+sweeps+the+major+categories+at+the+2022+Boston+Music+Awards&amp;rft_id=https%3A%2F%2Fwww.wbur.org%2Fnews%2F2022%2F12%2F15%2F2022-boston-music-awards&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:4-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-:4_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:4_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:4_18-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702201220/https://bostonmusicawards.com/bma/boston-music-awards-2018/">"Boston Music Awards 2018"</a>. <i>Boston Music Awards</i>. Archived from <a rel="nofollow" class="external text" href="https://bostonmusicawards.com/bma/boston-music-awards-2018/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boston+Music+Awards&amp;rft.atitle=Boston+Music+Awards+2018&amp;rft_id=https%3A%2F%2Fbostonmusicawards.com%2Fbma%2Fboston-music-awards-2018%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703013316/https://www.thecrimson.com/article/2019/10/8/artistic-integrity-isg/">"At the Gardner Museum, Jill Scott, Paloma Valenzuela, and Oompa Discuss Artistic Integrity"</a>. <i>The Harvard Crimson</i>. Archived from <a rel="nofollow" class="external text" href="https://www.thecrimson.com/article/2019/10/8/artistic-integrity-isg/">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Harvard+Crimson&amp;rft.atitle=At+the+Gardner+Museum%2C+Jill+Scott%2C+Paloma+Valenzuela%2C+and+Oompa+Discuss+Artistic+Integrity&amp;rft_id=https%3A%2F%2Fwww.thecrimson.com%2Farticle%2F2019%2F10%2F8%2Fartistic-integrity-isg%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCorley" class="citation web cs1">Corley, Michael. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703013516/https://www.wickedlocal.com/story/chronicle-transcript/2022/04/14/grammy-winning-rapper-2-chainz-perform-salem-state-university/7282621001/">"Grammy winning rapper 2 Chainz to perform at Salem State University"</a>. <i>Wicked Local</i>. Archived from <a rel="nofollow" class="external text" href="https://www.wickedlocal.com/story/chronicle-transcript/2022/04/14/grammy-winning-rapper-2-chainz-perform-salem-state-university/7282621001/">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wicked+Local&amp;rft.atitle=Grammy+winning+rapper+2+Chainz+to+perform+at+Salem+State+University&amp;rft.aulast=Corley&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fwww.wickedlocal.com%2Fstory%2Fchronicle-transcript%2F2022%2F04%2F14%2Fgrammy-winning-rapper-2-chainz-perform-salem-state-university%2F7282621001%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703034805/https://vanyaland.com/2021/09/07/watch-oompa-freestyle-with-marc-rebillet-at-royale-in-boston/">"Watch Oompa freestyle with Marc Rebillet at Royale in Boston"</a>. <i>Vanyaland</i>. 2021-09-07. Archived from <a rel="nofollow" class="external text" href="https://vanyaland.com/2021/09/07/watch-oompa-freestyle-with-marc-rebillet-at-royale-in-boston/">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vanyaland&amp;rft.atitle=Watch+Oompa+freestyle+with+Marc+Rebillet+at+Royale+in+Boston&amp;rft.date=2021-09-07&amp;rft_id=https%3A%2F%2Fvanyaland.com%2F2021%2F09%2F07%2Fwatch-oompa-freestyle-with-marc-rebillet-at-royale-in-boston%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703034653/https://www.oshoots.com/blog-2/2018/3/21/palehound-oompa-melissa-lozada-olivia-dazey-and-the-scouts">"Palehound + Oompa + Melissa Lozada-Olivia + Dazey and the Scouts"</a>. <i>Omari Spears</i>. 21 March 2018. Archived from <a rel="nofollow" class="external text" href="https://www.oshoots.com/blog-2/2018/3/21/palehound-oompa-melissa-lozada-olivia-dazey-and-the-scouts">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Omari+Spears&amp;rft.atitle=Palehound+%2B+Oompa+%2B+Melissa+Lozada-Olivia+%2B+Dazey+and+the+Scouts&amp;rft.date=2018-03-21&amp;rft_id=https%3A%2F%2Fwww.oshoots.com%2Fblog-2%2F2018%2F3%2F21%2Fpalehound-oompa-melissa-lozada-olivia-dazey-and-the-scouts&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSteinberg2018" class="citation web cs1">Steinberg, Jared (2018-08-23). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703034929/https://soundofboston.com/album-review-november-3rd-by-oompa/">"Album Review: November 3rd by Oompa"</a>. <i>Sound of Boston</i>. Archived from <a rel="nofollow" class="external text" href="https://soundofboston.com/album-review-november-3rd-by-oompa/">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sound+of+Boston&amp;rft.atitle=Album+Review%3A+November+3rd+by+Oompa&amp;rft.date=2018-08-23&amp;rft.aulast=Steinberg&amp;rft.aufirst=Jared&amp;rft_id=https%3A%2F%2Fsoundofboston.com%2Falbum-review-november-3rd-by-oompa%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:12-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-:12_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:12_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCORCORAN2016" class="citation web cs1">CORCORAN, NINA (27 December 2016). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702200748/https://digboston.com/30-best-local-albums-of-2016/">"30 BEST LOCAL ALBUMS OF 2016"</a>. <i>Dig Bos</i>. Archived from <a rel="nofollow" class="external text" href="https://digboston.com/30-best-local-albums-of-2016/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dig+Bos&amp;rft.atitle=30+BEST+LOCAL+ALBUMS+OF+2016&amp;rft.date=2016-12-27&amp;rft.aulast=CORCORAN&amp;rft.aufirst=NINA&amp;rft_id=https%3A%2F%2Fdigboston.com%2F30-best-local-albums-of-2016%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:11-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-:11_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:11_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702200909/http://allstonpudding.com/allston-puddings-favorite-albums-2016-50-21/">"Allston Pudding's Favorite Albums of 2016 &#91;50–21&#93;"</a>. <i>Allston Pudding</i>. 2016-12-19. Archived from <a rel="nofollow" class="external text" href="http://allstonpudding.com/allston-puddings-favorite-albums-2016-50-21/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Allston+Pudding&amp;rft.atitle=Allston+Pudding%27s+Favorite+Albums+of+2016+%5B50%E2%80%9321%5D&amp;rft.date=2016-12-19&amp;rft_id=http%3A%2F%2Fallstonpudding.com%2Fallston-puddings-favorite-albums-2016-50-21%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:8-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-:8_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:8_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703035056/https://daily.bandcamp.com/features/oompa-cleo-interview">"With "CLEO," Oompa Pays Tribute to a Childhood Hero"</a>. <i>Bandcamp Daily</i>. 2019-08-20. Archived from <a rel="nofollow" class="external text" href="https://daily.bandcamp.com/features/oompa-cleo-interview">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bandcamp+Daily&amp;rft.atitle=With+%22CLEO%2C%22+Oompa+Pays+Tribute+to+a+Childhood+Hero&amp;rft.date=2019-08-20&amp;rft_id=https%3A%2F%2Fdaily.bandcamp.com%2Ffeatures%2Foompa-cleo-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703035157/https://www.wbur.org/news/2019/08/06/oompa-cleo-sophomore-album">"On New Album, Oompa Defies The Tragic Story The World Wrote For Her"</a>. <i>WBUR</i>. Archived from <a rel="nofollow" class="external text" href="https://www.wbur.org/news/2019/08/06/oompa-cleo-sophomore-album">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=WBUR&amp;rft.atitle=On+New+Album%2C+Oompa+Defies+The+Tragic+Story+The+World+Wrote+For+Her&amp;rft_id=https%3A%2F%2Fwww.wbur.org%2Fnews%2F2019%2F08%2F06%2Foompa-cleo-sophomore-album&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFInfante" class="citation web cs1">Infante, Victor D. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704180952/https://www.telegram.com/story/entertainment/columns/2019/08/29/oompa-steps-up-with-captivating-cleo/4358084007/">"Oompa steps up with captivating 'Cleo'<span class="cs1-kern-right"></span>"</a>. <i>The Worcester Telegram &amp; Gazette</i>. Archived from <a rel="nofollow" class="external text" href="https://www.telegram.com/story/entertainment/columns/2019/08/29/oompa-steps-up-with-captivating-cleo/4358084007/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Worcester+Telegram+%26+Gazette&amp;rft.atitle=Oompa+steps+up+with+captivating+%27Cleo%27&amp;rft.aulast=Infante&amp;rft.aufirst=Victor+D.&amp;rft_id=https%3A%2F%2Fwww.telegram.com%2Fstory%2Fentertainment%2Fcolumns%2F2019%2F08%2F29%2Foompa-steps-up-with-captivating-cleo%2F4358084007%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSpears2019" class="citation web cs1">Spears, Omari (2019-08-14). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704180830/http://allstonpudding.com/oompa-celebrates-new-album-cleo-at-the-sinclair/">"Oompa Celebrates New Album "Cleo" at The Sinclair"</a>. <i>Allston Pudding</i>. Archived from <a rel="nofollow" class="external text" href="http://allstonpudding.com/oompa-celebrates-new-album-cleo-at-the-sinclair/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Allston+Pudding&amp;rft.atitle=Oompa+Celebrates+New+Album+%22Cleo%22+at+The+Sinclair&amp;rft.date=2019-08-14&amp;rft.aulast=Spears&amp;rft.aufirst=Omari&amp;rft_id=http%3A%2F%2Fallstonpudding.com%2Foompa-celebrates-new-album-cleo-at-the-sinclair%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:13-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-:13_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:13_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702201623/https://www.npr.org/2020/01/08/793450920/2020-slingshot-artists-to-watch">"2020 Slingshot Artists To Watch"</a>. <i>NPR Music</i>. Archived from <a rel="nofollow" class="external text" href="https://www.npr.org/2020/01/08/793450920/2020-slingshot-artists-to-watch">the original</a> on 2023-07-02.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NPR+Music&amp;rft.atitle=2020+Slingshot+Artists+To+Watch&amp;rft_id=https%3A%2F%2Fwww.npr.org%2F2020%2F01%2F08%2F793450920%2F2020-slingshot-artists-to-watch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:9-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-:9_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:9_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFInfante" class="citation web cs1">Infante, Victor D. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704180029/https://www.worcestermag.com/story/entertainment/2021/10/06/listen-up-boston-rapper-oompa-takes-listeners-personal-journey-unbothered/5984319001/">"Listen Up: Oompa takes listeners on personal journey with 'Unbothered'<span class="cs1-kern-right"></span>"</a>. <i>Worcester Magazine</i>. Archived from <a rel="nofollow" class="external text" href="https://www.worcestermag.com/story/entertainment/2021/10/06/listen-up-boston-rapper-oompa-takes-listeners-personal-journey-unbothered/5984319001/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Worcester+Magazine&amp;rft.atitle=Listen+Up%3A+Oompa+takes+listeners+on+personal+journey+with+%27Unbothered%27&amp;rft.aulast=Infante&amp;rft.aufirst=Victor+D.&amp;rft_id=https%3A%2F%2Fwww.worcestermag.com%2Fstory%2Fentertainment%2F2021%2F10%2F06%2Flisten-up-boston-rapper-oompa-takes-listeners-personal-journey-unbothered%2F5984319001%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704180648/https://www.thecrimson.com/article/2021/10/26/unbothered-oompa-review/">"Album Review: Oompa's "Unbothered" Builds a Legacy of Joy | Arts | The Harvard Crimson"</a>. <i>www.thecrimson.com</i>. Archived from <a rel="nofollow" class="external text" href="https://www.thecrimson.com/article/2021/10/26/unbothered-oompa-review/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.thecrimson.com&amp;rft.atitle=Album+Review%3A+Oompa%27s+%22Unbothered%22+Builds+a+Legacy+of+Joy+%7C+Arts+%7C+The+Harvard+Crimson&amp;rft_id=https%3A%2F%2Fwww.thecrimson.com%2Farticle%2F2021%2F10%2F26%2Funbothered-oompa-review%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704180524/https://vanyaland.com/2021/10/01/interview-oompas-new-album-unbothered-plays-like-a-promise/">"Interview: Oompa's new album 'Unbothered' plays like a promise"</a>. <i>Vanyaland</i>. 2021-10-01. Archived from <a rel="nofollow" class="external text" href="https://vanyaland.com/2021/10/01/interview-oompas-new-album-unbothered-plays-like-a-promise/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vanyaland&amp;rft.atitle=Interview%3A+Oompa%27s+new+album+%27Unbothered%27+plays+like+a+promise&amp;rft.date=2021-10-01&amp;rft_id=https%3A%2F%2Fvanyaland.com%2F2021%2F10%2F01%2Finterview-oompas-new-album-unbothered-plays-like-a-promise%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBarrott2021" class="citation web cs1">Barrott, Jenna (2021-10-19). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704180409/https://galoremag.com/oompas-new-album-unbothered-unfurls-a-journey-of-self-discovery-and-youre-invited-for-the-ride/">"Oompa's New Album "UNBOTHERED" Unfurls a Journey of Self Discovery – And You're Invited For The Ride"</a>. <i>Galore</i>. Archived from <a rel="nofollow" class="external text" href="https://galoremag.com/oompas-new-album-unbothered-unfurls-a-journey-of-self-discovery-and-youre-invited-for-the-ride/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Galore&amp;rft.atitle=Oompa%27s+New+Album+%22UNBOTHERED%22+Unfurls+a+Journey+of+Self+Discovery+%E2%80%93+And+You%27re+Invited+For+The+Ride&amp;rft.date=2021-10-19&amp;rft.aulast=Barrott&amp;rft.aufirst=Jenna&amp;rft_id=https%3A%2F%2Fgaloremag.com%2Foompas-new-album-unbothered-unfurls-a-journey-of-self-discovery-and-youre-invited-for-the-ride%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHoang2021" class="citation web cs1">Hoang, Anh (2021-10-05). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704180309/https://www.the360mag.com/oompa-unbothered/">"OOMPA – UNBOTHERED"</a>. <i>360 MAGAZINE – GREEN | ART | MUSIC | DESIGN</i>. Archived from <a rel="nofollow" class="external text" href="https://www.the360mag.com/oompa-unbothered/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=360+MAGAZINE+%E2%80%93+GREEN+%7C+ART+%7C+MUSIC+%7C+DESIGN&amp;rft.atitle=OOMPA+%E2%80%93+UNBOTHERED&amp;rft.date=2021-10-05&amp;rft.aulast=Hoang&amp;rft.aufirst=Anh&amp;rft_id=https%3A%2F%2Fwww.the360mag.com%2Foompa-unbothered%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704180158/https://www.okayplayer.com/music/best-new-albums-october-1.html,%20https://www.okayplayer.com/music/best-new-albums-october-1.html">"15 New Hip-Hop &amp; R&amp;B Albums You Should Be Listening To (Week of October 1) – Okayplayer"</a>. <i>www.okayplayer.com</i>. 2021-10-01. Archived from <a rel="nofollow" class="external text" href="https://www.okayplayer.com/music/best-new-albums-october-1.html,%20https://www.okayplayer.com/music/best-new-albums-october-1.html">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.okayplayer.com&amp;rft.atitle=15+New+Hip-Hop+%26+R%26B+Albums+You+Should+Be+Listening+To+%28Week+of+October+1%29+%E2%80%93+Okayplayer&amp;rft.date=2021-10-01&amp;rft_id=https%3A%2F%2Fwww.okayplayer.com%2Fmusic%2Fbest-new-albums-october-1.html%2C%2520https%3A%2F%2Fwww.okayplayer.com%2Fmusic%2Fbest-new-albums-october-1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703032818/https://www.wgbh.org/arts-culture/2020/12/01/all-we-need-to-do-is-ask-how-the-record-co-redefines-what-it-means-to-serve-a-community">"<span class="cs1-kern-left"></span>'All We Need To Do Is Ask' — How The Record Co. Redefines What It Means To Serve A Community"</a>. <i>Org</i>. 2020-12-01. Archived from <a rel="nofollow" class="external text" href="https://www.wgbh.org/arts-culture/2020/12/01/all-we-need-to-do-is-ask-how-the-record-co-redefines-what-it-means-to-serve-a-community">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Org&amp;rft.atitle=%27All+We+Need+To+Do+Is+Ask%27+%E2%80%94+How+The+Record+Co.+Redefines+What+It+Means+To+Serve+A+Community&amp;rft.date=2020-12-01&amp;rft_id=https%3A%2F%2Fwww.wgbh.org%2Farts-culture%2F2020%2F12%2F01%2Fall-we-need-to-do-is-ask-how-the-record-co-redefines-what-it-means-to-serve-a-community&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703032957/https://www.somervillema.gov/news/%25E2%2580%2598black-brown-queer-fest%25E2%2580%2599-union-square-august-24">"<span class="cs1-kern-left"></span>'Black, Brown &amp; Queer Fest' in Union Square on August 24"</a>. <i>City of Somerville</i>. Archived from <a rel="nofollow" class="external text" href="https://www.somervillema.gov/news/%25E2%2580%2598black-brown-queer-fest%25E2%2580%2599-union-square-august-24">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=City+of+Somerville&amp;rft.atitle=%27Black%2C+Brown+%26+Queer+Fest%27+in+Union+Square+on+August+24&amp;rft_id=https%3A%2F%2Fwww.somervillema.gov%2Fnews%2F%2525E2%252580%252598black-brown-queer-fest%2525E2%252580%252599-union-square-august-24&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703033107/https://thegumbo.net/blog/2018/10/15/inherent-exclusion-on-loving-hip-hop-as-a-black-queer-woman">"Inherent Exclusion: On Loving Hip-Hop As A Black Queer Woman"</a>. <i>The Gumbo</i>. 15 October 2018. Archived from <a rel="nofollow" class="external text" href="https://thegumbo.net/blog/2018/10/15/inherent-exclusion-on-loving-hip-hop-as-a-black-queer-woman">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Gumbo&amp;rft.atitle=Inherent+Exclusion%3A+On+Loving+Hip-Hop+As+A+Black+Queer+Woman&amp;rft.date=2018-10-15&amp;rft_id=https%3A%2F%2Fthegumbo.net%2Fblog%2F2018%2F10%2F15%2Finherent-exclusion-on-loving-hip-hop-as-a-black-queer-woman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702201959/https://www.boston.gov/news/500000-awarded-workforce-development-contracts-artists-and-creative-workers">"$500,000 Awarded in Workforce Development Contracts for Artists and Creative Workers"</a>. <i>Boston.gov</i>. 2022-06-30. Archived from <a rel="nofollow" class="external text" href="https://www.boston.gov/news/500000-awarded-workforce-development-contracts-artists-and-creative-workers">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boston.gov&amp;rft.atitle=%24500%2C000+Awarded+in+Workforce+Development+Contracts+for+Artists+and+Creative+Workers&amp;rft.date=2022-06-30&amp;rft_id=https%3A%2F%2Fwww.boston.gov%2Fnews%2F500000-awarded-workforce-development-contracts-artists-and-creative-workers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702201845/https://www.cambridgema.gov/en/arts/News/2022/03/%24117,856forlocalculturalcouncilgrantsto31cambridgeprojects">"$117,856 for Local Cultural Council Grants to 31 Cambridge Projects"</a>. <i>City of Cambridge</i>. Archived from <a rel="nofollow" class="external text" href="https://www.cambridgema.gov/en/arts/News/2022/03/$117,856forlocalculturalcouncilgrantsto31cambridgeprojects">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=City+of+Cambridge&amp;rft.atitle=%24117%2C856+for+Local+Cultural+Council+Grants+to+31+Cambridge+Projects&amp;rft_id=https%3A%2F%2Fwww.cambridgema.gov%2Fen%2Farts%2FNews%2F2022%2F03%2F%24117%2C856forlocalculturalcouncilgrantsto31cambridgeprojects&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702201513/https://bostonmusicawards.com/bma/boston-music-awards-2019/">"Boston Music Awards 2019"</a>. <i>Boston Music Awards</i>. Archived from <a rel="nofollow" class="external text" href="https://bostonmusicawards.com/bma/boston-music-awards-2019/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boston+Music+Awards&amp;rft.atitle=Boston+Music+Awards+2019&amp;rft_id=https%3A%2F%2Fbostonmusicawards.com%2Fbma%2Fboston-music-awards-2019%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702201328/https://www.tbf.org/news-and-insights/press-releases/2019/october/2019-brother-thomas-announcement">"Twelve Greater Boston artists named Brother Thomas Fellows for 2019"</a>. <i>The Boston Foundation</i>. Archived from <a rel="nofollow" class="external text" href="https://www.tbf.org/news-and-insights/press-releases/2019/october/2019-brother-thomas-announcement">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Boston+Foundation&amp;rft.atitle=Twelve+Greater+Boston+artists+named+Brother+Thomas+Fellows+for+2019&amp;rft_id=https%3A%2F%2Fwww.tbf.org%2Fnews-and-insights%2Fpress-releases%2F2019%2Foctober%2F2019-brother-thomas-announcement&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702201057/https://www.passim.org/mission/iguana-music-fund/">"Iguana Music Fund"</a>. <i>Passim</i>. Archived from <a rel="nofollow" class="external text" href="https://www.passim.org/mission/iguana-music-fund/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Passim&amp;rft.atitle=Iguana+Music+Fund&amp;rft_id=https%3A%2F%2Fwww.passim.org%2Fmission%2Figuana-music-fund%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGagnon2016" class="citation web cs1">Gagnon, Tim (2016-11-04). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704175856/http://allstonpudding.com/premiere-oompas-november-3rd/">"PREMIERE: Oompa's "November 3rd"<span class="cs1-kern-right"></span>"</a>. <i>Allston Pudding</i>. Archived from <a rel="nofollow" class="external text" href="http://allstonpudding.com/premiere-oompas-november-3rd/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Allston+Pudding&amp;rft.atitle=PREMIERE%3A+Oompa%27s+%22November+3rd%22&amp;rft.date=2016-11-04&amp;rft.aulast=Gagnon&amp;rft.aufirst=Tim&amp;rft_id=http%3A%2F%2Fallstonpudding.com%2Fpremiere-oompas-november-3rd%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704175733/https://vanyaland.com/2023/02/03/oompa-swears-she-wont-think-too-much-anymore/">"Oompa swears she won't 'think too much' anymore"</a>. <i>Vanyaland</i>. 2023-02-03. Archived from <a rel="nofollow" class="external text" href="https://vanyaland.com/2023/02/03/oompa-swears-she-wont-think-too-much-anymore/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vanyaland&amp;rft.atitle=Oompa+swears+she+won%27t+%27think+too+much%27+anymore&amp;rft.date=2023-02-03&amp;rft_id=https%3A%2F%2Fvanyaland.com%2F2023%2F02%2F03%2Foompa-swears-she-wont-think-too-much-anymore%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMonique2021" class="citation news cs1">Monique, Keish (2021-09-17). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704175632/https://hypeofflife.com/blog/oompa-outta-patience">"PREMIERE – Oompa Is Running "OUTTA PATIENCE", But Kicks It With Us (Interview)&#160;» Hype Off Life"</a>. <i>Hype Off Life</i>. Archived from <a rel="nofollow" class="external text" href="https://hypeofflife.com/oompa-outta-patience/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hype+Off+Life&amp;rft.atitle=PREMIERE+%E2%80%93+Oompa+Is+Running+%22OUTTA+PATIENCE%22%2C+But+Kicks+It+With+Us+%28Interview%29+%C2%BB+Hype+Off+Life&amp;rft.date=2021-09-17&amp;rft.aulast=Monique&amp;rft.aufirst=Keish&amp;rft_id=https%3A%2F%2Fhypeofflife.com%2Foompa-outta-patience%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704175506/https://www.audiofemme.com/premiere-oompa-lebron/">"PREMIERE: Oompa Celebrates "Feeling Like a Bad Bitch" With "Lebron"<span class="cs1-kern-right"></span>"</a>. <i>Audiofemme</i>. 2021-08-12. Archived from <a rel="nofollow" class="external text" href="https://www.audiofemme.com/premiere-oompa-lebron/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Audiofemme&amp;rft.atitle=PREMIERE%3A+Oompa+Celebrates+%22Feeling+Like+a+Bad+Bitch%22+With+%22Lebron%22&amp;rft.date=2021-08-12&amp;rft_id=https%3A%2F%2Fwww.audiofemme.com%2Fpremiere-oompa-lebron%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704175356/https://vanyaland.com/2021/07/09/oompa-zips-through-sticky-sweet-rb-with-dan-decristofaro-on-go/">"Oompa zips through sticky-sweet R&amp;B with Dan DeCristofaro on 'Go'<span class="cs1-kern-right"></span>"</a>. <i>Vanyaland</i>. 2021-07-09. Archived from <a rel="nofollow" class="external text" href="https://vanyaland.com/2021/07/09/oompa-zips-through-sticky-sweet-rb-with-dan-decristofaro-on-go/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vanyaland&amp;rft.atitle=Oompa+zips+through+sticky-sweet+R%26B+with+Dan+DeCristofaro+on+%27Go%27&amp;rft.date=2021-07-09&amp;rft_id=https%3A%2F%2Fvanyaland.com%2F2021%2F07%2F09%2Foompa-zips-through-sticky-sweet-rb-with-dan-decristofaro-on-go%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230704175231/https://vanyaland.com/2017/11/07/photo-gallery-dresden-dolls-live-paradise-rock-club-in-boston/embed/">"Oompa summons cleansing relief with new single 'Closer'<span class="cs1-kern-right"></span>"</a>. <i>Vanyaland</i>. 2020-11-09. Archived from <a rel="nofollow" class="external text" href="https://vanyaland.com/2020/11/09/oompa-summons-cleansing-relief-with-new-single-closer/">the original</a> on 2023-07-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vanyaland&amp;rft.atitle=Oompa+summons+cleansing+relief+with+new+single+%27Closer%27&amp;rft.date=2020-11-09&amp;rft_id=https%3A%2F%2Fvanyaland.com%2F2020%2F11%2F09%2Foompa-summons-cleansing-relief-with-new-single-closer%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230703031810/https://www.wbur.org/news/2019/07/24/oompa-cleo-premiere">"Listen To Oompa Go To Therapy On Her New Track, 'By You'<span class="cs1-kern-right"></span>"</a>. <i>WBUR</i>. Archived from <a rel="nofollow" class="external text" href="https://www.wbur.org/news/2019/07/24/oompa-cleo-premiere">the original</a> on 2023-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=WBUR&amp;rft.atitle=Listen+To+Oompa+Go+To+Therapy+On+Her+New+Track%2C+%27By+You%27&amp;rft_id=https%3A%2F%2Fwww.wbur.org%2Fnews%2F2019%2F07%2F24%2Foompa-cleo-premiere&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:15-52"><span class="mw-cite-backlink">^ <a href="#cite_ref-:15_52-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:15_52-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFInfante" class="citation web cs1">Infante, Victor D. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702214809/https://www.telegram.com/story/entertainment/columns/2019/07/20/song-to-get-you-through-week-oompa-delivers-layered-defiant-feel-like-cole/4614366007/">"Oompa delivers layered, defiant 'Feel Like Cole'<span class="cs1-kern-right"></span>"</a>. <i>The Worcester Telegram &amp; Gazette</i>. Archived from <a rel="nofollow" class="external text" href="https://www.telegram.com/story/entertainment/columns/2019/07/20/song-to-get-you-through-week-oompa-delivers-layered-defiant-feel-like-cole/4614366007/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Worcester+Telegram+%26+Gazette&amp;rft.atitle=Oompa+delivers+layered%2C+defiant+%27Feel+Like+Cole%27&amp;rft.aulast=Infante&amp;rft.aufirst=Victor+D.&amp;rft_id=https%3A%2F%2Fwww.telegram.com%2Fstory%2Fentertainment%2Fcolumns%2F2019%2F07%2F20%2Fsong-to-get-you-through-week-oompa-delivers-layered-defiant-feel-like-cole%2F4614366007%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFInfante" class="citation web cs1">Infante, Victor D. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702234939/https://www.telegram.com/story/entertainment/2016/11/19/bostons-oompa-puts-spin-on-rampb-with-your-girl/24511034007/">"Boston's Oompa puts spin on R&amp;B with 'Your Girl'<span class="cs1-kern-right"></span>"</a>. <i>The Worcester Telegram &amp; Gazette</i>. Archived from <a rel="nofollow" class="external text" href="https://www.telegram.com/story/entertainment/2016/11/19/bostons-oompa-puts-spin-on-rampb-with-your-girl/24511034007/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Worcester+Telegram+%26+Gazette&amp;rft.atitle=Boston%27s+Oompa+puts+spin+on+R%26B+with+%27Your+Girl%27&amp;rft.aulast=Infante&amp;rft.aufirst=Victor+D.&amp;rft_id=https%3A%2F%2Fwww.telegram.com%2Fstory%2Fentertainment%2F2016%2F11%2F19%2Fbostons-oompa-puts-spin-on-rampb-with-your-girl%2F24511034007%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702215519/https://miixtapechiick.com/oompa-opens-up-on-think-too-much/">"Oompa Opens Up on "Think Too Much"<span class="cs1-kern-right"></span>"</a>. 2023-02-04. Archived from <a rel="nofollow" class="external text" href="https://miixtapechiick.com/oompa-opens-up-on-think-too-much/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Oompa+Opens+Up+on+%22Think+Too+Much%22&amp;rft.date=2023-02-04&amp;rft_id=https%3A%2F%2Fmiixtapechiick.com%2Foompa-opens-up-on-think-too-much%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702215413/https://www.audiofemme.com/premiere-oompa-lebron/">"PREMIERE: Oompa Celebrates "Feeling Like a Bad Bitch" With "Lebron"<span class="cs1-kern-right"></span>"</a>. <i>Audiofemme</i>. 2021-08-12. Archived from <a rel="nofollow" class="external text" href="https://www.audiofemme.com/premiere-oompa-lebron/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Audiofemme&amp;rft.atitle=PREMIERE%3A+Oompa+Celebrates+%22Feeling+Like+a+Bad+Bitch%22+With+%22Lebron%22&amp;rft.date=2021-08-12&amp;rft_id=https%3A%2F%2Fwww.audiofemme.com%2Fpremiere-oompa-lebron%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702215304/https://www.wearesensei.com/music/7/16/21/oompa-go-ft-dan-decristofaro">"Oompa – 'GO' ft. Dan DeCristofaro (OMV)"</a>. <i>Sensei</i>. 16 July 2021. Archived from <a rel="nofollow" class="external text" href="https://www.wearesensei.com/music/7/16/21/oompa-go-ft-dan-decristofaro">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sensei&amp;rft.atitle=Oompa+%E2%80%93+%27GO%27+ft.+Dan+DeCristofaro+%28OMV%29&amp;rft.date=2021-07-16&amp;rft_id=https%3A%2F%2Fwww.wearesensei.com%2Fmusic%2F7%2F16%2F21%2Foompa-go-ft-dan-decristofaro&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702214958/https://vanyaland.com/2020/11/09/oompa-summons-cleansing-relief-with-new-single-closer/">"Oompa summons cleansing relief with new single 'Closer'<span class="cs1-kern-right"></span>"</a>. <i>Vanyaland</i>. 2020-11-09. Archived from <a rel="nofollow" class="external text" href="https://vanyaland.com/2020/11/09/oompa-summons-cleansing-relief-with-new-single-closer/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vanyaland&amp;rft.atitle=Oompa+summons+cleansing+relief+with+new+single+%27Closer%27&amp;rft.date=2020-11-09&amp;rft_id=https%3A%2F%2Fvanyaland.com%2F2020%2F11%2F09%2Foompa-summons-cleansing-relief-with-new-single-closer%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20230702214656/https://vanyaland.com/2018/07/02/oompa-teaches-the-value-of-taking-up-space-in-i-deserve-that/">"Oompa teaches the value of taking up space in 'I Deserve That'<span class="cs1-kern-right"></span>"</a>. <i>Vanyaland</i>. 2018-07-02. Archived from <a rel="nofollow" class="external text" href="https://vanyaland.com/2018/07/02/oompa-teaches-the-value-of-taking-up-space-in-i-deserve-that/">the original</a> on 2023-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vanyaland&amp;rft.atitle=Oompa+teaches+the+value+of+taking+up+space+in+%27I+Deserve+That%27&amp;rft.date=2018-07-02&amp;rft_id=https%3A%2F%2Fvanyaland.com%2F2018%2F07%2F02%2Foompa-teaches-the-value-of-taking-up-space-in-i-deserve-that%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOompa+%28rapper%29" class="Z3988"></span></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw2327
+Cached time: 20230920044941
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.553 seconds
+Real time usage: 0.622 seconds
+Preprocessor visited node count: 3472/1000000
+Post‐expand include size: 119486/2097152 bytes
+Template argument size: 1456/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 178697/5000000 bytes
+Lua time usage: 0.372/10.000 seconds
+Lua memory usage: 8416723/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  570.602      1 -total
+ 49.06%  279.915     54 Template:Cite_web
+ 23.83%  135.970      1 Template:Infobox_musical_artist
+ 21.06%  120.177      1 Template:Infobox
+ 10.95%   62.473      2 Template:Short_description
+  7.31%   41.686      2 Template:Br_separated_entries
+  6.57%   37.474      1 Template:Hlist
+  5.82%   33.183      1 Template:Birth_date_and_age
+  5.73%   32.723      4 Template:Pagetype
+  2.79%   15.925      9 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:72850505-0!canonical and timestamp 20230920044940 and revision id 1172865575. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Oompa_(rapper)&amp;oldid=1172865575">https://en.wikipedia.org/w/index.php?title=Oompa_(rapper)&amp;oldid=1172865575</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:American_lesbian_musicians" title="Category:American lesbian musicians">American lesbian musicians</a></li><li><a href="/wiki/Category:LGBT_rappers" title="Category:LGBT rappers">LGBT rappers</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_women_musicians" title="Category:21st-century American women musicians">21st-century American women musicians</a></li><li><a href="/wiki/Category:American_women_hip_hop_musicians" title="Category:American women hip hop musicians">American women hip hop musicians</a></li><li><a href="/wiki/Category:African-American_women_rappers" title="Category:African-American women rappers">African-American women rappers</a></li><li><a href="/wiki/Category:American_women_rappers" title="Category:American women rappers">American women rappers</a></li><li><a href="/wiki/Category:21st-century_American_LGBT_people" title="Category:21st-century American LGBT people">21st-century American LGBT people</a></li><li><a href="/wiki/Category:21st-century_American_writers" title="Category:21st-century American writers">21st-century American writers</a></li><li><a href="/wiki/Category:LGBT_hip_hop_musicians" title="Category:LGBT hip hop musicians">LGBT hip hop musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li><li><a href="/wiki/Category:Songwriters_from_Massachusetts" title="Category:Songwriters from Massachusetts">Songwriters from Massachusetts</a></li><li><a href="/wiki/Category:Rappers_from_Boston" title="Category:Rappers from Boston">Rappers from Boston</a></li><li><a href="/wiki/Category:African-American_feminists" title="Category:African-American feminists">African-American feminists</a></li><li><a href="/wiki/Category:21st-century_African-American_writers" title="Category:21st-century African-American writers">21st-century African-American writers</a></li><li><a href="/wiki/Category:21st-century_American_women_writers" title="Category:21st-century American women writers">21st-century American women writers</a></li><li><a href="/wiki/Category:21st-century_African-American_women_writers" title="Category:21st-century African-American women writers">21st-century African-American women writers</a></li><li><a href="/wiki/Category:American_feminist_writers" title="Category:American feminist writers">American feminist writers</a></li><li><a href="/wiki/Category:Feminist_theorists" title="Category:Feminist theorists">Feminist theorists</a></li><li><a href="/wiki/Category:LGBT_African_Americans" title="Category:LGBT African Americans">LGBT African Americans</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:1991_births" title="Category:1991 births">1991 births</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Date_of_birth_not_in_Wikidata" title="Category:Date of birth not in Wikidata">Date of birth not in Wikidata</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 29 August 2023, at 20:31<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Oompa_(rapper)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2369","wgBackendResponseTime":122,"wgPageParseReport":{"limitreport":{"cputime":"0.553","walltime":"0.622","ppvisitednodes":{"value":3472,"limit":1000000},"postexpandincludesize":{"value":119486,"limit":2097152},"templateargumentsize":{"value":1456,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":178697,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  570.602      1 -total"," 49.06%  279.915     54 Template:Cite_web"," 23.83%  135.970      1 Template:Infobox_musical_artist"," 21.06%  120.177      1 Template:Infobox"," 10.95%   62.473      2 Template:Short_description","  7.31%   41.686      2 Template:Br_separated_entries","  6.57%   37.474      1 Template:Hlist","  5.82%   33.183      1 Template:Birth_date_and_age","  5.73%   32.723      4 Template:Pagetype","  2.79%   15.925      9 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.372","limit":"10.000"},"limitreport-memusage":{"value":8416723,"limit":52428800}},"cachereport":{"origin":"mw2327","timestamp":"20230920044941","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Oompa (rapper)","url":"https:\/\/en.wikipedia.org\/wiki\/Oompa_(rapper)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q119241933","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q119241933","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2023-01-25T23:47:19Z","dateModified":"2023-08-29T20:31:27Z","headline":"American rapper, poet, and vocalist"}</script>
+</body>
+</html>

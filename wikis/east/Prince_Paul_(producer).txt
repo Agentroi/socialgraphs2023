@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Prince Paul (producer) - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"2069eb06-0729-4316-a2d0-bfc4edeb75fe","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Prince_Paul_(producer)","wgTitle":"Prince Paul (producer)","wgCurRevisionId":1174351538,"wgRevisionId":1174351538,"wgArticleId":23307,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2017","Articles with permanently dead external links","Articles with short description","Short description is different from Wikidata","Use mdy dates from October 2015","BLP articles lacking sources from February 2011","All BLP articles lacking sources","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from July 2023","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with BNF identifiers",
+"Articles with BNFdata identifiers","Articles with GND identifiers","Articles with KANTO identifiers","Articles with LCCN identifiers","Articles with NKC identifiers","Articles with Grammy identifiers","Articles with MusicBrainz identifiers","Articles with SUDOC identifiers","Place of birth missing (living people)","1967 births","African-American male rappers","American male rappers","African-American record producers","American hip hop DJs","American hip hop record producers","East Coast hip hop musicians","Five percenters","Grammy Award winners","Gravediggaz members","Horrorcore artists","Living people","People from Amityville, New York","Rappers from New York (state)","Tommy Boy Records artists","Stetsasonic members","21st-century American rappers","Record producers from New York (state)","21st-century American male musicians","Dino 5 members"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Prince_Paul_(producer)",
+"wgRelevantArticleId":23307,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q34269","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,
+"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips",
+"ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dj_prince_paul-mika.jpg/1200px-Dj_prince_paul-mika.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="800">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dj_prince_paul-mika.jpg/800px-Dj_prince_paul-mika.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="533">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dj_prince_paul-mika.jpg/640px-Dj_prince_paul-mika.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="427">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Prince Paul (producer) - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Prince_Paul_(producer)">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Prince_Paul_(producer)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Prince_Paul_producer rootpage-Prince_Paul_producer skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Prince+Paul+%28producer%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Prince+Paul+%28producer%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Prince+Paul+%28producer%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Prince+Paul+%28producer%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Life_and_career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Life_and_career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Life and career</div>
+		</a>
+		
+			<button aria-controls="toc-Life_and_career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Life and career subsection</span>
+			</button>
+		
+		<ul id="toc-Life_and_career-sublist" class="vector-toc-list">
+			<li id="toc-Early_life"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Early_life">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Early life</div>
+			</a>
+			
+			<ul id="toc-Early_life-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1980s_and_1990s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1980s_and_1990s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>1980s and 1990s</div>
+			</a>
+			
+			<ul id="toc-1980s_and_1990s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-21st_century"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#21st_century">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>21st century</div>
+			</a>
+			
+			<ul id="toc-21st_century-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Equipment"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Equipment">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Equipment</div>
+		</a>
+		
+		<ul id="toc-Equipment-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Record_collection"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Record_collection">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Record collection</div>
+		</a>
+		
+		<ul id="toc-Record_collection-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Style_and_influences"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Style_and_influences">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Style and influences</div>
+		</a>
+		
+		<ul id="toc-Style_and_influences-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Influence"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Influence">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Influence</div>
+		</a>
+		
+		<ul id="toc-Influence-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Solo_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Solo_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.1</span>Solo albums</div>
+			</a>
+			
+			<ul id="toc-Solo_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Collaborative_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Collaborative_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.2</span>Collaborative albums</div>
+			</a>
+			
+			<ul id="toc-Collaborative_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Awards_and_nominations"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards_and_nominations">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Awards and nominations</div>
+		</a>
+		
+		<ul id="toc-Awards_and_nominations-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Prince Paul (producer)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 10 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-10" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">10 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%86%D8%B3_%D8%A8%D8%A7%D9%88%D9%84" title="برنس باول – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%A8%D8%B1%D9%86%D8%B3_%D8%A8%D8%A7%D9%88%D9%84" title="برنس باول – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Prince_Paul" title="Prince Paul – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Prince_Paul" title="Prince Paul – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/Prince_Paul" title="Prince Paul – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Prince_Paul" title="Prince Paul – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Prince_Paul" title="Prince Paul – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Prince_Paul_(mtayarishaji)" title="Prince Paul (mtayarishaji) – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A8%D8%B1%D9%86%D8%B3_%D9%BE%D9%88%D9%84" title="برنس پول – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Prince_Paul" title="Prince Paul – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q34269#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Prince_Paul_(producer)" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Prince_Paul_(producer)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Prince_Paul_(producer)"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Prince_Paul_(producer)"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Prince_Paul_(producer)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Prince_Paul_(producer)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Prince_Paul_(producer)&amp;oldid=1174351538" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Prince_Paul_%28producer%29&amp;id=1174351538&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q34269" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Prince_Paul_%28producer%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Prince_Paul_(producer)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:DJ_Prince_Paul" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American record producer and DJ</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">"Paul Huston" redirects here. For the basketball player, see <a href="/wiki/Paul_Huston_(basketball)" title="Paul Huston (basketball)">Paul Huston (basketball)</a>. For the chemistry professor, see <a href="/wiki/Paul_Houston" title="Paul Houston">Paul Houston</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-BLP_sources plainlinks metadata ambox ambox-content ambox-BLP_sources" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><div class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biography of a living person</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help by adding <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable sources</a>. <a href="/wiki/Wikipedia:BLPREMOVE" class="mw-redirect" title="Wikipedia:BLPREMOVE">Contentious material</a> about living persons that is unsourced or <a href="/wiki/Wikipedia:QUESTIONABLE" class="mw-redirect" title="Wikipedia:QUESTIONABLE">poorly sourced</a> <b>must be removed immediately</b> from the article and its talk page, especially if potentially <a href="/wiki/Wikipedia:Libel" title="Wikipedia:Libel">libelous</a>.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?as_eq=wikipedia&amp;q=%22Prince+Paul%22+producer">"Prince Paul"&#160;producer</a>&#160;–&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?tbm=nws&amp;q=%22Prince+Paul%22+producer+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?&amp;q=%22Prince+Paul%22+producer&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?tbs=bks:1&amp;q=%22Prince+Paul%22+producer+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://scholar.google.com/scholar?q=%22Prince+Paul%22+producer">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Prince+Paul%22+producer&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">February 2011</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="fn">Prince Paul</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Dj_prince_paul-mika.jpg" class="mw-file-description" title="Prince Paul in 2000"><img alt="Prince Paul in 2000" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dj_prince_paul-mika.jpg/220px-Dj_prince_paul-mika.jpg" decoding="async" width="220" height="147" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dj_prince_paul-mika.jpg/330px-Dj_prince_paul-mika.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dj_prince_paul-mika.jpg/440px-Dj_prince_paul-mika.jpg 2x" data-file-width="1355" data-file-height="903" /></a></span><div class="infobox-caption">Prince Paul in 2000</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Paul Edward Huston</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>The Undertaker</li><li>Chest Rockwell</li><li>Dr. Strange</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1967-04-02</span>) </span>April 2, 1967<span class="noprint ForceAgeToShow"> (age&#160;56)</span></td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Amityville,_New_York" title="Amityville, New York">Amityville, New York</a>, <a href="/wiki/United_States" title="United States">United States</a></td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li><li><a href="/wiki/Contemporary_R%26B" title="Contemporary R&amp;B">R&amp;B</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Record_producer" title="Record producer">Record producer</a></li><li><a href="/wiki/Disc_jockey" title="Disc jockey">DJ</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Discography</th><td class="infobox-data"><a href="/wiki/Prince_Paul_production_discography" title="Prince Paul production discography">Prince Paul production discography</a></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1984–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><a href="/wiki/Tommy_Boy_Records" title="Tommy Boy Records">Tommy Boy</a>/<a href="/wiki/Warner_Bros._Records" class="mw-redirect" title="Warner Bros. Records">Warner Bros. Records</a>, <a href="/wiki/Elektra_Records" title="Elektra Records">Elektra Records</a><br /><a href="/w/index.php?title=WordSound_Records&amp;action=edit&amp;redlink=1" class="new" title="WordSound Records (page does not exist)">WordSound Records</a><br /><a href="/wiki/Razor_and_Tie_Records" class="mw-redirect" title="Razor and Tie Records">Razor and Tie Records</a></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Paul Edward Huston</b> (born April 2, 1967<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>), better known by his <a href="/wiki/Stage_name" title="Stage name">stage name</a> <b>Prince Paul</b>, is an American <a href="/wiki/Record_producer" title="Record producer">record producer</a>, <a href="/wiki/Disc_jockey" title="Disc jockey">disc jockey</a> and <a href="/wiki/Recording_artist" class="mw-redirect" title="Recording artist">recording artist</a> from <a href="/wiki/Amityville,_New_York" title="Amityville, New York">Amityville, New York</a>.<sup id="cite_ref-salon_2-0" class="reference"><a href="#cite_note-salon-2">&#91;2&#93;</a></sup> Paul began his career as a DJ for <a href="/wiki/Stetsasonic" title="Stetsasonic">Stetsasonic</a>. He has worked on albums by <a href="/wiki/Boogie_Down_Productions" title="Boogie Down Productions">Boogie Down Productions</a>, <a href="/wiki/Gravediggaz" title="Gravediggaz">Gravediggaz</a>, <a href="/wiki/MC_Lyte" title="MC Lyte">MC Lyte</a>, <a href="/wiki/Big_Daddy_Kane" title="Big Daddy Kane">Big Daddy Kane</a> and <a href="/wiki/3rd_Bass" title="3rd Bass">3rd Bass</a>, among others. Major recognition for Prince Paul came when he produced <a href="/wiki/De_La_Soul" title="De La Soul">De La Soul</a>'s debut album <i><a href="/wiki/3_Feet_High_and_Rising" title="3 Feet High and Rising">3 Feet High and Rising</a></i> (1989), in which he pioneered new approaches to <a href="/wiki/Hip_hop_production" title="Hip hop production">hip hop production</a>, mixing and sampling, notably by including <a href="/wiki/Hip_hop_skit" title="Hip hop skit">comedy sketches</a>.
+</p><p>His first solo album, <i><a href="/wiki/Psychoanalysis:_What_Is_It%3F" title="Psychoanalysis: What Is It?">Psychoanalysis: What Is It?</a></i>, came out in 1997, followed by a second album, <i><a href="/wiki/A_Prince_Among_Thieves" title="A Prince Among Thieves">A Prince Among Thieves</a></i>, in 1999.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Life_and_career">Life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=1" title="Edit section: Life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=2" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Paul was interested in music from a young age and started collecting vinyl when he was five.<sup id="cite_ref-princebeats_3-0" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup> According to his mother, he was mature for his age and tended to hang out with older friends.<sup id="cite_ref-princebeats_3-1" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup>
+</p><p>When he was in fifth grade he started DJing, using a makeshift setup of one Lafayette turntable hooked up to another turntable set and using the balance knob as a fader.<sup id="cite_ref-princebeats_3-2" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup> In 1981, at age 14, Paul performed a DJ set at The Ace Center Amityville that helped him gain recognition.<sup id="cite_ref-princebeats_3-3" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup> He did a routine with Trouble Funk's "Pump Me Up" which he later described as his "claim to fame."<sup id="cite_ref-princebeats_3-4" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup> After The Ace Center performance, Paul started doing parties and tapes with Biz Markie while he was in 8th grade.<sup id="cite_ref-princebeats_3-5" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup> At the same time, Paul's middle school music teacher was Everett Collins, a drummer for <a href="/wiki/The_Isley_Brothers" title="The Isley Brothers">The Isley Brothers</a>.<sup id="cite_ref-:4_4-0" class="reference"><a href="#cite_note-:4-4">&#91;4&#93;</a></sup> Collins later introduced Paul to De La Soul member <a href="/wiki/Maseo" class="mw-redirect" title="Maseo">Maseo</a>.<sup id="cite_ref-:4_4-1" class="reference"><a href="#cite_note-:4-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1980s_and_1990s">1980s and 1990s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=3" title="Edit section: 1980s and 1990s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Prince Paul began performing with groups during his teenage years, first joining a group called Soul Brothers with his longtime friend Don Newkirk.<sup id="cite_ref-:4_4-2" class="reference"><a href="#cite_note-:4-4">&#91;4&#93;</a></sup> Paul was one of the original members of <a href="/wiki/Stetsasonic" title="Stetsasonic">Stetsasonic</a>. He joined the group in 1984 after impressing Daddy-O with his routine in the "Brevoit Day Celebration" DJ battle in Brooklyn.<sup id="cite_ref-princebeats_3-6" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup> Daddy-O was struck by Paul's energy, saying that he performed his routine with Liquid Liquid's song "Cavern", "like he was mad at the turntables".<sup id="cite_ref-princebeats_3-7" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup> Paul credits Grandmaster Flash's song "Flash To The Beat" as the reason he purchased his drum machine.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Prince Paul produced "The Gas Face" and "Brooklyn-Queens" on <a href="/wiki/3rd_Bass" title="3rd Bass">3rd Bass</a>' 1989 debut <i><a href="/wiki/The_Cactus_Album" title="The Cactus Album">The Cactus Album</a>.</i> The original version of "The Gas Face" was recorded on 4-track cassette tape and started out as mistake.<sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6">&#91;6&#93;</a></sup> Paul wanted to change the beat after he realized the pattern was not what he had intended, but <a href="/wiki/MC_Serch" title="MC Serch">MC Serch</a> and <a href="/wiki/Pete_Nice" title="Pete Nice">Pete Nice</a> convinced him to keep it.<sup id="cite_ref-:0_6-1" class="reference"><a href="#cite_note-:0-6">&#91;6&#93;</a></sup> The song was recorded on the 4th of July.<sup id="cite_ref-:0_6-2" class="reference"><a href="#cite_note-:0-6">&#91;6&#93;</a></sup>
+</p><p>Paul also worked on <a href="/wiki/De_La_Soul" title="De La Soul">De La Soul</a>'s first three albums, <i><a href="/wiki/3_Feet_High_and_Rising" title="3 Feet High and Rising">3 Feet High and Rising</a></i> (1989), <i><a href="/wiki/De_La_Soul_Is_Dead" title="De La Soul Is Dead">De La Soul Is Dead</a></i> (1991), and <i><a href="/wiki/Buhloone_Mindstate" title="Buhloone Mindstate">Buhloone Mindstate</a></i> (1993). <i>De La Soul is Dead</i> received a five mic album review from <i><a href="/wiki/The_Source" title="The Source">The Source</a></i>.<sup id="cite_ref-isdeadreview_7-0" class="reference"><a href="#cite_note-isdeadreview-7">&#91;7&#93;</a></sup> According to Paul, <i><a href="/wiki/3_Feet_High_and_Rising" title="3 Feet High and Rising">3 Feet High and Rising</a></i> (1989) had a budget of about $20,000 dollars and took a month and a half to make.<sup id="cite_ref-princebeats_3-8" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup> In Brian Coleman's 2007 book <i><a href="/wiki/Check_the_Technique" title="Check the Technique">Check the Technique</a></i>, Paul reflected on his work with De La Soul by saying, "If there was ever a sign of the existence of God, De La Soul would be that proof to me. I've never had such a perfect fit in any other production situation."<sup id="cite_ref-technique_8-0" class="reference"><a href="#cite_note-technique-8">&#91;8&#93;</a></sup>
+</p><p>In 1990, <a href="/wiki/Russell_Simmons" title="Russell Simmons">Russell Simmons</a> gave Prince Paul an imprint under his <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a> label, however the only album, <i>It Takes a Nation of Suckers to Let Us In</i> by Resident Alien, was never officially released. It is available as an unofficial release, which is different to a bootleg.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Along with <a href="/wiki/Frukwan" class="mw-redirect" title="Frukwan">Frukwan</a> of Stetsasonic, <a href="/wiki/Anthony_Ian_Berkeley" title="Anthony Ian Berkeley">Too Poetic</a> of <a href="/wiki/Brothers_Grym" title="Brothers Grym">Brothers Grimm</a>, and the <a href="/wiki/RZA" title="RZA">RZA</a> of <a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu-Tang Clan</a>, Prince Paul formed the group <a href="/wiki/Gravediggaz" title="Gravediggaz">Gravediggaz</a>.<sup id="cite_ref-princebeats_3-9" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup> They recorded a demo together in 1991 and released their first album <i><a href="/wiki/Niggamortis" class="mw-redirect" title="Niggamortis">Niggamortis</a>/<a href="/wiki/6_Feet_Deep" title="6 Feet Deep">6 Feet Deep</a></i> in 1994 on Gee Street Records.<sup id="cite_ref-:2_10-0" class="reference"><a href="#cite_note-:2-10">&#91;10&#93;</a></sup> Before signing a deal with Gee Street, <a href="/wiki/Eazy-E" title="Eazy-E">Eazy-E</a> wanted to release the album on <a href="/wiki/Ruthless_Records" title="Ruthless Records">Ruthless Records</a>. Paul flew to Los Angeles to have a meeting with Eazy-E and Jerry Heller but was unimpressed with the contract and declined. After the group signed to Gee Street, Paul estimated that it took them about six months to complete the album.<sup id="cite_ref-:2_10-1" class="reference"><a href="#cite_note-:2-10">&#91;10&#93;</a></sup>
+</p><p>Prince Paul also contributed to several other projects during this time period. He produced three songs for <a href="/wiki/Boogie_Down_Productions" title="Boogie Down Productions">Boogie Down Productions</a>' 1992 album <i><a href="/wiki/Sex_and_Violence_(album)" title="Sex and Violence (album)">Sex and Violence</a></i>, though later expressed frustration that the group released the album before he had finalized and polished those tracks.<sup id="cite_ref-:1_11-0" class="reference"><a href="#cite_note-:1-11">&#91;11&#93;</a></sup> In 1995, Paul and <a href="/wiki/Teo_Macero" title="Teo Macero">Teo Macero</a> collaborated to produce the solo debut from guitarist <a href="/wiki/Vernon_Reid" title="Vernon Reid">Vernon Reid</a>, and in 1996 he appeared on the compilation album <i><a href="/wiki/America_Is_Dying_Slowly" title="America Is Dying Slowly">America Is Dying Slowly</a></i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2023)">citation needed</span></a></i>&#93;</sup> Additionally, Paul joined forces with Amityville rapper Superstar to launch a supergroup called Horror City. Paul produced a Horror City album, but proved unable to successfully market the album to any record labels.<sup id="cite_ref-:5_12-0" class="reference"><a href="#cite_note-:5-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Ultimately, Paul decided to <i>Horror City</i> as a free download in 2010.<sup id="cite_ref-:5_12-1" class="reference"><a href="#cite_note-:5-12">&#91;12&#93;</a></sup>
+</p><p>In 1996, during the early recording sessions for <i><a href="/wiki/Stakes_Is_High" title="Stakes Is High">Stakes Is High</a></i>, De La Soul and Prince Paul decided to part ways.<sup id="cite_ref-fromsoul_14-0" class="reference"><a href="#cite_note-fromsoul-14">&#91;14&#93;</a></sup>  Although Paul was not involved in the making of the album, he has praised it in several interviews, once saying, "I was going through a serious transition period in my life when that album dropped. I was trying to figure out the next thing I was going to do; I was going through a custody case for my son, and I was running out of money. There were a lot of things going on at the time and in a sense, that album pulled me through everything."<sup id="cite_ref-fromsoul_14-1" class="reference"><a href="#cite_note-fromsoul-14">&#91;14&#93;</a></sup>
+</p><p>After splitting from De La Soul, Paul released two solo albums in the following years: <i><a href="/wiki/Psychoanalysis:_What_Is_It%3F" title="Psychoanalysis: What Is It?">Psychoanalysis: What Is It?</a></i> (1996) and <i><a href="/wiki/A_Prince_Among_Thieves" title="A Prince Among Thieves">A Prince Among Thieves</a></i> (1999). These albums featured a wide range of rappers, including <a href="/wiki/Big_Daddy_Kane" title="Big Daddy Kane">Big Daddy Kane</a>, <a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>, <a href="/wiki/Kool_Keith" title="Kool Keith">Kool Keith</a>, and <a href="/wiki/Everlast_(singer)" class="mw-redirect" title="Everlast (singer)">Everlast</a>. When Paul was recording <i>Psychoanalysis</i> he thought his career was over and had a hard time finding people who wanted to be involved with the project.<sup id="cite_ref-:0_6-3" class="reference"><a href="#cite_note-:0-6">&#91;6&#93;</a></sup> Many of the vocals were provided by friends of his from outside the music industry.<sup id="cite_ref-:0_6-4" class="reference"><a href="#cite_note-:0-6">&#91;6&#93;</a></sup> Years later he recalled thinking, "Some people might get butt-hurt about it, but so what? It's probably the last record I'll make anyway," during the recording of "Beautiful Night (Manic Psychopath)".<sup id="cite_ref-:0_6-5" class="reference"><a href="#cite_note-:0-6">&#91;6&#93;</a></sup> The song is very dark and deals with date rape, racism, and violence.
+</p><p>According to Paul, he originally proposed the idea for <i>A Prince Among Thieves</i> to Russell Simmons in the early 1990s but Simmons was not interested.<sup id="cite_ref-:3_15-0" class="reference"><a href="#cite_note-:3-15">&#91;15&#93;</a></sup> While describing his goals for the album in an interview he said, "I wanted to make a movie on wax. I wanted to make an adults' kid album."<sup id="cite_ref-:3_15-1" class="reference"><a href="#cite_note-:3-15">&#91;15&#93;</a></sup> To prepare for the album he watched many <a href="/wiki/B_movie" title="B movie">B movies</a> and tried to use scenes from various films as inspiration.<sup id="cite_ref-:3_15-2" class="reference"><a href="#cite_note-:3-15">&#91;15&#93;</a></sup> On <i>A Prince Among Thieves</i>, Paul also repurposed some of the beats he had initially composed for <i>Horror City</i>.<sup id="cite_ref-:5_12-2" class="reference"><a href="#cite_note-:5-12">&#91;12&#93;</a></sup> In addition to the extensive list of rappers on the album, Paul reached out to Vanilla Ice to perform on "Handle Your Time" with <a href="/wiki/Sadat_X" title="Sadat X">Sadat X</a> and Xzibit.<sup id="cite_ref-:3_15-3" class="reference"><a href="#cite_note-:3-15">&#91;15&#93;</a></sup> He also reached out to <a href="/wiki/The_Notorious_B.I.G." title="The Notorious B.I.G.">The Notorious B.I.G.</a> about playing a role on the album and was supposed to meet up with him the night he was murdered.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>Prince Paul formed the duo <a href="/wiki/Handsome_Boy_Modeling_School" title="Handsome Boy Modeling School">Handsome Boy Modeling School</a> with <a href="/wiki/Dan_the_Automator" title="Dan the Automator">Dan the Automator</a>. Their 1999 debut album, <i><a href="/wiki/So..._How%27s_Your_Girl%3F" title="So... How&#39;s Your Girl?">So... How's Your Girl?</a></i>, featured <a href="/wiki/Sean_Lennon" title="Sean Lennon">Sean Lennon</a>, <a href="/wiki/Del_the_Funky_Homosapien" title="Del the Funky Homosapien">Del the Funky Homosapien</a>, <a href="/wiki/Alec_Empire" title="Alec Empire">Alec Empire</a>, and <a href="/wiki/Don_Novello" title="Don Novello">Don Novello</a>.
+</p>
+<h3><span class="mw-headline" id="21st_century">21st century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=4" title="Edit section: 21st century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Paul contributed to multiple projects in the year 2000. His work from that year includes the song "The Fantabulous Rap Extravaganza" on <a href="/wiki/Deltron_3030" title="Deltron 3030">Deltron 3030</a>'s <a href="/wiki/Deltron_3030_(album)" title="Deltron 3030 (album)">self-titled album</a>, as well as <i><a href="/wiki/It%27s_Very_Stimulating" title="It&#39;s Very Stimulating">It's Very Stimulating</a></i>, the debut EP by <a href="/wiki/MC_Paul_Barman" title="MC Paul Barman">MC Paul Barman</a>.
+</p><p>Prince Paul's 2003 album <i><a href="/wiki/Politics_of_the_Business" title="Politics of the Business">Politics of the Business</a></i> again featured many guests such as <a href="/wiki/Chuck_D" title="Chuck D">Chuck D</a>, <a href="/wiki/Ice-T" title="Ice-T">Ice-T</a>, <a href="/wiki/The_Beatnuts" title="The Beatnuts">The Beatnuts</a>, and <a href="/wiki/Wordsworth_(rapper)" title="Wordsworth (rapper)">Wordsworth</a>. The latter also collaborated on a track Paul composed for <i><a href="/wiki/The_SpongeBob_SquarePants_Movie" title="The SpongeBob SquarePants Movie">The SpongeBob SquarePants Movie</a></i> soundtrack.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2023)">citation needed</span></a></i>&#93;</sup> Paul followed this project with a second Handsome Boy Modeling School album, <i><a href="/wiki/White_People_(album)" title="White People (album)">White People</a></i>, in 2004. His next solo album was <i><a href="/wiki/Itstrumental" title="Itstrumental">Itstrumental</a></i> (2005). It encompasses a range of genres, relying heavily on past samples, especially from <i>A Prince Among Thieves</i>, and combining them with lighthearted skits about his <a href="/wiki/Clinical_depression" class="mw-redirect" title="Clinical depression">depression</a>. As of 2023, <i>Itstrumental</i> is Paul's most recent studio album.
+</p><p>Paul continued to collaborate throughout the 2000s. In 2005, he produced the album <i><a href="/wiki/The_Art_of_Picking_Up_Women" title="The Art of Picking Up Women">The Art of Picking Up Women</a></i> by <a href="/wiki/The_Dix" class="mw-redirect" title="The Dix">the Dix</a>, which combines some of hip-hop's misogyny and boasting with 1960s-style <a href="/wiki/R%26B" class="mw-redirect" title="R&amp;B">R&amp;B</a>. He also collaborated with <a href="/wiki/Parliament_(band)" title="Parliament (band)">Parliament</a>, <a href="/wiki/Don_Newkirk" title="Don Newkirk">Don Newkirk</a>, and <a href="/wiki/Talking_Heads" title="Talking Heads">Talking Heads</a> keyboardist <a href="/wiki/Bernie_Worrell" title="Bernie Worrell">Bernie Worrell</a> to release an album titled <i>Turn My Teeth Up!</i> (2007) under the moniker Baby Elephant. Another project Paul produced during this period was <i><a href="/wiki/Montezuma%27s_Revenge_(album)" title="Montezuma&#39;s Revenge (album)">Montezuma's Revenge</a></i>, a 2009 album by <a href="/wiki/Souls_of_Mischief" title="Souls of Mischief">Souls of Mischief</a>. On this album, Paul extensively used vintage equipment such as the <a href="/wiki/E-mu_SP-12" title="E-mu SP-12">Emu SP-12</a>, <a href="/wiki/Ensoniq_ASR-10" title="Ensoniq ASR-10">Ensoniq ASR-10</a>, <a href="/wiki/Music_Production_Center#MPC60" class="mw-redirect" title="Music Production Center">Akai MPC-60</a> and an <a href="/wiki/Music_Production_Center#MPC2000" class="mw-redirect" title="Music Production Center">Akai MPC-2000</a>.<sup id="cite_ref-speakclout_17-0" class="reference"><a href="#cite_note-speakclout-17">&#91;17&#93;</a></sup>
+</p><p>At the <a href="/wiki/48th_Annual_Grammy_Awards" title="48th Annual Grammy Awards">48th Annual Grammy Awards</a> in 2006, Prince Paul was awarded the <a href="/wiki/Grammy_Award_for_Best_Comedy_Album" title="Grammy Award for Best Comedy Album">Grammy Award for Best Comedy Album</a> for his work on <a href="/wiki/Chris_Rock" title="Chris Rock">Chris Rock</a>'s <i><a href="/wiki/Never_Scared" title="Never Scared">Never Scared</a></i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2023)">citation needed</span></a></i>&#93;</sup>
+</p><p>In 2012, Paul spoke openly in an interview about the possibility of doing another De La Soul album after Maseo had made some public comments about a reunion. In the interview, Paul states that he asked the members of De La Soul to work on a new album on and off since 1999.<sup id="cite_ref-:6_18-0" class="reference"><a href="#cite_note-:6-18">&#91;18&#93;</a></sup> Though he wanted to do a reunion at one time, it seemed in the interview he had moved past the idea, partially because of the far more restrictive sampling laws that exist today. He said, "It's nice to think about it, but I kind of like where we left it. There would be so many expectations. For me to do another De La record, I don't think I could really live up to it. Especially in a day and age where I can't openly sample like that."<sup id="cite_ref-:6_18-1" class="reference"><a href="#cite_note-:6-18">&#91;18&#93;</a></sup>
+</p><p>Paul continued to provide occasional contributions to various products in the 2010s and 2020s. In 2016, he collaborated with Brazilian hip hop fusion group Broozkill! on an album titled <i>Throwback to the Future</i>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> In 2017 Prince Paul helped to score <i>Mogul</i>, a <a href="/wiki/Gimlet_Media" title="Gimlet Media">Gimlet Media</a> podcast about hip-hop scene-maker <a href="/wiki/Chris_Lighty" title="Chris Lighty">Chris Lighty</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2023)">citation needed</span></a></i>&#93;</sup> In 2020, Prince Paul co-produced the <a href="/wiki/Gorillaz" title="Gorillaz">Gorillaz</a> song "<a href="/wiki/Pac-Man_(Gorillaz_song)" title="Pac-Man (Gorillaz song)">Pac-Man</a>" for the band's <a href="/wiki/Song_Machine" title="Song Machine">Song Machine</a> web series.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>In 2017, Prince Paul joined the Creators Advisory Board of <a href="/wiki/Tracklib" title="Tracklib">Tracklib</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> In an interview with Tracklib, Prince Paul stated that "I know Tracklib will help (producers) because it will give everybody an opportunity to sample without having to look over their shoulder."<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Equipment">Equipment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=5" title="Edit section: Equipment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Paul has talked about his fondness for vintage equipment in several interviews. One of his favorite pieces of vintage equipment is the <a href="/wiki/Akai_S900" title="Akai S900">Akai S900</a>, which he credits for having a unique sound, saying, "Even though it's big and bulky, nothing sounds like that. It's pretty flexible, it's easy to work, and it's easy to truncate your sample and get things tight...When you look at all this new technology, everything sounds very sterile. Everything is clean and super quiet. It kind of lacks something. When I plug that in, it's like, 'Wow, this is hip hop.'"<sup id="cite_ref-makethose_23-0" class="reference"><a href="#cite_note-makethose-23">&#91;23&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Record_collection">Record collection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=6" title="Edit section: Record collection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He is known for sampling from a wide range of genres.<sup id="cite_ref-princebeats_3-10" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup> Rapper <a href="/wiki/Biz_Markie" title="Biz Markie">Biz Markie</a> once said of Paul's production style, "Prince Paul's contribution to hip-hop is that you could use records that weren't by James Brown or just break-beats."<sup id="cite_ref-princebeats_3-11" class="reference"><a href="#cite_note-princebeats-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Style_and_influences">Style and influences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=7" title="Edit section: Style and influences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Unlike the vast majority of hip-hop producers during the 1980s and early 1990s, Paul explored many genres outside of funk and soul to extract samples.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> 
+</p><p><a href="/wiki/Chris_Rock" title="Chris Rock">Chris Rock</a> listed the <i>Buhloone Mindstate</i> album at number ten on his "Top 25 Albums" list. He credited the album as helping to shape him as a comedian.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> In 1999, Rock appeared on Paul's <i>A Prince Among Thieves.</i><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> Later in 2005, Rock's debut album was produced by Paul.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>Paul credits <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a> and <a href="/wiki/Public_Enemy" title="Public Enemy">Public Enemy</a> as being a significant influence on early De La Soul production, saying, "Early Public Enemy production used layers upon layers and layers, and their arrangements were always super duper incredible to me. We were kind of like students to what they did."<sup id="cite_ref-makethose_23-1" class="reference"><a href="#cite_note-makethose-23">&#91;23&#93;</a></sup> In addition to The Bomb Squad, he also lists <a href="/wiki/George_Clinton_(funk_musician)" title="George Clinton (funk musician)">George Clinton</a>, <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/wiki/Rick_Rubin" title="Rick Rubin">Rick Rubin</a>, and <a href="/wiki/Bernie_Worrell" title="Bernie Worrell">Bernie Worrell</a> as his major influences.<sup id="cite_ref-:4_4-3" class="reference"><a href="#cite_note-:4-4">&#91;4&#93;</a></sup>
+</p><p>While Paul continues to utilize samples, he has expanded his production to include live instrumentation, including guitar, bass guitar, and several analog keyboards.<sup id="cite_ref-speakclout_17-1" class="reference"><a href="#cite_note-speakclout-17">&#91;17&#93;</a></sup> To combine elements of sampling and live instrumentation, Paul now re-plays some of his samples with instruments. In a 2010 interview he described the process by saying, "I’ve gotten to the point now where I’ll re-play samples with instruments. I learned how to interpolate, change the sound, and dust it out so that when I’m re-playing certain samples, it sounds like a direct sample from a record."<sup id="cite_ref-speakclout_17-2" class="reference"><a href="#cite_note-speakclout-17">&#91;17&#93;</a></sup>
+</p><p>Paul has credited the process of working with <a href="/wiki/Dan_the_Automator" title="Dan the Automator">Dan the Automator</a> on the <a href="/wiki/Handsome_Boy_Modeling_School" title="Handsome Boy Modeling School">Handsome Boy Modeling School</a> project as helping him learn a great deal about production.<sup id="cite_ref-speakclout_17-3" class="reference"><a href="#cite_note-speakclout-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Influence">Influence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=8" title="Edit section: Influence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Unlike many hip-hop producers of his era, Paul explored many genres outside of funk and soul to extract samples.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> 
+</p><p><a href="/wiki/Chris_Rock" title="Chris Rock">Chris Rock</a> listed the <i>Buhloone Mindstate</i> album at number ten on his "Top 25 Albums" list. He credited the album as helping to shape him as a comedian.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> In 1999, Rock appeared on Paul's <i>A Prince Among Thieves.</i><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> Later in 2005, Rock's debut album was produced by Paul.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=9" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Prince_Paul_production_discography" title="Prince Paul production discography">Prince Paul production discography</a></div>
+<h3><span class="mw-headline" id="Solo_albums">Solo albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=10" title="Edit section: Solo albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>1996: <i><a href="/wiki/Psychoanalysis:_What_Is_It%3F" title="Psychoanalysis: What Is It?">Psychoanalysis: What Is It?</a></i> (WordSound Records, later reissued by <a href="/wiki/Tommy_Boy_Records" title="Tommy Boy Records">Tommy Boy</a>/<a href="/wiki/Warner_Records" title="Warner Records">Warner Bros. Records</a> in 1997 with bonus cuts)</li>
+<li>1999: <i><a href="/wiki/A_Prince_Among_Thieves" title="A Prince Among Thieves">A Prince Among Thieves</a></i> (Tommy Boy/Warner Bros. Records)</li>
+<li>2003: <i><a href="/wiki/Politics_of_the_Business" title="Politics of the Business">Politics of the Business</a></i> (<a href="/wiki/Razor_%26_Tie" title="Razor &amp; Tie">Razor &amp; Tie</a>)</li>
+<li>2005: <i><a href="/wiki/Itstrumental" title="Itstrumental">Itstrumental</a></i> (Female Fun Records)</li>
+<li>2005: <i><a href="/wiki/Hip_Hop_Gold_Dust" title="Hip Hop Gold Dust">Hip Hop Gold Dust</a></i> (Antidote)</li></ul>
+<h3><span class="mw-headline" id="Collaborative_albums">Collaborative albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=11" title="Edit section: Collaborative albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>1986:  <i><a href="/wiki/On_Fire_(Stetsasonic_album)" title="On Fire (Stetsasonic album)">On Fire</a></i> (<a href="/wiki/Stetsasonic" title="Stetsasonic">Stetsasonic</a>)</li>
+<li>1988:  <i><a href="/wiki/In_Full_Gear" title="In Full Gear">In Full Gear</a></i> (Stetsasonic)</li>
+<li>1989:  <i><a href="/wiki/3_Feet_High_and_Rising" title="3 Feet High and Rising">3 Feet High and Rising</a></i> (<a href="/wiki/De_La_Soul" title="De La Soul">De La Soul</a>)</li>
+<li>1991:  <i><a href="/wiki/Blood,_Sweat_%26_No_Tears" title="Blood, Sweat &amp; No Tears">Blood, Sweat &amp; No Tears</a></i> (Stetsasonic)</li>
+<li>1991:  <i><a href="/wiki/De_La_Soul_Is_Dead" title="De La Soul Is Dead">De La Soul Is Dead</a></i> (De La Soul)</li>
+<li>1992:  <i>It Takes a Nation of Suckas to Let Us In</i> (Resident Alien) (later released as a free download)</li>
+<li>1993:  <i><a href="/wiki/Buhloone_Mindstate" title="Buhloone Mindstate">Buhloone Mindstate</a></i> (De La Soul)</li>
+<li>1994:  <i><a href="/wiki/Niggamortis" class="mw-redirect" title="Niggamortis">Niggamortis</a>/<a href="/wiki/6_Feet_Deep" title="6 Feet Deep">6 Feet Deep</a></i> (<a href="/wiki/Gravediggaz" title="Gravediggaz">Gravediggaz</a>)</li>
+<li>1995:  <i>Prince Paul presents Horror City</i>  (Horror City) (later released as a free download)</li>
+<li>1999:  <i><a href="/wiki/So..._How%27s_Your_Girl%3F" title="So... How&#39;s Your Girl?">So... How's Your Girl?</a></i> (<a href="/wiki/Handsome_Boy_Modeling_School" title="Handsome Boy Modeling School">Handsome Boy Modeling School</a>)</li>
+<li>2000:  <i><a href="/wiki/It%27s_Very_Stimulating" title="It&#39;s Very Stimulating">It's Very Stimulating</a></i> (<a href="/wiki/MC_Paul_Barman" title="MC Paul Barman">MC Paul Barman</a>)</li>
+<li>2004:  <i><a href="/wiki/White_People_(album)" title="White People (album)">White People</a></i> (Handsome Boy Modeling School)</li>
+<li>2005:  <i><a href="/wiki/The_Art_of_Picking_Up_Women" title="The Art of Picking Up Women">The Art of Picking Up Women</a></i> (<a href="/wiki/The_Dix" class="mw-redirect" title="The Dix">The Dix</a>)</li>
+<li>2008:  <i>Baby Loves Hip Hop presents The Dino 5</i> (Dino 5)<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup></li>
+<li>2012:  <i>Negroes on Ice</i> (Negroes on Ice)</li>
+<li>2016:  <i>Throwback to the Future</i> (BROOKZILL!)</li></ul>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=12" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1050814317">.mw-parser-output .awards-table td:last-child{text-align:center}</style>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th>
+<th><abbr title="References">Ref.</abbr>
+</th></tr>
+<tr>
+<td align="center"><a href="/wiki/48th_Annual_Grammy_Awards" title="48th Annual Grammy Awards">2006</a>
+</td>
+<td><i><a href="/wiki/Never_Scared" title="Never Scared">Never Scared</a></i>
+</td>
+<td><a href="/wiki/Grammy_Award_for_Best_Comedy_Album" title="Grammy Award for Best Comedy Album">Grammy Award for Best Comedy Album</a>
+</td>
+<td style="background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;" class="yes table-yes2 notheme">Won
+</td>
+<td><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</td></tr>
+
+</tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm1009731/">"Prince Paul"</a>. IMDb.com<span class="reference-accessdate">. Retrieved <span class="nowrap">February 11,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Prince+Paul&amp;rft.pub=IMDb.com&amp;rft_id=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm1009731%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-salon-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-salon_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHeimlich1999" class="citation news cs1">Heimlich, Adam (April 21, 1999). <a rel="nofollow" class="external text" href="http://www.salon.com/entertainment/music/feature/1999/04/21/prince_paul">"The artist currently known as Prince Paul"</a>. <i><a href="/wiki/Salon_(magazine)" class="mw-redirect" title="Salon (magazine)">Salon</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 2,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Salon&amp;rft.atitle=The+artist+currently+known+as+Prince+Paul&amp;rft.date=1999-04-21&amp;rft.aulast=Heimlich&amp;rft.aufirst=Adam&amp;rft_id=http%3A%2F%2Fwww.salon.com%2Fentertainment%2Fmusic%2Ffeature%2F1999%2F04%2F21%2Fprince_paul&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged December 2017">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-princebeats-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-princebeats_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-princebeats_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-princebeats_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-princebeats_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-princebeats_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-princebeats_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-princebeats_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-princebeats_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-princebeats_3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-princebeats_3-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-princebeats_3-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-princebeats_3-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBrown1999" class="citation journal cs1">Brown, Ethan (April 1999). <a rel="nofollow" class="external text" href="http://ethan-brown.com/articles/PrincePaulOralHistory.pdf">"My Name is Prince...And I Make Beats"</a> <span class="cs1-format">(PDF)</span>. <i>The Source</i>: 136–143.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Source&amp;rft.atitle=My+Name+is+Prince...And+I+Make+Beats&amp;rft.pages=136-143&amp;rft.date=1999-04&amp;rft.aulast=Brown&amp;rft.aufirst=Ethan&amp;rft_id=http%3A%2F%2Fethan-brown.com%2Farticles%2FPrincePaulOralHistory.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:4-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:4_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:4_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:4_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:4_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://thevinylfactory.com/features/prince-paul-interview/">"How De La Soul producer Prince Paul continues to rewrite the rules"</a>. <i>Thevinylfactory.com</i>. October 19, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Thevinylfactory.com&amp;rft.atitle=How+De+La+Soul+producer+Prince+Paul+continues+to+rewrite+the+rules&amp;rft.date=2016-10-19&amp;rft_id=https%3A%2F%2Fthevinylfactory.com%2Ffeatures%2Fprince-paul-interview%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFColeman2016" class="citation web cs1">Coleman, Brian (May 30, 2016). <a rel="nofollow" class="external text" href="https://medium.com/@briancoleman/prince-paul-30abaf516be6">"PRINCE PAUL"</a>. <i>Cuepoint</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cuepoint&amp;rft.atitle=PRINCE+PAUL&amp;rft.date=2016-05-30&amp;rft.aulast=Coleman&amp;rft.aufirst=Brian&amp;rft_id=https%3A%2F%2Fmedium.com%2F%40briancoleman%2Fprince-paul-30abaf516be6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:0_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:0_6-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFThurm" class="citation news cs1">Thurm, Eric. <a rel="nofollow" class="external text" href="https://music.avclub.com/prolific-producer-prince-paul-on-almost-being-fired-de-1798237198">"Prolific producer Prince Paul on almost being fired, De La Soul classics, and working with his son"</a>. <i>A.V. Club</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=A.V.+Club&amp;rft.atitle=Prolific+producer+Prince+Paul+on+almost+being+fired%2C+De+La+Soul+classics%2C+and+working+with+his+son&amp;rft.aulast=Thurm&amp;rft.aufirst=Eric&amp;rft_id=http%3A%2F%2Fmusic.avclub.com%2Fprolific-producer-prince-paul-on-almost-being-fired-de-1798237198&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-isdeadreview-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-isdeadreview_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation journal cs1"><a rel="nofollow" class="external text" href="https://ifihavent.wordpress.com/2007/04/20/classic-review-de-la-soul-is-dead-in-the-source-1991/">"De La Soul is Dead Album Review"</a>. <i>The Source</i>. 1991<span class="reference-accessdate">. Retrieved <span class="nowrap">April 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Source&amp;rft.atitle=De+La+Soul+is+Dead+Album+Review&amp;rft.date=1991&amp;rft_id=https%3A%2F%2Fifihavent.wordpress.com%2F2007%2F04%2F20%2Fclassic-review-de-la-soul-is-dead-in-the-source-1991%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-technique-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-technique_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFColeman2007" class="citation book cs1">Coleman, Brian (June 12, 2007). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/checktechniqueli00cole"><i>Check the Technique: Liner Notes for Hip-Hop Junkies</i></a></span>. Random House. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8129-7775-2" title="Special:BookSources/978-0-8129-7775-2"><bdi>978-0-8129-7775-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Check+the+Technique%3A+Liner+Notes+for+Hip-Hop+Junkies&amp;rft.pub=Random+House&amp;rft.date=2007-06-12&amp;rft.isbn=978-0-8129-7775-2&amp;rft.aulast=Coleman&amp;rft.aufirst=Brian&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fchecktechniqueli00cole&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.discogs.com/release/14181871-Resident-Alien-It-Takes-A-Nation-Of-Suckas-To-Let-Us-In">"Resident Alien - It Takes a Nation of Suckas to Let Us in"</a>. <i><a href="/wiki/Discogs" title="Discogs">Discogs</a></i>. January 24, 2022.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Discogs&amp;rft.atitle=Resident+Alien+-+It+Takes+a+Nation+of+Suckas+to+Let+Us+in&amp;rft.date=2022-01-24&amp;rft_id=https%3A%2F%2Fwww.discogs.com%2Frelease%2F14181871-Resident-Alien-It-Takes-A-Nation-Of-Suckas-To-Let-Us-In&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:2-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPattinson" class="citation web cs1">Pattinson, Chris. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170902105423/http://www.hiphopsite.com/2013/07/25/exclusive-prince-paul-breaks-down-gravediggaz-6-feet-deep-track-by-track/">"Exclusive: Prince Paul Breaks Down Gravediggaz "6 Feet Deep" Track-By-Track"</a>. <i>HipHopSite.Com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.hiphopsite.com/2013/07/25/exclusive-prince-paul-breaks-down-gravediggaz-6-feet-deep-track-by-track/">the original</a> on September 2, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopSite.Com&amp;rft.atitle=Exclusive%3A+Prince+Paul+Breaks+Down+Gravediggaz+%226+Feet+Deep%22+Track-By-Track&amp;rft.aulast=Pattinson&amp;rft.aufirst=Chris&amp;rft_id=http%3A%2F%2Fwww.hiphopsite.com%2F2013%2F07%2F25%2Fexclusive-prince-paul-breaks-down-gravediggaz-6-feet-deep-track-by-track%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-:1_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2011/12/prince-paul-tells-all-the-stories-behind-his-classic-records-part-2/boogie-down-productions-sex-and-violence-1992">"Prince Paul Tells All: The Stories Behind His Classic Records (Part 2)Boogie Down Productions "Sex and Violence" (1992)"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Prince+Paul+Tells+All%3A+The+Stories+Behind+His+Classic+Records+%28Part+2%29Boogie+Down+Productions+%22Sex+and+Violence%22+%281992%29&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2011%2F12%2Fprince-paul-tells-all-the-stories-behind-his-classic-records-part-2%2Fboogie-down-productions-sex-and-violence-1992&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:5-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-:5_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:5_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:5_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.thefader.com/2010/06/23/download-prince-paul-presents-horror-city">"Download: Prince Paul Presents Horror City"</a>. <i>The FADER</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+FADER&amp;rft.atitle=Download%3A+Prince+Paul+Presents+Horror+City&amp;rft_id=http%3A%2F%2Fwww.thefader.com%2F2010%2F06%2F23%2Fdownload-prince-paul-presents-horror-city&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/76484-Horror-City">"Horror City"</a>. <i>Discogs</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 6,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Discogs&amp;rft.atitle=Horror+City&amp;rft_id=https%3A%2F%2Fwww.discogs.com%2Fartist%2F76484-Horror-City&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-fromsoul-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-fromsoul_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fromsoul_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSorce-1" class="citation web cs1">Sorce-1, DJ. <a rel="nofollow" class="external text" href="http://uproxx.com/smokingsection/2008/08/from-the-soul-the-music-and-influence-of-de-la-part-one/">"From the Soul: The Music and Influence of De La (Part One)"</a>. <i>The Smoking Section</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Smoking+Section&amp;rft.atitle=From+the+Soul%3A+The+Music+and+Influence+of+De+La+%28Part+One%29&amp;rft.aulast=Sorce-1&amp;rft.aufirst=DJ&amp;rft_id=http%3A%2F%2Fuproxx.com%2Fsmokingsection%2F2008%2F08%2Ffrom-the-soul-the-music-and-influence-of-de-la-part-one%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:3-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:3_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:3_15-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2011/12/prince-paul-tells-all-the-stories-behind-his-classic-records-part-2/prince-paul-a-prince-among-thieves-1999">"Prince Paul Tells All: The Stories Behind His Classic Records (Part 2)Prince Paul, A Prince Among Thieves (1999)"</a>. <i>Complex</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Prince+Paul+Tells+All%3A+The+Stories+Behind+His+Classic+Records+%28Part+2%29Prince+Paul%2C+A+Prince+Among+Thieves+%281999%29&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2011%2F12%2Fprince-paul-tells-all-the-stories-behind-his-classic-records-part-2%2Fprince-paul-a-prince-among-thieves-1999&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">The Combat Jack Show <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://soundcloud.com/thecombatjackshow/the-prince-paul-episode"><i>The Prince Paul Episode</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">September 2,</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Prince+Paul+Episode&amp;rft_id=https%3A%2F%2Fsoundcloud.com%2Fthecombatjackshow%2Fthe-prince-paul-episode&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-speakclout-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-speakclout_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-speakclout_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-speakclout_17-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-speakclout_17-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSorce-12010" class="citation web cs1">Sorce-1, DJ (July 17, 2010). <a rel="nofollow" class="external text" href="http://heavyinthestreets.blogspot.com/2010/07/speak-ya-clout-prince-paul-on.html">"Speak Ya Clout: Prince Paul on Montezuma's Revenege Part 1"</a>. <i>Heavy in the Streets</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Heavy+in+the+Streets&amp;rft.atitle=Speak+Ya+Clout%3A+Prince+Paul+on+Montezuma%27s+Revenege+Part+1&amp;rft.date=2010-07-17&amp;rft.aulast=Sorce-1&amp;rft.aufirst=DJ&amp;rft_id=http%3A%2F%2Fheavyinthestreets.blogspot.com%2F2010%2F07%2Fspeak-ya-clout-prince-paul-on.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:6-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-:6_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:6_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://hiphopdx.com/interviews/id.1957/title.prince-paul-debunks-rumored-de-la-soul-reunion-looks-ahead-to-negroes-on-ice#">"Prince Paul Debunks Rumored De La Soul Reunion, Looks Ahead To Negroes On Ice"</a>. <i>HiphopdX.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=HiphopdX.com&amp;rft.atitle=Prince+Paul+Debunks+Rumored+De+La+Soul+Reunion%2C+Looks+Ahead+To+Negroes+On+Ice&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Finterviews%2Fid.1957%2Ftitle.prince-paul-debunks-rumored-de-la-soul-reunion-looks-ahead-to-negroes-on-ice%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://pitchfork.com/reviews/albums/22478-throwback-to-the-future/">"BROOKZILL!: Throwback to the Future"</a>. <i>Pitchfork.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 23,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pitchfork.com&amp;rft.atitle=BROOKZILL%21%3A+Throwback+to+the+Future&amp;rft_id=https%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2F22478-throwback-to-the-future%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFYoo2020" class="citation news cs1">Yoo, Noah (July 20, 2020). <a rel="nofollow" class="external text" href="https://pitchfork.com/news/gorillaz-and-schoolboy-q-share-new-song-pac-man-listen/">"Gorillaz and ScHoolboy Q Share New Song "PAC-MAN": Listen"</a>. <i>Pitchfork</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 29,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pitchfork&amp;rft.atitle=Gorillaz+and+ScHoolboy+Q+Share+New+Song+%22PAC-MAN%22%3A+Listen&amp;rft.date=2020-07-20&amp;rft.aulast=Yoo&amp;rft.aufirst=Noah&amp;rft_id=https%3A%2F%2Fpitchfork.com%2Fnews%2Fgorillaz-and-schoolboy-q-share-new-song-pac-man-listen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.musicconnection.com/zaytoven-joins-tracklib-creators-advisory-board/">"Grammy-Winning Producer Zaytoven Joins Tracklib Creators Advisory Board"</a>. <i>Music Connection Magazine</i>. October 5, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">September 5,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Music+Connection+Magazine&amp;rft.atitle=Grammy-Winning+Producer+Zaytoven+Joins+Tracklib+Creators+Advisory+Board&amp;rft.date=2018-10-05&amp;rft_id=https%3A%2F%2Fwww.musicconnection.com%2Fzaytoven-joins-tracklib-creators-advisory-board%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=6A5X5puHfJE">"Introducing Tracklib - The Future of Sampling"</a>. <a href="/wiki/YouTube" title="YouTube">YouTube</a>. <a rel="nofollow" class="external text" href="https://ghostarchive.org/varchive/youtube/20211211/6A5X5puHfJE">Archived</a> from the original on December 11, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">September 5,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Introducing+Tracklib+-+The+Future+of+Sampling&amp;rft.pub=YouTube&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6A5X5puHfJE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-makethose-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-makethose_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-makethose_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSorce-12013" class="citation web cs1">Sorce-1, DJ (March 18, 2013). <a rel="nofollow" class="external text" href="http://heavyinthestreets.blogspot.com/2013/03/make-those-records-you-make-prince-paul.html">"<span class="cs1-kern-left"></span>"Make Those Records You Make"- Prince Paul Speaks on De La Soul is Dead"</a>. <i>Heavy in the Streets</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Heavy+in+the+Streets&amp;rft.atitle=%22Make+Those+Records+You+Make%22-+Prince+Paul+Speaks+on+De+La+Soul+is+Dead&amp;rft.date=2013-03-18&amp;rft.aulast=Sorce-1&amp;rft.aufirst=DJ&amp;rft_id=http%3A%2F%2Fheavyinthestreets.blogspot.com%2F2013%2F03%2Fmake-those-records-you-make-prince-paul.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2021/11/23/arts/music/prince-paul-spotify-podcast.html">"Prince Paul Dives Deep Into Music History"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Prince+Paul+Dives+Deep+Into+Music+History&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2021%2F11%2F23%2Farts%2Fmusic%2Fprince-paul-spotify-podcast.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170825090537/http://www.chrisrock.com/category/top-25-albums#">"Top 25 Albums | The Official Chris Rock Site"</a>. <i>Chrisrock.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.chrisrock.com/category/top-25-albums">the original</a> on August 25, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chrisrock.com&amp;rft.atitle=Top+25+Albums+%7C+The+Official+Chris+Rock+Site&amp;rft_id=http%3A%2F%2Fwww.chrisrock.com%2Fcategory%2Ftop-25-albums&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://www.allmusic.com/album/a-prince-among-thieves-mw0000036796"><i>A Prince Among Thieves - Prince Paul | Songs, Reviews, Credits | AllMusic</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">October 6,</span> 2020</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Prince+Among+Thieves+-+Prince+Paul+%7C+Songs%2C+Reviews%2C+Credits+%7C+AllMusic&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Falbum%2Fa-prince-among-thieves-mw0000036796&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.stereogum.com/2033158/prince-paul-a-prince-among-thieves-20/reviews/the-anniversary/">"Prince Paul's 'A Prince Among Thieves' Turns 20"</a>. February 22, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Prince+Paul%27s+%27A+Prince+Among+Thieves%27+Turns+20&amp;rft.date=2019-02-22&amp;rft_id=https%3A%2F%2Fwww.stereogum.com%2F2033158%2Fprince-paul-a-prince-among-thieves-20%2Freviews%2Fthe-anniversary%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2021/11/23/arts/music/prince-paul-spotify-podcast.html">"Prince Paul Dives Deep Into Music History"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Prince+Paul+Dives+Deep+Into+Music+History&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2021%2F11%2F23%2Farts%2Fmusic%2Fprince-paul-spotify-podcast.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170825090537/http://www.chrisrock.com/category/top-25-albums#">"Top 25 Albums | The Official Chris Rock Site"</a>. <i>Chrisrock.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.chrisrock.com/category/top-25-albums">the original</a> on August 25, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chrisrock.com&amp;rft.atitle=Top+25+Albums+%7C+The+Official+Chris+Rock+Site&amp;rft_id=http%3A%2F%2Fwww.chrisrock.com%2Fcategory%2Ftop-25-albums&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://www.allmusic.com/album/a-prince-among-thieves-mw0000036796"><i>A Prince Among Thieves - Prince Paul | Songs, Reviews, Credits | AllMusic</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">October 6,</span> 2020</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Prince+Among+Thieves+-+Prince+Paul+%7C+Songs%2C+Reviews%2C+Credits+%7C+AllMusic&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Falbum%2Fa-prince-among-thieves-mw0000036796&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.stereogum.com/2033158/prince-paul-a-prince-among-thieves-20/reviews/the-anniversary/">"Prince Paul's 'A Prince Among Thieves' Turns 20"</a>. February 22, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Prince+Paul%27s+%27A+Prince+Among+Thieves%27+Turns+20&amp;rft.date=2019-02-22&amp;rft_id=https%3A%2F%2Fwww.stereogum.com%2F2033158%2Fprince-paul-a-prince-among-thieves-20%2Freviews%2Fthe-anniversary%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFThill2008" class="citation magazine cs1">Thill, Scott (April 1, 2008). <a rel="nofollow" class="external text" href="https://www.wired.com/2008/04/the-dino-5-are/">"The Dino 5 Takes Kid-Hop Back to the Future"</a>. <i>Wired</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 23,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wired&amp;rft.atitle=The+Dino+5+Takes+Kid-Hop+Back+to+the+Future&amp;rft.date=2008-04-01&amp;rft.aulast=Thill&amp;rft.aufirst=Scott&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2008%2F04%2Fthe-dino-5-are%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.grammy.com/artists/prince-paul/17260">"Prince Paul"</a>. <i>GRAMMY.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 9,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GRAMMY.com&amp;rft.atitle=Prince+Paul&amp;rft_id=https%3A%2F%2Fwww.grammy.com%2Fartists%2Fprince-paul%2F17260&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrince+Paul+%28producer%29" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prince_Paul_(producer)&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/13247">Prince Paul</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q34269#P1953" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.redbullmusicacademy.com/lectures/prince-paul-prince-of-thieves">Prince Paul RBMA video lecture session</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="De_La_Soul" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:De_La_Soul" title="Template:De La Soul"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:De_La_Soul" title="Template talk:De La Soul"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:De_La_Soul&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="De_La_Soul" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/De_La_Soul" title="De La Soul">De La Soul</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a href="/wiki/Kelvin_Mercer" title="Kelvin Mercer">Posdnuos</a></b></li>
+<li><b><a href="/wiki/Vincent_Mason" title="Vincent Mason">Maseo</a></b></li>
+<li><b><a href="/wiki/David_Jolicoeur" title="David Jolicoeur">Trugoy</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/3_Feet_High_and_Rising" title="3 Feet High and Rising">3 Feet High and Rising</a></i></li>
+<li><i><a href="/wiki/De_La_Soul_Is_Dead" title="De La Soul Is Dead">De La Soul Is Dead</a></i></li>
+<li><i><a href="/wiki/Buhloone_Mindstate" title="Buhloone Mindstate">Buhloone Mindstate</a></i></li>
+<li><i><a href="/wiki/Stakes_Is_High" title="Stakes Is High">Stakes Is High</a></i></li>
+<li><i><a href="/wiki/Art_Official_Intelligence:_Mosaic_Thump" title="Art Official Intelligence: Mosaic Thump">Art Official Intelligence: Mosaic Thump</a></i></li>
+<li><i><a href="/wiki/AOI:_Bionix" title="AOI: Bionix">AOI: Bionix</a></i></li>
+<li><i><a href="/wiki/The_Grind_Date" title="The Grind Date">The Grind Date</a></i></li>
+<li><i><a href="/wiki/Plug_1_%26_Plug_2_Present..._First_Serve" title="Plug 1 &amp; Plug 2 Present... First Serve">Plug 1 &amp; Plug 2 Present... First Serve</a></i></li>
+<li><i><a href="/wiki/And_the_Anonymous_Nobody..." title="And the Anonymous Nobody...">and the Anonymous Nobody...</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Other albums</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Clear_Lake_Audiotorium" title="Clear Lake Audiotorium">Clear Lake Audiotorium</a></i></li>
+<li><i><a href="/wiki/The_Best_of_De_La_Soul" title="The Best of De La Soul">The Best of De La Soul</a></i></li>
+<li><i><a href="/wiki/De_La_Mix_Tape:_Remixes,_Rarities_and_Classics" title="De La Mix Tape: Remixes, Rarities and Classics">De La Mix Tape: Remixes, Rarities and Classics</a></i></li>
+<li><i><a href="/wiki/Live_at_Tramps,_NYC,_1996" title="Live at Tramps, NYC, 1996">Live at Tramps, NYC, 1996</a></i></li>
+<li><i><a href="/wiki/The_Impossible:_Mission_TV_Series_%E2%80%93_Pt._1" title="The Impossible: Mission TV Series – Pt. 1">The Impossible: Mission TV Series - Pt. 1</a></i></li>
+<li><i><a href="/wiki/Are_You_In%3F:_Nike%2B_Original_Run" title="Are You In?: Nike+ Original Run">Are You In?: Nike+ Original Run</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Plug_Tunin%27" title="Plug Tunin&#39;">Plug Tunin'</a>"</li>
+<li>"<a href="/wiki/Potholes_in_My_Lawn" title="Potholes in My Lawn">Potholes in My Lawn</a>"</li>
+<li>"<a href="/wiki/Me_Myself_and_I_(De_La_Soul_song)" title="Me Myself and I (De La Soul song)">Me Myself and I</a>"</li>
+<li>"<a href="/wiki/Say_No_Go" title="Say No Go">Say No Go</a>"</li>
+<li>"<a href="/wiki/Eye_Know" title="Eye Know">Eye Know</a>"</li>
+<li>"<a href="/wiki/Buddy_(De_La_Soul_song)" title="Buddy (De La Soul song)">Buddy</a>"</li>
+<li>"<a href="/wiki/Ring_Ring_Ring_(Ha_Ha_Hey)" title="Ring Ring Ring (Ha Ha Hey)">Ring Ring Ring (Ha Ha Hey)</a>"</li>
+<li>"<a href="/wiki/A_Roller_Skating_Jam_Named_%22Saturdays%22" title="A Roller Skating Jam Named &quot;Saturdays&quot;">A Roller Skating Jam Named "Saturdays"</a>"</li>
+<li>"<a href="/wiki/Millie_Pulled_a_Pistol_on_Santa/Keepin%27_the_Faith" title="Millie Pulled a Pistol on Santa/Keepin&#39; the Faith">Millie Pulled a Pistol on Santa/Keepin' the Faith</a>"</li>
+<li>"<a href="/wiki/Breakadawn" title="Breakadawn">Breakadawn</a>"</li>
+<li>"<a href="/wiki/Ego_Trippin%27_(Part_Two)" title="Ego Trippin&#39; (Part Two)">Ego Trippin' (Part Two)</a>"</li>
+<li>"<a href="/wiki/Fallin%27_(Teenage_Fanclub_and_De_La_Soul_song)" title="Fallin&#39; (Teenage Fanclub and De La Soul song)">Fallin'</a>"</li>
+<li>"<a href="/wiki/Stakes_Is_High_(song)" title="Stakes Is High (song)">Stakes Is High</a>"</li>
+<li>"<a href="/wiki/Itzsoweezee_(Hot)" title="Itzsoweezee (Hot)">Itzsoweezee (Hot)</a>"</li>
+<li>"<a href="/wiki/4_More" title="4 More">4 More</a>"</li>
+<li>"<a href="/wiki/Oooh." title="Oooh.">Oooh.</a>"</li>
+<li>"<a href="/wiki/All_Good%3F" title="All Good?">All Good?</a>"</li>
+<li>"<a href="/wiki/Baby_Phat_(song)" title="Baby Phat (song)">Baby Phat</a>"</li>
+<li>"<a href="/wiki/Say_%22I_Gotta_Believe!%22" title="Say &quot;I Gotta Believe!&quot;">Say "I Gotta Believe!"</a>"</li>
+<li>"<a href="/wiki/Shoomp/Much_More" title="Shoomp/Much More">Shoomp/Much More</a>"</li>
+<li>"<a href="/wiki/Shopping_Bags_(She_Got_from_You)" title="Shopping Bags (She Got from You)">Shopping Bags (She Got from You)</a>"</li>
+<li>"<a href="/wiki/The_Grind_Date" title="The Grind Date">Rock Co.Kane Flow</a>"</li>
+<li>"<a href="/wiki/Feel_Good_Inc." title="Feel Good Inc.">Feel Good Inc.</a>"</li>
+<li>"<a href="/wiki/Superfast_Jellyfish" title="Superfast Jellyfish">Superfast Jellyfish</a>"</li>
+<li>"<a href="/wiki/Pain_(De_La_Soul_song)" title="Pain (De La Soul song)">Pain</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/De_La_Soul_discography" title="De La Soul discography">Discography</a></li>
+<li><a href="/wiki/Native_Tongues" title="Native Tongues">Native Tongues</a></li>
+<li><a class="mw-selflink selflink">Prince Paul</a></li>
+<li><a href="/wiki/Tommy_Boy_Records" title="Tommy Boy Records">Tommy Boy Records</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Gravediggaz" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Gravediggaz" title="Template:Gravediggaz"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gravediggaz" title="Template talk:Gravediggaz"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Gravediggaz&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Gravediggaz" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Gravediggaz" title="Gravediggaz">Gravediggaz</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b>The Gatekeeper</b></li>
+<li><b><a href="/wiki/Anthony_Ian_Berkeley" title="Anthony Ian Berkeley">The Grym Reaper</a></b></li>
+<li><b><a href="/wiki/RZA" title="RZA">The Rzarector</a></b></li>
+<li><b><a class="mw-selflink selflink">The Undertaker</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/6_Feet_Deep" title="6 Feet Deep">6 Feet Deep</a></i></li>
+<li><i><a href="/wiki/The_Pick,_the_Sickle_and_the_Shovel" title="The Pick, the Sickle and the Shovel">The Pick, the Sickle and the Shovel</a></i></li>
+<li><i><a href="/wiki/Nightmare_in_A-Minor" title="Nightmare in A-Minor">Nightmare in A-Minor</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Diary_of_a_Madman_(Gravediggaz_song)" title="Diary of a Madman (Gravediggaz song)">Diary of a Madman</a>"</li>
+<li>"<a href="/wiki/Nowhere_to_Run,_Nowhere_to_Hide" title="Nowhere to Run, Nowhere to Hide">Nowhere to Run, Nowhere to Hide</a>"</li>
+<li>"<a href="/wiki/1-800_Suicide" title="1-800 Suicide">1-800 Suicide</a>"</li>
+<li>"<a href="/wiki/Dangerous_Mindz" class="mw-redirect" title="Dangerous Mindz">Dangerous Mindz</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs and compilations</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Hell_E.P." title="The Hell E.P.">The Hell E.P.</a></i></li>
+<li><i><a href="/wiki/6_Feet_Under_(album)" title="6 Feet Under (album)">6 Feet Under</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related Articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Gravediggaz_discography" title="Gravediggaz discography">Discography</a></li>
+<li><a href="/wiki/Gee_Street_Records" title="Gee Street Records">Gee Street</a></li>
+<li><a href="/wiki/Wu-Tang_Clan" title="Wu-Tang Clan">Wu Tang Clan</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q34269#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q34269#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q34269#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000097927005">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/144997354">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb140009575">France</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb140009575">BnF data</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/135005809">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://urn.fi/URN:NBN:fi:au:finaf:000209953">Finland</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no99025519">United States</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0134039&amp;CON_LNG=ENG">Czech Republic</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.grammy.com/grammys/artists/prince-paul/17260">Grammy Awards</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/50840ae7-d000-4858-8aac-bd776a12dafa">MusicBrainz</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/085237701">IdRef</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2325
+Cached time: 20230919184908
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.723 seconds
+Real time usage: 0.904 seconds
+Preprocessor visited node count: 4268/1000000
+Post‐expand include size: 120303/2097152 bytes
+Template argument size: 8064/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 20/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 126341/5000000 bytes
+Lua time usage: 0.445/10.000 seconds
+Lua memory usage: 10782097/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  800.688      1 -total
+ 30.62%  245.188      1 Template:Reflist
+ 20.72%  165.872      1 Template:Infobox_musical_artist
+ 18.40%  147.347     22 Template:Cite_web
+ 17.98%  143.947      1 Template:Infobox
+  9.30%   74.430      2 Template:Short_description
+  9.16%   73.374      1 Template:BLP_sources
+  8.56%   68.499      1 Template:Ambox
+  7.07%   56.632      2 Template:Br_separated_entries
+  6.73%   53.865      4 Template:Cn
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23307-0!canonical and timestamp 20230919184907 and revision id 1174351538. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Prince_Paul_(producer)&amp;oldid=1174351538">https://en.wikipedia.org/w/index.php?title=Prince_Paul_(producer)&amp;oldid=1174351538</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1967_births" title="Category:1967 births">1967 births</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:African-American_record_producers" title="Category:African-American record producers">African-American record producers</a></li><li><a href="/wiki/Category:American_hip_hop_DJs" title="Category:American hip hop DJs">American hip hop DJs</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Five_percenters" title="Category:Five percenters">Five percenters</a></li><li><a href="/wiki/Category:Grammy_Award_winners" title="Category:Grammy Award winners">Grammy Award winners</a></li><li><a href="/wiki/Category:Gravediggaz_members" title="Category:Gravediggaz members">Gravediggaz members</a></li><li><a href="/wiki/Category:Horrorcore_artists" title="Category:Horrorcore artists">Horrorcore artists</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_Amityville,_New_York" title="Category:People from Amityville, New York">People from Amityville, New York</a></li><li><a href="/wiki/Category:Rappers_from_New_York_(state)" title="Category:Rappers from New York (state)">Rappers from New York (state)</a></li><li><a href="/wiki/Category:Tommy_Boy_Records_artists" title="Category:Tommy Boy Records artists">Tommy Boy Records artists</a></li><li><a href="/wiki/Category:Stetsasonic_members" title="Category:Stetsasonic members">Stetsasonic members</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:Record_producers_from_New_York_(state)" title="Category:Record producers from New York (state)">Record producers from New York (state)</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:Dino_5_members" title="Category:Dino 5 members">Dino 5 members</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2017" title="Category:Articles with dead external links from December 2017">Articles with dead external links from December 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_October_2015" title="Category:Use mdy dates from October 2015">Use mdy dates from October 2015</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_February_2011" title="Category:BLP articles lacking sources from February 2011">BLP articles lacking sources from February 2011</a></li><li><a href="/wiki/Category:All_BLP_articles_lacking_sources" title="Category:All BLP articles lacking sources">All BLP articles lacking sources</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2023" title="Category:Articles with unsourced statements from July 2023">Articles with unsourced statements from July 2023</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_KANTO_identifiers" title="Category:Articles with KANTO identifiers">Articles with KANTO identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_NKC_identifiers" title="Category:Articles with NKC identifiers">Articles with NKC identifiers</a></li><li><a href="/wiki/Category:Articles_with_Grammy_identifiers" title="Category:Articles with Grammy identifiers">Articles with Grammy identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Articles_with_SUDOC_identifiers" title="Category:Articles with SUDOC identifiers">Articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Place_of_birth_missing_(living_people)" title="Category:Place of birth missing (living people)">Place of birth missing (living people)</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 7 September 2023, at 22:32<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Prince_Paul_(producer)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2361","wgBackendResponseTime":106,"wgPageParseReport":{"limitreport":{"cputime":"0.723","walltime":"0.904","ppvisitednodes":{"value":4268,"limit":1000000},"postexpandincludesize":{"value":120303,"limit":2097152},"templateargumentsize":{"value":8064,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":20,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":126341,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  800.688      1 -total"," 30.62%  245.188      1 Template:Reflist"," 20.72%  165.872      1 Template:Infobox_musical_artist"," 18.40%  147.347     22 Template:Cite_web"," 17.98%  143.947      1 Template:Infobox","  9.30%   74.430      2 Template:Short_description","  9.16%   73.374      1 Template:BLP_sources","  8.56%   68.499      1 Template:Ambox","  7.07%   56.632      2 Template:Br_separated_entries","  6.73%   53.865      4 Template:Cn"]},"scribunto":{"limitreport-timeusage":{"value":"0.445","limit":"10.000"},"limitreport-memusage":{"value":10782097,"limit":52428800}},"cachereport":{"origin":"mw2325","timestamp":"20230919184908","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Prince Paul (producer)","url":"https:\/\/en.wikipedia.org\/wiki\/Prince_Paul_(producer)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q34269","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q34269","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-05-15T20:39:22Z","dateModified":"2023-09-07T22:32:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/16\/Dj_prince_paul-mika.jpg","headline":"American record producer"}</script>
+</body>
+</html>

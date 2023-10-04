@@ -1,0 +1,1226 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>O.Y.G Redrum 781 - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"9563e2ee-1e5d-486f-95b0-b9952b4e1603","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"O.Y.G_Redrum_781","wgTitle":"O.Y.G Redrum 781","wgCurRevisionId":1163867413,"wgRevisionId":1163867413,"wgArticleId":42778292,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use mdy dates from April 2021","Articles with hCards","Pages using infobox musical artist with associated acts","All articles with unsourced statements","Articles with unsourced statements from April 2017","Articles with MusicBrainz identifiers","1972 births","2021 deaths","21st-century American male musicians","21st-century American rappers","African-American male rappers","American male rappers","African-American record producers","American hip hop record producers","Bloods",
+"Gangsta rappers","G-funk artists","Rappers from Los Angeles","Record producers from California","Watts, Los Angeles","West Coast hip hop musicians","21st-century African-American musicians","20th-century African-American people","Burials at Inglewood Park Cemetery"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"O.Y.G_Redrum_781","wgRelevantArticleId":42778292,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":8000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English"
+,"wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q16902217","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="O.Y.G Redrum 781 - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/O.Y.G_Redrum_781">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/O.Y.G_Redrum_781">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-O_Y_G_Redrum_781 rootpage-O_Y_G_Redrum_781 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=O.Y.G+Redrum+781" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=O.Y.G+Redrum+781" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=O.Y.G+Redrum+781" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=O.Y.G+Redrum+781" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>History</div>
+		</a>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-Bloods_and_Crips"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Bloods_and_Crips">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Bloods and Crips</div>
+			</a>
+			
+			<ul id="toc-Bloods_and_Crips-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Death_Row_Records_and_later_career"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Death_Row_Records_and_later_career">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Death Row Records and later career</div>
+			</a>
+			
+			<ul id="toc-Death_Row_Records_and_later_career-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Death"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Death">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Death</div>
+			</a>
+			
+			<ul id="toc-Death-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Solo_singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Solo_singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Solo singles</div>
+			</a>
+			
+			<ul id="toc-Solo_singles-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Guest_appearances_in_videos"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Guest_appearances_in_videos">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Guest appearances in videos</div>
+		</a>
+		
+		<ul id="toc-Guest_appearances_in_videos-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">O.Y.G Redrum 781</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 1 language"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-1" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">1 language</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%88.%D9%88%D8%A7%D9%89.%D8%AC%D9%89_%D8%B1%D9%8A%D8%AF%D8%B1%D9%88%D9%85_781" title="او.واى.جى ريدروم 781 – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16902217#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/O.Y.G_Redrum_781" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:O.Y.G_Redrum_781" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/O.Y.G_Redrum_781"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/O.Y.G_Redrum_781"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/O.Y.G_Redrum_781" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/O.Y.G_Redrum_781" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;oldid=1163867413" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=O.Y.G_Redrum_781&amp;id=1163867413&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16902217" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=O.Y.G_Redrum_781&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper (1972–2021)</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">redruM 781</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Jermaine Carter</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname">O.Y.G redruM 781, @Bighomierum</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none">(<span class="bday">1972-07-22</span>)</span>July 22, 1972, <a href="/wiki/Bronx,_New_York" class="mw-redirect" title="Bronx, New York">Bronx, New York</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Inglewood,_California" title="Inglewood, California">Inglewood, California</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Died</th><td class="infobox-data">October 30, 2021<span style="display:none">(2021-10-30)</span> (aged&#160;49)</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/Rapper" class="mw-redirect" title="Rapper">Rapper</a></li><li>producer</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note">Vocals</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1992–2021</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row</a> (1993–1994)<br />Warlock Records <br />Come Get It Records LLC</td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><a rel="nofollow" class="external text" href="http://www.oygredrum781.com/">www.oygredrum781.com</a></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>RedruM 781</b> (born <b>Jermaine Carter)</b> (July 22, 1972 - October 30, 2021) was an American <a href="/wiki/Rapper" class="mw-redirect" title="Rapper">rapper</a> from <a href="/wiki/Inglewood,_California" title="Inglewood, California">Inglewood</a>, California. RedruM 781, <a href="/wiki/Tweedy_Bird_Loc" class="mw-redirect" title="Tweedy Bird Loc">Tweedy Bird Loc</a> and producer Ronnie Phillips organized hip hop project <a href="/wiki/Bloods_%26_Crips" title="Bloods &amp; Crips">Bloods &amp; Crips</a>, collaboration between <a href="/wiki/Bloods" title="Bloods">Bloods</a> and <a href="/wiki/Crips" title="Crips">Crips</a> members.<sup id="cite_ref-allmusic_1-0" class="reference"><a href="#cite_note-allmusic-1">&#91;1&#93;</a></sup> He is a <a href="/wiki/Pirus" title="Pirus">Piru</a> gang member himself.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> redruM 781 is also known for his key role on <i>"<a href="/wiki/Bangin%27_on_Wax" title="Bangin&#39; on Wax">Bangin' on Wax</a>"</i>, he and his fellow female MC Bloody Mary were the two key players for getting this particular Bangin' on Wax project off the ground. He was the cousin of the rapper <a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>, with whom they had a long-time beef.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carter was born in <a href="/wiki/Bronx,_New_York" class="mw-redirect" title="Bronx, New York">Bronx, New York</a>. He resided with his mother and young brother there until the age of 5, when he relocated to <a href="/wiki/Inglewood,_California" title="Inglewood, California">Inglewood, California</a> with his family. Unfamiliar with their new surroundings and because of the infestation of drug dealers and addicts, pimps and prostitutes, hustlers, and gang-bangers, his mother feared when he and his young sibling would try to venture outside. Eventually his younger brother was initiated into the Avenue Piru Blood Gang<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> (APG's, in Inglewood, CA); being fearful for his little brother's safety RedRum soon found himself being initiated into the same gang to protect his younger brother. He began to write and rhyme, to express his life experiences through his music. He actively started rapping when he attended <a href="/wiki/Morningside_High_School" title="Morningside High School">Morningside High School</a>, winning several talent shows and contests.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2017)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Bloods_and_Crips">Bloods and Crips</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit&amp;section=3" title="Edit section: Bloods and Crips">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1993, <i>"<a href="/wiki/Bangin%27_on_Wax" title="Bangin&#39; on Wax">Bangin' on Wax</a>"</i> was a gangster music developed project by both the Bloods and the Crips. At first it seemed impossible that the two rival gangs would collaborate on a music project but the impossible happened. The music project was organized by Ronnie "Ron" Phillips and rappers redruM 781, <a href="/wiki/Tweedy_Bird_Loc" class="mw-redirect" title="Tweedy Bird Loc">Tweedy Bird Loc</a>. Actual gang members from both sides auditioned on a tryout and the best ones were chosen for the project. The album was released in 1993 on Warlock Records and was a success selling over at many copies. There is also another album from the Bloods and the Crips on the Bangin' project titled <i>"<a href="/wiki/Bangin%27_on_Wax_2..._The_Saga_Continues" title="Bangin&#39; on Wax 2... The Saga Continues">Bangin' on Wax 2... The Saga Continues</a>"</i>, which was released in 1994. After this CD, however, the rappers who appeared on the albums began recording separate albums for Warlock Records, under the group names <a href="/wiki/Nationwide_Rip_Ridaz" class="mw-redirect" title="Nationwide Rip Ridaz">Nationwide Rip Ridaz</a> (Crips) and <a href="/wiki/Damu_Ridas" class="mw-redirect" title="Damu Ridas">Damu Ridas</a> I and II (Bloods). Unfortunately for some of the members of Bangin On Wax were incarcerated or have been killed in gang actions.
+</p>
+<h3><span class="mw-headline" id="Death_Row_Records_and_later_career">Death Row Records and later career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit&amp;section=4" title="Edit section: Death Row Records and later career">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>O.Y.G. redruM 781 has shared the booth with rapper <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a>. During 1993–1994, he joined <a href="/wiki/Death_Row_Records" title="Death Row Records">Death Row Records</a>, the famous label known for artists such as Tupac, <a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a>, <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> and <a href="/wiki/DJ_Quik" title="DJ Quik">DJ Quik</a>. That time there gave him a great opportunity to grow in his music, making collaborations with all of these artists in the label directed by the infamous Marion <a href="/wiki/Suge_Knight" title="Suge Knight">Suge Knight</a>. He has recently shared the stage with the world-famous <a href="/wiki/Ice-T" title="Ice-T">Ice-T</a> and <a href="/wiki/Dilated_Peoples" title="Dilated Peoples">Dilated Peoples</a>. Redrum has done numerous collaborations with well known West Coast artists such as <a href="/wiki/Kam_(rapper)" title="Kam (rapper)">Kam</a>, N.U.N.E., <a href="/wiki/Bloods_%26_Crips" title="Bloods &amp; Crips">Big Wy</a> and a big roster of rappers.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit&amp;section=5" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Carter died of <a href="/wiki/Bone_cancer" class="mw-redirect" title="Bone cancer">bone cancer</a> on October 30, 2021, at the age of 49.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> He is interred at <a href="/wiki/Inglewood_Park_Cemetery" title="Inglewood Park Cemetery">Inglewood Park Cemetery</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit&amp;section=6" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+
+<tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Studio albums</dt></dl>
+<ul><li>2007: Back Pay</li>
+<li>2014: Blood Transfusion</li></ul>
+<dl><dt>Collaboration album(s)</dt></dl>
+<ul><li>1993: <a href="/wiki/Bangin%27_on_Wax" title="Bangin&#39; on Wax">Bangin' on Wax</a> (With <a href="/wiki/Bloods_%26_Crips" title="Bloods &amp; Crips">Bloods &amp; Crips</a>)</li>
+<li>1994: <a href="/wiki/Bangin%27_on_Wax_2..._The_Saga_Continues" title="Bangin&#39; on Wax 2... The Saga Continues">Bangin' on Wax 2... The Saga Continues</a> (With <a href="/wiki/Bloods_%26_Crips" title="Bloods &amp; Crips">Bloods &amp; Crips</a>)</li>
+<li>1994: <a href="/wiki/Murder_Was_the_Case" title="Murder Was the Case">Murder Was the Case</a> (With <a href="/wiki/Young_Soldierz" class="mw-redirect" title="Young Soldierz">Young Soldierz</a>)</li>
+<li>1994: <a href="/wiki/How_Deep_Is_Your_Hood" title="How Deep Is Your Hood">How Deep Is Your Hood</a> (With <a href="/wiki/Damu_Ridas" class="mw-redirect" title="Damu Ridas">Damu Ridas</a> II)</li>
+<li>1996: <a href="/wiki/Bangin%27_on_Wax:_Greatest_Hits" title="Bangin&#39; on Wax: Greatest Hits">Bangin' on Wax: Greatest Hits</a> (With <a href="/wiki/Bloods_%26_Crips" title="Bloods &amp; Crips">Bloods &amp; Crips</a>)</li>
+<li>2006: Rep Yo Set (With <a href="/wiki/Bloods_%26_Crips" title="Bloods &amp; Crips">Bloods &amp; Crips</a>)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li></ul>
+<p><br />
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Mixtape(s)</dt></dl>
+<ul><li>2009: Blood Module Mixtape</li>
+<li>2010: Stars &amp; Stripes (With Apollo Mafia)</li>
+<li>2011: The Legend Damu Ridaz</li></ul>
+<dl><dt>Guest Appearance(s)</dt></dl>
+<ul><li>2013: Everything Aint Always In Color</li>
+<li>2013: Never Settle (with Bossolo &amp; Bigfase100)</li>
+<li>2013: Conspiracy Theory (with Bossolo)</li></ul>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h3><span class="mw-headline" id="Solo_singles">Solo singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit&amp;section=7" title="Edit section: Solo singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Album
+</th></tr>
+<tr>
+<td rowspan="2">2014
+</td>
+<td>"Luv Neva Diez"
+</td>
+<td rowspan="2"><i>Blood Transfusion</i>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Guest_appearances_in_videos">Guest appearances in videos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit&amp;section=8" title="Edit section: Guest appearances in videos">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Piru Love</li>
+<li>Bangin' on Wax (Duet)</li>
+<li>Won't Stop Being A Blood</li>
+<li>Shot Kallas</li>
+<li>Piru'N</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-allmusic-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-allmusic_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/p37467">Bloods &amp; Crips Biography</a> AllMusic.com April 11, 2008 Retrieved. April 11, 2008</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dubcnn.com/2014/04/21/dubcnn-exclusive-interview-with-oyg-redrum-april-2014">Exclusive Interview with O.Y.G redruM 781 (April 2014)</a> DubCNN.com April 21, 2014 Retrieved. April 21, 2014</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hiphopnews24-7.com/profiles/blogs/shot-firedredrum-781-from-the">Interview with redruM 781, talks beef with Kurupt, 40 Glocc, Mack 10 &amp; Lil Wayne</a> HipHopNews24-7.com May 17, 2014 Retrieved. May 17, 2014</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.streetgangs.com/bloods/inglewood/apg">Avenue Piru Gang (APG)</a> StreetGangs.com May 17, 2014 Retrieved. May 17, 2014</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oygredrum781.com/music.html">O.Y.G RedRum 781's Music</a> OYGRedruM781.com May 17, 2014 Retrieved. May 17, 2014</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/385470-west-coast-rap-legend-oyg-redrum-781-dead-after-cancer-battle-news">West Coast Rap Legend O.Y.G Redrum 781 Dead After Cancer Battle</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://lafuneral.com/obits/jermaine-dantes-carter/">Jermaine Dantes Carter</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/58680/aspiring-rappers-eschew-gangs-on-rep-yo-set">Aspiring Rappers Eschew Gangs On 'Rep Yo Set'</a> BillBoard.com May 17, 2014 Retrieved. May 17, 2014</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=O.Y.G_Redrum_781&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.discogs.com/artist/963718-Red-Rum-781">O.Y.G RedRum 781</a> at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="http://unitedgangs.com/2013/05/02/redrum-781/">O.Y.G RedRum 781</a> at <a rel="nofollow" class="external text" href="http://unitedgangs.com/2013/05/02/redrum-781/">UnitedGangs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.streetgangs.com/contacts/redrum#sthash.Uxg4sQum.dpbs">O.Y.G RedRum 781</a> at <a rel="nofollow" class="external text" href="http://www.streetgangs.com/">StreetGangs</a></li>
+<li><a rel="nofollow" class="external text" href="https://twitter.com/bighomierum">O.Y.G RedRum 781</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q16902217#P2002" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.instagram.com/bighomierum/">O.Y.G RedRum 781</a> on <a href="/wiki/Instagram" title="Instagram">Instagram</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="State_of_California" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color:#FCC200;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:California" title="Template:California"><abbr title="View this template" style="background-color:#FCC200;;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:California" title="Template talk:California"><abbr title="Discuss this template" style="background-color:#FCC200;;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:California&amp;action=edit"><abbr title="Edit this template" style="background-color:#FCC200;;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="State_of_California" style="font-size:114%;margin:0 4em"><a href="/wiki/U.S._state" title="U.S. state">State</a> of <a href="/wiki/California" title="California">California</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background-color:#FCC200;"><div><b><a href="/wiki/Sacramento,_California" title="Sacramento, California">Sacramento</a></b> (capital)</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#FCC200;;width:1%"><a href="/wiki/Outline_of_California" title="Outline of California">Topics</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Culture_of_California" title="Culture of California">Culture</a>
+<ul><li><a href="/wiki/Cuisine_of_California" title="Cuisine of California">food</a></li>
+<li><a href="/wiki/Music_of_California" title="Music of California">music</a></li>
+<li><a href="/wiki/Languages_of_California" class="mw-redirect" title="Languages of California">languages</a></li>
+<li><a href="/wiki/California_sound" title="California sound">California sound</a></li>
+<li><a href="/wiki/Sports_in_California" title="Sports in California">sports</a></li>
+<li><a href="/wiki/California_Dream" title="California Dream">California Dream</a></li></ul></li>
+<li><a href="/wiki/Crime_in_California" title="Crime in California">Crime</a></li>
+<li><a href="/wiki/Demographics_of_California" title="Demographics of California">Demographics</a></li>
+<li><a href="/wiki/List_of_earthquakes_in_California" title="List of earthquakes in California">Earthquakes</a></li>
+<li><a href="/wiki/Economy_of_California" title="Economy of California">Economy</a>
+<ul><li><a href="/wiki/Agriculture_in_California" title="Agriculture in California">agriculture</a></li></ul></li>
+<li><a href="/wiki/Education_in_California" title="Education in California">Education</a></li>
+<li><a href="/wiki/Environment_of_California" title="Environment of California">Environment</a></li>
+<li><a href="/wiki/Geography_of_California" title="Geography of California">Geography</a>
+<ul><li><a href="/wiki/Climate_of_California" title="Climate of California">climate</a></li>
+<li><a href="/wiki/Ecology_of_California" title="Ecology of California">ecology</a></li>
+<li><a href="/wiki/California_Floristic_Province" title="California Floristic Province">flora</a></li>
+<li><a href="/wiki/Fauna_of_California" title="Fauna of California">fauna</a></li></ul></li>
+<li><a href="/wiki/Government_of_California" title="Government of California">Government</a>
+<ul><li><a href="/wiki/California_State_Capitol" title="California State Capitol">Capitol</a></li>
+<li><a href="/wiki/Districts_in_California" title="Districts in California">districts</a></li>
+<li><a href="/wiki/Governor_of_California" title="Governor of California">governor</a></li>
+<li><a href="/wiki/California_State_Legislature" title="California State Legislature">legislature</a></li>
+<li><a href="/wiki/Supreme_Court_of_California" title="Supreme Court of California">Supreme Court</a></li></ul></li>
+<li><a href="/wiki/Healthcare_in_California" class="mw-redirect" title="Healthcare in California">Healthcare</a></li>
+<li><a href="/wiki/History_of_California" title="History of California">History</a></li>
+<li><a href="/wiki/Law_of_California" title="Law of California">Law</a></li>
+<li><a href="/wiki/LGBT_rights_in_California" title="LGBT rights in California">LGBT rights</a></li>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_California" title="List of National Historic Landmarks in California">National Historic Landmarks</a></li>
+<li><a href="/wiki/List_of_National_Natural_Landmarks_in_California" title="List of National Natural Landmarks in California">National Natural Landmarks</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_California" title="National Register of Historic Places listings in California">NRHP listings</a></li>
+<li><a href="/wiki/Politics_of_California" title="Politics of California">Politics</a>
+<ul><li><a href="/wiki/United_States_congressional_delegations_from_California" title="United States congressional delegations from California">congressional delegations</a></li>
+<li><a href="/wiki/Elections_in_California" title="Elections in California">elections</a></li></ul></li>
+<li><a href="/wiki/List_of_people_from_California" title="List of people from California">People</a></li>
+<li><a href="/wiki/California_protected_areas" class="mw-redirect" title="California protected areas">Protected areas</a>
+<ul><li><a href="/wiki/List_of_California_state_parks" title="List of California state parks">state parks</a></li>
+<li><a href="/wiki/List_of_California_Historical_Landmarks" title="List of California Historical Landmarks">state historic landmarks</a></li></ul></li>
+<li><a href="/wiki/List_of_California_state_symbols" title="List of California state symbols">Symbols</a></li>
+<li><a href="/wiki/Transportation_in_California" title="Transportation in California">Transportation</a></li>
+<li><a href="/wiki/Water_in_California" title="Water in California">Water</a></li>
+<li><a href="/wiki/Index_of_California-related_articles" title="Index of California-related articles">Index of articles</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#FCC200;;width:1%"><a href="/wiki/List_of_regions_of_California" title="List of regions of California">Regions</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Antelope_Valley" title="Antelope Valley">Antelope Valley</a></li>
+<li><a href="/wiki/Big_Sur" title="Big Sur">Big Sur</a></li>
+<li><a href="/wiki/California_Coast_Ranges" title="California Coast Ranges">California Coast Ranges</a></li>
+<li><a href="/wiki/Cascade_Range" title="Cascade Range">Cascade Range</a></li>
+<li><a href="/wiki/Central_California" title="Central California">Central California</a></li>
+<li><a href="/wiki/Central_Coast_(California)" title="Central Coast (California)">Central Coast</a></li>
+<li><a href="/wiki/Central_Valley_(California)" title="Central Valley (California)">Central Valley</a></li>
+<li><a href="/wiki/Channel_Islands_(California)" title="Channel Islands (California)">Channel Islands</a></li>
+<li><a href="/wiki/Coachella_Valley" title="Coachella Valley">Coachella Valley</a></li>
+<li><a href="/wiki/Coastal_California" title="Coastal California">Coastal California</a></li>
+<li><a href="/wiki/Conejo_Valley" title="Conejo Valley">Conejo Valley</a></li>
+<li><a href="/wiki/Cucamonga_Valley" title="Cucamonga Valley">Cucamonga Valley</a></li>
+<li><a href="/wiki/Death_Valley" title="Death Valley">Death Valley</a></li>
+<li><a href="/wiki/East_Bay_(San_Francisco_Bay_Area)" class="mw-redirect" title="East Bay (San Francisco Bay Area)">East Bay (SF Bay Area)</a></li>
+<li><a href="/wiki/East_County,_San_Diego" title="East County, San Diego">East County (SD)</a></li>
+<li><a href="/wiki/Eastern_California" title="Eastern California">Eastern California</a></li>
+<li><a href="/wiki/Emerald_Triangle" title="Emerald Triangle">Emerald Triangle</a></li>
+<li><a href="/wiki/Gold_Country" title="Gold Country">Gold Country</a></li>
+<li><a href="/wiki/Great_Basin" title="Great Basin">Great Basin</a></li>
+<li><a href="/wiki/San_Bernardino_Valley" title="San Bernardino Valley">Greater San Bernardino</a></li>
+<li><a href="/wiki/Inland_Empire" title="Inland Empire">Inland Empire</a></li>
+<li><a href="/wiki/Klamath_Basin" title="Klamath Basin">Klamath Basin</a></li>
+<li><a href="/wiki/Lake_Tahoe" title="Lake Tahoe">Lake Tahoe</a></li>
+<li><a href="/wiki/Greater_Los_Angeles_Area" class="mw-redirect" title="Greater Los Angeles Area">Greater Los Angeles</a></li>
+<li><a href="/wiki/Los_Angeles_Basin" title="Los Angeles Basin">Los Angeles Basin</a></li>
+<li><a href="/wiki/Lost_Coast" title="Lost Coast">Lost Coast</a></li>
+<li><a href="/wiki/Mojave_Desert" title="Mojave Desert">Mojave Desert</a></li>
+<li><a href="/wiki/Mountain_Empire,_San_Diego" title="Mountain Empire, San Diego">Mountain Empire</a></li>
+<li><a href="/wiki/North_Bay_(San_Francisco_Bay_Area)" title="North Bay (San Francisco Bay Area)">North Bay (SF)</a></li>
+<li><a href="/wiki/North_Coast_(California)" title="North Coast (California)">North Coast</a></li>
+<li><a href="/wiki/North_County_(San_Diego_area)" title="North County (San Diego area)">North Coast (SD)</a></li>
+<li><a href="/wiki/Northern_California" title="Northern California">Northern California</a></li>
+<li><a href="/wiki/Orange_Coast" title="Orange Coast">Orange Coast</a></li>
+<li><a href="/wiki/Owens_Valley" title="Owens Valley">Owens Valley</a></li>
+<li><a href="/wiki/Oxnard_Plain" title="Oxnard Plain">Oxnard Plain</a></li>
+<li><a href="/wiki/Peninsular_Ranges" title="Peninsular Ranges">Peninsular Ranges</a></li>
+<li><a href="/wiki/Pomona_Valley" title="Pomona Valley">Pomona Valley</a></li>
+<li><a href="/wiki/Sacramento%E2%80%93San_Joaquin_River_Delta" title="Sacramento–San Joaquin River Delta">Sacramento–San Joaquin River Delta</a></li>
+<li><a href="/wiki/Sacramento_Valley" title="Sacramento Valley">Sacramento Valley</a></li>
+<li><a href="/wiki/Saddleback_Valley" title="Saddleback Valley">Saddleback Valley</a></li>
+<li><a href="/wiki/Salinas_Valley" title="Salinas Valley">Salinas Valley</a></li>
+<li><a href="/wiki/San_Fernando_Valley" title="San Fernando Valley">San Fernando Valley</a></li>
+<li><a href="/wiki/San_Francisco_Bay_Area" title="San Francisco Bay Area">San Francisco Bay Area</a></li>
+<li><a href="/wiki/San_Francisco_Peninsula" title="San Francisco Peninsula">San Francisco Peninsula</a></li>
+<li><a href="/wiki/San_Gabriel_Valley" title="San Gabriel Valley">San Gabriel Valley</a></li>
+<li><a href="/wiki/San_Joaquin_Valley" title="San Joaquin Valley">San Joaquin Valley</a></li>
+<li><a href="/wiki/Santa_Clara_Valley" title="Santa Clara Valley">Santa Clara Valley</a></li>
+<li><a href="/wiki/Santa_Clara_River_Valley" title="Santa Clara River Valley">Santa Clara River Valley</a></li>
+<li><a href="/wiki/Santa_Clarita_Valley" title="Santa Clarita Valley">Santa Clarita Valley</a></li>
+<li><a href="/wiki/Santa_Ynez_Valley" title="Santa Ynez Valley">Santa Ynez Valley</a></li>
+<li><a href="/wiki/Shasta_Cascade" title="Shasta Cascade">Shasta Cascade</a></li>
+<li><a href="/wiki/Sierra_Nevada" title="Sierra Nevada">Sierra Nevada</a></li>
+<li><a href="/wiki/Silicon_Valley" title="Silicon Valley">Silicon Valley</a></li>
+<li><a href="/wiki/South_Bay_(Los_Angeles_County)" title="South Bay (Los Angeles County)">South Bay (LA)</a></li>
+<li><a href="/wiki/South_Bay,_San_Diego" class="mw-redirect" title="South Bay, San Diego">South Bay (SD)</a></li>
+<li><a href="/wiki/Santa_Clara_Valley#San_Francisco_South_Bay" title="Santa Clara Valley">South Bay (SF)</a></li>
+<li><a href="/wiki/South_Coast_(California)" title="South Coast (California)">South Coast</a></li>
+<li><a href="/wiki/Southern_Border_Region_(California)" title="Southern Border Region (California)">Southern Border Region</a></li>
+<li><a href="/wiki/Southern_California" title="Southern California">Southern California</a></li>
+<li><a href="/wiki/Transverse_Ranges" title="Transverse Ranges">Transverse Ranges</a></li>
+<li><a href="/wiki/Tri-Valley" title="Tri-Valley">Tri-Valley</a></li>
+<li><a href="/wiki/Victor_Valley" title="Victor Valley">Victor Valley</a></li>
+<li><a href="/wiki/Wine_Country_(California)" class="mw-redirect" title="Wine Country (California)">Wine Country</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#FCC200;;width:1%"><a href="/wiki/Metropolitan_statistical_area" title="Metropolitan statistical area">Metro regions</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Metropolitan_Fresno" title="Metropolitan Fresno">Fresno–Madera</a></li>
+<li><a href="/wiki/Greater_Los_Angeles" title="Greater Los Angeles">Los Angeles-Long Beach-Anaheim</a></li>
+<li><a href="/wiki/Sacramento_metropolitan_area" title="Sacramento metropolitan area">Sacramento–Roseville</a></li>
+<li><a href="/wiki/Inland_Empire" title="Inland Empire">Riverside–San Bernardino–Ontario</a></li>
+<li><a href="/wiki/San_Diego%E2%80%93Tijuana" title="San Diego–Tijuana">San Diego–Tijuana</a></li>
+<li><a href="/wiki/San_Jose%E2%80%93San_Francisco%E2%80%93Oakland,_CA_Combined_Statistical_Area" class="mw-redirect" title="San Jose–San Francisco–Oakland, CA Combined Statistical Area">San Jose–San Francisco–Oakland</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#FCC200;;width:1%"><a href="/wiki/List_of_counties_in_California" title="List of counties in California">Counties</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Alameda_County,_California" title="Alameda County, California">Alameda</a></li>
+<li><a href="/wiki/Alpine_County,_California" title="Alpine County, California">Alpine</a></li>
+<li><a href="/wiki/Amador_County,_California" title="Amador County, California">Amador</a></li>
+<li><a href="/wiki/Butte_County,_California" title="Butte County, California">Butte</a></li>
+<li><a href="/wiki/Calaveras_County,_California" title="Calaveras County, California">Calaveras</a></li>
+<li><a href="/wiki/Colusa_County,_California" title="Colusa County, California">Colusa</a></li>
+<li><a href="/wiki/Contra_Costa_County,_California" title="Contra Costa County, California">Contra Costa</a></li>
+<li><a href="/wiki/Del_Norte_County,_California" title="Del Norte County, California">Del Norte</a></li>
+<li><a href="/wiki/El_Dorado_County,_California" title="El Dorado County, California">El Dorado</a></li>
+<li><a href="/wiki/Fresno_County,_California" title="Fresno County, California">Fresno</a></li>
+<li><a href="/wiki/Glenn_County,_California" title="Glenn County, California">Glenn</a></li>
+<li><a href="/wiki/Humboldt_County,_California" title="Humboldt County, California">Humboldt</a></li>
+<li><a href="/wiki/Imperial_County,_California" title="Imperial County, California">Imperial</a></li>
+<li><a href="/wiki/Inyo_County,_California" title="Inyo County, California">Inyo</a></li>
+<li><a href="/wiki/Kern_County,_California" title="Kern County, California">Kern</a></li>
+<li><a href="/wiki/Kings_County,_California" title="Kings County, California">Kings</a></li>
+<li><a href="/wiki/Lake_County,_California" title="Lake County, California">Lake</a></li>
+<li><a href="/wiki/Lassen_County,_California" title="Lassen County, California">Lassen</a></li>
+<li><a href="/wiki/Los_Angeles_County,_California" title="Los Angeles County, California">Los Angeles</a></li>
+<li><a href="/wiki/Madera_County,_California" title="Madera County, California">Madera</a></li>
+<li><a href="/wiki/Marin_County,_California" title="Marin County, California">Marin</a></li>
+<li><a href="/wiki/Mariposa_County,_California" title="Mariposa County, California">Mariposa</a></li>
+<li><a href="/wiki/Mendocino_County,_California" title="Mendocino County, California">Mendocino</a></li>
+<li><a href="/wiki/Merced_County,_California" title="Merced County, California">Merced</a></li>
+<li><a href="/wiki/Modoc_County,_California" title="Modoc County, California">Modoc</a></li>
+<li><a href="/wiki/Mono_County,_California" title="Mono County, California">Mono</a></li>
+<li><a href="/wiki/Monterey_County,_California" title="Monterey County, California">Monterey</a></li>
+<li><a href="/wiki/Napa_County,_California" title="Napa County, California">Napa</a></li>
+<li><a href="/wiki/Nevada_County,_California" title="Nevada County, California">Nevada</a></li>
+<li><a href="/wiki/Orange_County,_California" title="Orange County, California">Orange</a></li>
+<li><a href="/wiki/Placer_County,_California" title="Placer County, California">Placer</a></li>
+<li><a href="/wiki/Plumas_County,_California" title="Plumas County, California">Plumas</a></li>
+<li><a href="/wiki/Riverside_County,_California" title="Riverside County, California">Riverside</a></li>
+<li><a href="/wiki/Sacramento_County,_California" title="Sacramento County, California">Sacramento</a></li>
+<li><a href="/wiki/San_Benito_County,_California" title="San Benito County, California">San Benito</a></li>
+<li><a href="/wiki/San_Bernardino_County,_California" title="San Bernardino County, California">San Bernardino</a></li>
+<li><a href="/wiki/San_Diego_County,_California" title="San Diego County, California">San Diego</a></li>
+<li><a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a></li>
+<li><a href="/wiki/San_Joaquin_County,_California" title="San Joaquin County, California">San Joaquin</a></li>
+<li><a href="/wiki/San_Luis_Obispo_County,_California" title="San Luis Obispo County, California">San Luis Obispo</a></li>
+<li><a href="/wiki/San_Mateo_County,_California" title="San Mateo County, California">San Mateo</a></li>
+<li><a href="/wiki/Santa_Barbara_County,_California" title="Santa Barbara County, California">Santa Barbara</a></li>
+<li><a href="/wiki/Santa_Clara_County,_California" title="Santa Clara County, California">Santa Clara</a></li>
+<li><a href="/wiki/Santa_Cruz_County,_California" title="Santa Cruz County, California">Santa Cruz</a></li>
+<li><a href="/wiki/Shasta_County,_California" title="Shasta County, California">Shasta</a></li>
+<li><a href="/wiki/Sierra_County,_California" title="Sierra County, California">Sierra</a></li>
+<li><a href="/wiki/Siskiyou_County,_California" title="Siskiyou County, California">Siskiyou</a></li>
+<li><a href="/wiki/Solano_County,_California" title="Solano County, California">Solano</a></li>
+<li><a href="/wiki/Sonoma_County,_California" title="Sonoma County, California">Sonoma</a></li>
+<li><a href="/wiki/Stanislaus_County,_California" title="Stanislaus County, California">Stanislaus</a></li>
+<li><a href="/wiki/Sutter_County,_California" title="Sutter County, California">Sutter</a></li>
+<li><a href="/wiki/Tehama_County,_California" title="Tehama County, California">Tehama</a></li>
+<li><a href="/wiki/Trinity_County,_California" title="Trinity County, California">Trinity</a></li>
+<li><a href="/wiki/Tulare_County,_California" title="Tulare County, California">Tulare</a></li>
+<li><a href="/wiki/Tuolumne_County,_California" title="Tuolumne County, California">Tuolumne</a></li>
+<li><a href="/wiki/Ventura_County,_California" title="Ventura County, California">Ventura</a></li>
+<li><a href="/wiki/Yolo_County,_California" title="Yolo County, California">Yolo</a></li>
+<li><a href="/wiki/Yuba_County,_California" title="Yuba County, California">Yuba</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#FCC200;;width:1%"><a href="/wiki/List_of_cities_and_towns_in_California" class="mw-redirect" title="List of cities and towns in California">Most populous<br />cities</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a></li>
+<li><a href="/wiki/San_Diego" title="San Diego">San Diego</a></li>
+<li><a href="/wiki/San_Jose,_California" title="San Jose, California">San Jose</a></li>
+<li><a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a></li>
+<li><a href="/wiki/Fresno,_California" title="Fresno, California">Fresno</a></li>
+<li><a href="/wiki/Sacramento,_California" title="Sacramento, California">Sacramento</a></li>
+<li><a href="/wiki/Long_Beach,_California" title="Long Beach, California">Long Beach</a></li>
+<li><a href="/wiki/Oakland,_California" title="Oakland, California">Oakland</a></li>
+<li><a href="/wiki/Bakersfield,_California" title="Bakersfield, California">Bakersfield</a></li>
+<li><a href="/wiki/Anaheim,_California" title="Anaheim, California">Anaheim</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background-color:#FCC200;"><div><b><span class="mw-image-border noviewer" typeof="mw:File"><span><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/16px-Flag_of_California.svg.png" decoding="async" width="16" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/24px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/32px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span>&#160;<a href="/wiki/Portal:California" title="Portal:California">California&#32;portal</a></b></div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Hip_hop" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: darkblue; color: white;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Hip_hop" title="Template:Hip hop"><abbr title="View this template" style="background: darkblue; color: white;;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hip_hop" title="Template talk:Hip hop"><abbr title="Discuss this template" style="background: darkblue; color: white;;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Hip_hop&amp;action=edit"><abbr title="Edit this template" style="background: darkblue; color: white;;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Hip_hop" style="font-size:114%;margin:0 4em"><a href="/wiki/Hip_hop" class="mw-redirect" title="Hip hop"><span style="color: white; text-decoration: inherit;">Hip hop</span></a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: darkblue; color: white;"><div>
+<ul><li><a href="/wiki/Breakdancing" title="Breakdancing"><span style="color: white; text-decoration: inherit;">Breaking</span></a></li>
+<li><a href="/wiki/Turntablism" title="Turntablism"><span style="color: white; text-decoration: inherit;">DJing</span></a></li>
+<li><a href="/wiki/Graffiti" title="Graffiti"><span style="color: white; text-decoration: inherit;">Graffiti</span></a></li>
+<li><a href="/wiki/Rapping" title="Rapping"><span style="color: white; text-decoration: inherit;">MCing (rapping)</span></a></li>
+<li><a href="/wiki/Beatboxing" title="Beatboxing"><span style="color: white; text-decoration: inherit;">Beatboxing</span></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: darkblue; color: white;;width:1%">Culture</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Battle_rap" title="Battle rap">Battle rap</a></li>
+<li><a href="/wiki/Hip-hop_dance" class="mw-redirect" title="Hip-hop dance">Dance</a></li>
+<li><a href="/wiki/Hip_hop_fashion" title="Hip hop fashion">Fashion</a></li>
+<li><a href="/wiki/Hip_hop_activism" title="Hip hop activism">Activism</a>
+<ul><li><a href="/wiki/Hip_hop_feminism" title="Hip hop feminism">Feminism</a></li>
+<li><a href="/wiki/Feminist_activism_in_hip_hop" title="Feminist activism in hip hop">Feminist activism</a></li></ul></li>
+<li><a href="/wiki/LGBT_hip_hop" class="mw-redirect" title="LGBT hip hop">LGBT</a></li>
+<li><a href="/wiki/List_of_hip_hop_festivals" title="List of hip hop festivals">Festivals</a></li>
+<li><a href="/wiki/Hip_hop_music" title="Hip hop music">Music</a></li>
+<li><a href="/wiki/Hip_hop_production" title="Hip hop production">Production</a></li>
+<li><a href="/wiki/Hip-hop_theater" title="Hip-hop theater">Theater</a></li>
+<li><a href="/wiki/List_of_hip_hop_genres" title="List of hip hop genres">Genres</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: darkblue; color: white;;width:1%">History</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Five-Percent_Nation" title="Five-Percent Nation">Five-Percent Nation</a></li>
+<li><a href="/wiki/Universal_Zulu_Nation" title="Universal Zulu Nation">Universal Zulu Nation</a></li>
+<li><a href="/wiki/Old-school_hip_hop" title="Old-school hip hop">Old-school</a></li>
+<li><a href="/wiki/New_school_hip_hop" class="mw-redirect" title="New school hip hop">New school</a></li>
+<li><a href="/wiki/Golden_age_hip_hop" title="Golden age hip hop">Golden age</a></li>
+<li><a href="/wiki/Bristol_underground_scene" title="Bristol underground scene">Bristol underground scene</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: darkblue; color: white;;width:1%"><a href="/wiki/List_of_hip_hop_genres" title="List of hip hop genres"><span style="color: white; text-decoration: inherit;">Subgenres</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/List_of_hip_hop_genres" title="List of hip hop genres"><span style="color: white; text-decoration: inherit;">General</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Alternative_hip_hop" title="Alternative hip hop">Alternative</a>
+<ul><li><a href="/wiki/Hipster_hop" title="Hipster hop">Hipster hop</a></li></ul></li>
+<li><a href="/wiki/Boom_bap" title="Boom bap">Boom bap</a></li>
+<li><a href="/wiki/Bounce_music" title="Bounce music">Bounce</a></li>
+<li><a href="/wiki/British_hip_hop" class="mw-redirect" title="British hip hop">British</a>
+<ul><li><a href="/wiki/British_hip_hop#Road_rap" class="mw-redirect" title="British hip hop">Road rap</a></li></ul></li>
+<li><a href="/wiki/Chopped_and_screwed" title="Chopped and screwed">Chopped and screwed</a></li>
+<li><a href="/wiki/Chopper_(rap)" title="Chopper (rap)">Chopper</a></li>
+<li><a href="/wiki/Classical_hip_hop" class="mw-redirect" title="Classical hip hop">Classical</a></li>
+<li><a href="/wiki/Cloud_rap" title="Cloud rap">Cloud rap</a></li>
+<li><a href="/wiki/Comedy_hip_hop" title="Comedy hip hop">Comedy</a></li>
+<li><a href="/wiki/Crunk" title="Crunk">Crunk</a>
+<ul><li><a href="/wiki/Crunkcore" title="Crunkcore">Crunkcore</a></li></ul></li>
+<li><a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast</a></li>
+<li><a href="/wiki/Freestyle_rap" title="Freestyle rap">Freestyle rap</a></li>
+<li><a href="/wiki/Hyphy" title="Hyphy">Hyphy</a>
+<ul><li><a href="/wiki/Jerkin%27" title="Jerkin&#39;">Jerkin'</a></li></ul></li>
+<li><a href="/wiki/Instrumental_hip_hop" class="mw-redirect" title="Instrumental hip hop">Instrumental</a></li>
+<li><a href="/wiki/Latin_hip_hop" title="Latin hip hop">Latin</a>
+<ul><li><a href="/wiki/Chicano_rap" title="Chicano rap">Chicano rap</a></li></ul></li>
+<li><a href="/wiki/Lofi_hip_hop" title="Lofi hip hop">Lofi</a></li>
+<li><a href="/wiki/Miami_bass" title="Miami bass">Miami bass</a></li>
+<li><a href="/wiki/Mumble_rap" title="Mumble rap">Mumble rap</a></li>
+<li><a href="/wiki/Nerdcore" title="Nerdcore">Nerdcore</a>
+<ul><li><a href="/wiki/Chap_hop" title="Chap hop">Chap hop</a></li></ul></li>
+<li><a href="/wiki/Political_hip_hop" title="Political hip hop">Political</a>
+<ul><li><a href="/wiki/Political_hip_hop#Conscious_hip_hop" title="Political hip hop">Conscious</a></li></ul></li>
+<li><a href="/wiki/Progressive_rap" title="Progressive rap">Progressive rap</a></li>
+<li>Religious
+<ul><li><a href="/wiki/Christian_hip_hop" title="Christian hip hop">Christian</a></li>
+<li><a href="/wiki/Jewish_hip_hop" title="Jewish hip hop">Jewish</a></li></ul></li>
+<li><a href="/wiki/Snap_music" title="Snap music">Snap music</a></li>
+<li><a href="/wiki/Southern_hip_hop" title="Southern hip hop">Southern</a></li>
+<li><a href="/wiki/Turntablism" title="Turntablism">Turntablism</a></li>
+<li><a href="/wiki/Underground_hip_hop" title="Underground hip hop">Underground</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/Hardcore_hip_hop" title="Hardcore hip hop"><span style="color: white; text-decoration: inherit;">Hardcore</span></a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Dirty_rap" title="Dirty rap">Dirty rap</a></li>
+<li><a href="/wiki/Gangsta_rap" title="Gangsta rap">Gangsta rap</a>
+<ul><li><a href="/wiki/Gangsta_rap#Mafioso_rap" title="Gangsta rap">Mafioso rap</a></li></ul></li>
+<li><a href="/wiki/G-funk" title="G-funk">G-funk</a></li>
+<li><a href="/wiki/Horrorcore" title="Horrorcore">Horrorcore</a></li>
+<li><a href="/wiki/Memphis_rap" title="Memphis rap">Memphis rap</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/Trap_music" title="Trap music"><span style="color: white; text-decoration: inherit;">Trap music</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Afrobeats#Afro_trap" title="Afrobeats">Afro trap</a></li>
+<li><a href="/wiki/Drill_music" title="Drill music">Drill</a>
+<ul><li><a href="/wiki/Brooklyn_drill" title="Brooklyn drill">Brooklyn drill</a></li>
+<li><a href="/wiki/Jersey_club#Jersey_club_rap" title="Jersey club">Jersey drill</a></li>
+<li><a href="/wiki/Brooklyn_drill#Sample_drill" title="Brooklyn drill">Sample drill</a></li>
+<li><a href="/wiki/UK_drill" title="UK drill">UK drill</a></li></ul></li>
+<li><a href="/wiki/Latin_trap" title="Latin trap">Latin trap</a></li>
+<li><a href="/wiki/Phonk" title="Phonk">Phonk</a></li>
+<li><a href="/wiki/Plugg_(music)" class="mw-redirect" title="Plugg (music)">Plugg</a></li>
+<li><a href="/wiki/Rage_rap" title="Rage rap">Rage</a></li>
+<li><a href="/wiki/Working_on_Dying#Tread_style" title="Working on Dying">Tread</a></li>
+<li><a href="/wiki/British_hip_hop#UK_trap" class="mw-redirect" title="British hip hop">UK trap</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background: darkblue; color: white;;width:1%"><a href="/wiki/List_of_hip_hop_genres#Fusion_genres" title="List of hip hop genres"><span style="color: white; text-decoration: inherit;">Fusion genres</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/List_of_hip_hop_genres#Fusion_genres" title="List of hip hop genres"><span style="color: white; text-decoration: inherit;">General</span></a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Country_rap" title="Country rap">Country rap</a></li>
+<li><a href="/wiki/Electro_(music)" title="Electro (music)">Electro</a></li>
+<li><a href="/wiki/Emo_rap" title="Emo rap">Emo rap</a></li>
+<li><a href="/wiki/Hip_hop_soul" title="Hip hop soul">Hip hop soul</a></li>
+<li><a href="/wiki/Hip_house" title="Hip house">Hip house</a></li>
+<li><a href="/wiki/Industrial_hip_hop" title="Industrial hip hop">Industrial</a></li>
+<li><a href="/wiki/Jazz_rap" title="Jazz rap">Jazz rap</a></li>
+<li><a href="/wiki/New_jack_swing" title="New jack swing">New jack swing</a></li>
+<li><a href="/wiki/Pop_rap" title="Pop rap">Pop rap</a></li>
+<li><a href="/wiki/Psychedelic_rap" title="Psychedelic rap">Psychedelic rap</a></li>
+<li><a href="/wiki/Punk_rap" title="Punk rap">Punk rap</a></li>
+<li><a href="/wiki/Ragga#Ragga_and_hip_hop_music" title="Ragga">Ragga</a></li>
+<li><a href="/wiki/Rap_opera" title="Rap opera">Rap opera</a></li>
+<li><a href="/wiki/Rap_rock" title="Rap rock">Rap rock</a></li>
+<li><a href="/wiki/Trip_hop" title="Trip hop">Trip hop</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/Rap_metal" title="Rap metal"><span style="color: white; text-decoration: inherit;">Rap metal</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Rap_metal#Trap_metal" title="Rap metal">Trap metal</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/List_of_hip_hop_genres#Ethnic_fusion_genres" title="List of hip hop genres"><span style="color: white; text-decoration: inherit;">Regional</span></a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Afroswing" title="Afroswing">Afroswing</a></li>
+<li><a href="/wiki/Bongo_flava" class="mw-redirect" title="Bongo flava">Bongo flava</a></li>
+<li><a href="/wiki/Boomba_music" title="Boomba music">Boomba music</a></li>
+<li><a href="/wiki/Cumbia_rap" title="Cumbia rap">Cumbia rap</a></li>
+<li><a href="/wiki/Genge" title="Genge">Genge</a></li>
+<li><a href="/wiki/Hip_hop_galsen" title="Hip hop galsen">Hip hop galsen</a></li>
+<li><a href="/wiki/Hipco" title="Hipco">Hipco</a></li>
+<li><a href="/wiki/Hiplife" title="Hiplife">Hiplife</a></li>
+<li><a href="/wiki/Igbo_rap" title="Igbo rap">Igbo rap</a></li>
+<li><a href="/wiki/Kwaito" title="Kwaito">Kwaito</a></li>
+<li><a href="/wiki/Low_bap" title="Low bap">Low bap</a></li>
+<li><a href="/wiki/Motswako" title="Motswako">Motswako</a></li>
+<li><a href="/wiki/Na_mele_paleoleo" class="mw-redirect" title="Na mele paleoleo">Na mele paleoleo</a></li>
+<li><a href="/wiki/Nuyorican_rap" title="Nuyorican rap">Nuyorican rap</a></li>
+<li><a href="/wiki/Romany_hip_hop" class="mw-redirect" title="Romany hip hop">Romany hip hop</a></li>
+<li><a href="/wiki/Songo-salsa" title="Songo-salsa">Songo-salsa</a></li>
+<li><a href="/wiki/Stronda" title="Stronda">Stronda</a></li>
+<li><a href="/wiki/Urban_Pasifika" title="Urban Pasifika">Urban Pasifika</a></li>
+<li><a href="/wiki/Vigilante_rap" title="Vigilante rap">Vigilante rap</a></li>
+<li><a href="/wiki/Zenji_flava" title="Zenji flava">Zenji flava</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background: darkblue; color: white;;width:1%"><a href="/wiki/List_of_hip_hop_genres#Derived_genres" title="List of hip hop genres"><span style="color: white; text-decoration: inherit;">Derivatives</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/List_of_electronic_music_genres" title="List of electronic music genres"><span style="color: white; text-decoration: inherit;">Electronic</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Breakbeat" title="Breakbeat">Breakbeat</a>
+<ul><li><a href="/wiki/Baltimore_club" title="Baltimore club">Baltimore club</a></li>
+<li><a href="/wiki/Florida_breaks" title="Florida breaks">Florida breaks</a></li></ul></li>
+<li><a href="/wiki/Ghetto_house" title="Ghetto house">Ghetto house</a>
+<ul><li><a href="/wiki/Ghettotech" title="Ghettotech">Ghettotech</a></li></ul></li>
+<li><a href="/wiki/Glitch_hop" class="mw-redirect" title="Glitch hop">Glitch hop</a></li>
+<li><a href="/wiki/Grime_music" title="Grime music">Grime</a></li>
+<li><a href="/wiki/Illbient" title="Illbient">Illbient</a></li>
+<li><a href="/wiki/Freestyle_music" title="Freestyle music">Freestyle</a></li>
+<li><a href="/wiki/Wonky_(genre)" title="Wonky (genre)">Wonky</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><span style="color:white">Other</span></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Funk_carioca" title="Funk carioca">Funk carioca</a></li>
+<li><a href="/wiki/Nu_metal" title="Nu metal">Nu metal</a></li>
+<li><a href="/wiki/Reggaeton" title="Reggaeton">Reggaeton</a>
+<ul><li><a href="/wiki/Alternative_reggaeton" title="Alternative reggaeton">Alternative reggaeton</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background: darkblue; color: white;;width:1%"><a href="/wiki/Category:Hip_hop_by_country" title="Category:Hip hop by country"><span style="color: white; text-decoration: inherit;">Regional scenes</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/African_hip_hop" title="African hip hop"><span style="color: white; text-decoration: inherit;">African</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Algerian_hip_hop" title="Algerian hip hop">Algerian</a></li>
+<li><a href="/wiki/Angolan_hip_hop" class="mw-redirect" title="Angolan hip hop">Angolan</a></li>
+<li><a href="/wiki/Beninese_hip_hop" title="Beninese hip hop">Beninese</a></li>
+<li><a href="/wiki/Botswana_hip_hop" class="mw-redirect" title="Botswana hip hop">Botswana</a></li>
+<li><a href="/wiki/Gambian_hip_hop" title="Gambian hip hop">Gambian</a></li>
+<li><a href="/wiki/Ghanaian_hip_hop" class="mw-redirect" title="Ghanaian hip hop">Ghanaian</a></li>
+<li><a href="/wiki/Ivorian_hip_hop" title="Ivorian hip hop">Ivorian</a></li>
+<li><a href="/wiki/Kenyan_hip_hop" title="Kenyan hip hop">Kenyan</a></li>
+<li><a href="/wiki/Mauritian_hip_hop" title="Mauritian hip hop">Mauritian</a></li>
+<li><a href="/wiki/Moroccan_hip_hop" title="Moroccan hip hop">Moroccan</a></li>
+<li><a href="/wiki/Namibian_hip_hop" class="mw-redirect" title="Namibian hip hop">Namibian</a></li>
+<li><a href="/wiki/Nigerian_hip_hop" class="mw-redirect" title="Nigerian hip hop">Nigerian</a>
+<ul><li><a href="/wiki/Port_Harcourt_hip_hop" class="mw-redirect" title="Port Harcourt hip hop">Port Harcourt</a></li></ul></li>
+<li><a href="/wiki/Nigerien_hip_hop" title="Nigerien hip hop">Nigerien</a></li>
+<li><a href="/wiki/Senegalese_hip_hop" title="Senegalese hip hop">Senegalese</a></li>
+<li><a href="/wiki/South_African_hip_hop" class="mw-redirect" title="South African hip hop">South African</a></li>
+<li><a href="/wiki/Tanzanian_hip_hop" title="Tanzanian hip hop">Tanzanian</a></li>
+<li><a href="/wiki/Togolese_hip_hop" title="Togolese hip hop">Togolese</a></li>
+<li><a href="/wiki/Zambian_hip_hop" class="mw-redirect" title="Zambian hip hop">Zambian</a></li>
+<li><a href="/wiki/Zimbabwean_hip_hop" title="Zimbabwean hip hop">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/Asian_hip_hop" title="Asian hip hop"><span style="color: white; text-decoration: inherit;">Asian</span></a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Music_of_Armenia#Hip_hop" title="Music of Armenia">Armenian</a></li>
+<li><a href="/wiki/Azerbaijani_hip_hop" title="Azerbaijani hip hop">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_hip_hop" title="Bangladeshi hip hop">Bangladeshi</a></li>
+<li><a href="/wiki/Burmese_hip_hop" title="Burmese hip hop">Burmese</a></li>
+<li><a href="/wiki/Chinese_hip_hop" title="Chinese hip hop">Chinese</a></li>
+<li><a href="/wiki/Indian_hip_hop" title="Indian hip hop">Indian</a>
+<ul><li><a href="/wiki/Desi_hip_hop" title="Desi hip hop">Desi</a></li></ul></li>
+<li><a href="/wiki/Indonesian_hip_hop" title="Indonesian hip hop">Indonesian</a></li>
+<li><a href="/wiki/Japanese_hip_hop" title="Japanese hip hop">Japanese</a></li>
+<li><a href="/wiki/Korean_hip_hop" title="Korean hip hop">Korean</a></li>
+<li><a href="/wiki/Malaysian_hip_hop" title="Malaysian hip hop">Malaysian</a></li>
+<li><a href="/wiki/Nepalese_hip_hop" title="Nepalese hip hop">Nepalese</a></li>
+<li><a href="/wiki/Pakistani_hip_hop" class="mw-redirect" title="Pakistani hip hop">Pakistani</a></li>
+<li><a href="/wiki/Pinoy_hip_hop" title="Pinoy hip hop">Philippine</a></li>
+<li><a href="/wiki/Singapore_hip_hop" title="Singapore hip hop">Singapore</a></li>
+<li><a href="/wiki/Sri_Lankan_hip_hop" title="Sri Lankan hip hop">Sri Lankan</a></li>
+<li><a href="/wiki/Taiwanese_hip_hop" title="Taiwanese hip hop">Taiwanese</a></li>
+<li><a href="/wiki/Thai_hip_hop" title="Thai hip hop">Thai</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/European_hip_hop" title="European hip hop"><span style="color: white; text-decoration: inherit;">European</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Albanian_hip_hop" title="Albanian hip hop">Albanian</a></li>
+<li><a href="/wiki/Austrian_hip_hop" title="Austrian hip hop">Austrian</a></li>
+<li><a href="/wiki/Belgian_hip_hop" title="Belgian hip hop">Belgian</a></li>
+<li><a href="/wiki/Bosnian_and_Herzegovinian_hip_hop" title="Bosnian and Herzegovinian hip hop">Bosnian and Herzegovinian</a></li>
+<li><a href="/wiki/British_hip_hop" class="mw-redirect" title="British hip hop">British</a>
+<ul><li><a href="/wiki/Celtic_hip_hop" class="mw-redirect" title="Celtic hip hop">Celtic</a></li>
+<li><a href="/wiki/Leeds_hip_hop" title="Leeds hip hop">Leeds</a></li>
+<li><a href="/wiki/Scottish_hip_hop" title="Scottish hip hop">Scottish</a></li></ul></li>
+<li><a href="/wiki/Bulgarian_hip_hop" title="Bulgarian hip hop">Bulgarian</a></li>
+<li><a href="/wiki/Croatian_hip_hop" title="Croatian hip hop">Croatian</a></li>
+<li><a href="/wiki/Czech_hip_hop" title="Czech hip hop">Czech</a></li>
+<li><a href="/wiki/Dutch_hip_hop" title="Dutch hip hop">Dutch</a></li>
+<li><a href="/wiki/Finnish_hip_hop" title="Finnish hip hop">Finnish</a></li>
+<li><a href="/wiki/French_hip_hop" title="French hip hop">French</a></li>
+<li><a href="/wiki/German_hip_hop" title="German hip hop">German</a></li>
+<li><a href="/wiki/Greek_hip_hop" title="Greek hip hop">Greek</a></li>
+<li><a href="/wiki/Hip_hop_tuga" title="Hip hop tuga">Portuguese</a></li>
+<li><a href="/wiki/Hungarian_hip_hop" title="Hungarian hip hop">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_hip_hop" class="mw-redirect" title="Icelandic hip hop">Icelandic</a></li>
+<li><a href="/wiki/Irish_hip_hop" title="Irish hip hop">Irish</a></li>
+<li><a href="/wiki/Italian_hip_hop" title="Italian hip hop">Italian</a></li>
+<li><a href="/wiki/Macedonian_hip_hop" title="Macedonian hip hop">Macedonian</a></li>
+<li><a href="/wiki/Montenegrin_hip_hop" class="mw-redirect" title="Montenegrin hip hop">Montenegrin</a></li>
+<li><a href="/wiki/Norwegian_hip_hop" class="mw-redirect" title="Norwegian hip hop">Norwegian</a></li>
+<li><a href="/wiki/Polish_hip_hop" title="Polish hip hop">Polish</a></li>
+<li><a href="/wiki/Romanian_hip_hop" title="Romanian hip hop">Romanian</a></li>
+<li><a href="/wiki/Romany_hip_hop" class="mw-redirect" title="Romany hip hop">Romany</a></li>
+<li><a href="/wiki/Russian_hip_hop" title="Russian hip hop">Russian</a></li>
+<li><a href="/wiki/Serbian_hip_hop" title="Serbian hip hop">Serbian</a></li>
+<li><a href="/wiki/Slovak_hip_hop" title="Slovak hip hop">Slovak</a></li>
+<li><a href="/wiki/Slovenian_hip_hop" title="Slovenian hip hop">Slovenian</a></li>
+<li><a href="/wiki/Spanish_hip_hop" title="Spanish hip hop">Spanish</a></li>
+<li><a href="/wiki/Swedish_hip_hop" title="Swedish hip hop">Swedish</a></li>
+<li><a href="/wiki/Swiss_hip_hop" title="Swiss hip hop">Swiss</a></li>
+<li><a href="/wiki/Ukrainian_hip_hop" title="Ukrainian hip hop">Ukrainian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/Middle_Eastern_hip_hop" title="Middle Eastern hip hop"><span style="color: white; text-decoration: inherit;">Middle Eastern</span></a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Arabic_hip_hop" title="Arabic hip hop">Arabic</a></li>
+<li><a href="/wiki/Egyptian_hip_hop" title="Egyptian hip hop">Egyptian</a></li>
+<li><a href="/wiki/Iranian_hip_hop" title="Iranian hip hop">Iranian</a></li>
+<li><a href="/wiki/Israeli_hip_hop" title="Israeli hip hop">Israeli</a></li>
+<li><a href="/wiki/Lebanese_hip_hop" title="Lebanese hip hop">Lebanese</a></li>
+<li><a href="/wiki/Palestinian_hip_hop" title="Palestinian hip hop">Palestinian</a></li>
+<li><a href="/wiki/Saudi_Arabian_hip_hop" class="mw-redirect" title="Saudi Arabian hip hop">Saudi Arabian</a></li>
+<li><a href="/wiki/Tunisian_hip_hop" class="mw-redirect" title="Tunisian hip hop">Tunisian</a></li>
+<li><a href="/wiki/Turkish_hip_hop" title="Turkish hip hop">Turkish</a></li>
+<li><a href="/wiki/Yemeni_hip_hop" title="Yemeni hip hop">Yemeni</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/Category:North_American_hip_hop" title="Category:North American hip hop"><span style="color: white; text-decoration: inherit;">North American</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em"><div class="hlist inline"><b>United States:</b>
+<ul><li><a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast</a>
+<ul><li><a href="/wiki/Baltimore_club" title="Baltimore club">Baltimore</a></li>
+<li><a href="/wiki/Music_of_New_Jersey#Hip-Hop" title="Music of New Jersey">New Jersey</a></li>
+<li><a href="/wiki/Music_of_New_York_City#Hip_hop" title="Music of New York City">New York</a></li>
+<li><a href="/wiki/Music_of_Philadelphia#Hip_hop,_R&amp;B,_and_Nu_Soul" title="Music of Philadelphia">Philadelphia</a></li>
+<li><a href="/wiki/Hip_hop_in_Washington,_D.C." title="Hip hop in Washington, D.C.">Washington, D.C.</a></li></ul></li>
+<li><a href="/wiki/Midwestern_United_States" title="Midwestern United States">Midwest</a>
+<ul><li><a href="/wiki/Chicago_hip_hop" title="Chicago hip hop">Chicago</a></li>
+<li><a href="/wiki/Music_of_Detroit#Hip_hop" title="Music of Detroit">Detroit</a></li>
+<li><a href="/wiki/Twin_Cities_hip_hop" title="Twin Cities hip hop">Minneapolis/St. Paul</a></li>
+<li><a href="/wiki/Music_of_Omaha#Hip_hop" title="Music of Omaha">Omaha</a></li></ul></li>
+<li><a href="/wiki/Southern_hip_hop" title="Southern hip hop">Southern</a>
+<ul><li><a href="/wiki/Atlanta_hip_hop" title="Atlanta hip hop">Atlanta</a></li>
+<li><a href="/wiki/Memphis_rap" title="Memphis rap">Memphis</a></li>
+<li><a href="/wiki/Miami_bass" title="Miami bass">Miami</a></li></ul></li>
+<li><a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast</a>
+<ul><li><a href="/wiki/Hip_hop_music_in_the_Pacific_Northwest" title="Hip hop music in the Pacific Northwest">Northwest</a></li></ul></li>
+<li><a href="/wiki/Asian_American_hip_hop" title="Asian American hip hop">Asian American</a></li>
+<li><a href="/wiki/Latin_hip_hop" title="Latin hip hop">Latin</a></li>
+<li><a href="/wiki/Native_American_hip_hop" title="Native American hip hop">Native American</a></li></ul>
+</div>
+<div class="hlist inline" style="display:block"><b>Outside the US:</b>
+<ul><li><a href="/wiki/Canadian_hip_hop" title="Canadian hip hop">Canadian</a></li>
+<li><a href="/wiki/Cuban_hip_hop" title="Cuban hip hop">Cuban</a></li>
+<li><a href="/wiki/Music_of_the_Dominican_Republic#Hip_hop" title="Music of the Dominican Republic">Dominican</a></li>
+<li><a href="/wiki/Haitian_hip_hop" title="Haitian hip hop">Haitian</a></li>
+<li><a href="/wiki/Mexican_hip_hop" title="Mexican hip hop">Mexican</a></li>
+<li><a href="/wiki/Salvadoran_hip_hop" title="Salvadoran hip hop">Salvadoran</a></li></ul>
+</div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/Category:Oceanian_hip_hop" title="Category:Oceanian hip hop"><span style="color: white; text-decoration: inherit;">Oceanian</span></a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Australian_hip_hop" title="Australian hip hop">Australian</a></li>
+<li><a href="/wiki/New_Zealand_hip_hop" title="New Zealand hip hop">New Zealand</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8em;;background: darkblue; color: white;"><a href="/wiki/Category:South_American_hip_hop" title="Category:South American hip hop"><span style="color: white; text-decoration: inherit;">South American</span></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Brazilian_hip_hop" title="Brazilian hip hop">Brazilian</a>
+<ul><li><a href="/wiki/Bras%C3%ADlia_hip_hop" title="Brasília hip hop">Brasília</a></li></ul></li>
+<li><a href="/wiki/Music_of_Chile#Hip_hop_and_rap" title="Music of Chile">Chilean</a></li>
+<li><a href="/wiki/Music_of_Colombia#Colombian_urban_and_hip-hop_music" title="Music of Colombia">Colombian</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background: darkblue; color: white;;width:1%">Other topics</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Auto-Tune" title="Auto-Tune">Auto-Tune</a></li>
+<li><a href="/wiki/Contemporary_R%26B" title="Contemporary R&amp;B">Contemporary R&amp;B</a></li>
+<li><a href="/wiki/Disc_jockey" title="Disc jockey">Disc jockey</a>
+<ul><li><a href="/wiki/DJ_mixer" title="DJ mixer">DJ mixer</a></li>
+<li><a href="/wiki/Phonograph" title="Phonograph">Record player</a></li>
+<li><a href="/wiki/Turntablism" title="Turntablism">Turntablism</a></li></ul></li>
+<li><a href="/wiki/Drum_machine" title="Drum machine">Drum machine</a></li>
+<li><a href="/wiki/Hip_hop_skit" title="Hip hop skit">Hip hop skit</a></li>
+<li><a href="/wiki/Music_sequencer" title="Music sequencer">Music sequencer</a></li>
+<li><a href="/wiki/Sampler_(musical_instrument)" title="Sampler (musical instrument)">Sampler</a></li>
+<li><a href="/wiki/Synthesizer" title="Synthesizer">Synthesizer</a></li>
+<li><a href="/wiki/Video_vixen" title="Video vixen">Video vixen</a></li>
+<li><a href="/wiki/Partner_violence_in_hip_hop" title="Partner violence in hip hop">Partner violence in hip hop</a></li>
+<li><a href="/wiki/LGBT_representations_in_hip_hop_music" title="LGBT representations in hip hop music">LGBT representations in hip hop music</a></li>
+<li><a href="/wiki/Feminist_activism_in_hip_hop" title="Feminist activism in hip hop">Feminist activism in hip hop</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: darkblue; color: white;"><div>
+<ul><li><span class="noviewer" typeof="mw:File"><span title="Category"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span><b><a href="/wiki/Category:Hip_hop" title="Category:Hip hop"><span style="color: white; text-decoration: inherit;">Category</span></a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: Artists <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q16902217#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/08af50b2-79f4-4e4d-854c-0bfc056a60ad">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2378
+Cached time: 20230920004737
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.379 seconds
+Real time usage: 0.524 seconds
+Preprocessor visited node count: 2424/1000000
+Post‐expand include size: 107442/2097152 bytes
+Template argument size: 11198/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 27905/5000000 bytes
+Lua time usage: 0.182/10.000 seconds
+Lua memory usage: 4471447/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  406.639      1 -total
+ 35.06%  142.559      1 Template:Infobox_musical_artist
+ 31.39%  127.643      1 Template:Infobox
+ 15.61%   63.481      2 Template:Short_description
+ 13.60%   55.296      1 Template:California
+ 13.04%   53.015      2 Template:Br_separated_entries
+ 13.01%   52.906      1 Template:US_state_navigation_box
+ 10.33%   42.014      1 Template:If_empty
+  9.16%   37.264      1 Template:Hlist
+  8.91%   36.248      1 Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42778292-0!canonical and timestamp 20230920004737 and revision id 1163867413. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=O.Y.G_Redrum_781&amp;oldid=1163867413">https://en.wikipedia.org/w/index.php?title=O.Y.G_Redrum_781&amp;oldid=1163867413</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1972_births" title="Category:1972 births">1972 births</a></li><li><a href="/wiki/Category:2021_deaths" title="Category:2021 deaths">2021 deaths</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:African-American_record_producers" title="Category:African-American record producers">African-American record producers</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:Bloods" title="Category:Bloods">Bloods</a></li><li><a href="/wiki/Category:Gangsta_rappers" title="Category:Gangsta rappers">Gangsta rappers</a></li><li><a href="/wiki/Category:G-funk_artists" title="Category:G-funk artists">G-funk artists</a></li><li><a href="/wiki/Category:Rappers_from_Los_Angeles" title="Category:Rappers from Los Angeles">Rappers from Los Angeles</a></li><li><a href="/wiki/Category:Record_producers_from_California" title="Category:Record producers from California">Record producers from California</a></li><li><a href="/wiki/Category:Watts,_Los_Angeles" title="Category:Watts, Los Angeles">Watts, Los Angeles</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li><li><a href="/wiki/Category:20th-century_African-American_people" title="Category:20th-century African-American people">20th-century African-American people</a></li><li><a href="/wiki/Category:Burials_at_Inglewood_Park_Cemetery" title="Category:Burials at Inglewood Park Cemetery">Burials at Inglewood Park Cemetery</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2021" title="Category:Use mdy dates from April 2021">Use mdy dates from April 2021</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2017" title="Category:Articles with unsourced statements from April 2017">Articles with unsourced statements from April 2017</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 6 July 2023, at 20:48<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=O.Y.G_Redrum_781&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2389","wgBackendResponseTime":117,"wgPageParseReport":{"limitreport":{"cputime":"0.379","walltime":"0.524","ppvisitednodes":{"value":2424,"limit":1000000},"postexpandincludesize":{"value":107442,"limit":2097152},"templateargumentsize":{"value":11198,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":27905,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  406.639      1 -total"," 35.06%  142.559      1 Template:Infobox_musical_artist"," 31.39%  127.643      1 Template:Infobox"," 15.61%   63.481      2 Template:Short_description"," 13.60%   55.296      1 Template:California"," 13.04%   53.015      2 Template:Br_separated_entries"," 13.01%   52.906      1 Template:US_state_navigation_box"," 10.33%   42.014      1 Template:If_empty","  9.16%   37.264      1 Template:Hlist","  8.91%   36.248      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.182","limit":"10.000"},"limitreport-memusage":{"value":4471447,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw2378","timestamp":"20230920004737","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"O.Y.G Redrum 781","url":"https:\/\/en.wikipedia.org\/wiki\/O.Y.G_Redrum_781","sameAs":"http:\/\/www.wikidata.org\/entity\/Q16902217","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q16902217","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-05-17T00:23:51Z","dateModified":"2023-07-06T20:48:56Z","headline":"American rapper"}</script>
+</body>
+</html>

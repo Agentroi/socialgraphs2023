@@ -1,0 +1,1241 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>DJ Kay Slay - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"f38f7956-bae7-4a10-a451-88071a703ce2","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"DJ_Kay_Slay","wgTitle":"DJ Kay Slay","wgCurRevisionId":1166671994,"wgRevisionId":1166671994,"wgArticleId":33662881,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from June 2022","Articles with short description","Short description matches Wikidata","Short description is different from Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","All articles with unsourced statements","Articles with unsourced statements from December 2009","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with GND identifiers","Articles with LCCN identifiers","Articles with NLK identifiers","Articles with MusicBrainz identifiers","Articles with SUDOC identifiers","1966 births"
+,"2022 deaths","African-American musicians","American graffiti artists","American prisoners and detainees","East Coast hip hop musicians","Mixtape DJs","Columbia Records artists","Deaths from the COVID-19 pandemic in New York (state)","Five percenters","Musicians from New York City","MNRK Music Group artists","American hip hop DJs","American music industry executives","21st-century African-American people","20th-century African-American people"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"DJ_Kay_Slay","wgRelevantArticleId":33662881,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,
+"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1154125","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready",
+"skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints",
+"ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/2/27/DJ_Kay_Slay.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="673">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/2/27/DJ_Kay_Slay.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="448">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="359">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="DJ Kay Slay - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/DJ_Kay_Slay">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/DJ_Kay_Slay">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-DJ_Kay_Slay rootpage-DJ_Kay_Slay skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=DJ+Kay+Slay" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=DJ+Kay+Slay" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=DJ+Kay+Slay" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=DJ+Kay+Slay" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-2003–2009:_Streetsweeper_series"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2003–2009:_Streetsweeper_series">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>2003–2009: <i>Streetsweeper</i> series</div>
+			</a>
+			
+			<ul id="toc-2003–2009:_Streetsweeper_series-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2010–2022:_More_Than_Just_a_DJ_and_Rhyme_or_Die"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2010–2022:_More_Than_Just_a_DJ_and_Rhyme_or_Die">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>2010–2022: <i>More Than Just a DJ</i> and <i>Rhyme or Die</i></div>
+			</a>
+			
+			<ul id="toc-2010–2022:_More_Than_Just_a_DJ_and_Rhyme_or_Die-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Illness_and_death"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Illness_and_death">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Illness and death</div>
+		</a>
+		
+		<ul id="toc-Illness_and_death-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Collaborative_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Collaborative_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Collaborative albums</div>
+			</a>
+			
+			<ul id="toc-Collaborative_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Singles"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Singles">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Singles</div>
+		</a>
+		
+		<ul id="toc-Singles-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">DJ Kay Slay</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 4 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-4" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">4 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/DJ_Kayslay" title="DJ Kayslay – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/DJ_Kayslay" title="DJ Kayslay – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/DJ_Kay_Slay" title="DJ Kay Slay – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/DJ_Kay_Slay" title="DJ Kay Slay – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1154125#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/DJ_Kay_Slay" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:DJ_Kay_Slay" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/DJ_Kay_Slay"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/DJ_Kay_Slay"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/DJ_Kay_Slay" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/DJ_Kay_Slay" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=DJ_Kay_Slay&amp;oldid=1166671994" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=DJ_Kay_Slay&amp;id=1166671994&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1154125" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=DJ_Kay_Slay&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=DJ_Kay_Slay&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American DJ from New York (1966–2022)</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">DJ Kay Slay</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:DJ_Kay_Slay.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/en/thumb/2/27/DJ_Kay_Slay.jpg/220px-DJ_Kay_Slay.jpg" decoding="async" width="220" height="123" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/27/DJ_Kay_Slay.jpg/330px-DJ_Kay_Slay.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/2/27/DJ_Kay_Slay.jpg 2x" data-file-width="421" data-file-height="236" /></a></span></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Keith Grayson</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>The Drama King</li><li>Dez</li><li>Slap Your Favorite DJ</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none">(<span class="bday">1966-08-14</span>)</span>August 14, 1966<br />New York City, U.S.</td></tr><tr><th scope="row" class="infobox-label">Died</th><td class="infobox-data">April 17, 2022<span style="display:none">(2022-04-17)</span> (aged&#160;55)<br />New York City, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Disc jockey</li><li>music promoter</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1983–2022</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Entertainment_One_Music" class="mw-redirect" title="Entertainment One Music">E1</a></li><li>Streetsweepers</li><li><a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a></li></ul></div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Keith Grayson</b> (August 14, 1966 – April 17, 2022), professionally known as <b>DJ Kay Slay</b>, was an American <a href="/wiki/Disc_jockey" title="Disc jockey">disc jockey</a> (DJ) from New York City. He is referred to by <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> as "Hip Hop's One-Man Ministry of Insults".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2">&#91;2&#93;</a></sup> He released four successful studio albums, <i><a href="/wiki/The_Streetsweeper,_Vol._1" title="The Streetsweeper, Vol. 1">The Streetsweeper, Vol. 1</a></i>, <i><a href="/wiki/The_Streetsweeper,_Vol._2" title="The Streetsweeper, Vol. 2">The Streetsweeper, Vol. 2</a></i>, <i><a href="/wiki/The_Champions:_North_Meets_South" title="The Champions: North Meets South">The Champions: North Meets South</a></i> (with Greg Street), and <i><a href="/wiki/More_Than_Just_a_DJ" title="More Than Just a DJ">More Than Just a DJ</a></i>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Grayson was born August 14, 1966, in New York City. He was originally a prominent <a href="/wiki/Graffiti" title="Graffiti">graffiti</a> artist, having been featured in the 1983 hip hop documentary, <i><a href="/wiki/Style_Wars" title="Style Wars">Style Wars</a></i>. One of Grayson's better known <a href="/wiki/Tag_(graffiti)" title="Tag (graffiti)">tags</a> was "Dez".<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2">&#91;2&#93;</a></sup> As a youth involved in New York's flourishing <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> scene, Keith witnessed firsthand the ascent of legendary disc jockeys such as <a href="/wiki/Grandmaster_Flash" title="Grandmaster Flash">Grandmaster Flash</a>,&#160;<a href="/wiki/Grand_Wizzard_Theodore" title="Grand Wizzard Theodore">Grand Wizzard Theodore</a>, and <a href="/wiki/Kool_DJ_Red_Alert" title="Kool DJ Red Alert">Kool DJ Red Alert</a>, in the late 1970s and&#160;into the 1980s. "I didn't so much set out to be a DJ," he said. "It was just something to do that was fun and that I enjoyed doing."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> With the decline of the graffiti movement in the late 1980s, Dez began dealing with <a href="/wiki/Narcotics" class="mw-redirect" title="Narcotics">narcotics</a> and consequently ended up in jail by the late 1980s. Grayson was released from jail in 1990, and claimed to have abstained from using drugs thereafter. He hailed from the East River Houses located in <a href="/wiki/East_Harlem" title="East Harlem">East Harlem</a>, <a href="/wiki/New_York_City" title="New York City">New York</a>.In the early years of his life, he also met long-time friend <a href="/wiki/Sauce_Money" title="Sauce Money">Sauce Money</a>, whom he was friends with until his death.
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="2003.E2.80.932009:_Streetsweeper_series"></span><span class="mw-headline" id="2003–2009:_Streetsweeper_series">2003–2009: <i>Streetsweeper</i> series</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=3" title="Edit section: 2003–2009: Streetsweeper series">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>DJ Kay Slay released his debut album, <i><a href="/wiki/The_Streetsweeper,_Vol._1" title="The Streetsweeper, Vol. 1">The Streetsweeper, Vol. 1</a></i>, on May 20, 2003. In the summer of 2003, Kay Slay released a <a href="/wiki/Single_(music)" title="Single (music)">single</a>, accompanied by a <a href="/wiki/Music_video" title="Music video">music video</a>, for a song titled "Too Much For Me". The single, which features a <a href="/wiki/Refrain" title="Refrain">chorus</a> sung by then-up-and-coming singer <a href="/wiki/Amerie" title="Amerie">Amerie</a>, also features <a href="/wiki/Verse_(popular_music)" class="mw-redirect" title="Verse (popular music)">verses</a> from American rappers <a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Birdman</a>, <a href="/wiki/Nas_(rapper)" class="mw-redirect" title="Nas (rapper)">Nas</a>, and <a href="/wiki/Foxy_Brown_(rapper)" title="Foxy Brown (rapper)">Foxy Brown</a>. The song peaked at number 53 on the US <i>Billboard</i> <a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Songs</a> chart, making it the DJ's highest-charting single to date. The single's music video includes <a href="/wiki/Cameo_appearance" title="Cameo appearance">cameo appearances</a> by <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a>, <a href="/wiki/N.O.R.E." title="N.O.R.E.">N.O.R.E.</a>, <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a>, <a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a>, and <a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2009)">citation needed</span></a></i>&#93;</sup> Although the song was not a major success, its music video was aired on <a href="/wiki/MTV_Jams" class="mw-redirect" title="MTV Jams">MTV Jams</a> and <a href="/wiki/Black_Entertainment_Television" class="mw-redirect" title="Black Entertainment Television">BET</a>. The "Too Much For Me" video did not feature Nas (because of Nas' solo projects) or Baby; so <a href="/wiki/Loon_(rapper)" title="Loon (rapper)">Loon</a> was featured instead. This replacement started a feud between Nas and Kay Slay.
+</p><p>On March 30, 2004, Kay Slay's second album <i><a href="/wiki/The_Streetsweeper,_Vol._2" title="The Streetsweeper, Vol. 2">The Streetsweeper, Vol. 2</a></i>, was released. Another single and video were released for "Who Gives A...Where You From" with <a href="/wiki/Three_6_Mafia" title="Three 6 Mafia">Three 6 Mafia</a>, which peaked at number 89 on the Hot R&amp;B/Hip-Hop Songs. Kay Slay and the song were featured on the 2004 <a href="/wiki/NFL_Street" title="NFL Street">NFL Street</a> <a href="/wiki/Video_game" title="Video game">video game</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2009)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span id="2010.E2.80.932022:_More_Than_Just_a_DJ_and_Rhyme_or_Die"></span><span class="mw-headline" id="2010–2022:_More_Than_Just_a_DJ_and_Rhyme_or_Die">2010–2022: <i>More Than Just a DJ</i> and <i>Rhyme or Die</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=4" title="Edit section: 2010–2022: More Than Just a DJ and Rhyme or Die">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After releasing <i><a href="/wiki/More_Than_Just_a_DJ" title="More Than Just a DJ">More Than Just a DJ</a></i> in 2010, <i>Rhyme or Die</i> was released. The first album's initial two singles "60 Second Assassins" featuring <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>, <a href="/wiki/Layzie_Bone" title="Layzie Bone">Layzie Bone</a>, <a href="/wiki/Twista" title="Twista">Twista</a>, and <a href="/wiki/Jaz-O" title="Jaz-O">Jaz-O</a> and "The Kings of the Streets" featuring <a href="/wiki/DJ_Khaled" title="DJ Khaled">DJ Khaled</a>, <a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a>, DJ Doo Wop, and Fly Nate were released in 2011. In 2013, "About That Life" featuring <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>, <a href="/wiki/T-Pain" title="T-Pain">T-Pain</a>, <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a>, <a href="/wiki/Nelly" title="Nelly">Nelly</a>, and <a href="/wiki/French_Montana" title="French Montana">French Montana</a> was released as a single from <i>Rhyme or Die</i>. It debuted and peaked at #54 on the Hot R&amp;B/Hip-Hop Songs chart, making it one of Kay Slay's most successful singles to date. In the beginning of 2014, "Free Again" was released featuring <a href="/wiki/Fat_Joe" title="Fat Joe">Fat Joe</a> and <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>, which came as a surprise for some seeing as how they had "beef" before, but  later reconciled. In 2021, Dj Kay Slay released the track "Rolling 110 Deep" which featured 110 hip hop artists with contributing verses from <a href="/wiki/Ice-T" title="Ice-T">Ice-T</a>, <a href="/wiki/Shaquille_O%27Neal" title="Shaquille O&#39;Neal">Shaq</a>, <a href="/wiki/Coke_La_Rock" title="Coke La Rock">Coke La Rock</a>, <a href="/wiki/KRS-One" title="KRS-One">KRS-One</a>, <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>, <a href="/wiki/Ghostface_Killah" title="Ghostface Killah">Ghostface Killah</a>, <a href="/wiki/Roy_Jones_Jr." title="Roy Jones Jr.">Roy Jones Jr</a>, <a href="/wiki/Omar_Epps" title="Omar Epps">Omar Epps</a>, and others.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Illness_and_death">Illness and death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=5" title="Edit section: Illness and death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In January  2022, DJ Kay Slay's brother said he was in the hospital after contracting <a href="/wiki/COVID-19" title="COVID-19">COVID-19</a>, but was "in a recovery state".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> He died from COVID-19 in New York City, on April 17, 2022, at the age of 55.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=6" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=7" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of albums, with selected chart positions and certifications
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:12em;">Title
+</th>
+<th scope="col" rowspan="2" style="width:16em;">Album details
+</th>
+<th scope="col" colspan="2">Peak chart positions
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Billboard_200" title="Billboard 200">US</a>
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">US<br />R&amp;B/HH</a>
+</th></tr>
+
+<tr>
+<th scope="row"><i><a href="/wiki/The_Streetsweeper,_Vol._1" title="The Streetsweeper, Vol. 1">The Streetsweeper, Vol. 1</a></i>
+</th>
+<td>
+<ul><li>Released: May 20, 2003</li>
+<li>Label: <a href="/wiki/Streetsweepers_Entertainment" class="mw-redirect" title="Streetsweepers Entertainment">Streetsweepers</a>, <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a></li>
+<li>Format: CD, download</li></ul>
+</td>
+<td>22</td>
+<td>4
+</td></tr>
+
+<tr>
+<th scope="row"><i><a href="/wiki/The_Streetsweeper,_Vol._2" title="The Streetsweeper, Vol. 2">The Streetsweeper, Vol. 2</a></i>
+</th>
+<td>
+<ul><li>Released: March 30, 2004</li>
+<li>Label: Streetsweepers, Columbia</li>
+<li>Format: CD, download</li></ul>
+</td>
+<td>27</td>
+<td>10
+</td></tr>
+
+<tr>
+<th scope="row"><i><a href="/wiki/More_Than_Just_a_DJ" title="More Than Just a DJ">More Than Just a DJ</a></i>
+</th>
+<td>
+<ul><li>Released: February 9, 2010</li>
+<li>Label: Streetsweepers, E1</li>
+<li>Format: CD, download</li></ul>
+</td>
+<td>133</td>
+<td>29
+</td></tr>
+
+<tr>
+<th scope="row"><i>The Big Brother</i>
+</th>
+<td>
+<ul><li>Released: September 22, 2017</li>
+<li>Label: Streetsweepers, <a href="/wiki/Empire_Distribution" title="Empire Distribution">Empire</a></li>
+<li>Format: CD, download</li></ul>
+</td>
+<td>—</td>
+<td>—
+</td></tr>
+
+<tr>
+<th scope="row"><i>Hip Hop Frontline</i>
+</th>
+<td>
+<ul><li>Released: January 25, 2019</li>
+<li>Label: Streetsweepers, Empire</li>
+<li>Format: CD, download</li></ul>
+</td>
+<td>—</td>
+<td>—
+</td></tr>
+
+<tr>
+<th scope="row"><i>The Soul Controller</i><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: December 17, 2021</li>
+<li>Label: Streetsweepers, Empire</li>
+<li>Format: CD, download</li></ul>
+</td>
+<td>—</td>
+<td>—
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Collaborative_albums">Collaborative albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=8" title="Edit section: Collaborative albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of collaborative albums, with selected chart positions and certifications
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:12em;">Title
+</th>
+<th scope="col" rowspan="2" style="width:16em;">Album details
+</th>
+<th scope="col" colspan="2">Peak chart positions
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Billboard_200" title="Billboard 200">US</a>
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">US<br />R&amp;B/HH</a>
+</th></tr>
+
+<tr>
+<th scope="row"><i><a href="/wiki/The_Champions:_North_Meets_South" title="The Champions: North Meets South">The Champions: North Meets South</a></i><br /><small>(with Greg Street)</small>
+</th>
+<td>
+<ul><li>Released: August 22, 2006</li>
+<li>Label: <a href="/wiki/Entertainment_One_Music" class="mw-redirect" title="Entertainment One Music">Koch</a></li>
+<li>Format: CD, download</li></ul>
+</td>
+<td>57</td>
+<td>17
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=9" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of mixtapes, with year released
+</caption>
+<tbody><tr>
+<th scope="col" style="width:11em;">Title
+</th>
+<th scope="col" style="width:16em;">Album details
+</th></tr>
+<tr>
+<th scope="row"><i>The Month of the Bad Guy</i>
+</th>
+<td>
+<ul><li>Released: 2003<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: CD</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The MySpace Maniac</i>
+</th>
+<td>
+<ul><li>Released: October 30, 2006<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Sign of the Times</i>
+</th>
+<td>
+<ul><li>Released: January 29, 2007<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Sign of the Times 2</i>
+</th>
+<td>
+<ul><li>Released: March 6, 2007<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Hate Is the New Love</i>
+</th>
+<td>
+<ul><li>Released: August 24, 2007<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The Return of the God</i>
+</th>
+<td>
+<ul><li>Released: December 21, 2007<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Blockstars</i>
+</th>
+<td>
+<ul><li>Released: October 18, 2009<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Blockstars 2</i>
+</th>
+<td>
+<ul><li>Released: November 16, 2009<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The God Is Back!</i>
+</th>
+<td>
+<ul><li>Released: August 24, 2010<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Long Live the King!</i>
+</th>
+<td>
+<ul><li>Released: October 11, 2010<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Redemption</i>
+</th>
+<td>
+<ul><li>Released: January 14, 2011<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The Soul Controller</i>
+</th>
+<td>
+<ul><li>Released: February 6, 2011<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The Changing of the Guard</i>
+</th>
+<td>
+<ul><li>Released: July 24, 2012<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Return of the Gate Keeper</i>
+</th>
+<td>
+<ul><li>Released: September 8, 2012<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Grown Man Hip-Hop</i>
+</th>
+<td>
+<ul><li>Released: November 19, 2012<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Grown Man Hip-Hop Part 2 (Sleepin' with the Enemy)</i>
+</th>
+<td>
+<ul><li>Released: January 23, 2013<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The Last Champion</i>
+</th>
+<td>
+<ul><li>Released: July 12, 2013<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The Rise of a City</i>
+</th>
+<td>
+<ul><li>Released: January 23, 2014<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The Last Hip Hop Disciple</i>
+</th>
+<td>
+<ul><li>Released: May 8, 2014<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The Original Man</i>
+</th>
+<td>
+<ul><li>Released: November 14, 2014<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The Industry Purge</i>
+</th>
+<td>
+<ul><li>Released: April 8, 2015<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Shadow of the Sun</i>
+</th>
+<td>
+<ul><li>Released: October 26, 2015<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>50 Shades of Slay</i>
+</th>
+<td>
+<ul><li>Released: February 15, 2016<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>The Rap Attack</i>
+</th>
+<td>
+<ul><li>Released: July 1, 2016<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup></li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: Download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Living Legend</i>
+</th>
+<td>
+<ul><li>Released: March 6, 2020</li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: CD, download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Homage</i>
+</th>
+<td>
+<ul><li>Released: November 12, 2020</li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: CD, download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Accolades</i>
+</th>
+<td>
+<ul><li>Released: June 25, 2021</li>
+<li><span class="nowrap">Label: Streetsweepers</span></li>
+<li>Format: CD, download</li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=10" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable plainrowheaders" style="text-align:center;" border="1">
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:20em;">Title
+</th>
+<th scope="col" rowspan="2" style="width:1em;">Year
+</th>
+<th scope="col" colspan="1">Peak chart positions
+</th>
+<th scope="col" rowspan="2" style="width:18em;">Album
+</th></tr>
+<tr>
+<th scope="col" style="width:2.5em;font-size:90%;"><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">US<br />R&amp;B/HH</a>
+</th></tr>
+<tr>
+<th scope="row">"Too Much for Me" <br /><span style="font-size:85%;">(featuring <a href="/wiki/Nas" title="Nas">Nas</a>, <a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Baby</a>, <a href="/wiki/Foxy_Brown_(rapper)" title="Foxy Brown (rapper)">Foxy Brown</a> and <a href="/wiki/Amerie" title="Amerie">Amerie</a>)</span>
+</th>
+<td>2003
+</td>
+<td>53
+</td>
+<td><i>The Streetsweeper, Vol. 1</i>
+</td></tr>
+<tr>
+<th scope="row">"Not Your Average Joe" <br /><span style="font-size:85%;">(featuring <a href="/wiki/Fat_Joe" title="Fat Joe">Fat Joe</a>, <a href="/wiki/Joe_Budden" title="Joe Budden">Joe Budden</a> and <a href="/wiki/Joe_(singer)" title="Joe (singer)">Joe</a>)</span>
+</th>
+<td rowspan="2">2004
+</td>
+<td>63
+</td>
+<td rowspan="2"><i>The Streetsweeper, Vol. 2</i>
+</td></tr>
+<tr>
+<th scope="row">"Who Gives A Fuck Where You From" <br /><span style="font-size:85%;">(featuring <a href="/wiki/Three_6_Mafia" title="Three 6 Mafia">Three 6 Mafia</a>, <a href="/wiki/Lil_Wyte" title="Lil Wyte">Lil Wyte</a> and <a href="/wiki/Frayser_Boy" title="Frayser Boy">Frayser Boy</a>)</span>
+</th>
+<td>89
+</td></tr>
+<tr>
+<th scope="row">"Blockstars"<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup><br /><span style="font-size:85%;">(featuring <a href="/wiki/Yo_Gotti" title="Yo Gotti">Yo Gotti</a>, <a href="/wiki/Jim_Jones_(rapper)" title="Jim Jones (rapper)">Jim Jones</a>, <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a> and <a href="/wiki/Ray_J" title="Ray J">Ray J</a>)</span>
+</th>
+<td>2009
+</td>
+<td>—
+</td>
+<td rowspan="2"><i>More Than Just a DJ</i>
+</td></tr>
+<tr>
+<th scope="row">"Thug Luv"<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup><br /><span style="font-size:85%;">(featuring <a href="/wiki/Maino_(rapper)" title="Maino (rapper)">Maino</a>, <a href="/wiki/Papoose" title="Papoose">Papoose</a>, <a href="/wiki/Red_Cafe" class="mw-redirect" title="Red Cafe">Red Cafe</a> and Ray J)</span>
+</th>
+<td>2010
+</td>
+<td>112
+</td></tr>
+<tr>
+<th scope="row">"60 Second Assassins" <br /><span style="font-size:85%;">(featuring <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>, <a href="/wiki/Layzie_Bone" title="Layzie Bone">Layzie Bone</a>, <a href="/wiki/Twista" title="Twista">Twista</a> and <a href="/wiki/Jaz-O" title="Jaz-O">Jaz-O</a>)</span>
+</th>
+<td rowspan="2">2011
+</td>
+<td>—
+</td>
+<td rowspan="6" data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">Non-album singles
+</td></tr>
+<tr>
+<th scope="row">"The Kings of the Streets" <br /><span style="font-size:85%;">(featuring <a href="/wiki/DJ_Khaled" title="DJ Khaled">DJ Khaled</a>, <a href="/wiki/DJ_Drama" title="DJ Drama">DJ Drama</a>, DJ Doo Wop and Fly Nate)</span>
+</th>
+<td>75
+</td></tr>
+<tr>
+<th scope="row">"About That Life"<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup><br /><span style="font-size:85%;">(featuring <a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>, <a href="/wiki/T-Pain" title="T-Pain">T-Pain</a>, <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a>, <a href="/wiki/Nelly" title="Nelly">Nelly</a> and <a href="/wiki/French_Montana" title="French Montana">French Montana</a>)</span>
+</th>
+<td rowspan="2">2013
+</td>
+<td>54
+</td></tr>
+<tr>
+<th scope="row">"Keep Calm"<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup><br /><span style="font-size:85%;">(featuring <a href="/wiki/Juicy_J" title="Juicy J">Juicy J</a>, <a href="/wiki/Jadakiss" title="Jadakiss">Jadakiss</a>, <a href="/wiki/2_Chainz" title="2 Chainz">2 Chainz</a> and <a href="/wiki/Rico_Love" title="Rico Love">Rico Love</a>)</span>
+</th>
+<td>—
+</td></tr>
+<tr>
+<th scope="row">"Don't Do It"<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup><br /><span style="font-size:85%;">(featuring Fat Joe, French Montana and Rico Love)</span>
+</th>
+<td>2014
+</td>
+<td>—
+</td></tr>
+<tr>
+<th scope="row">"Hocus Pocus"<br /><span style="font-size:85%;">(featuring <a href="/wiki/A_Boogie_wit_da_Hoodie" title="A Boogie wit da Hoodie">A Boogie wit da Hoodie</a>, <a href="/wiki/Blueface" title="Blueface">Blueface</a> and <a href="/wiki/Moneybagg_Yo" title="Moneybagg Yo">Moneybagg Yo</a>)</span>
+</th>
+<td>2019
+</td>
+<td>—
+</td></tr>
+<tr>
+<td colspan="4" style="font-size:90%">"—" denotes a recording that did not chart or was not released in that territory.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFIvey2006" class="citation web cs1">Ivey, Michael (June 16, 2006). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080411225243/http://www.nobodysmiling.com/hiphop/news/86337.php">"DJ Kay Slay and Shaq Seek to Bridge the Gap"</a>. <i>nobodysmiling.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.nobodysmiling.com/hiphop/news/86337.php">the original</a> on April 11, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nobodysmiling.com&amp;rft.atitle=DJ+Kay+Slay+and+Shaq+Seek+to+Bridge+the+Gap&amp;rft.date=2006-06-16&amp;rft.aulast=Ivey&amp;rft.aufirst=Michael&amp;rft_id=http%3A%2F%2Fwww.nobodysmiling.com%2Fhiphop%2Fnews%2F86337.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFOgunnaike2003" class="citation news cs1">Ogunnaike, Lola (May 4, 2003). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2003/05/04/arts/music-hip-hop-s-one-man-ministry-of-insults.html">"Hip-Hop's One-Man Ministry of Insults"</a>. <i>The New York Times</i>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0362-4331">0362-4331</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200304014809/https://www.nytimes.com/2003/05/04/arts/music-hip-hop-s-one-man-ministry-of-insults.html">Archived</a> from the original on March 4, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Hip-Hop%27s+One-Man+Ministry+of+Insults&amp;rft.date=2003-05-04&amp;rft.issn=0362-4331&amp;rft.aulast=Ogunnaike&amp;rft.aufirst=Lola&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2003%2F05%2F04%2Farts%2Fmusic-hip-hop-s-one-man-ministry-of-insults.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGary_Suarez2019" class="citation web cs1">Gary Suarez (January 28, 2019). <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/garysuarez/2019/01/28/dj-kay-slay-reveals-how-he-lands-so-many-hip-hop-greats-on-his-albums/#739d54bc5903">"DJ Kay Slay Reveals How He Lands So Many Hip-Hop Greats On His Albums"</a>. <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20201108004119/https://www.forbes.com/sites/garysuarez/2019/01/28/dj-kay-slay-reveals-how-he-lands-so-many-hip-hop-greats-on-his-albums/#739d54bc5903">Archived</a> from the original on November 8, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">July 31,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Forbes&amp;rft.atitle=DJ+Kay+Slay+Reveals+How+He+Lands+So+Many+Hip-Hop+Greats+On+His+Albums&amp;rft.date=2019-01-28&amp;rft.au=Gary+Suarez&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fgarysuarez%2F2019%2F01%2F28%2Fdj-kay-slay-reveals-how-he-lands-so-many-hip-hop-greats-on-his-albums%2F%23739d54bc5903&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://rapradar.com/2021/06/25/video-dj-kay-slay-ft-various-artists-rolling-110-deep/">"Video: DJ Kay Slay Ft. Various Artists "Rolling 110 Deep"<span class="cs1-kern-right"></span>"</a>. <i>Rap Radar</i>. June 25, 2021. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210625052616/https://rapradar.com/2021/06/25/video-dj-kay-slay-ft-various-artists-rolling-110-deep/">Archived</a> from the original on June 25, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">June 28,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rap+Radar&amp;rft.atitle=Video%3A+DJ+Kay+Slay+Ft.+Various+Artists+%22Rolling+110+Deep%22&amp;rft.date=2021-06-25&amp;rft_id=http%3A%2F%2Frapradar.com%2F2021%2F06%2F25%2Fvideo-dj-kay-slay-ft-various-artists-rolling-110-deep%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPrice2022" class="citation web cs1">Price, Joe (January 7, 2022). <a rel="nofollow" class="external text" href="https://www.complex.com/music/dj-kay-slay-covid-19-battle-brother-comments">"DJ Kay Slay Hospitalized Due to COVID-19, Brother Shares Update on His Condition"</a>. <i>complex.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 18,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=complex.com&amp;rft.atitle=DJ+Kay+Slay+Hospitalized+Due+to+COVID-19%2C+Brother+Shares+Update+on+His+Condition&amp;rft.date=2022-01-07&amp;rft.aulast=Price&amp;rft.aufirst=Joe&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fdj-kay-slay-covid-19-battle-brother-comments&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFEustice2022" class="citation web cs1">Eustice, Kyle (April 18, 2022). <a rel="nofollow" class="external text" href="https://hiphopdx.com/news/id.69615/title.legendary-new-york-city-dj-kay-slay-has-passed-away-following-covid-19-battle#">"Legendary New York City DJ Kay Slay Has Passed Away Following COVID-19 Battle"</a>. <i>hiphopdx.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 18,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=hiphopdx.com&amp;rft.atitle=Legendary+New+York+City+DJ+Kay+Slay+Has+Passed+Away+Following+COVID-19+Battle&amp;rft.date=2022-04-18&amp;rft.aulast=Eustice&amp;rft.aufirst=Kyle&amp;rft_id=https%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.69615%2Ftitle.legendary-new-york-city-dj-kay-slay-has-passed-away-following-covid-19-battle%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2022/04/18/arts/music/dj-kay-slay-dead.html">"DJ Kay Slay, Fiery Radio Star and Rap Mixtape Innovator, Dies at 55"</a>. <i>The New York Times</i>. April 18, 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">April 20,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=DJ+Kay+Slay%2C+Fiery+Radio+Star+and+Rap+Mixtape+Innovator%2C+Dies+at+55&amp;rft.date=2022-04-18&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2022%2F04%2F18%2Farts%2Fmusic%2Fdj-kay-slay-dead.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://music.apple.com/us/album/the-soul-controller/1598235987">"DJ Kay Slay – The Soul Controller"</a>. <a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20211217172623/https://music.apple.com/us/album/the-soul-controller/1598235987">Archived</a> from the original on December 17, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">December 17,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DJ+Kay+Slay+%E2%80%93+The+Soul+Controller&amp;rft.pub=Apple+Music&amp;rft_id=https%3A%2F%2Fmusic.apple.com%2Fus%2Falbum%2Fthe-soul-controller%2F1598235987&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.discogs.com/Kay-Slay-The-Month-Of-The-Bad-Guy/release/2700717">"Kay Slay* - The Month Of The Bad Guy"</a>. <i>Discogs.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160310035307/https://www.discogs.com/Kay-Slay-The-Month-Of-The-Bad-Guy/release/2700717">Archived</a> from the original on March 10, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Discogs.com&amp;rft.atitle=Kay+Slay%2A+-+The+Month+Of+The+Bad+Guy&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FKay-Slay-The-Month-Of-The-Bad-Guy%2Frelease%2F2700717&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/623/the_myspace_maniac.html">"The MySpace Maniac – DJ Kay Slay"</a>. <i>Livemixtapes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923142054/http://www.livemixtapes.com/mixtapes/623/the_myspace_maniac.html">Archived</a> from the original on September 23, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livemixtapes.com&amp;rft.atitle=The+MySpace+Maniac+%E2%80%93+DJ+Kay+Slay&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F623%2Fthe_myspace_maniac.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/975/sign_of_the_times.html">"Sign Of The Times – DJ Kay Slay"</a>. <i>Livemixtapes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923142258/http://www.livemixtapes.com/mixtapes/975/sign_of_the_times.html">Archived</a> from the original on September 23, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livemixtapes.com&amp;rft.atitle=Sign+Of+The+Times+%E2%80%93+DJ+Kay+Slay&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F975%2Fsign_of_the_times.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/1159/sign_of_the_times_2.html">"Sign Of The Times 2 – DJ Kay Slay"</a>. <i>Livemixtapes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923142321/http://www.livemixtapes.com/mixtapes/1159/sign_of_the_times_2.html">Archived</a> from the original on September 23, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livemixtapes.com&amp;rft.atitle=Sign+Of+The+Times+2+%E2%80%93+DJ+Kay+Slay&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F1159%2Fsign_of_the_times_2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/1992/hate_is_the_new_love.html">"Hate Is The New Love – DJ Kay Slay"</a>. <i>Livemixtapes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923141722/http://www.livemixtapes.com/mixtapes/1992/hate_is_the_new_love.html">Archived</a> from the original on September 23, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livemixtapes.com&amp;rft.atitle=Hate+Is+The+New+Love+%E2%80%93+DJ+Kay+Slay&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F1992%2Fhate_is_the_new_love.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/2435/the_return_of_the_god.html">"The Return Of The God – DJ Kay Slay"</a>. <i>Livemixtapes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923140728/http://www.livemixtapes.com/mixtapes/2435/the_return_of_the_god.html">Archived</a> from the original on September 23, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livemixtapes.com&amp;rft.atitle=The+Return+Of+The+God+%E2%80%93+DJ+Kay+Slay&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F2435%2Fthe_return_of_the_god.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/10742/blockstars.html">"Blockstars – DJ Kay Slay"</a>. <i>Livemixtapes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923142329/http://www.livemixtapes.com/mixtapes/10742/blockstars.html">Archived</a> from the original on September 23, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livemixtapes.com&amp;rft.atitle=Blockstars+%E2%80%93+DJ+Kay+Slay&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F10742%2Fblockstars.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/10865/blockstars_2.html">"Blockstars 2 – DJ Kay Slay"</a>. <i>Livemixtapes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923140825/http://www.livemixtapes.com/mixtapes/10865/blockstars_2.html">Archived</a> from the original on September 23, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livemixtapes.com&amp;rft.atitle=Blockstars+2+%E2%80%93+DJ+Kay+Slay&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F10865%2Fblockstars_2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/12242/the_god_is_back.html">"The God Is Back! - DJ Kay Slay"</a>. <i>Livemixtapes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923142810/http://www.livemixtapes.com/mixtapes/12242/the_god_is_back.html">Archived</a> from the original on September 23, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livemixtapes.com&amp;rft.atitle=The+God+Is+Back%21+-+DJ+Kay+Slay&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F12242%2Fthe_god_is_back.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/12493/long_live_the_king.html">"Long Live The King – DJ Kay Slay"</a>. <i>Livemixtapes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923141127/http://www.livemixtapes.com/mixtapes/12493/long_live_the_king.html">Archived</a> from the original on September 23, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livemixtapes.com&amp;rft.atitle=Long+Live+The+King+%E2%80%93+DJ+Kay+Slay&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F12493%2Flong_live_the_king.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/13004/redemption.html">"Redemption"</a>. <i>LiveMixtapes</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150121153844/http://www.livemixtapes.com/mixtapes/13004/redemption.html">Archived</a> from the original on January 21, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LiveMixtapes&amp;rft.atitle=Redemption&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F13004%2Fredemption.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/13158/the_soul_controller.html">"The Soul Controller"</a>. <i>LiveMixtapes</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402101356/http://www.livemixtapes.com/mixtapes/13158/the_soul_controller.html">Archived</a> from the original on April 2, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LiveMixtapes&amp;rft.atitle=The+Soul+Controller&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F13158%2Fthe_soul_controller.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/18115/the_changing_of_the_guard.html">"The Changing Of The Guard"</a>. <i>LiveMixtapes</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150121153404/http://www.livemixtapes.com/mixtapes/18115/the_changing_of_the_guard.html">Archived</a> from the original on January 21, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LiveMixtapes&amp;rft.atitle=The+Changing+Of+The+Guard&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F18115%2Fthe_changing_of_the_guard.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFZach_Frydenlund" class="citation web cs1">Zach Frydenlund. <a rel="nofollow" class="external text" href="http://www.complex.com/music/2012/09/mixtape-dj-kay-slay-the-return-of-the-gatekeeper">"Mixtape: DJ Kay Slay "The Return Of The Gatekeeper"<span class="cs1-kern-right"></span>"</a>. <i>Complex</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402155935/http://www.complex.com/music/2012/09/mixtape-dj-kay-slay-the-return-of-the-gatekeeper">Archived</a> from the original on April 2, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Mixtape%3A+DJ+Kay+Slay+%22The+Return+Of+The+Gatekeeper%22&amp;rft.au=Zach+Frydenlund&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2012%2F09%2Fmixtape-dj-kay-slay-the-return-of-the-gatekeeper&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Dj-Kay-Slay-Grown-Man-Hip-Hop-mixtape.420257.html">"Dj Kay Slay – Grown Man Hip Hop"</a>. <i>DatPiff</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402092805/http://www.datpiff.com/Dj-Kay-Slay-Grown-Man-Hip-Hop-mixtape.420257.html">Archived</a> from the original on April 2, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DatPiff&amp;rft.atitle=Dj+Kay+Slay+%E2%80%93+Grown+Man+Hip+Hop&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FDj-Kay-Slay-Grown-Man-Hip-Hop-mixtape.420257.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/DJ-Kay-Slay-Grown-Man-Hip-Hop-Part-2-Sleepin-With-The-Enemy-mixtape.446516.html">"DJ Kay Slay – Grown Man Hip Hop Part 2 (Sleepin' With The Enemy)"</a>. <i>DatPiff</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402154704/http://www.datpiff.com/Dj-Kay-Slay-Grown-Man-Hip-Hop-Part-2-Sleepin-With-The-Enemy-mixtape.446516.html">Archived</a> from the original on April 2, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DatPiff&amp;rft.atitle=DJ+Kay+Slay+%E2%80%93+Grown+Man+Hip+Hop+Part+2+%28Sleepin%27+With+The+Enemy%29&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FDJ-Kay-Slay-Grown-Man-Hip-Hop-Part-2-Sleepin-With-The-Enemy-mixtape.446516.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Dj-Kay-Slay-The-Last-Champion-mixtape.509381.html">"Dj Kay Slay – The Last Champion Hosted by Dj Kay Slay"</a>. <i>DatPiff</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150121153957/http://www.datpiff.com/Dj-Kay-Slay-The-Last-Champion-mixtape.509381.html">Archived</a> from the original on January 21, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DatPiff&amp;rft.atitle=Dj+Kay+Slay+%E2%80%93+The+Last+Champion+Hosted+by+Dj+Kay+Slay&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FDj-Kay-Slay-The-Last-Champion-mixtape.509381.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGoddard,_Kevin2014" class="citation web cs1">Goddard, Kevin (January 23, 2014). <a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/dj-kay-slay-the-rise-of-a-city-new-mixtape.107462.html">"DJ Kay Slay – The Rise of a City"</a>. <i>HNHH</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150708082757/http://www.hotnewhiphop.com/dj-kay-slay-the-rise-of-a-city-new-mixtape.107462.html">Archived</a> from the original on July 8, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 7,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HNHH&amp;rft.atitle=DJ+Kay+Slay+%E2%80%93+The+Rise+of+a+City&amp;rft.date=2014-01-23&amp;rft.au=Goddard%2C+Kevin&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fdj-kay-slay-the-rise-of-a-city-new-mixtape.107462.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLilah,_Rose2014" class="citation web cs1">Lilah, Rose (May 8, 2014). <a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/dj-kay-slay-the-last-hip-hop-disciple-new-mixtape.112221.html?">"DJ Kay Slay – The Last Hip-Hop Disciple"</a>. <i>Hotnewhiphop.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140511131023/http://www.hotnewhiphop.com/dj-kay-slay-the-last-hip-hop-disciple-new-mixtape.112221.html">Archived</a> from the original on May 11, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">May 10,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=DJ+Kay+Slay+%E2%80%93+The+Last+Hip-Hop+Disciple&amp;rft.date=2014-05-08&amp;rft.au=Lilah%2C+Rose&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fdj-kay-slay-the-last-hip-hop-disciple-new-mixtape.112221.html%3F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGoddard,_Kevin2014" class="citation web cs1">Goddard, Kevin (November 5, 2014). <a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/dj-kay-slay-the-original-man-new-mixtape.115557.html">"DJ Kay Slay – The Original Man"</a>. <i>HotNewHipHop</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402161010/http://www.hotnewhiphop.com/dj-kay-slay-the-original-man-new-mixtape.115557.html">Archived</a> from the original on April 2, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=DJ+Kay+Slay+%E2%80%93+The+Original+Man&amp;rft.date=2014-11-05&amp;rft.au=Goddard%2C+Kevin&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fdj-kay-slay-the-original-man-new-mixtape.115557.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSmith,_Trevor2015" class="citation web cs1">Smith, Trevor (April 8, 2015). <a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/dj-kay-slay-the-industry-purge-new-mixtape.115786.html">"DJ Kay Slay – The Industry Purge"</a>. <i>HotNewHipHop</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150416090703/http://www.hotnewhiphop.com/dj-kay-slay-the-industry-purge-new-mixtape.115786.html">Archived</a> from the original on April 16, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">May 5,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=DJ+Kay+Slay+%E2%80%93+The+Industry+Purge&amp;rft.date=2015-04-08&amp;rft.au=Smith%2C+Trevor&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fdj-kay-slay-the-industry-purge-new-mixtape.115786.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/dj-kay-slay-shadow-of-the-sun-new-mixtape.116093.html">"DJ Kay Slay – Shadow Of The Sun – Download &amp; Listen &#91;New Mixtape&#93;"</a>. <i>Hotnewhiphop</i>. October 26, 2015. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160924031631/http://www.hotnewhiphop.com/dj-kay-slay-shadow-of-the-sun-new-mixtape.116093.html">Archived</a> from the original on September 24, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop&amp;rft.atitle=DJ+Kay+Slay+%E2%80%93+Shadow+Of+The+Sun+%E2%80%93+Download+%26+Listen+%5BNew+Mixtape%5D&amp;rft.date=2015-10-26&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fdj-kay-slay-shadow-of-the-sun-new-mixtape.116093.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://rapradar.com/2016/02/15/new-mixtape-dj-kay-slay-50-shades-of-slay/">"New Mixtape: DJ Kay Slay '50 Shades Of Slay'<span class="cs1-kern-right"></span>"</a>. <i>Rapradar.com</i>. February 15, 2016. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160924020121/http://rapradar.com/2016/02/15/new-mixtape-dj-kay-slay-50-shades-of-slay/">Archived</a> from the original on September 24, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rapradar.com&amp;rft.atitle=New+Mixtape%3A+DJ+Kay+Slay+%2750+Shades+Of+Slay%27&amp;rft.date=2016-02-15&amp;rft_id=http%3A%2F%2Frapradar.com%2F2016%2F02%2F15%2Fnew-mixtape-dj-kay-slay-50-shades-of-slay%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Dj-Kay-Slay-The-Rap-Attack-mixtape.791752.html">"Dj Kay Slay – The Rap Attack"</a>. <i>Livemixtapes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160930150217/http://www.datpiff.com/Dj-Kay-Slay-The-Rap-Attack-mixtape.791752.html">Archived</a> from the original on September 30, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">September 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Livemixtapes.com&amp;rft.atitle=Dj+Kay+Slay+%E2%80%93+The+Rap+Attack&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FDj-Kay-Slay-The-Rap-Attack-mixtape.791752.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/blockstars-feat.-plies-ray/id331156963">"iTunes Store"</a>. <i>Itunes.apple.com</i>. September 15, 2009. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150123223453/https://itunes.apple.com/us/album/blockstars-feat.-plies-ray/id331156963">Archived</a> from the original on January 23, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Itunes.apple.com&amp;rft.atitle=iTunes+Store&amp;rft.date=2009-09-15&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fblockstars-feat.-plies-ray%2Fid331156963&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/thug-luv-feat.-maino-papoose/id351435547">"iTunes – Music – Thug Luv (feat. Maino, Papoose, Red Cafe &amp; Ray J) – Single by DJ Kayslay"</a>. <i>iTunes</i>. January 12, 2010. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150221231743/https://itunes.apple.com/us/album/thug-luv-feat.-maino-papoose/id351435547">Archived</a> from the original on February 21, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=iTunes+%E2%80%93+Music+%E2%80%93+Thug+Luv+%28feat.+Maino%2C+Papoose%2C+Red+Cafe+%26+Ray+J%29+%E2%80%93+Single+by+DJ+Kayslay&amp;rft.date=2010-01-12&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fthug-luv-feat.-maino-papoose%2Fid351435547&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/about-that-life-feat.-fabolous/id593137145">"iTunes – Music – About That Life (feat. Fabolous, T Pain, Rick Ross, Nelly &amp; French Montana) – Single by DJ Kayslay"</a>. <i>iTunes</i>. February 5, 2013. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130720130404/https://itunes.apple.com/us/album/about-that-life-feat.-fabolous/id593137145">Archived</a> from the original on July 20, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=iTunes+%E2%80%93+Music+%E2%80%93+About+That+Life+%28feat.+Fabolous%2C+T+Pain%2C+Rick+Ross%2C+Nelly+%26+French+Montana%29+%E2%80%93+Single+by+DJ+Kayslay&amp;rft.date=2013-02-05&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fabout-that-life-feat.-fabolous%2Fid593137145&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/keep-calm-feat.-juicy-j-jadakiss/id722389514">"iTunes – Music – Keep Calm (feat. Juicy J, Jadakiss, 2 Chainz &amp; Rico Love) – Single by DJ Kayslay"</a>. <i>iTunes</i>. October 15, 2013. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150930090237/https://itunes.apple.com/us/album/keep-calm-feat.-juicy-j-jadakiss/id722389514">Archived</a> from the original on September 30, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=iTunes+%E2%80%93+Music+%E2%80%93+Keep+Calm+%28feat.+Juicy+J%2C+Jadakiss%2C+2+Chainz+%26+Rico+Love%29+%E2%80%93+Single+by+DJ+Kayslay&amp;rft.date=2013-10-15&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fkeep-calm-feat.-juicy-j-jadakiss%2Fid722389514&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/dont-do-it-feat.-fat-joe-french/id917379230">"iTunes Store"</a>. <i>Itunes.apple.com</i>. September 9, 2014. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150221231648/https://itunes.apple.com/us/album/dont-do-it-feat.-fat-joe-french/id917379230">Archived</a> from the original on February 21, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Itunes.apple.com&amp;rft.atitle=iTunes+Store&amp;rft.date=2014-09-09&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fdont-do-it-feat.-fat-joe-french%2Fid917379230&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADJ+Kay+Slay" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DJ_Kay_Slay&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.hot97.com/djkayslay/">DJ Kay Slay's Hot 97 web page biography</a></li>
+<li>DJ Kay Slay charts:</li>
+<li>The information in the personal section is from Circuit City's DJ Kay Slay bio <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070928010513/http://entertainment.circuitcity.com/Music/Artist.aspx?p_id=P+++557399&amp;type=bio">Circuit City-Music: DJ Kayslay</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1154125#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1154125#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q1154125#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000055533630">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/59036019">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/135327016">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/nr2004036420">United States</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://lod.nl.go.kr/resource/KAC2020N6596">Korea</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/57cad114-d0e2-435f-841f-0946df0d4611">MusicBrainz</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/160449154">IdRef</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2363
+Cached time: 20230919232443
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.513 seconds
+Real time usage: 0.628 seconds
+Preprocessor visited node count: 3367/1000000
+Post‐expand include size: 89484/2097152 bytes
+Template argument size: 4511/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 10/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 119739/5000000 bytes
+Lua time usage: 0.335/10.000 seconds
+Lua memory usage: 9603166/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  562.240      1 -total
+ 43.66%  245.463      1 Template:Reflist
+ 37.23%  209.307     36 Template:Cite_web
+ 23.06%  129.655      1 Template:Infobox_musical_artist
+ 20.14%  113.216      1 Template:Infobox
+  9.63%   54.154      2 Template:Citation_needed
+  9.27%   52.125      1 Template:Authority_control
+  8.91%   50.077      2 Template:Fix
+  7.65%   43.028      2 Template:Short_description
+  7.19%   40.451      2 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33662881-0!canonical and timestamp 20230919232442 and revision id 1166671994. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=DJ_Kay_Slay&amp;oldid=1166671994">https://en.wikipedia.org/w/index.php?title=DJ_Kay_Slay&amp;oldid=1166671994</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1966_births" title="Category:1966 births">1966 births</a></li><li><a href="/wiki/Category:2022_deaths" title="Category:2022 deaths">2022 deaths</a></li><li><a href="/wiki/Category:African-American_musicians" title="Category:African-American musicians">African-American musicians</a></li><li><a href="/wiki/Category:American_graffiti_artists" title="Category:American graffiti artists">American graffiti artists</a></li><li><a href="/wiki/Category:American_prisoners_and_detainees" title="Category:American prisoners and detainees">American prisoners and detainees</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Mixtape_DJs" title="Category:Mixtape DJs">Mixtape DJs</a></li><li><a href="/wiki/Category:Columbia_Records_artists" title="Category:Columbia Records artists">Columbia Records artists</a></li><li><a href="/wiki/Category:Deaths_from_the_COVID-19_pandemic_in_New_York_(state)" title="Category:Deaths from the COVID-19 pandemic in New York (state)">Deaths from the COVID-19 pandemic in New York (state)</a></li><li><a href="/wiki/Category:Five_percenters" title="Category:Five percenters">Five percenters</a></li><li><a href="/wiki/Category:Musicians_from_New_York_City" title="Category:Musicians from New York City">Musicians from New York City</a></li><li><a href="/wiki/Category:MNRK_Music_Group_artists" title="Category:MNRK Music Group artists">MNRK Music Group artists</a></li><li><a href="/wiki/Category:American_hip_hop_DJs" title="Category:American hip hop DJs">American hip hop DJs</a></li><li><a href="/wiki/Category:American_music_industry_executives" title="Category:American music industry executives">American music industry executives</a></li><li><a href="/wiki/Category:21st-century_African-American_people" title="Category:21st-century African-American people">21st-century African-American people</a></li><li><a href="/wiki/Category:20th-century_African-American_people" title="Category:20th-century African-American people">20th-century African-American people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_June_2022" title="Category:Use mdy dates from June 2022">Use mdy dates from June 2022</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2009" title="Category:Articles with unsourced statements from December 2009">Articles with unsourced statements from December 2009</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_NLK_identifiers" title="Category:Articles with NLK identifiers">Articles with NLK identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Articles_with_SUDOC_identifiers" title="Category:Articles with SUDOC identifiers">Articles with SUDOC identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 23 July 2023, at 02:17<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=DJ_Kay_Slay&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2275","wgBackendResponseTime":135,"wgPageParseReport":{"limitreport":{"cputime":"0.513","walltime":"0.628","ppvisitednodes":{"value":3367,"limit":1000000},"postexpandincludesize":{"value":89484,"limit":2097152},"templateargumentsize":{"value":4511,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":119739,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  562.240      1 -total"," 43.66%  245.463      1 Template:Reflist"," 37.23%  209.307     36 Template:Cite_web"," 23.06%  129.655      1 Template:Infobox_musical_artist"," 20.14%  113.216      1 Template:Infobox","  9.63%   54.154      2 Template:Citation_needed","  9.27%   52.125      1 Template:Authority_control","  8.91%   50.077      2 Template:Fix","  7.65%   43.028      2 Template:Short_description","  7.19%   40.451      2 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.335","limit":"10.000"},"limitreport-memusage":{"value":9603166,"limit":52428800}},"cachereport":{"origin":"mw2363","timestamp":"20230919232443","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"DJ Kay Slay","url":"https:\/\/en.wikipedia.org\/wiki\/DJ_Kay_Slay","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1154125","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1154125","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-05-11T21:55:38Z","dateModified":"2023-07-23T02:17:04Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/2\/27\/DJ_Kay_Slay.jpg","headline":"American DJ from New York (1966\u20132022)"}</script>
+</body>
+</html>

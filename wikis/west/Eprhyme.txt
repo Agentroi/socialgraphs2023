@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Eprhyme - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"34358360-9185-4579-a2a4-c7cbbf5fb898","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eprhyme","wgTitle":"Eprhyme","wgCurRevisionId":1148873053,"wgRevisionId":1148873053,"wgArticleId":39114592,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","Articles with MusicBrainz identifiers","Shemspeed Records artists","K Records artists","Alternative hip hop musicians","American Orthodox Jews","Rappers from Washington (state)","Evergreen State College alumni","Jewish rappers","Jewish hip hop record producers","Baalei teshuva","1980 births","Living people","Rappers from Arizona","Musicians from Phoenix, Arizona","West Coast hip hop musicians"],"wgPageViewLanguage":
+"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Eprhyme","wgRelevantArticleId":39114592,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q22908201","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList",
+"mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Eprhyme - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Eprhyme">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Eprhyme&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Eprhyme">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Eprhyme rootpage-Eprhyme skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert vector-main-menu-action-lang-alert-empty">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Eprhyme" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eprhyme" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Eprhyme" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eprhyme" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-Early_music_in_Olympia"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Early_music_in_Olympia">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Early music in Olympia</div>
+			</a>
+			
+			<ul id="toc-Early_music_in_Olympia-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Solo_career"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Solo_career">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Solo career</div>
+			</a>
+			
+			<ul id="toc-Solo_career-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Darshan,_Chant_Records,_and_Ruthless_Cosmopolitans"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Darshan,_Chant_Records,_and_Ruthless_Cosmopolitans">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Darshan, Chant Records, and Ruthless Cosmopolitans</div>
+			</a>
+			
+			<ul id="toc-Darshan,_Chant_Records,_and_Ruthless_Cosmopolitans-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Musical_style"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Musical_style">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Musical style</div>
+		</a>
+		
+		<ul id="toc-Musical_style-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Albums</div>
+			</a>
+			
+			<ul id="toc-Albums-sublist" class="vector-toc-list">
+				<li id="toc-With_Saints_of_Everyday_Failures"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#With_Saints_of_Everyday_Failures">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1.1</span>With Saints of Everyday Failures</div>
+			</a>
+			
+			<ul id="toc-With_Saints_of_Everyday_Failures-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Solo"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Solo">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1.2</span>Solo</div>
+			</a>
+			
+			<ul id="toc-Solo-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-With_Darshan"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#With_Darshan">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1.3</span>With Darshan</div>
+			</a>
+			
+			<ul id="toc-With_Darshan-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-With_Ruthless_Cosmopolitans"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#With_Ruthless_Cosmopolitans">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1.4</span>With Ruthless Cosmopolitans</div>
+			</a>
+			
+			<ul id="toc-With_Ruthless_Cosmopolitans-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Guest_appearances"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Guest_appearances">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Guest appearances</div>
+			</a>
+			
+			<ul id="toc-Guest_appearances-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Compilations"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Compilations">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>Compilations</div>
+			</a>
+			
+			<ul id="toc-Compilations-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles_and_music_videos"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles_and_music_videos">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4</span>Singles and music videos</div>
+			</a>
+			
+			<ul id="toc-Singles_and_music_videos-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Eprhyme</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="This article exist only in this language. Add the article for other languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Add languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q22908201#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Eprhyme" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Eprhyme" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Eprhyme"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Eprhyme&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Eprhyme&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Eprhyme"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Eprhyme&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Eprhyme&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Eprhyme" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Eprhyme" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Eprhyme&amp;oldid=1148873053" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Eprhyme&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Eprhyme&amp;id=1148873053&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q22908201" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Eprhyme&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Eprhyme&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Eprhyme</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Eden Daniel Pearlstein</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname">ePHRYME</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1980-02-19</span>) </span>February 19, 1980<span class="noprint ForceAgeToShow"> (age&#160;43)</span><br /><a href="/wiki/Phoenix,_Arizona" title="Phoenix, Arizona">Phoenix, Arizona</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Jewish_hip_hop" title="Jewish hip hop">Jewish hip hop</a>, <a href="/wiki/Alternative_hip_hop" title="Alternative hip hop">alternative hip hop</a>, <a href="/wiki/Hipster_hop" title="Hipster hop">hipster hop</a>, <a href="/wiki/Political_hip_hop#Conscious_hip_hop" title="Political hip hop">conscious hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role">Rapper, producer</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2003–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><a href="/wiki/Shemspeed" class="mw-redirect" title="Shemspeed">Shemspeed</a><br /><a href="/wiki/K_Records" title="K Records">K</a></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://eprhyme.com">eprhyme<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Eden Daniel Pearlstein</b> (born February 19, 1980), better known by his stage name <b>Eprhyme</b> (pronounced "E-Prime"), is an American Jewish <a href="/wiki/Rapper" class="mw-redirect" title="Rapper">rapper</a> and <a href="/wiki/Hip_hop_production" title="Hip hop production">producer</a> based in <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>. While attending <a href="/wiki/The_Evergreen_State_College" class="mw-redirect" title="The Evergreen State College">The Evergreen State College</a> in <a href="/wiki/Olympia,_Washington" title="Olympia, Washington">Olympia, Washington</a>, he became involved with the <a href="/wiki/Olympia_music_scene" class="mw-redirect" title="Olympia music scene">Olympia music scene</a> as half of the hip hop duo Saints of Everyday Failures, with which he released two albums. According to Nic Leonard of the <i><a href="/wiki/Weekly_Volcano" title="Weekly Volcano">Weekly Volcano</a></i>, Eprhyme "played a major roll [sic] in the creation of the Olympia hip-hop scene."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> He was noticed by local independent label <a href="/wiki/K_Records" title="K Records">K Records</a>, who released his first two singles, "<a href="/wiki/Punklezmerap" title="Punklezmerap">Punklezmerap</a>" and "Shomer Salaam". He then released his debut album, <i><a href="/wiki/Waywordwonderwill" title="Waywordwonderwill">Waywordwonderwill</a></i> (2009), through <a href="/wiki/Shemspeed" class="mw-redirect" title="Shemspeed">Shemspeed Records</a>, before returning to <a href="/wiki/K_Records" title="K Records">K Records</a> for his follow-up, <i><a href="/wiki/Dopestylevsky" title="Dopestylevsky">Dopestylevsky</a></i> (2011). He is currently part of the <a href="/wiki/Alternative_hip_hop" title="Alternative hip hop">alternative hip hop</a> groups <a href="/wiki/Darshan_(band)" title="Darshan (band)">Darshan</a>, with vocalist <a href="/wiki/Basya_Schechter" title="Basya Schechter">Basya Schechter</a>, and Ruthless Cosmopolitans, with <a href="/wiki/Jon_Madof" title="Jon Madof">Jon Madof</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Eden Pearlstein was born February 19, 1980, in <a href="/wiki/Phoenix,_Arizona" title="Phoenix, Arizona">Phoenix, Arizona</a>. He grew up in a <a href="/wiki/Reform_Judaism" title="Reform Judaism">Reform Jewish</a> household, later describing it as "a standard non-<a href="/wiki/Orthodox_Judaism" title="Orthodox Judaism">Orthodox</a> West Coast Jewish upbringing—<a href="/wiki/Hebrew_school" title="Hebrew school">Hebrew school</a>, <a href="/wiki/Bar_mitzvah" class="mw-redirect" title="Bar mitzvah">bar mitzvah</a>, and summer camp. It was not very intriguing to me and I just walked away from it after my bar mitzvah."<sup id="cite_ref-jc_2-0" class="reference"><a href="#cite_note-jc-2">&#91;2&#93;</a></sup> Pearlstein listened to hip hop as a child and began rapping when he was 14.<sup id="cite_ref-jc_2-1" class="reference"><a href="#cite_note-jc-2">&#91;2&#93;</a></sup> During his middle school years, he became rebellious and dabbled in drugs and petty crime until, at age 17, he attended a youth arts program and became interested in poetry. In his early twenties, he visited <a href="/wiki/North_Dakota" title="North Dakota">North Dakota</a> to participate in a Native American <a href="/wiki/Sun_Dance" title="Sun Dance">Sun Dance</a>, during which he had a spiritual epiphany that inspired him to re-examine his Jewish roots.<sup id="cite_ref-haaretz_3-0" class="reference"><a href="#cite_note-haaretz-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_music_in_Olympia">Early music in Olympia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=3" title="Edit section: Early music in Olympia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pearlstein attended <a href="/wiki/Evergreen_State_College" title="Evergreen State College">The Evergreen State College</a> in <a href="/wiki/Olympia,_Washington" title="Olympia, Washington">Olympia, Washington</a>, where he studied <a href="/wiki/Comparative_theology" title="Comparative theology">comparative theology</a> and led classes in Alternative Jewish studies on the side.<sup id="cite_ref-haaretz_3-1" class="reference"><a href="#cite_note-haaretz-3">&#91;3&#93;</a></sup> During this time, he became involved in the <a href="/wiki/Music_of_Olympia,_Washington" title="Music of Olympia, Washington">Olympia music scene</a>, working with producer Matt "Smoke" Smokovich of <a href="/wiki/Oldominion" title="Oldominion">Oldominion</a>.
+</p><p>Pearlstein co-founded the hip hop group <b>Saints of Everyday Failures</b> alongside D-Scribe, Tha Goonie, MC Contradiction, and My Left Foot. They performed at the 2006 <a href="/wiki/Lakefair" title="Lakefair">Lakefair</a> festival alongside <a href="/wiki/One_Block_Radius" title="One Block Radius">One Block Radius</a> and released two albums together, <i>True Meaning of Survival</i> (2005) and <i><a href="/wiki/The_State_of_the_Art_is_Failure" class="mw-redirect" title="The State of the Art is Failure">The State of the Art is Failure</a></i> (2006), the latter of which featured contributions by <a href="/wiki/Awol_One" title="Awol One">Awol One</a>, <a href="/wiki/2Mex" title="2Mex">2Mex</a>, <a href="/wiki/Onry_Ozzborn" title="Onry Ozzborn">Onry Ozzborn</a>, and members of <a href="/wiki/Typical_Cats" title="Typical Cats">Typical Cats</a>. The album's sound was described by <i><a href="/wiki/Weekly_Volcano" title="Weekly Volcano">Weekly Volcano</a></i> as "a séance with <a href="/wiki/John_Coltrane" title="John Coltrane">John Coltrane</a>, <a href="/wiki/Hermann_Hesse" title="Hermann Hesse">Hermann Hesse</a>, and <a href="/wiki/Public_Enemy_(band)" class="mw-redirect" title="Public Enemy (band)">Public Enemy</a>."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Solo_career">Solo career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=4" title="Edit section: Solo career">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pearlstein gained the attention of <a href="/wiki/K_Records" title="K Records">K Records</a>, which released his first two solo singles, "<a href="/wiki/Punklezmerap" title="Punklezmerap">Punklezmerap</a>", which featured <a href="/wiki/Nomy_Lamm" title="Nomy Lamm">Nomy Lamm</a> on vocals, and "Shomer Salaam". This made him the label's first hip hop artist in a decade, as they were primarily associated with <a href="/wiki/Punk_rock" title="Punk rock">punk</a> and <a href="/wiki/Indie_rock" title="Indie rock">indie rock</a> artists.<sup id="cite_ref-jewcy_5-0" class="reference"><a href="#cite_note-jewcy-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>In 2009, Pearlstein relocated to <a href="/wiki/New_York_City" title="New York City">New York City</a>, where he became a regular at <a href="/wiki/SOB%27s" title="SOB&#39;s">SOB's</a>.<sup id="cite_ref-jc_2-2" class="reference"><a href="#cite_note-jc-2">&#91;2&#93;</a></sup> That same year, he released his debut album, <i><a href="/wiki/Waywordwonderwill" title="Waywordwonderwill">Waywordwonderwill</a></i>, through <a href="/wiki/Shemspeed" class="mw-redirect" title="Shemspeed">Shemspeed Records</a>. In March 2010, Pearlstein performed at the <a href="/wiki/Sandys_Row_Synagogue" title="Sandys Row Synagogue">Sandys Row Synagogue</a> in <a href="/wiki/London" title="London">London</a> as part of a <a href="/wiki/Moishe_House" title="Moishe House">Moishe House</a> event.<sup id="cite_ref-jc_2-3" class="reference"><a href="#cite_note-jc-2">&#91;2&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Pearlstein returned to K Records in 2011 for his second album, <i><a href="/wiki/Dopestylevsky" title="Dopestylevsky">Dopestylevsky</a></i>. The album featured more collaborations, including <a href="/wiki/Labtekwon" title="Labtekwon">Labtekwon</a>, <a href="/wiki/Shneur_Hasofer" title="Shneur Hasofer">DeScribe</a>, <a href="/wiki/Y-Love" title="Y-Love">Y-Love</a>, and AKA.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> In 2014, Pearlstein and Smoke M2D6, producing under the name Thee Xntrx, released <i><a href="/wiki/All_Your_Friend%27s_Friends" title="All Your Friend&#39;s Friends">All Your Friend's Friends</a></i>, a compilation of <a href="/wiki/Hip_hop_music_in_the_Pacific_Northwest" title="Hip hop music in the Pacific Northwest">Pacific Northwest</a> rappers sampling older K Records artists. Those on the compilation included <a href="/wiki/The_Chicharones" title="The Chicharones">The Chicharones</a>, MG! The Visionary, <a href="/wiki/Oldominion" title="Oldominion">Oldominion</a>, and Pearlstein himself.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span id="Darshan.2C_Chant_Records.2C_and_Ruthless_Cosmopolitans"></span><span class="mw-headline" id="Darshan,_Chant_Records,_and_Ruthless_Cosmopolitans">Darshan, Chant Records, and Ruthless Cosmopolitans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=5" title="Edit section: Darshan, Chant Records, and Ruthless Cosmopolitans">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Darshan_(band)" title="Darshan (band)">Darshan (band)</a></div>
+<p>While attending a retreat at <a href="/wiki/Isabella_Freedman_Jewish_Retreat_Center" title="Isabella Freedman Jewish Retreat Center">Isabella Freedman Jewish Retreat Center</a> in 2008, Pearlstein met rabbi and singer-songwriter <a href="/wiki/Shir_Yaakov" title="Shir Yaakov">Shir Yaakov</a>. The two subsequently formed the <a href="/wiki/Alternative_hip_hop" title="Alternative hip hop">alternative hip hop</a> collective <a href="/wiki/Darshan_(band)" title="Darshan (band)">Darshan</a>, and in 2009 they released a debut EP, <i>Lishmah</i>, through <a href="/wiki/Erez_Safar" title="Erez Safar">Erez Safar</a>'s Shemspeed label. A debut full-length, <i>Deeper and Higher</i>, was released independently in 2015, with <a href="/wiki/Jamie_Saft" title="Jamie Saft">Jamie Saft</a> producing and contributions from drummer <a href="/wiki/Ben_Perowsky" title="Ben Perowsky">Ben Perowsky</a> and vocalists <a href="/wiki/Basya_Schechter" title="Basya Schechter">Basya Schechter</a> and Elana Brody, the former of whom became a full-time member of the group. In 2017 they signed to the independent label Chant Records (founded by guitarist/producer <a href="/wiki/Jon_Madof" title="Jon Madof">Jon Madof</a> and bassist/oudist <a href="/wiki/Shanir_Ezra_Blumenkranz" title="Shanir Ezra Blumenkranz">Shanir Ezra Blumenkranz</a>) and released a second album, <i>Raza</i>, with Pearlstein and Schecter, producer Frederik Rubens, and backing musicians including Blumenkranz, <a href="/wiki/Jessica_Lurie" title="Jessica Lurie">Jessica Lurie</a>, <a href="/wiki/Jason_Lindner" title="Jason Lindner">Jason Lindner</a>, and Schechter's <a href="/wiki/Pharaoh%27s_Daughter" title="Pharaoh&#39;s Daughter">Pharaoh's Daughter</a> bandmates Mathias Kunzli, Noah Hoffeld, and Daniel Freedman.
+</p><p>In late 2020 Pearlstein formed another group, Ruthless Cosmopolitans, with Madof, guitarist <a href="/wiki/Yoshie_Fruchter" title="Yoshie Fruchter">Yoshie Fruchter</a>, and drummer Emmanuel "Manny" Laine (<a href="/wiki/Wyclef_Jean" title="Wyclef Jean">Wyclef Jean</a>, <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a>). The idea for the group originated in August 2017 when Pearlstein wrote the song "Make America Hate Again" in the wake of the infamous <a href="/wiki/Unite_the_Right_rally" title="Unite the Right rally">Unite the Right rally</a> and brought it to Madof.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> After releasing two music videos, "The Screen Age" on September 21 and "Make America Hate Again" on October 12, the group released a self-titled EP on October 23, 2020. Produced by Madof, the EP featured contributions from vocalists Elana Brody and Talia Madof and <a href="/wiki/Zion80" title="Zion80">Zion80</a> members Greg Wall, <a href="/wiki/Frank_London" title="Frank London">Frank London</a>, Brian Marsella, and Marlon Sobol.
+</p>
+<h2><span class="mw-headline" id="Musical_style">Musical style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=6" title="Edit section: Musical style">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In addition to hip hop, Pearlstein's music contains elements of <a href="/wiki/Punk_rock" title="Punk rock">punk</a>, <a href="/wiki/Jazz" title="Jazz">jazz</a>, <a href="/wiki/Klezmer" title="Klezmer">klezmer</a>, <a href="/wiki/Reggae" title="Reggae">reggae</a>, and <a href="/wiki/Middle_Eastern_music" title="Middle Eastern music">Middle Eastern music</a>.<sup id="cite_ref-jc_2-4" class="reference"><a href="#cite_note-jc-2">&#91;2&#93;</a></sup> He has been compared to artists like <a href="/wiki/A_Tribe_Called_Quest" title="A Tribe Called Quest">A Tribe Called Quest</a> and <a href="/wiki/The_Roots" title="The Roots">The Roots</a>.<sup id="cite_ref-tablet_12-0" class="reference"><a href="#cite_note-tablet-12">&#91;12&#93;</a></sup> His lyrics deal with a number of religious and philosophical topics.<sup id="cite_ref-forward1_13-0" class="reference"><a href="#cite_note-forward1-13">&#91;13&#93;</a></sup><sup id="cite_ref-forward2_14-0" class="reference"><a href="#cite_note-forward2-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=7" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Albums">Albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=8" title="Edit section: Albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="With_Saints_of_Everyday_Failures">With Saints of Everyday Failures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=9" title="Edit section: With Saints of Everyday Failures">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><i>True Meaning of Survival</i> (January 11, 2005; independent)<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></li>
+<li><i><a href="/wiki/The_State_of_the_Art_is_Failure" class="mw-redirect" title="The State of the Art is Failure">The State of the Art is Failure</a></i> (March 21, 2006; Old Growth)</li></ul>
+<h4><span class="mw-headline" id="Solo">Solo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=10" title="Edit section: Solo">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><i><a href="/wiki/Waywordwonderwill" title="Waywordwonderwill">Waywordwonderwill</a></i> (September 8, 2009; re-released October 12, 2010; <a href="/wiki/Shemspeed" class="mw-redirect" title="Shemspeed">Shemspeed</a>)</li>
+<li><i><a href="/wiki/Dopestylevsky" title="Dopestylevsky">Dopestylevsky</a></i> (April 26, 2011; <a href="/wiki/K_Records" title="K Records">K</a>)</li>
+<li><i>Lost Tapes &amp; Found Sounds (2006-2012)</i> (May 14, 2013; K)</li></ul>
+<h4><span class="mw-headline" id="With_Darshan">With Darshan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=11" title="Edit section: With Darshan">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Darshan_(band)#Discography" title="Darshan (band)">Darshan (band) §&#160;Discography</a></div>
+<ul><li><i>Deeper and Higher</i> (September 29, 2015; independent)</li>
+<li><i>Raza</i> (November 1, 2017; independent)</li></ul>
+<h4><span class="mw-headline" id="With_Ruthless_Cosmopolitans">With Ruthless Cosmopolitans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=12" title="Edit section: With Ruthless Cosmopolitans">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><i>Ruthless Cosmopolitans</i> EP (2020)</li></ul>
+<h3><span class="mw-headline" id="Guest_appearances">Guest appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=13" title="Edit section: Guest appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Shemspeed MCs vs. Electro Morocco, "Boom Selecta" (feat. Eprhyme, <a href="/wiki/Y-Love" title="Y-Love">Y-Love</a>, <a href="/wiki/DeScribe" class="mw-redirect" title="DeScribe">DeScribe</a>, and <a href="/wiki/Kosha_Dillz" title="Kosha Dillz">Kosha Dillz</a>; prod. <a href="/wiki/Electro_Morocco" title="Electro Morocco">Electro Morocco</a>) (Shemspeed; April 29, 2010)</li></ul>
+<h3><span class="mw-headline" id="Compilations">Compilations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=14" title="Edit section: Compilations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/All_Your_Friend%27s_Friends" title="All Your Friend&#39;s Friends">All Your Friend's Friends</a></i> ("Trial By Water" as Eprhyme; "Simplify Complex" with Saints of Everyday Failures; produced with Thee Xntrx (November 11, 2014; K)</li></ul>
+<h3><span class="mw-headline" id="Singles_and_music_videos">Singles and music videos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=15" title="Edit section: Singles and music videos">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=vIJnjZoZqQ0">"State of the Art"</a> (with Saints of Everyday Failures) (2008; Old Growth)</li>
+<li>"<a href="/wiki/Punklezmerap" title="Punklezmerap">Punklezmerap</a>" (ft. <a href="/wiki/Nomy_Lamm" title="Nomy Lamm">Nomy Lamm</a>) (<i><a href="/wiki/Waywordwonderwill" title="Waywordwonderwill">Waywordwonderwill</a></i>; 2008; K)</li>
+<li>"Shomer Salaam" (<i>Waywordwonderwill</i>; 2009; K)</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=fxd0nqR9pgk">"Life Sentence"</a> (<i>Dopestylevsky</i>; 2011; K)</li>
+<li>"Trial by Water" (ft. IAME) (<i>All Your Friend's Friends</i>; 2015; K)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFLeonard,_Nic2011" class="citation web cs1">Leonard, Nic (April 30, 2011). <a rel="nofollow" class="external text" href="http://www.northwestmilitary.com/music-and-culture/walkie-talkie-blog/2011/04/HIP-HOP-Eprhymes-K-Records-release-Dopestylvesky-at-northern-olympia/">"HIP-HOP: Eprhyme's K Records release, "Dopestylvesky"<span class="cs1-kern-right"></span>"</a>. <a href="/wiki/Weekly_Volcano" title="Weekly Volcano">Weekly Volcano</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=HIP-HOP%3A+Eprhyme%27s+K+Records+release%2C+%22Dopestylvesky%22&amp;rft.pub=Weekly+Volcano&amp;rft.date=2011-04-30&amp;rft.au=Leonard%2C+Nic&amp;rft_id=http%3A%2F%2Fwww.northwestmilitary.com%2Fmusic-and-culture%2Fwalkie-talkie-blog%2F2011%2F04%2FHIP-HOP-Eprhymes-K-Records-release-Dopestylvesky-at-northern-olympia%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-jc-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-jc_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jc_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-jc_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-jc_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-jc_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thejc.com/arts/music/28710/the-orthodox-rapper-mashing-culture">"The Orthodox rapper mashing up culture"</a>. <a href="/wiki/The_Jewish_Chronicle" title="The Jewish Chronicle">The Jewish Chronicle</a>. Feb 25, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Orthodox+rapper+mashing+up+culture&amp;rft.pub=The+Jewish+Chronicle&amp;rft.date=2010-02-25&amp;rft_id=http%3A%2F%2Fwww.thejc.com%2Farts%2Fmusic%2F28710%2Fthe-orthodox-rapper-mashing-culture&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-haaretz-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-haaretz_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-haaretz_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSheen2011" class="citation web cs1">Sheen, David (May 13, 2011). <a rel="nofollow" class="external text" href="http://www.haaretz.com/weekend/anglo-file/finding-his-groove-in-the-meld-of-kabbalah-klezmer-and-indie-hip-hop-1.361389">"Finding His Groove in the Meld of Kabbalah, Klezmer and Indie Hip-hop"</a>. <i><a href="/wiki/Haaretz" title="Haaretz">Haaretz</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Haaretz&amp;rft.atitle=Finding+His+Groove+in+the+Meld+of+Kabbalah%2C+Klezmer+and+Indie+Hip-hop&amp;rft.date=2011-05-13&amp;rft.aulast=Sheen&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.haaretz.com%2Fweekend%2Fanglo-file%2Ffinding-his-groove-in-the-meld-of-kabbalah-klezmer-and-indie-hip-hop-1.361389&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSchrag,_Paul2006" class="citation web cs1">Schrag, Paul (July 20, 2006). <a rel="nofollow" class="external text" href="http://www.northwestmilitary.com/music-and-culture/walkie-talkie-blog/2006/07/Saints-of-Everyday-Failures-new-album/">"Saints of Everyday Failures new album"</a>. <a href="/wiki/Weekly_Volcano" title="Weekly Volcano">Weekly Volcano</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Saints+of+Everyday+Failures+new+album&amp;rft.pub=Weekly+Volcano&amp;rft.date=2006-07-20&amp;rft.au=Schrag%2C+Paul&amp;rft_id=http%3A%2F%2Fwww.northwestmilitary.com%2Fmusic-and-culture%2Fwalkie-talkie-blog%2F2006%2F07%2FSaints-of-Everyday-Failures-new-album%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-jewcy-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-jewcy_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDobbins,_Geoffrey2009" class="citation web cs1">Dobbins, Geoffrey (July 24, 2009). <a rel="nofollow" class="external text" href="http://www.jewcy.com/arts-and-culture/blame_it_mamamamamanischewitz">"Blame it on the Ma-Ma-Ma-Ma-Manischewitz"</a>. <a href="/wiki/Jewcy" title="Jewcy">Jewcy</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Blame+it+on+the+Ma-Ma-Ma-Ma-Manischewitz&amp;rft.pub=Jewcy&amp;rft.date=2009-07-24&amp;rft.au=Dobbins%2C+Geoffrey&amp;rft_id=http%3A%2F%2Fwww.jewcy.com%2Farts-and-culture%2Fblame_it_mamamamamanischewitz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAllen,_Brad2008" class="citation web cs1">Allen, Brad (Feb 27, 2008). <a rel="nofollow" class="external text" href="http://www.northwestmilitary.com/music-and-culture/walkie-talkie-blog/2008/02/K-Records-goes-hip-hop/print/">"K Records goes hip-hop"</a>. <a href="/wiki/Weekly_Volcano" title="Weekly Volcano">Weekly Volcano</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=K+Records+goes+hip-hop&amp;rft.pub=Weekly+Volcano&amp;rft.date=2008-02-27&amp;rft.au=Allen%2C+Brad&amp;rft_id=http%3A%2F%2Fwww.northwestmilitary.com%2Fmusic-and-culture%2Fwalkie-talkie-blog%2F2008%2F02%2FK-Records-goes-hip-hop%2Fprint%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMuir,_Hugh2010" class="citation web cs1">Muir, Hugh (March 4, 2010). <a rel="nofollow" class="external text" href="https://www.theguardian.com/uk/2010/mar/05/jewish-hip-hop">"Hideously diverse Britain: welcome to Jewish hip-hop"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Hideously+diverse+Britain%3A+welcome+to+Jewish+hip-hop&amp;rft.date=2010-03-04&amp;rft.au=Muir%2C+Hugh&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fuk%2F2010%2Fmar%2F05%2Fjewish-hip-hop&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/dopestylevsky-mw0002118703">"Dopestylevsky - Eprhyme"</a>. <i><a href="/wiki/Allmusic" class="mw-redirect" title="Allmusic">Allmusic</a></i>. <a href="/wiki/Rovi_Corporation" class="mw-redirect" title="Rovi Corporation">Rovi Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Allmusic&amp;rft.atitle=Dopestylevsky+-+Eprhyme&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fdopestylevsky-mw0002118703&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMcKinney,_Adam2014" class="citation web cs1">McKinney, Adam (November 5, 2014). <a rel="nofollow" class="external text" href="http://www.northwestmilitary.com/music-and-culture/features-and-columns/2014/11/All-Your-Friends-Friends-album-collides-MCs-and-far-out-DIY-on-K-Records/">"<span class="cs1-kern-left"></span>"All Your Friend's Friends" collides MCs and far-out DIY"</a>. <a href="/wiki/Weekly_Volcano" title="Weekly Volcano">Weekly Volcano</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22All+Your+Friend%27s+Friends%22+collides+MCs+and+far-out+DIY&amp;rft.pub=Weekly+Volcano&amp;rft.date=2014-11-05&amp;rft.au=McKinney%2C+Adam&amp;rft_id=http%3A%2F%2Fwww.northwestmilitary.com%2Fmusic-and-culture%2Ffeatures-and-columns%2F2014%2F11%2FAll-Your-Friends-Friends-album-collides-MCs-and-far-out-DIY-on-K-Records%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDeming,_Mark" class="citation web cs1">Deming, Mark. <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/all-your-friends-friends-mw0002756532">"All Your Friends' Friends - Various Artists"</a>. <i><a href="/wiki/Allmusic" class="mw-redirect" title="Allmusic">Allmusic</a></i>. <a href="/wiki/Rovi_Corporation" class="mw-redirect" title="Rovi Corporation">Rovi Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Allmusic&amp;rft.atitle=All+Your+Friends%27+Friends+-+Various+Artists&amp;rft.au=Deming%2C+Mark&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fall-your-friends-friends-mw0002756532&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAndrei_Cherascu2020" class="citation web cs1">Andrei Cherascu (2020-12-03). <a rel="nofollow" class="external text" href="https://themusicandmyth.com/2020/12/03/where-is-the-human-in-all-of-this-eden-pearlstein-and-jon-madof-present-their-new-project-ruthless-cosmopolitans/">"Where is the human in all of this? — Eden Pearlstein and Jon Madof present their new project, Ruthless Cosmopolitans"</a>. <i>The Music and Myth</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-12-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Music+and+Myth&amp;rft.atitle=Where+is+the+human+in+all+of+this%3F+%E2%80%94+Eden+Pearlstein+and+Jon+Madof+present+their+new+project%2C+Ruthless+Cosmopolitans&amp;rft.date=2020-12-03&amp;rft.au=Andrei+Cherascu&amp;rft_id=https%3A%2F%2Fthemusicandmyth.com%2F2020%2F12%2F03%2Fwhere-is-the-human-in-all-of-this-eden-pearlstein-and-jon-madof-present-their-new-project-ruthless-cosmopolitans%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-tablet-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-tablet_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRoth,_Matthue2008" class="citation web cs1"><a href="/wiki/Matthue_Roth" title="Matthue Roth">Roth, Matthue</a> (Nov 6, 2008). <a rel="nofollow" class="external text" href="http://www.tabletmag.com/jewish-arts-and-culture/music/1158/genre-benders">"Genre Benders"</a>. <a href="/wiki/Tablet_Magazine" class="mw-redirect" title="Tablet Magazine">Tablet Magazine</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Genre+Benders&amp;rft.pub=Tablet+Magazine&amp;rft.date=2008-11-06&amp;rft.au=Roth%2C+Matthue&amp;rft_id=http%3A%2F%2Fwww.tabletmag.com%2Fjewish-arts-and-culture%2Fmusic%2F1158%2Fgenre-benders&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-forward1-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-forward1_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMichaelson,_Jay2009" class="citation web cs1"><a href="/wiki/Jay_Michaelson" title="Jay Michaelson">Michaelson, Jay</a> (Sep 2, 2009). <a rel="nofollow" class="external text" href="https://forward.com/articles/113249/eprhyme-engaged-and-diverse-hip-hop-jew/">"Eprhyme — Engaged and Diverse Hip Hop Jew"</a>. <a href="/wiki/The_Forward" title="The Forward">The Forward</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eprhyme+%E2%80%94+Engaged+and+Diverse+Hip+Hop+Jew&amp;rft.pub=The+Forward&amp;rft.date=2009-09-02&amp;rft.au=Michaelson%2C+Jay&amp;rft_id=http%3A%2F%2Fforward.com%2Farticles%2F113249%2Feprhyme-engaged-and-diverse-hip-hop-jew%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-forward2-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-forward2_14-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMichaelson,_Jay2011" class="citation web cs1"><a href="/wiki/Jay_Michaelson" title="Jay Michaelson">Michaelson, Jay</a> (May 2, 2011). <a rel="nofollow" class="external text" href="http://blogs.forward.com/the-arty-semite/137297/monday-music-prime-time-for-eprhyme/">"Monday Music: Prime Time for Eprhyme"</a>. <a href="/wiki/The_Forward" title="The Forward">The Forward</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Monday+Music%3A+Prime+Time+for+Eprhyme&amp;rft.pub=The+Forward&amp;rft.date=2011-05-02&amp;rft.au=Michaelson%2C+Jay&amp;rft_id=http%3A%2F%2Fblogs.forward.com%2Fthe-arty-semite%2F137297%2Fmonday-music-prime-time-for-eprhyme%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.amazon.com/Meaning-Survival-Saints-Everyday-Failures/dp/B000CA780S/ref=ntt_mus_dp_dpt_1">"Saints of Everyday Failures - True Meaning of Survival"</a>. <i>Amazon</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Amazon&amp;rft.atitle=Saints+of+Everyday+Failures+-+True+Meaning+of+Survival&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2FMeaning-Survival-Saints-Everyday-Failures%2Fdp%2FB000CA780S%2Fref%3Dntt_mus_dp_dpt_1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEprhyme" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eprhyme&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160127055608/http://www.eprhyme.com/">Official website</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: Artists <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q22908201#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/d14c17a5-4ded-46a0-aaaf-3dfb4cfef7e3">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2276
+Cached time: 20230920005426
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.388 seconds
+Real time usage: 0.485 seconds
+Preprocessor visited node count: 1702/1000000
+Post‐expand include size: 37180/2097152 bytes
+Template argument size: 1599/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49238/5000000 bytes
+Lua time usage: 0.253/10.000 seconds
+Lua memory usage: 7702909/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  438.356      1 -total
+ 35.14%  154.018      1 Template:Reflist
+ 28.41%  124.535     15 Template:Cite_web
+ 25.38%  111.249      1 Template:Infobox_musical_artist
+ 21.48%   94.163      1 Template:Infobox
+ 18.91%   82.883      1 Template:Authority_control
+ 14.93%   65.453      2 Template:Short_description
+  9.84%   43.128      2 Template:Br_separated_entries
+  7.94%   34.820      1 Template:Birth_date_and_age
+  7.43%   32.567      4 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39114592-0!canonical and timestamp 20230920005426 and revision id 1148873053. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Eprhyme&amp;oldid=1148873053">https://en.wikipedia.org/w/index.php?title=Eprhyme&amp;oldid=1148873053</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Shemspeed_Records_artists" title="Category:Shemspeed Records artists">Shemspeed Records artists</a></li><li><a href="/wiki/Category:K_Records_artists" title="Category:K Records artists">K Records artists</a></li><li><a href="/wiki/Category:Alternative_hip_hop_musicians" title="Category:Alternative hip hop musicians">Alternative hip hop musicians</a></li><li><a href="/wiki/Category:American_Orthodox_Jews" title="Category:American Orthodox Jews">American Orthodox Jews</a></li><li><a href="/wiki/Category:Rappers_from_Washington_(state)" title="Category:Rappers from Washington (state)">Rappers from Washington (state)</a></li><li><a href="/wiki/Category:Evergreen_State_College_alumni" title="Category:Evergreen State College alumni">Evergreen State College alumni</a></li><li><a href="/wiki/Category:Jewish_rappers" title="Category:Jewish rappers">Jewish rappers</a></li><li><a href="/wiki/Category:Jewish_hip_hop_record_producers" title="Category:Jewish hip hop record producers">Jewish hip hop record producers</a></li><li><a href="/wiki/Category:Baalei_teshuva" title="Category:Baalei teshuva">Baalei teshuva</a></li><li><a href="/wiki/Category:1980_births" title="Category:1980 births">1980 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Rappers_from_Arizona" title="Category:Rappers from Arizona">Rappers from Arizona</a></li><li><a href="/wiki/Category:Musicians_from_Phoenix,_Arizona" title="Category:Musicians from Phoenix, Arizona">Musicians from Phoenix, Arizona</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 8 April 2023, at 20:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Eprhyme&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2387","wgBackendResponseTime":116,"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.485","ppvisitednodes":{"value":1702,"limit":1000000},"postexpandincludesize":{"value":37180,"limit":2097152},"templateargumentsize":{"value":1599,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49238,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  438.356      1 -total"," 35.14%  154.018      1 Template:Reflist"," 28.41%  124.535     15 Template:Cite_web"," 25.38%  111.249      1 Template:Infobox_musical_artist"," 21.48%   94.163      1 Template:Infobox"," 18.91%   82.883      1 Template:Authority_control"," 14.93%   65.453      2 Template:Short_description","  9.84%   43.128      2 Template:Br_separated_entries","  7.94%   34.820      1 Template:Birth_date_and_age","  7.43%   32.567      4 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.253","limit":"10.000"},"limitreport-memusage":{"value":7702909,"limit":52428800}},"cachereport":{"origin":"mw2276","timestamp":"20230920005426","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Eprhyme","url":"https:\/\/en.wikipedia.org\/wiki\/Eprhyme","sameAs":"http:\/\/www.wikidata.org\/entity\/Q22908201","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q22908201","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-04-15T02:31:26Z","dateModified":"2023-04-08T20:38:28Z","headline":"American musician"}</script>
+</body>
+</html>

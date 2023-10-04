@@ -1,0 +1,1445 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Vado (rapper) - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"38ac23c4-b477-4040-92f2-12d774dd2c34","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Vado_(rapper)","wgTitle":"Vado (rapper)","wgCurRevisionId":1173647825,"wgRevisionId":1173647825,"wgArticleId":27596291,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Short description is different from Wikidata","Articles with hCards","Articles with MusicBrainz identifiers","Living people","African-American male rappers","American male rappers","MNRK Music Group artists","East Coast hip hop musicians","1985 births","American rappers of Jamaican descent","Musicians from Harlem","Rappers from Manhattan","Cash Money Records artists","Gangsta rappers","21st-century American rappers","21st-century American male musicians","21st-century African-American musicians",
+"20th-century African-American people"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Vado_(rapper)","wgRelevantArticleId":27596291,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4164164",
+"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Vado (rapper) - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Vado_(rapper)">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Vado_(rapper)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Vado_(rapper)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Vado_rapper rootpage-Vado_rapper skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vado+%28rapper%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vado+%28rapper%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vado+%28rapper%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vado+%28rapper%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Biography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Biography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Biography</div>
+		</a>
+		
+			<button aria-controls="toc-Biography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Biography subsection</span>
+			</button>
+		
+		<ul id="toc-Biography-sublist" class="vector-toc-list">
+			<li id="toc-Early_life"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Early_life">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Early life</div>
+			</a>
+			
+			<ul id="toc-Early_life-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Career"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Career">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>Career</div>
+			</a>
+			
+			<ul id="toc-Career-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Collaborative_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Collaborative_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Collaborative albums</div>
+			</a>
+			
+			<ul id="toc-Collaborative_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Singles</div>
+			</a>
+			
+			<ul id="toc-Singles-sublist" class="vector-toc-list">
+				<li id="toc-As_featured_artist"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#As_featured_artist">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3.1</span>As featured artist</div>
+			</a>
+			
+			<ul id="toc-As_featured_artist-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Guest_appearances"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Guest_appearances">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>Guest appearances</div>
+			</a>
+			
+			<ul id="toc-Guest_appearances-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Vado (rapper)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 3 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-3" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">3 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D9%88%D8%A7%D8%AF%D9%88%D8%8C_%D9%86%DB%8C%D9%88%D9%85%DA%A9%D8%B2%DB%8C%DA%A9%D9%88" title="وادو، نیومکزیکو – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%88%D8%A7%D8%AF%D9%88_(%D8%B1%D9%BE%D8%B1)" title="وادو (رپر) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Vado_(raper)" title="Vado (raper) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4164164#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Vado_(rapper)" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Vado_(rapper)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Vado_(rapper)"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Vado_(rapper)&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Vado_(rapper)"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Vado_(rapper)&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Vado_(rapper)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Vado_(rapper)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Vado_(rapper)&amp;oldid=1173647825" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Vado_(rapper)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vado_%28rapper%29&amp;id=1173647825&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4164164" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Vado_%28rapper%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Vado_(rapper)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">This article is about the rapper. For other users, see <a href="/wiki/Vado_(disambiguation)" class="mw-redirect mw-disambig" title="Vado (disambiguation)">Vado (disambiguation)</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Vado</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Teyon Isiah Winfree</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>Movado</li><li>Bank Sinatra</li><li>Slime Rawsteen <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1985-03-13</span>) </span>March 13, 1985<span class="noprint ForceAgeToShow"> (age&#160;38)</span></td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Harlem" title="Harlem">Harlem</a>, <a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, <a href="/wiki/United_States" title="United States">U.S.</a></td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Rapper</li><li>songwriter</li><li>actor</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2000–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>LongRun</li><li><a href="/wiki/Entertainment_One_Music" class="mw-redirect" title="Entertainment One Music">E1</a></li><li><a href="/wiki/We_the_Best_Music_Group" title="We the Best Music Group">We the Best</a></li><li><a href="/wiki/Cash_Money_Records" title="Cash Money Records">Cash Money</a></li><li><a href="/wiki/Republic_Records" title="Republic Records">Republic</a></li><li><a href="/wiki/Diplomat_Records" title="Diplomat Records">Diplomat</a></li><li><a href="/wiki/DD172" title="DD172">DD172</a></li><li><a href="/wiki/BluRoc" class="mw-redirect" title="BluRoc">BluRoc</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Member of</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/U.N._(group)" title="U.N. (group)">U.N.</a></li></ul></div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Teyon Isiah Winfree</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> (born March 13, 1985), better known by his <a href="/wiki/Stage_name" title="Stage name">stage name</a> <b>Vado</b> (<a href="/wiki/Backronym" title="Backronym">backronym</a> for <b>V</b>iolence <b>A</b>nd <b>D</b>rugs <b>O</b>nly),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> is an American rapper from New York. He signed to <a href="/wiki/DJ_Khaled" title="DJ Khaled">DJ Khaled</a>'s <a href="/wiki/We_the_Best_Music" class="mw-redirect" title="We the Best Music">We the Best Music</a> in 2013 and was also a member of the duo <a href="/wiki/U.N._(group)" title="U.N. (group)">U.N.</a> with fellow New York rapper <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a>.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886046785">.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}</style><div class="toclimit-3"><meta property="mw:PageProp/toc" /></div>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit&amp;section=2" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Teyon Winfree was born on March 13, 1982. He was raised in Harlem and grew up on 144th and Lenox. His Mother is of Ghanaian, and his father is African American descent. Winfree first started writing at 16 and was influenced by <a href="/wiki/Ma$e" class="mw-redirect" title="Ma$e">Ma$e</a>, <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a>, and <a href="/wiki/Big_L" title="Big L">Big L</a>. At the age of 19, Vado appeared on a public access television show named "Mad Ciphas."  In 2008, he released tracks with childhood friend, <a href="/wiki/Jae_Millz" title="Jae Millz">Jae Millz</a>. Winfree's original stage name was MOVADO but later was shortened to VADO. Vado is an acronym that stands for "Violence And Drugs Only."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit&amp;section=3" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In March 2009 a mutual friend linked Vado with New York rapper and <a href="/wiki/Dipset" class="mw-redirect" title="Dipset">Dipset</a> member <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a> who invited Vado to come record music with him and after their first session Cam made Vado the new keystone artist of his crew <a href="/wiki/U.N._(group)" title="U.N. (group)">U.N.</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Vado officially released his long-awaited debut mixtape <i><a href="/wiki/Slime_Flu" class="mw-redirect" title="Slime Flu">Slime Flu</a></i> on October 12, 2010 under <a href="/wiki/Diplomat_Records" title="Diplomat Records">Diplomat Records</a>/<a href="/wiki/E1_Music" class="mw-redirect" title="E1 Music">E1 Music</a>.
+</p><p>Vado is featured on the <a href="/wiki/DJ_Khaled" title="DJ Khaled">DJ Khaled</a> track "Future" with rappers <a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a>, <a href="/wiki/Wale_(rapper)" title="Wale (rapper)">Wale</a>, <a href="/wiki/Meek_Mill_(rapper)" class="mw-redirect" title="Meek Mill (rapper)">Meek Mill</a> and <a href="/wiki/Big_Sean" title="Big Sean">Big Sean</a>, produced by <a href="/wiki/Boi-1da" title="Boi-1da">Boi-1da</a>, from Khaled's fifth studio album <i><a href="/wiki/We_the_Best_Forever" title="We the Best Forever">We the Best Forever</a></i>. In 2010, Vado's mentor and friend <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a> introduced him to <a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a> co-founder <a href="/wiki/Dame_Dash" class="mw-redirect" title="Dame Dash">Dame Dash</a>, and Cam'ron and Dame were in talks of <a href="/wiki/The_U.N." class="mw-redirect" title="The U.N.">the U.N.</a> signing to the newly re-launched Roc-A-Fella. Vado signed with Dame's subsidiary record label of Roc-A-Fella under <a href="/wiki/DD172" title="DD172">DD172</a> named <a href="/wiki/BluRoc" class="mw-redirect" title="BluRoc">BluRoc</a>. <a href="/wiki/The_U.N." class="mw-redirect" title="The U.N.">The U.N.</a> would also sign to <a href="/wiki/BluRoc" class="mw-redirect" title="BluRoc">BluRoc</a> instead of Roc-A-Fella.
+</p><p>After signing he would release the critically acclaimed mixtape <i>Slime Flu</i> and the <i>Bosses of all Bosses</i> mixtape with Cam'ron.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> He would then release the album <i><a href="/wiki/Gunz_n%27_Butta" title="Gunz n&#39; Butta">Gunz n' Butta</a></i> with Cam'ron in April 2011. It would chart on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a> at #78. On November 25, 2011 he would release the second <i>Slime Flu</i> mixtape.<sup id="cite_ref-datpiff1_7-0" class="reference"><a href="#cite_note-datpiff1-7">&#91;7&#93;</a></sup> In 2012 after remaining quiet for a while Vado was granted a release from Interscope to return to the independents.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> On January 22, 2013 Vado released his third installment of his <i>Slime Flu</i> mixtape series.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> On January 30, 2013, Vado confirmed he signed with <a href="/wiki/DJ_Khaled" title="DJ Khaled">DJ Khaled</a>'s <a href="/wiki/We_the_Best_Music_Group" title="We the Best Music Group">We the Best Music Group</a> label.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Vado has appeared on different VH1 shows, like <a href="/wiki/Love_%26_Hip_Hop" title="Love &amp; Hip Hop">Love &amp; Hip Hop</a> and <a href="/wiki/Black_Ink_Crew" title="Black Ink Crew">Black Ink Crew</a>. After appearing on <a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a>'s <i><a href="/wiki/Dedication_5" title="Dedication 5">Dedication 5</a></i> and DJ Khaled's <i><a href="/wiki/Suffering_from_Success" title="Suffering from Success">Suffering from Success</a></i>, on December 13, 2013, Vado released a new single <i>Look Me In My Eyes</i> featuring <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a> and <a href="/wiki/French_Montana" title="French Montana">French Montana</a>. He also announced that he would be releasing a new mixtape titled <i>Sinatra</i>. <i>Sinatra</i> was released February 10, 2014.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit&amp;section=4" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Collaborative_albums">Collaborative albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit&amp;section=5" title="Edit section: Collaborative albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th rowspan="2">Title
+</th>
+<th rowspan="2">Album details
+</th>
+<th colspan="3">Chart positions
+</th></tr>
+<tr>
+<th style="text-align:center; width:35px;"><small><a href="/wiki/Billboard_200" title="Billboard 200">US</a></small>
+</th>
+<th style="text-align:center; width:35px;"><small><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">US R&amp;B</a></small>
+</th>
+<th style="text-align:center; width:35px;"><small><a href="/wiki/Top_Rap_Albums" class="mw-redirect" title="Top Rap Albums">US Rap</a></small>
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Heat_In_Here_Vol._1" class="mw-redirect" title="Heat In Here Vol. 1">Heat In Here Vol. 1</a></i>
+<p><span style="font-size:85%;">(with <a href="/wiki/U.N._(group)" title="U.N. (group)">U.N.</a>)</span>
+</p>
+</td>
+<td>
+<ul><li>Released: May 25, 2010</li>
+<li>Label: <a href="/wiki/Diplomat_Records" title="Diplomat Records">Diplomat Records</a>, <a href="/wiki/Asylum_Records" title="Asylum Records">Asylum Records</a></li>
+<li>Format: Digital download, streaming</li></ul>
+</td>
+<td style="text-align:center;">146
+</td>
+<td style="text-align:center;">30
+</td>
+<td style="text-align:center;">16
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Gunz_n%27_Butta" title="Gunz n&#39; Butta">Gunz n' Butta</a></i>
+<p><span style="font-size:85%;">(with <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a>)</span>
+</p>
+</td>
+<td>
+<ul><li>Released: April 19, 2011</li>
+<li>Label: Diplomat Records, <a href="/wiki/Entertainment_One_Music" class="mw-redirect" title="Entertainment One Music">Entertainment One Music</a></li>
+<li>Format: Digital download, streaming</li></ul>
+</td>
+<td style="text-align:center;">78
+</td>
+<td style="text-align:center;">15
+</td>
+<td style="text-align:center;">7
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit&amp;section=6" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of mixtapes, with year released
+</caption>
+<tbody><tr>
+<th scope="col" style="width:11em;">Title
+</th>
+<th scope="col" style="width:16em;">Album details
+</th></tr>
+<tr>
+<th scope="row"><i>Boss of All Bosses</i><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><br /><span style="font-size:85%;">(with <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a>)</span>
+</th>
+<td>
+<ul><li>Released: August 18, 2009</li>
+<li><span class="nowrap">Label: Self-released</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Slime Flu</i><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: October 12, 2010</li>
+<li><span class="nowrap">Label: <a href="/wiki/E1_Music" class="mw-redirect" title="E1 Music">E1 Music</a></span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Boss of All Bosses 2</i><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><br /><span style="font-size:85%;">(with Cam'ron)</span>
+</th>
+<td>
+<ul><li>Released: January 12, 2010</li>
+<li><span class="nowrap">Label: Self-released</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Boss of All Bosses 2.5</i><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup><br /><span style="font-size:85%;">(with Cam'ron)</span>
+</th>
+<td>
+<ul><li>Released: May 12, 2010</li>
+<li><span class="nowrap">Label: Self-released</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Boss of All Bosses 2.8</i><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><br /><span style="font-size:85%;">(with Cam'ron)</span>
+</th>
+<td>
+<ul><li>Released: September 5, 2011</li>
+<li><span class="nowrap">Label: Self-released</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Boss of All Bosses 3</i><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><br /><span style="font-size:85%;">(with Cam'ron)</span>
+</th>
+<td>
+<ul><li>Released: December 15, 2011</li>
+<li><span class="nowrap">Label: Self-released</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Slime Flu 2</i><sup id="cite_ref-datpiff1_7-1" class="reference"><a href="#cite_note-datpiff1-7">&#91;7&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: November 25, 2011</li>
+<li><span class="nowrap">Label: Self-released</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>UNLostFiles</i><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><br /><span style="font-size:85%;">(with Cam'ron)</span>
+</th>
+<td>
+<ul><li>Released: May 11, 2012</li>
+<li><span class="nowrap">Label: Self-released</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Slime Flu 3</i><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: January 22, 2013</li>
+<li><span class="nowrap">Label: Self-released</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>V-Day</i><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: February 15, 2013</li>
+<li><span class="nowrap">Label: <a href="/wiki/We_the_Best_Music_Group" title="We the Best Music Group">We the Best</a>, <a href="/wiki/Cash_Money_Records" title="Cash Money Records">Cash Money</a></span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Slime Flu 4</i><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: August 15, 2013</li>
+<li><span class="nowrap">Label: We the Best, Cash Money</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Sinatra</i><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: February 10, 2014</li>
+<li><span class="nowrap">Label: We the Best, Cash Money</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>V-Day II</i><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: February 14, 2015</li>
+<li><span class="nowrap">Label: We the Best, Cash Money</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Slime Flu 5</i><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</th>
+<td>
+<ul><li>Released: November 1, 2015</li>
+<li><span class="nowrap">Label: We the Best</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Sinatra 2</i>
+</th>
+<td>
+<ul><li>Released: May 29, 2017</li>
+<li><span class="nowrap">Label: We the Best</span></li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Sinatra 2.5</i>
+</th>
+<td>
+<ul><li>Released: October 31, 2017</li>
+<li>Label: We the Best</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Sinatra 3</i>
+</th>
+<td>
+<ul><li>Released: July 9, 2018</li>
+<li>Label: We the Best</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>V-Day 3</i>
+</th>
+<td>
+<ul><li>Released: March 5, 2019</li>
+<li>Label: We The Best</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Crime Square</i>
+</th>
+<td>
+<ul><li>Released: June 11, 2019</li>
+<li>Label: We The Best</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Long Run Vol. 1</i>
+</th>
+<td>
+<ul><li>Released: October 11, 2019</li>
+<li>Label: We The Best</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Long Run Vol. 2</i>
+</th>
+<td>
+<ul><li>Released: January 21, 2022</li>
+<li>Label: Long Run/DMG</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>Long Run Vol. 3</i>
+</th>
+<td>
+<ul><li>Released: November 18, 2022</li>
+<li>Label: Long Run/DMG</li>
+<li>Format: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>V-Day 4</i>
+</th>
+<td>
+<ul><li>Released: May 12, 2023</li>
+<li>Label: Long Run/DMG</li>
+<li>Format: Digital download</li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit&amp;section=7" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th rowspan="2">Title
+</th>
+<th rowspan="2">Year
+</th>
+<th colspan="3">Chart positions
+</th>
+<th rowspan="2">Album
+</th></tr>
+<tr>
+<th style="text-align:center; width:40px;"><small><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">US</a></small>
+</th>
+<th style="text-align:center; width:40px;"><small><a href="/wiki/R%26B/Hip-Hop_Tracks_chart" class="mw-redirect" title="R&amp;B/Hip-Hop Tracks chart">US<br />R&amp;B</a></small>
+</th>
+<th style="text-align:center; width:40px;"><small><a href="/wiki/Rap_Tracks_chart" class="mw-redirect" title="Rap Tracks chart">US<br />Rap</a></small>
+</th></tr>
+<tr>
+<td align="left">"Speaking in Tungs"<br /><span style="font-size:85%;">(featuring <a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a>)</span>
+</td>
+<td>2010
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td style="text-align:center;">82
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td align="left"><i>Slime Flu</i> and <i><a href="/wiki/Gunz_n%27_Butta" title="Gunz n&#39; Butta">Gunz n' Butta</a></i>
+</td></tr>
+<tr>
+<td>"Hey Muma"<br /><span style="font-size:85%;">(featuring Cam'ron)</span>
+</td>
+<td>2011
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td style="text-align:center;">84
+<p><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td align="left"><i><a href="/wiki/Gunz_n%27_Butta" title="Gunz n&#39; Butta">Gunz n' Butta</a></i>
+</td></tr>
+<tr>
+<td align="left">"My Bae"<br /><span style="font-size:85%;">(featuring <a href="/wiki/Jeremih" title="Jeremih">Jeremih</a>)</span>
+</td>
+<td rowspan="2">2014
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td align="left">Non-album single
+</td></tr>
+<tr>
+<td align="left">"Look Me In My Eyes"<br /><span style="font-size:85%;">(featuring <a href="/wiki/Rick_Ross" title="Rick Ross">Rick Ross</a> and <a href="/wiki/French_Montana" title="French Montana">French Montana</a>)</span>
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td align="left"><i>Sinatra</i>
+</td></tr>
+<tr>
+<td align="left">"Respect My Jux"<br /><span style="font-size:85%;">(featuring <a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a> and <a href="/wiki/Dave_East" title="Dave East">Dave East</a>)</span>
+</td>
+<td rowspan="1">2021
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td style="text-align:center;">&#8212;
+</td>
+<td align="left">Non-album single
+</td></tr>
+</tbody></table>
+<h4><span class="mw-headline" id="As_featured_artist">As featured artist</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit&amp;section=8" title="Edit section: As featured artist">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of singles, with selected chart positions, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" rowspan="2" style="width:16em;">Title
+</th>
+<th scope="col" rowspan="2">Year
+</th>
+<th scope="col" colspan="2">Peak chart positions
+</th>
+<th scope="col" rowspan="2">Album
+</th></tr>
+<tr>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">US</a>
+</th>
+<th scope="col" style="width:3em;font-size:90%;"><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">US<br />R&amp;B</a>
+</th></tr>
+<tr>
+<th scope="row">"Livin' Dreams"<br /><span style="font-size:85%;">(Akini Blake featuring <a href="/wiki/Maino_(rapper)" title="Maino (rapper)">Maino</a>, Vado &amp; <a href="/wiki/Fred_the_Godson" title="Fred the Godson">Fred the Godson</a>)</span>
+</th>
+<td rowspan="1">2012
+</td>
+<td>—</td>
+<td>—
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Walk In New York"<br /><span style="font-size:85%;">(Grafh featuring <a href="/wiki/Raekwon" title="Raekwon">Raekwon</a> and Vado)</span>
+</th>
+<td rowspan="1">2014
+</td>
+<td>—</td>
+<td>—
+</td>
+<td><i>88 Crack Era</i>
+</td></tr>
+<tr>
+<th scope="row">"Blue Bandana"<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><br /><span style="font-size:85%;"><a href="/w/index.php?title=Ms.Choppa_(rapper)&amp;action=edit&amp;redlink=1" class="new" title="Ms.Choppa (rapper) (page does not exist)">Ms.Choppa</a> featuring Vado)</span>
+</th>
+<td rowspan="1">2020
+</td>
+<td>—</td>
+<td>—
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Guest_appearances">Guest appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit&amp;section=9" title="Edit section: Guest appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of non-single guest appearances, with other performing artists, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" style="width:19em;">Title
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Other artist(s)
+</th>
+<th scope="col">Album
+</th></tr>
+<tr>
+<th scope="row">"That Work"
+</th>
+<td rowspan="1">2010
+</td>
+<td>DJ Suss One, <a href="/wiki/Uncle_Murda" title="Uncle Murda">Uncle Murda</a>, <a href="/wiki/Cassidy_(rapper)" title="Cassidy (rapper)">Cassidy</a>, <a href="/wiki/Joell_Ortiz" title="Joell Ortiz">Joell Ortiz</a>, <a href="/wiki/French_Montana" title="French Montana">French Montana</a>
+</td>
+<td><i>The Feature Presentation Album</i>
+</td></tr>
+<tr>
+<th scope="row">"Mo Brooklyn, Mo Harlem, Mo Southside"
+</th>
+<td rowspan="1">2011
+</td>
+<td><a href="/wiki/Fabolous" title="Fabolous">Fabolous</a>, <a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a>
+</td>
+<td><i><a href="/wiki/The_S.O.U.L._Tape" class="mw-redirect" title="The S.O.U.L. Tape">The S.O.U.L. Tape</a></i>
+</td></tr>
+<tr>
+<th scope="row">"We Run The Town"
+</th>
+<td rowspan="9">2012
+</td>
+<td>Lloyd Banks
+</td>
+<td><i><a href="/wiki/V.6:_The_Gift" title="V.6: The Gift">V.6: The Gift</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Shut The City Down"
+</th>
+<td>CashFlow
+</td>
+<td><i>The Enterprise</i>
+</td></tr>
+<tr>
+<th scope="row">"Clap, Clap, Clap" (Remix)
+</th>
+<td><a href="/wiki/J-Star" title="J-Star">J-Star</a>, <a href="/wiki/Twista" title="Twista">Twista</a>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Something Else"
+</th>
+<td>Fred The Godson, Face49
+</td>
+<td><i>Gordo Frederico</i>
+</td></tr>
+<tr>
+<th scope="row">"Excuse Me"
+</th>
+<td><a href="/wiki/DJ_Kay_Slay" title="DJ Kay Slay">DJ Kay Slay</a>, <a href="/wiki/Gunplay_(rapper)" title="Gunplay (rapper)">Gunplay</a>, <a href="/wiki/Uncle_Murda" title="Uncle Murda">Uncle Murda</a>, <a href="/wiki/Sauce_Money" title="Sauce Money">Sauce Money</a>
+</td>
+<td><i>The Return Of The Gatekeeper</i>
+</td></tr>
+<tr>
+<th scope="row">"Make It Back"
+</th>
+<td>Bizzy Crook
+</td>
+<td><i>P.S. I'm Sorry 2</i>
+</td></tr>
+<tr>
+<th scope="row">"Out Here"
+</th>
+<td><a href="/wiki/Smoke_DZA" title="Smoke DZA">Smoke DZA</a>, ASAP Twelvy
+</td>
+<td><i>K.O.N.Y.</i>
+</td></tr>
+<tr>
+<th scope="row">"5:46 A.M."
+</th>
+<td>Al-Doe, Boldy James
+</td>
+<td><i>Nose Candy.</i>
+</td></tr>
+<tr>
+<th scope="row">"Violent Music"
+</th>
+<td><a href="/wiki/DJ_Kay_Slay" title="DJ Kay Slay">DJ Kay Slay</a>, <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>, <a href="/wiki/DJ_Paul" title="DJ Paul">DJ Paul</a>
+</td>
+<td><i>Grown Man Hip-Hop</i>
+</td></tr>
+<tr>
+<th scope="row">"Count Your Blessings"<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</th>
+<td rowspan="9">2013
+</td>
+<td>DJ Kay Slay, <a href="/wiki/Torch_(American_rapper)" title="Torch (American rapper)">Torch</a>, Uncle Murda
+</td>
+<td><i>Grown Man Hip Hop Part 2 (Sleepin' With The Enemy)</i>
+</td></tr>
+<tr>
+<th scope="row">"I Gotta Eat"
+</th>
+<td><a href="/wiki/Jae_Millz" title="Jae Millz">Jae Millz</a>, Fred The Godson
+</td>
+<td><i>Dead Presidents 2</i>
+</td></tr>
+<tr>
+<th scope="row">"I Came"<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</th>
+<td><a href="/wiki/Funkmaster_Flex" title="Funkmaster Flex">Funkmaster Flex</a>, <a href="/wiki/Reek_da_Villian" title="Reek da Villian">Reek da Villian</a>
+</td>
+<td><i>Who You Mad At? Me Or Yourself?</i>
+</td></tr>
+<tr>
+<th scope="row">"The Sound Of NYC"
+</th>
+<td>DJ Kay Slay, <a href="/wiki/Sheek_Louch" title="Sheek Louch">Sheek Louch</a>, <a href="/wiki/Styles_P" title="Styles P">Styles P</a>
+</td>
+<td><i>The Last Champion</i>
+</td></tr>
+<tr>
+<th scope="row">"New York City"
+</th>
+<td>Uncle Murda, <a href="/wiki/Waka_Flocka_Flame" title="Waka Flocka Flame">Waka Flocka Flame</a>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Levels"
+</th>
+<td><a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a>
+</td>
+<td><i><a href="/wiki/Dedication_5" title="Dedication 5">Dedication 5</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Black Ghost"<sup id="cite_ref-hiphopdx2_29-0" class="reference"><a href="#cite_note-hiphopdx2-29">&#91;29&#93;</a></sup>
+</th>
+<td><a href="/wiki/DJ_Khaled" title="DJ Khaled">DJ Khaled</a>
+</td>
+<td rowspan="2"><i><a href="/wiki/Suffering_from_Success" title="Suffering from Success">Suffering from Success</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Take That Off"<sup id="cite_ref-hiphopdx2_29-1" class="reference"><a href="#cite_note-hiphopdx2-29">&#91;29&#93;</a></sup>
+</th>
+<td>DJ Khaled, <a href="/wiki/Jeremih" title="Jeremih">Jeremih</a>
+</td></tr>
+<tr>
+<th scope="row">"Paint The Sky"
+</th>
+<td>Lloyd Banks
+</td>
+<td><i><a href="/wiki/A.O.N._(All_Or_Nothing)_Series_Vol._1:_F.N.O._(Failure%27s_No_Option)" class="mw-redirect" title="A.O.N. (All Or Nothing) Series Vol. 1: F.N.O. (Failure&#39;s No Option)">A.O.N. (All Or Nothing) Series Vol. 1: F.N.O. (Failure's No Option)</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Home Invasion"<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</th>
+<td rowspan="4">2014
+</td>
+<td><a href="/wiki/Ace_Hood" title="Ace Hood">Ace Hood</a>
+</td>
+<td><i>Starvation 3</i>
+</td></tr>
+<tr>
+<th scope="row">"Fire"<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</th>
+<td><a href="/wiki/DJ_Kay_Slay" title="DJ Kay Slay">DJ Kay Slay</a>, <a href="/wiki/Young_Chris" title="Young Chris">Young Chris</a>, <a href="/wiki/Papoose_(rapper)" title="Papoose (rapper)">Papoose</a>, Nathaniel
+</td>
+<td><i>The Rise of a City</i>
+</td></tr>
+<tr>
+<th scope="row">"Real Hip Hop"<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</th>
+<td>DJ Kay Slay, <a href="/wiki/Papoose_(rapper)" title="Papoose (rapper)">Papoose</a>, Ransom
+</td>
+<td><i>The Last Hip Hop Disciple</i>
+</td></tr>
+<tr>
+<th scope="row">"American Dream"
+</th>
+<td>Boogz Boogetz
+</td>
+<td><i>C.O.O.L. 2</i>
+</td></tr>
+<tr>
+<th scope="row">"MMM (Remix)"<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</th>
+<td rowspan="3">2015
+</td>
+<td><a href="/wiki/Cassidy_(rapper)" title="Cassidy (rapper)">Cassidy</a>, Fred Money, <a href="/wiki/J.R._Writer" title="J.R. Writer">J.R. Writer</a>, <a href="/wiki/Red_Caf%C3%A9" title="Red Café">Red Café</a>, Papoose, <a href="/wiki/Maino_(rapper)" title="Maino (rapper)">Maino</a>, <a href="/wiki/Uncle_Murda" title="Uncle Murda">Uncle Murda</a>, <a href="/wiki/Fat_Trel" title="Fat Trel">Fat Trel</a>, Fred the Godson, <a href="/wiki/Larsiny_Family" title="Larsiny Family">Chubby Jag</a>, <a href="/wiki/Drag-On" title="Drag-On">Drag-On</a>, <a href="/wiki/Dave_East" title="Dave East">Dave East</a>, Compton Menace
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Every Time We Come Around"
+</th>
+<td>DJ Khaled, French Montana, Jadakiss, Ace Hood
+</td>
+<td><i><a href="/wiki/I_Changed_a_Lot" title="I Changed a Lot">I Changed a Lot</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Love My Niggas"
+</th>
+<td><a href="/wiki/Maino_(rapper)" title="Maino (rapper)">Maino</a>, <a href="/wiki/Uncle_Murda" title="Uncle Murda">Uncle Murda</a>
+</td>
+<td><i>K.O.B. 3</i>
+</td></tr>
+<tr>
+<th scope="row">"Seniorities"
+</th>
+<td rowspan="1">2016
+</td>
+<td><a href="/wiki/Lloyd_Banks" title="Lloyd Banks">Lloyd Banks</a>, <a href="/wiki/Prodigy_(rapper)" title="Prodigy (rapper)">Prodigy</a>
+</td>
+<td><i>All or Nothing: Live It Up</i>
+</td></tr>
+<tr>
+<th scope="row">"It's Harlem"
+</th>
+<td rowspan="3">2017
+</td>
+<td>DJ Kay Slay, Dave East, Ms Hussle
+</td>
+<td rowspan="2"><i>The Big Brother</i>
+</td></tr>
+<tr>
+<th scope="row">"A Million Bucks"
+</th>
+<td>DJ Kay Slay, Fatman Scoop, Nipsey Hussle, Troy Ave, Rocko
+</td></tr>
+<tr>
+<th scope="row">"Different Scenario"
+</th>
+<td>Fred The Godson, Jim Jones, Jaquae
+</td>
+<td>Gordo
+</td></tr>
+<tr>
+<th scope="row">"God Bless The Summer"
+</th>
+<td rowspan="6">2018
+</td>
+<td>Dave East
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Da Hated"
+</th>
+<td>Dave East
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Blue Hundreds"
+</th>
+<td>Dave East
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Nice For What"
+</th>
+<td>Dave East
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Once Upon A Time"
+</th>
+<td>Dave East
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Boo'd Up"
+</th>
+<td>Dave East
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Back To The Bars"
+</th>
+<td rowspan="1">2019
+</td>
+<td>DJ Kay Slay, Ninoman, Mysonne, Fred The Godson, Locksmith, Jon Connor, Joell Ortiz
+</td>
+<td><i>Hip-Hop Frontline</i>
+</td></tr>
+<tr>
+<th scope="row">"Back To The Bars Pt. 2"
+</th>
+<td rowspan="1">2020
+</td>
+<td>DJ Kay Slay, Ninoman, RJ Payne, Sauce Money, Sheek Louch, Jon Connor, Styles P
+</td>
+<td><i>Living Legend</i>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vado_(rapper)&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/Vado/profile/">"Vado"</a>. <i>HNHH</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HNHH&amp;rft.atitle=Vado&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2FVado%2Fprofile%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ascap.com/repertory#ace/search/workID/886790073">ISWC: T9168039143 Work ID: 886790073</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.complex.com/music/2010/06/vado-talks-large-in-the-streets-and-the-diplomats-reunion">"Vado Talks "Large in the Streets" and the Diplomats Reunion"</a>. <i><a href="/wiki/Complex_Networks" title="Complex Networks">Complex Networks</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex+Networks&amp;rft.atitle=Vado+Talks+%22Large+in+the+Streets%22+and+the+Diplomats+Reunion&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2F2010%2F06%2Fvado-talks-large-in-the-streets-and-the-diplomats-reunion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlanco2009" class="citation cs2">Blanco, Alvin (October 2009), <i>Show &amp; Prove: Vado</i>, <a href="/wiki/XXL_Magazine" class="mw-redirect" title="XXL Magazine">XXL Magazine</a>, p.&#160;52</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Show+%26+Prove%3A+Vado&amp;rft.pages=52&amp;rft.pub=XXL+Magazine&amp;rft.date=2009-10&amp;rft.aulast=Blanco&amp;rft.aufirst=Alvin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlanco2009" class="citation cs2">Blanco, Alvin (October 2009), <i>Show &amp; Prove: Vado</i>, <a href="/wiki/XXL_Magazine" class="mw-redirect" title="XXL Magazine">XXL Magazine</a>, p.&#160;52</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Show+%26+Prove%3A+Vado&amp;rft.pages=52&amp;rft.pub=XXL+Magazine&amp;rft.date=2009-10&amp;rft.aulast=Blanco&amp;rft.aufirst=Alvin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHorowitz2011" class="citation web cs1">Horowitz, Steven J. (2011-08-12). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.16416/title.vado-discusses-slime-flu-2-killa-season-2-boss-of-all-bosses-3">"Vado Discusses "Slime Flu 2," "Killa Season 2" &amp; "Boss Of All Bosses 3"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vado+Discusses+%22Slime+Flu+2%2C%22+%22Killa+Season+2%22+%26+%22Boss+Of+All+Bosses+3&amp;rft.pub=HipHop+DX&amp;rft.date=2011-08-12&amp;rft.aulast=Horowitz&amp;rft.aufirst=Steven+J.&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.16416%2Ftitle.vado-discusses-slime-flu-2-killa-season-2-boss-of-all-bosses-3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-datpiff1-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-datpiff1_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-datpiff1_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Vado-Slime-Flu-2-mixtape.287724.html">"Vado - Slime Flu 2 // Free Mixtape @"</a>. Datpiff.com. 2011-11-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vado+-+Slime+Flu+2+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft.date=2011-11-25&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FVado-Slime-Flu-2-mixtape.287724.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHorowitz2013" class="citation web cs1">Horowitz, Steven J. (2013-01-08). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.22468/title.vado-explains-why-he-left-interscope-records">"Vado Explains Why He Left Interscope Records"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vado+Explains+Why+He+Left+Interscope+Records&amp;rft.pub=HipHop+DX&amp;rft.date=2013-01-08&amp;rft.aulast=Horowitz&amp;rft.aufirst=Steven+J.&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.22468%2Ftitle.vado-explains-why-he-left-interscope-records&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIandoli2013" class="citation web cs1">Iandoli, Kathy (2013-01-14). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.22510/title.mixtape-release-dates-consequence-big-krit-b-real-wiz-khalifa-and-curreny">"Mixtape Release Dates: Consequence, Big K.R.I.T., B-Real, Wiz Khalifa and Curren$y"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mixtape+Release+Dates%3A+Consequence%2C+Big+K.R.I.T.%2C+B-Real%2C+Wiz+Khalifa+and+Curren%24y&amp;rft.pub=HipHop+DX&amp;rft.date=2013-01-14&amp;rft.aulast=Iandoli&amp;rft.aufirst=Kathy&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.22510%2Ftitle.mixtape-release-dates-consequence-big-krit-b-real-wiz-khalifa-and-curreny&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHorowitz2013" class="citation web cs1">Horowitz, Steven J. (2013-01-30). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.22737/title.vado-confirms-signing-to-dj-khaled-s-we-the-best-imprint">"Vado Confirms Signing To DJ Khaled's We The Best Imprint"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vado+Confirms+Signing+To+DJ+Khaled%27s+We+The+Best+Imprint&amp;rft.pub=HipHop+DX&amp;rft.date=2013-01-30&amp;rft.aulast=Horowitz&amp;rft.aufirst=Steven+J.&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.22737%2Ftitle.vado-confirms-signing-to-dj-khaled-s-we-the-best-imprint&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/12/vado-rick-ross-french-montana-look-me-in-my-eyes">"Listen To Vado's New Single "Look Me In My Eyes" Featuring Rick Ross &amp; French Montana"</a>. <a href="/wiki/Complex_(magazine)" class="mw-redirect" title="Complex (magazine)">complex.com</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Listen+To+Vado%27s+New+Single+%22Look+Me+In+My+Eyes%22+Featuring+Rick+Ross+%26+French+Montana&amp;rft.pub=complex.com&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F12%2Fvado-rick-ross-french-montana-look-me-in-my-eyes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Camron-Boss-Of-All-Bosses-Gangsta-Grillz-mixtape.60465.html">"Cam'ron - Boss Of All Bosses: Gangsta Grillz Hosted by Dj Drama // Free Mixtape @"</a>. Datpiff.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cam%27ron+-+Boss+Of+All+Bosses%3A+Gangsta+Grillz+Hosted+by+Dj+Drama+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FCamron-Boss-Of-All-Bosses-Gangsta-Grillz-mixtape.60465.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/slime-flu/id395106502">"iTunes - Music - Slime Flu by Vado"</a>. <a href="/wiki/ITunes" title="ITunes">iTunes</a>. 2010-10-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=iTunes+-+Music+-+Slime+Flu+by+Vado&amp;rft.pub=iTunes&amp;rft.date=2010-10-12&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fslime-flu%2Fid395106502&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Camron-Boss-Of-All-Bosses-2-mixtape.91141.html">"Cam'ron - Boss Of All Bosses 2 Hosted by Dj Drama // Free Mixtape @"</a>. Datpiff.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cam%27ron+-+Boss+Of+All+Bosses+2+Hosted+by+Dj+Drama+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FCamron-Boss-Of-All-Bosses-2-mixtape.91141.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Camron-Vado-Boss-Of-All-Bosses-25-mixtape.119460.html">"Cam'ron &amp; Vado - Boss Of All Bosses 2.5 Hosted by Dj Drama // Free Mixtape @"</a>. Datpiff.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cam%27ron+%26+Vado+-+Boss+Of+All+Bosses+2.5+Hosted+by+Dj+Drama+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FCamron-Vado-Boss-Of-All-Bosses-25-mixtape.119460.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Camron-Vado-Boss-Of-All-Bosses-28-Road-To-30-mixtape.262931.html">"Cam'ron &amp; Vado - Boss Of All Bosses 2.8: Road To 3.0 Hosted by Cam'ron // Free Mixtape @"</a>. Datpiff.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cam%27ron+%26+Vado+-+Boss+Of+All+Bosses+2.8%3A+Road+To+3.0+Hosted+by+Cam%27ron+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FCamron-Vado-Boss-Of-All-Bosses-28-Road-To-30-mixtape.262931.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/boss-of-all-bosses-3/id490404014">"iTunes - Music - Boss of All Bosses 3 by DJ Drama, Cam'ron &amp; Vado"</a>. <a href="/wiki/ITunes" title="ITunes">iTunes</a>. 2011-12-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=iTunes+-+Music+-+Boss+of+All+Bosses+3+by+DJ+Drama%2C+Cam%27ron+%26+Vado&amp;rft.pub=iTunes&amp;rft.date=2011-12-15&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fboss-of-all-bosses-3%2Fid490404014&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2012/05/mixtape-camron-vado-unlostfiles">"Mixtape: Cam'ron &amp; Vado "#UNLostFiles"<span class="cs1-kern-right"></span>"</a>. Complex. 2012-05-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mixtape%3A+Cam%27ron+%26+Vado+%22%23UNLostFiles%22&amp;rft.pub=Complex&amp;rft.date=2012-05-11&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2012%2F05%2Fmixtape-camron-vado-unlostfiles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Vado-Slime-Flu-3-mixtape.412213.html">"Vado - Slime Flu 3 // Free Mixtape @"</a>. Datpiff.com. 2013-01-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vado+-+Slime+Flu+3+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft.date=2013-01-22&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FVado-Slime-Flu-3-mixtape.412213.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Vado-V-Day-EP-mixtape.456006.html">"Vado - V-Day EP // Free Mixtape @"</a>. Datpiff.com. 2013-02-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vado+-+V-Day+EP+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft.date=2013-02-15&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FVado-V-Day-EP-mixtape.456006.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/04/watch-dj-khaled-promo-his-new-single-no-new-friends-with-a-movie">"Watch DJ Khaled Promo His New Single, "No New Friends," With a Movie"</a>. complex.com<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Watch+DJ+Khaled+Promo+His+New+Single%2C+%22No+New+Friends%2C%22+With+a+Movie&amp;rft.pub=complex.com&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F04%2Fwatch-dj-khaled-promo-his-new-single-no-new-friends-with-a-movie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Vado-Sinatra-mixtape.578959.html">"Vado - Sinatra Hosted by We The Best Music"</a>. datpiff.com<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vado+-+Sinatra+Hosted+by+We+The+Best+Music&amp;rft.pub=datpiff.com&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FVado-Sinatra-mixtape.578959.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Vado-V-Day-Ep-II-mixtape.689926.html">"Vado - V-Day Ep II Hosted by We The Best"</a>. datpiff.com<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vado+-+V-Day+Ep+II+Hosted+by+We+The+Best&amp;rft.pub=datpiff.com&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FVado-V-Day-Ep-II-mixtape.689926.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Vado-Slime-Flu-5-mixtape.742431.html">"Vado - Slime Flu 5 Hosted by We The Best"</a>. datpiff.com<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vado+-+Slime+Flu+5+Hosted+by+We+The+Best&amp;rft.pub=datpiff.com&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FVado-Slime-Flu-5-mixtape.742431.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/artist/vado/chart-history/r%26b/hip-hop-songs">"Hot R&amp;B/Hip-Hop Songs&#160;: Page 1"</a>. Billboard<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hot+R%26B%2FHip-Hop+Songs+%3A+Page+1&amp;rft.pub=Billboard&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fartist%2Fvado%2Fchart-history%2Fr%2526b%2Fhip-hop-songs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thehypemagazine.com/2020/10/ms-choppa-vado-drop-new-video-blue-bandana/">"Ms.Choppa and Harlem Rapper Vado Release "Blue Bandana"<span class="cs1-kern-right"></span>"</a>. thehypemagazine.com<span class="reference-accessdate">. Retrieved <span class="nowrap">11 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ms.Choppa+and+Harlem+Rapper+Vado+Release+%22Blue+Bandana%22&amp;rft.pub=thehypemagazine.com&amp;rft_id=https%3A%2F%2Fwww.thehypemagazine.com%2F2020%2F10%2Fms-choppa-vado-drop-new-video-blue-bandana%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Dj-Kay-Slay-Grown-Man-Hip-Hop-Part-2-Sleepin-With-The-Enemy-mixtape.446516.html">"DJ Kay Slay - Grown Man Hip Hop Part 2 (Sleepin' With The Enemy) // Free Mixtape @"</a>. Datpiff.com. 2013-01-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DJ+Kay+Slay+-+Grown+Man+Hip+Hop+Part+2+%28Sleepin%27+With+The+Enemy%29+%2F%2F+Free+Mixtape+%40&amp;rft.pub=Datpiff.com&amp;rft.date=2013-01-23&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FDj-Kay-Slay-Grown-Man-Hip-Hop-Part-2-Sleepin-With-The-Enemy-mixtape.446516.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.vibe.com/article/new-mixtape-funkmaster-flex-who-you-mad-me-or-yourself">"New Mixtape: Funkmaster Flex 'Who You Mad At? Me Or Yourself?'<span class="cs1-kern-right"></span>"</a>. Vibe. April 13, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Mixtape%3A+Funkmaster+Flex+%27Who+You+Mad+At%3F+Me+Or+Yourself%3F%27&amp;rft.pub=Vibe&amp;rft.date=2013-04-13&amp;rft_id=http%3A%2F%2Fwww.vibe.com%2Farticle%2Fnew-mixtape-funkmaster-flex-who-you-mad-me-or-yourself&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-hiphopdx2-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-hiphopdx2_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hiphopdx2_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRyon2013" class="citation web cs1">Ryon, Sean (2013-10-06). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.22588/title.dj-khaled-suffering-from-success-release-date-cover-art-tracklisting">"DJ Khaled "Suffering From Success" Release Date, Cover Art, Tracklisting"</a>. HipHop DX<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DJ+Khaled+%22Suffering+From+Success%22+Release+Date%2C+Cover+Art%2C+Tracklisting&amp;rft.pub=HipHop+DX&amp;rft.date=2013-10-06&amp;rft.aulast=Ryon&amp;rft.aufirst=Sean&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.22588%2Ftitle.dj-khaled-suffering-from-success-release-date-cover-art-tracklisting&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.livemixtapes.com/mixtapes/25959/ace-hood-starvation-3.html">"Ace Hood - Starvation 3"</a>. LiveMixtapes<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ace+Hood+-+Starvation+3&amp;rft.pub=LiveMixtapes&amp;rft_id=http%3A%2F%2Fwww.livemixtapes.com%2Fmixtapes%2F25959%2Face-hood-starvation-3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBig_Homie2014" class="citation web cs1">Big Homie (January 24, 2014). <a rel="nofollow" class="external text" href="http://rapradar.com/2014/01/23/new-mixtape-dj-kay-slay-the-rise-of-the-city/">"New Mixtape: DJ Kay Slay The Rise Of The City"</a>. RapRadar<span class="reference-accessdate">. Retrieved <span class="nowrap">January 24,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Mixtape%3A+DJ+Kay+Slay+The+Rise+Of+The+City&amp;rft.pub=RapRadar&amp;rft.date=2014-01-24&amp;rft.au=Big+Homie&amp;rft_id=http%3A%2F%2Frapradar.com%2F2014%2F01%2F23%2Fnew-mixtape-dj-kay-slay-the-rise-of-the-city%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRose_Lilah2014" class="citation web cs1">Rose Lilah (May 8, 2014). <a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/dj-kay-slay-the-last-hip-hop-disciple-new-mixtape.112221.html?">"DJ Kay Slay - The Last Hip-Hop Disciple"</a>. HowNewHipHop<span class="reference-accessdate">. Retrieved <span class="nowrap">May 10,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DJ+Kay+Slay+-+The+Last+Hip-Hop+Disciple&amp;rft.pub=HowNewHipHop&amp;rft.date=2014-05-08&amp;rft.au=Rose+Lilah&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fdj-kay-slay-the-last-hip-hop-disciple-new-mixtape.112221.html%3F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://rapradar.com/2015/06/18/new-music-cassidy-ft-fred-money-vado-jr-writer-red-cafe-papoose-maino-uncle-murda-fat-trel-fred-the-godson-chubby-jag-drag-on-dave-east-compton-menace-mmm-remix/">"New Music: Cassidy Ft. Fred Money, Vado, JR Writer, Red Cafe, Papoose, Maino, Uncle Murda, Fat Trel, Fred The Godson, Chubby Jag, Drag-On, Dave East &amp; Compton Menace "MMM (Remix)"<span class="cs1-kern-right"></span>"</a>. rapradar.com<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Music%3A+Cassidy+Ft.+Fred+Money%2C+Vado%2C+JR+Writer%2C+Red+Cafe%2C+Papoose%2C+Maino%2C+Uncle+Murda%2C+Fat+Trel%2C+Fred+The+Godson%2C+Chubby+Jag%2C+Drag-On%2C+Dave+East+%26+Compton+Menace+%22MMM+%28Remix%29%22&amp;rft.pub=rapradar.com&amp;rft_id=http%3A%2F%2Frapradar.com%2F2015%2F06%2F18%2Fnew-music-cassidy-ft-fred-money-vado-jr-writer-red-cafe-papoose-maino-uncle-murda-fat-trel-fred-the-godson-chubby-jag-drag-on-dave-east-compton-menace-mmm-remix%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVado+%28rapper%29" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Vado" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Vado" title="Template:Vado"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Vado" title="Template talk:Vado"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Vado&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Vado" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Vado</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Collaboration albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Heat_In_Here_Vol._1" class="mw-redirect" title="Heat In Here Vol. 1">Heat In Here Vol. 1</a></i> <small>(with U.N.)</small> (2010)</li>
+<li><i><a href="/wiki/Gunz_n%27_Butta" title="Gunz n&#39; Butta">Gunz n' Butta</a></i> <small>(with Cam'ron)</small> (2011)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/U.N._(group)" title="U.N. (group)">U.N.</a></li>
+<li><a href="/wiki/Cam%27ron" title="Cam&#39;ron">Cam'ron</a></li>
+<li><a href="/wiki/We_the_Best_Music_Group" title="We the Best Music Group">We the Best Music Group</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Cash_Money_Records" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #add8e6;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Cash_Money_Records" title="Template:Cash Money Records"><abbr title="View this template" style=";background: #add8e6;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cash_Money_Records" title="Template talk:Cash Money Records"><abbr title="Discuss this template" style=";background: #add8e6;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cash_Money_Records&amp;action=edit"><abbr title="Edit this template" style=";background: #add8e6;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Cash_Money_Records" class="#add8e6" style="font-size:114%;margin:0 4em"><a href="/wiki/Cash_Money_Records" title="Cash Money Records">Cash Money Records</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div><a href="/wiki/Cash_Money_Records_discography" title="Cash Money Records discography">Discography</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Founders</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Birdman_(rapper)" title="Birdman (rapper)">Bryan "Birdman" Williams</a></li>
+<li><a href="/wiki/Ronald_%22Slim%22_Williams" title="Ronald &quot;Slim&quot; Williams">Ronald "Slim" Williams</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Rich_Gang_(album)" title="Rich Gang (album)">Rich Gang</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Tapout_(song)" title="Tapout (song)">Tapout</a>"</li>
+<li>"<a href="/wiki/Lifestyle_(Rich_Gang_song)" title="Lifestyle (Rich Gang song)">Lifestyle</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Subsidiaries</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Young_Money_Entertainment" title="Young Money Entertainment">Young Money Entertainment</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: Artists <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q4164164#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/fc42796b-5dd6-467a-a461-70bd8395e8bb">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2389
+Cached time: 20230919223612
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.452 seconds
+Real time usage: 0.564 seconds
+Preprocessor visited node count: 2990/1000000
+Post‐expand include size: 82458/2097152 bytes
+Template argument size: 3126/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 118305/5000000 bytes
+Lua time usage: 0.285/10.000 seconds
+Lua memory usage: 8617540/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  489.237      1 -total
+ 39.07%  191.162      1 Template:Reflist
+ 32.50%  159.011     30 Template:Cite_web
+ 26.78%  131.010      1 Template:Infobox_musical_artist
+ 23.73%  116.106      1 Template:Infobox
+ 12.12%   59.317      2 Template:Short_description
+  8.80%   43.065      2 Template:Navbox
+  8.72%   42.665      2 Template:Br_separated_entries
+  8.64%   42.289      1 Template:Vado
+  8.34%   40.812      1 Template:Navbox_musical_artist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27596291-0!canonical and timestamp 20230919223612 and revision id 1173647825. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vado_(rapper)&amp;oldid=1173647825">https://en.wikipedia.org/w/index.php?title=Vado_(rapper)&amp;oldid=1173647825</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:MNRK_Music_Group_artists" title="Category:MNRK Music Group artists">MNRK Music Group artists</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:1985_births" title="Category:1985 births">1985 births</a></li><li><a href="/wiki/Category:American_rappers_of_Jamaican_descent" title="Category:American rappers of Jamaican descent">American rappers of Jamaican descent</a></li><li><a href="/wiki/Category:Musicians_from_Harlem" title="Category:Musicians from Harlem">Musicians from Harlem</a></li><li><a href="/wiki/Category:Rappers_from_Manhattan" title="Category:Rappers from Manhattan">Rappers from Manhattan</a></li><li><a href="/wiki/Category:Cash_Money_Records_artists" title="Category:Cash Money Records artists">Cash Money Records artists</a></li><li><a href="/wiki/Category:Gangsta_rappers" title="Category:Gangsta rappers">Gangsta rappers</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li><li><a href="/wiki/Category:20th-century_African-American_people" title="Category:20th-century African-American people">20th-century African-American people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 3 September 2023, at 18:16<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Vado_(rapper)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2391","wgBackendResponseTime":108,"wgPageParseReport":{"limitreport":{"cputime":"0.452","walltime":"0.564","ppvisitednodes":{"value":2990,"limit":1000000},"postexpandincludesize":{"value":82458,"limit":2097152},"templateargumentsize":{"value":3126,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":118305,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  489.237      1 -total"," 39.07%  191.162      1 Template:Reflist"," 32.50%  159.011     30 Template:Cite_web"," 26.78%  131.010      1 Template:Infobox_musical_artist"," 23.73%  116.106      1 Template:Infobox"," 12.12%   59.317      2 Template:Short_description","  8.80%   43.065      2 Template:Navbox","  8.72%   42.665      2 Template:Br_separated_entries","  8.64%   42.289      1 Template:Vado","  8.34%   40.812      1 Template:Navbox_musical_artist"]},"scribunto":{"limitreport-timeusage":{"value":"0.285","limit":"10.000"},"limitreport-memusage":{"value":8617540,"limit":52428800}},"cachereport":{"origin":"mw2389","timestamp":"20230919223612","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Vado (rapper)","url":"https:\/\/en.wikipedia.org\/wiki\/Vado_(rapper)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4164164","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4164164","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-06-04T03:29:47Z","dateModified":"2023-09-03T18:16:07Z","headline":"American rapper"}</script>
+</body>
+</html>

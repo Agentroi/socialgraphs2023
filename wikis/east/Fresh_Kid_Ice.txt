@@ -1,0 +1,1111 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Fresh Kid Ice - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"68548a9c-efd8-40fa-98aa-eb93554e6844","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fresh_Kid_Ice","wgTitle":"Fresh Kid Ice","wgCurRevisionId":1172368833,"wgRevisionId":1172368833,"wgArticleId":1360050,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use mdy dates from August 2021","Articles with hCards","Pages using infobox musical artist with associated acts","Facebook ID different from Wikidata","Articles with VIAF identifiers","Articles with MusicBrainz identifiers","1964 births","2017 deaths","American hip hop record producers","American musicians of Chinese descent","American rappers of Trinidad and Tobago descent","East Coast hip hop musicians","Southern hip hop musicians","West Coast hip hop musicians",
+"Samuel J. Tilden High School alumni","Musicians from Port of Spain","Rappers from Brooklyn","Rappers from California","Rappers from Miami","American rappers of Asian descent","United States Air Force airmen","Deaths from hepatitis","Deaths from cirrhosis","Record producers from New York (state)","Alcohol-related deaths in Florida","Trinidad and Tobago people of Chinese descent","Trinidad and Tobago people of African descent","Trinidad and Tobago musicians"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Fresh_Kid_Ice","wgRelevantArticleId":1360050,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},
+"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q17542265","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
+"codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions",
+"wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/6/6f/Fresh_Kid_Ice_1990s.jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1349">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/6/6f/Fresh_Kid_Ice_1990s.jpeg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="899">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="719">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Fresh Kid Ice - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Fresh_Kid_Ice">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Fresh_Kid_Ice">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Fresh_Kid_Ice rootpage-Fresh_Kid_Ice skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fresh+Kid+Ice" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fresh+Kid+Ice" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fresh+Kid+Ice" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fresh+Kid+Ice" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-1984:_Military_service,_founding_2_Live_Crew_and_Asian_Hip_hop_pioneer"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1984:_Military_service,_founding_2_Live_Crew_and_Asian_Hip_hop_pioneer">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>1984: Military service, founding 2 Live Crew and Asian Hip hop pioneer</div>
+			</a>
+			
+			<ul id="toc-1984:_Military_service,_founding_2_Live_Crew_and_Asian_Hip_hop_pioneer-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1985–1986:_Miami_Bass_pioneer_and_2_Live_Crew&#039;s_breakthrough"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1985–1986:_Miami_Bass_pioneer_and_2_Live_Crew&#039;s_breakthrough">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>1985–1986: Miami Bass pioneer and 2 Live Crew's breakthrough</div>
+			</a>
+			
+			<ul id="toc-1985–1986:_Miami_Bass_pioneer_and_2_Live_Crew&#039;s_breakthrough-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1988–1991:_Subsequent_fame_and_controversy"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1988–1991:_Subsequent_fame_and_controversy">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>1988–1991: Subsequent fame and controversy</div>
+			</a>
+			
+			<ul id="toc-1988–1991:_Subsequent_fame_and_controversy-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1992–2004:_Continued_success_and_solo_projects"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1992–2004:_Continued_success_and_solo_projects">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>1992–2004: Continued success and solo projects</div>
+			</a>
+			
+			<ul id="toc-1992–2004:_Continued_success_and_solo_projects-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2006–2017:_Reforming_2_Live_Crew_and_final_projects"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2006–2017:_Reforming_2_Live_Crew_and_final_projects">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5</span>2006–2017: Reforming 2 Live Crew and final projects</div>
+			</a>
+			
+			<ul id="toc-2006–2017:_Reforming_2_Live_Crew_and_final_projects-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Health_issues_and_death"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Health_issues_and_death">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Health issues and death</div>
+		</a>
+		
+		<ul id="toc-Health_issues_and_death-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Legacy"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Legacy">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Legacy</div>
+		</a>
+		
+		<ul id="toc-Legacy-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Solo_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Solo_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>Solo albums</div>
+			</a>
+			
+			<ul id="toc-Solo_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Solo_EPs/singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Solo_EPs/singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>Solo EPs/singles</div>
+			</a>
+			
+			<ul id="toc-Solo_EPs/singles-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Compilation_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Compilation_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>Compilation albums</div>
+			</a>
+			
+			<ul id="toc-Compilation_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2_Live_Crew_studio_albums_(1986–1998)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2_Live_Crew_studio_albums_(1986–1998)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.4</span>2 Live Crew studio albums (1986–1998)</div>
+			</a>
+			
+			<ul id="toc-2_Live_Crew_studio_albums_(1986–1998)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Bibliography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Bibliography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Bibliography</div>
+		</a>
+		
+		<ul id="toc-Bibliography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Works_cited"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Works_cited">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>Works cited</div>
+		</a>
+		
+		<ul id="toc-Works_cited-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Fresh Kid Ice</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 3 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-3" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">3 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Fresh_Kid_Ice" title="Fresh Kid Ice – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%81%D8%B1%D9%8A%D8%B4_%D9%83%D9%8A%D8%AF_%D8%A7%D9%8A%D8%B3" title="فريش كيد ايس – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/Fresh_Kid_Ice" title="Fresh Kid Ice – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17542265#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Fresh_Kid_Ice" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Fresh_Kid_Ice" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Fresh_Kid_Ice"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Fresh_Kid_Ice"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Fresh_Kid_Ice" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Fresh_Kid_Ice" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Fresh_Kid_Ice&amp;oldid=1172368833" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fresh_Kid_Ice&amp;id=1172368833&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17542265" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Fresh_Kid_Ice&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Fresh_Kid_Ice&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Fresh_Kid_Ice" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Trinidadian-American rapper</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Fresh Kid Ice</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Fresh_Kid_Ice_1990s.jpeg" class="mw-file-description" title="Fresh Kid Ice in the 1990s"><img alt="Fresh Kid Ice in the 1990s" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6f/Fresh_Kid_Ice_1990s.jpeg/220px-Fresh_Kid_Ice_1990s.jpeg" decoding="async" width="220" height="247" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/6/6f/Fresh_Kid_Ice_1990s.jpeg 1.5x" data-file-width="298" data-file-height="335" /></a></span><div class="infobox-caption">Fresh Kid Ice in the 1990s</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Christopher Wong Won</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname">The Chinaman</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none">(<span class="bday">1964-05-29</span>)</span>May 29, 1964<br /><a href="/wiki/Port_of_Spain" title="Port of Spain">Port of Spain</a>, Trinidad and Tobago</td></tr><tr><th scope="row" class="infobox-label">Died</th><td class="infobox-data">July 13, 2017<span style="display:none">(2017-07-13)</span> (aged&#160;53)<br /><a href="/wiki/Miami" title="Miami">Miami</a>, <a href="/wiki/Florida" title="Florida">Florida</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>Rapper</li><li>songwriter</li><li>record producer</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1984–2017</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Luke_Records" title="Luke Records">Luke</a></li><li>Effect</li><li>Lil Joe</li><li>Chinaman</li></ul></div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Christopher Wong Won</b> (May 29, 1964&#160;&#8211;&#32;July 13, 2017), better known by his stage name <b>Fresh Kid Ice</b>, was a <a href="/wiki/Trinidadian_and_Tobagonian_Americans" title="Trinidadian and Tobagonian Americans">Trinidadian-American</a> <a href="/wiki/Rapper" class="mw-redirect" title="Rapper">rapper</a>. He was a co-founder of the rap group <a href="/wiki/2_Live_Crew" title="2 Live Crew">2 Live Crew</a>, appearing on all of the group's albums from 1985 to 1998. Wong Won was born and spent his early childhood in <a href="/wiki/Port_of_Spain" title="Port of Spain">Port of Spain</a>, <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a>, before emigrating to the United States. In his early twenties, Wong Won was in the <a href="/wiki/United_States_Air_Force" title="United States Air Force">United States Air Force</a> and he co-founded <a href="/wiki/2_Live_Crew" title="2 Live Crew">2 Live Crew</a> while he was stationed in California. Early 2 Live Crew singles gained so much traction in Florida that they relocated there. By 1986, the group released the single "Throw The 'D<span style="padding-right:.15em;">'</span>"; it is now considered the blueprint of <a href="/wiki/Miami_bass" title="Miami bass">Miami bass</a>.
+</p><p>Later in 1986, 2 Live Crew released their debut album, <i><a href="/wiki/The_2_Live_Crew_Is_What_We_Are" title="The 2 Live Crew Is What We Are">The 2 Live Crew Is What We Are</a>.</i> The album established the group's signature style of comical <a href="/wiki/Pornography" title="Pornography">sexually explicit</a> lyrics. After a slew of successful releases the group met with considerable controversy as a <a href="/wiki/United_States_District_Court_for_the_Southern_District_of_Florida" title="United States District Court for the Southern District of Florida">U.S. district court</a> ruled the album legally obscene. They were prosecuted, but all later acquitted. Wong Won is the only 2 Live Crew member to appear in the all their subsequent albums.
+</p><p>Wong Won was the first prominent <a href="/wiki/Asian_hip_hop" title="Asian hip hop">Asian</a> and <a href="/wiki/Asian_American_hip_hop" title="Asian American hip hop">Asian American rapper</a>, releasing his first solo album, <i><a href="/wiki/The_Chinaman_(album)" title="The Chinaman (album)">The Chinaman</a></i>, in 1992. In the 2000s, he continued touring and releasing singles with 2 Live Crew. Wong Won's last projects, before his death in 2017, were his autobiography <i>My Rise 2 Fame</i> (2015) and the compilation <i>Breaking Glass Ceilings Volume 1</i> (2017).
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wong Won was born in <a href="/wiki/Port_of_Spain" title="Port of Spain">Port of Spain</a>, <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a> on May 29, 1964. His family is of <a href="/wiki/Chinese_Trinidadian_and_Tobagonian" class="mw-redirect" title="Chinese Trinidadian and Tobagonian">Chinese</a> and <a href="/wiki/Afro-Trinidadians_and_Tobagonians" title="Afro-Trinidadians and Tobagonians">Afro-Trinidadian</a> ancestry, with his Asian heritage originating primarily in <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>. Wong Won and his family were <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>In 1976, at the age of 12, Wong Won and his family emigrated from Trinidad and Tobago to the United States, settling in <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, New York City. In 1982, Wong Won graduated from <a href="/wiki/Samuel_J._Tilden_High_School" title="Samuel J. Tilden High School">Samuel J. Tilden High School</a> in Brooklyn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="1984:_Military_service.2C_founding_2_Live_Crew_and_Asian_Hip_hop_pioneer"></span><span class="mw-headline" id="1984:_Military_service,_founding_2_Live_Crew_and_Asian_Hip_hop_pioneer">1984: Military service, founding 2 Live Crew and Asian Hip hop pioneer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=3" title="Edit section: 1984: Military service, founding 2 Live Crew and Asian Hip hop pioneer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Asian_American_hip_hop" title="Asian American hip hop">Asian American hip hop</a></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Young_Fresh_Kid_Ice.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Young_Fresh_Kid_Ice.jpg/220px-Young_Fresh_Kid_Ice.jpg" decoding="async" width="220" height="230" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Young_Fresh_Kid_Ice.jpg/330px-Young_Fresh_Kid_Ice.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d4/Young_Fresh_Kid_Ice.jpg 2x" data-file-width="403" data-file-height="422" /></a><figcaption>Fresh Kid Ice in the early 1980s</figcaption></figure>
+<p>According to Wong Won, he joined the <a href="/wiki/United_States_Air_Force" title="United States Air Force">United States Air Force</a> in 1982, while stationed in <a href="/wiki/March_Air_Reserve_Base" title="March Air Reserve Base">March Air Force Base</a> near <a href="/wiki/Riverside,_California" title="Riverside, California">Riverside, California</a>. Wong Won met fellow Airmen Yuri Vielot (Amazing Vee) and David Hobbs (<a href="/wiki/Mr._Mixx" title="Mr. Mixx">Mr. Mixx</a>), with whom he formed the rap group <a href="/wiki/2_Live_Crew" title="2 Live Crew">2 Live Crew</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Wong Won recounted that the group would perform in small, local venues on weekends, unbeknownst to their superiors.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>In 1985, 2 Live Crew released the single "The Revelation", which became popular in Florida, so much so that they relocated to <a href="/wiki/Miami" title="Miami">Miami</a>, minus Vielot who left the group, at the behest of local <a href="/wiki/Tour_promoter" title="Tour promoter">concert promoter</a> <a href="/wiki/Luther_Campbell" class="mw-redirect" title="Luther Campbell">Luther Campbell</a>, after Wong Won and Hobbs were discharged from the Air Force.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>With the subsequent success of 2 Live Crew, Wong Won became the first rapper of note in <a href="/wiki/Asian_American_hip_hop" title="Asian American hip hop">Asian American hip hop</a>, and the first <a href="/wiki/Asian_hip_hop" title="Asian hip hop">rapper of Asian heritage</a> to gain notoriety.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span id="1985.E2.80.931986:_Miami_Bass_pioneer_and_2_Live_Crew.27s_breakthrough"></span><span class="mw-headline" id="1985–1986:_Miami_Bass_pioneer_and_2_Live_Crew's_breakthrough">1985–1986: Miami Bass pioneer and 2 Live Crew's breakthrough</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=4" title="Edit section: 1985–1986: Miami Bass pioneer and 2 Live Crew&#039;s breakthrough">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Miami_bass" title="Miami bass">Miami bass</a></div>
+<p>In 1985, <a href="/wiki/2_Live_Crew" title="2 Live Crew">2 Live Crew</a> released their next single, "What I Like" on Fresh Beat Records, with Wong Won appearing as the only rapper on the track.  That same year, <a href="/wiki/2_Live_Crew" title="2 Live Crew">2 Live Crew</a> entered into a joint venture with <a href="/wiki/Miami" title="Miami">Miami</a>-based rap producer <a href="/wiki/Luther_Campbell" class="mw-redirect" title="Luther Campbell">Luther Campbell</a> who formed <a href="/wiki/Luke_Records" title="Luke Records">Luke Skyywalker Records</a> with the group. Shortly after forming the record label, Campbell joined 2 Live Crew as producer, artist, and <a href="/wiki/Hype_man" title="Hype man">hype man</a>. In April of that same year, 1985, rapper <a href="/wiki/Brother_Marquis" title="Brother Marquis">Brother Marquis</a> (Mark D. Ross) joined 2 Live Crew, forming the most well known and recognized line up of the group (Wong Won, Ross, <a href="/wiki/Mr._Mixx" title="Mr. Mixx">Hobbs</a>, and Campbell).
+</p><p>In January 1986, 2 Live Crew released the <a href="/wiki/Extended_play" title="Extended play">single</a> "Throw The 'D<span style="padding-right:.15em;">'</span>", the rap was performed and the lyrics were written by Wong Won.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> The single became an influential blueprint as to how future <a href="/wiki/Miami_bass" title="Miami bass">Miami bass</a> songs were written and produced.<sup id="cite_ref-Bein2014_8-0" class="reference"><a href="#cite_note-Bein2014-8">&#91;8&#93;</a></sup>
+</p><p>On July 25, 1986, the reconfigured 2 Live Crew became popular locally and nationally with the release of their <a href="/wiki/Music_recording_certification" title="Music recording certification">Gold-certified</a> debut album, <i><a href="/wiki/The_2_Live_Crew_Is_What_We_Are" title="The 2 Live Crew Is What We Are">The 2 Live Crew Is What We Are</a></i>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>  Notorious for <a href="/wiki/Pornography" title="Pornography">sexually explicit</a> lyrics, that made many DJs of the time uncomfortable.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span id="1988.E2.80.931991:_Subsequent_fame_and_controversy"></span><span class="mw-headline" id="1988–1991:_Subsequent_fame_and_controversy">1988–1991: Subsequent fame and controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=5" title="Edit section: 1988–1991: Subsequent fame and controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/2_Live_Crew" title="2 Live Crew">2 Live Crew</a></div>
+<p>In 1988, 2 Live Crew released their second album, <i><a href="/wiki/Move_Somethin%27_(album)" title="Move Somethin&#39; (album)">Move Somethin'</a></i> It was also certified Gold and featured the singles "Move Somethin'" and "Do Wah Diddy Diddy".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Reached #68 on the <i>Billboard 200</i> and #20 on the <i>Top R&amp;B/Hip Hop Albums</i> charts.
+</p><p>2 Live Crew's third album <i><a href="/wiki/As_Nasty_As_They_Wanna_Be" class="mw-redirect" title="As Nasty As They Wanna Be">As Nasty As They Wanna Be</a></i> (1989), became the group's most successful commercial studio album and was certified <a href="/wiki/Double_Platinum" class="mw-redirect" title="Double Platinum">double Platinum</a> by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>. The album's single "<a href="/wiki/Me_So_Horny" title="Me So Horny">Me So Horny</a>" peaked at 26 of the <i>Billboard Top 100</i> chart.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>  A clean version of the album, <i><a href="/wiki/As_Clean_As_They_Wanna_Be" class="mw-redirect" title="As Clean As They Wanna Be">As Clean As They Wanna Be</a></i> was released concurrently with the explicit version.
+</p><p>In 1990, the <a href="/wiki/United_States_District_Court_for_the_Southern_District_of_Florida" title="United States District Court for the Southern District of Florida">United States District Court for the Southern District of Florida</a> ruled  <i>As Nasty As They Wanna Be</i> to be legally <a href="/wiki/Obscene" class="mw-redirect" title="Obscene">obscene</a>, becoming the first album in history to be so declared by a <a href="/wiki/Federal_judiciary_of_the_United_States" title="Federal judiciary of the United States">federal court</a>;<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> this ruling was later overturned by the <a href="/wiki/United_States_Court_of_Appeals_for_the_Eleventh_Circuit" title="United States Court of Appeals for the Eleventh Circuit">U.S. Court of Appeals for the Eleventh Circuit</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> An obscenity trial followed, where all of the defendants, including Wong Won, were eventually acquitted. Later that year, 2 Live Crew released <i><a href="/wiki/Banned_in_the_U.S.A." title="Banned in the U.S.A.">Banned in the U.S.A.</a></i>. The album included the hits "<a href="/wiki/Do_the_Bart" title="Do the Bart">Do the Bart</a>" peaked at 20 on the <i>Top 100</i> chart.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> The eponymous title single referred to the earlier federal court obscenity ruling regarding the group's previous album <i><a href="/wiki/As_Nasty_As_They_Wanna_Be" class="mw-redirect" title="As Nasty As They Wanna Be">As Nasty As They Wanna Be</a>.</i> <a href="/wiki/Bruce_Springsteen" title="Bruce Springsteen">Bruce Springsteen</a> granted the group permission to <a href="/wiki/Interpolation_(popular_music)" title="Interpolation (popular music)">interpolate</a> his song "<a href="/wiki/Born_in_the_U.S.A._(song)" title="Born in the U.S.A. (song)">Born in the U.S.A.</a>" for the single. <i>Banned in the U.S.A.</i> was also the first album to bear the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>-standard <a href="/wiki/Parental_Advisory" title="Parental Advisory">Parental Advisory</a> warning sticker.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> Also that year 2 Live Crew's album <i><a href="/wiki/Live_in_Concert_(2_Live_Crew_album)" title="Live in Concert (2 Live Crew album)">Live in Concert</a></i>  peaked at number 46 on the <i><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a></i> chart.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p><i><a href="/wiki/Sports_Weekend:_As_Nasty_as_They_Wanna_Be,_Pt._2" class="mw-redirect" title="Sports Weekend: As Nasty as They Wanna Be, Pt. 2">Sports Weekend: As Nasty as They Wanna Be, Pt. 2</a></i>, featuring the single "<a href="/wiki/Pop_That_Coochie" title="Pop That Coochie">Pop That Coochie</a>", which reached 58 on the <i><a href="/wiki/Hot_100" class="mw-redirect" title="Hot 100">Hot 100</a></i> chart, was released by 2 Live Crew in 1991.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> The group's sixth album was a sequel of sorts to <i><a href="/wiki/As_Nasty_As_They_Wanna_Be" class="mw-redirect" title="As Nasty As They Wanna Be">As Nasty As They Wanna Be</a></i>, and was also accompanied by a clean version, <i>Sports Weekend: As Clean As They Wanna Be, Pt. 2</i>. It is the last studio album to include all of the members of the group.  Wong Won would become the only member of the group to appear on every subsequent album.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p>
+<h3><span id="1992.E2.80.932004:_Continued_success_and_solo_projects"></span><span class="mw-headline" id="1992–2004:_Continued_success_and_solo_projects">1992–2004: Continued success and solo projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=6" title="Edit section: 1992–2004: Continued success and solo projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1992, Wong Won released his debut solo, <i><a href="/wiki/The_Chinaman_(rap_album)" class="mw-redirect" title="The Chinaman (rap album)">The Chinaman</a></i>.  It is the first American hip hop album to embrace having an Asian heritage.<sup id="cite_ref-Playboy_21-0" class="reference"><a href="#cite_note-Playboy-21">&#91;21&#93;</a></sup> On the <i>Billboard</i> charts, the album peaked at No. 38 and stayed two weeks on the <i><a href="/wiki/Heatseekers_Albums" class="mw-redirect" title="Heatseekers Albums">Heatseekers Albums</a></i> chart.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> <i>The Chinaman</i> was also on the <i><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a></i> chart for ten weeks, peaking at No. 56.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p><p><i><a href="/wiki/Deal_with_This" title="Deal with This">Deal with This</a></i> was released in 1993 as a Rock on Crew vs 2 Live Crew album, where Wong Won only teamed up with Hobbs.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p>In 1994, the album <i><a href="/wiki/Back_at_Your_Ass_for_the_Nine-4" title="Back at Your Ass for the Nine-4">Back at Your Ass for the Nine-4</a></i> by The New 2 Live Crew was released. On the album, Wong Won was joined by Campbell, and a new rapper named Verb.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> The album peaked at No. 52 on the <i><a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a></i> chart and #9 on the <i><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a></i> chart.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>In 1995, Wong Won reunited with Ross and Hobbs as the 2 Live Crew, and released the group's album <i><a href="/wiki/Shake_a_Lil%27_Somethin%27" title="Shake a Lil&#39; Somethin&#39;">Shake a Lil' Somethin'</a></i> .The single "Shake a lil' Somethin'", peaked at No. 72 on the <i>Top 100</i> chart and #11 on the <i>Hot Rap Songs|Hot Rap Singles</i> chart.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> Two of the album's singles charted: "Do the Damn Thing", which made it to #24 on the <i>Hot Rap Singles</i> chart, and "Be My Private Dancer", which peaked at No. 34.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p><p>In 1998, only Wong Won and Ross participated to the 2 Live Crew release <i><a href="/wiki/The_Real_One" title="The Real One">The Real One</a></i>.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> The album's singles "2 Live Party", peaked at No. 52 on the <i><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Songs</a></i> chart, #9 on the <i><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a></i> chart, while "The Real One" peaked at No. 60 on the <i>Hot R&amp;B/Hip-Hop Songs</i> and #9 on the <i>Hot Rap Songs</i> charts.<sup id="cite_ref-:1_33-0" class="reference"><a href="#cite_note-:1-33">&#91;33&#93;</a></sup><sup id="cite_ref-:2_34-0" class="reference"><a href="#cite_note-:2-34">&#91;34&#93;</a></sup><sup id="cite_ref-:3_35-0" class="reference"><a href="#cite_note-:3-35">&#91;35&#93;</a></sup><sup id="cite_ref-:4_36-0" class="reference"><a href="#cite_note-:4-36">&#91;36&#93;</a></sup>
+</p><p>After 2 Live Crew, Wong Won said he started Chinaman Records and brought his own show on the road.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup> With this endeavor he released three solo albums: <i>Still Nasty</i> (2000),<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> <i>Stop Playin</i> (2003),<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> <i>and Freaky Chinese</i> (2004).<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> Rapper <a href="/wiki/Flo_Rida" title="Flo Rida">Flo Rida</a>, then unknown, with his underground group named GroudHoggz participated to Wong Won's 2004 release.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</p>
+<h3><span id="2006.E2.80.932017:_Reforming_2_Live_Crew_and_final_projects"></span><span class="mw-headline" id="2006–2017:_Reforming_2_Live_Crew_and_final_projects">2006–2017: Reforming 2 Live Crew and final projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=7" title="Edit section: 2006–2017: Reforming 2 Live Crew and final projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During 2006–07 Wong Won and Ross met, discussed their differences, and ultimately decided to relaunch <a href="/wiki/2_Live_Crew" title="2 Live Crew">2 Live Crew</a>. They  made offers to past members to rejoin the group, but were declined. As the 2 Live Crew, Wong Won and Ross toured and released singles.<sup id="cite_ref-Wong_Won_42-0" class="reference"><a href="#cite_note-Wong_Won-42">&#91;42&#93;</a></sup>
+</p><p>In 2010, Wong Won and 2 Live Crew were honorees at the 2010 <i><a href="/wiki/Hip_Hop_Honors#7th_VH1_Hip_Hop_Honors_(2010)" title="Hip Hop Honors">7th VH1 Hip-Hop Honors</a></i>. In August, Wong Won and <a href="/wiki/Brother_Marquis" title="Brother Marquis">Ross</a> announced the pending release of an album named, <i>Just Wanna Be Heard</i>.<sup id="cite_ref-:0_43-0" class="reference"><a href="#cite_note-:0-43">&#91;43&#93;</a></sup>
+</p><p>In 2014, Wong Won and Ross released the single "Take It Off".<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup> Also, Wong Won and Ross made cameo appearances in the <a href="/wiki/Flo_Rida" title="Flo Rida">Flo Rida</a> music video "<a href="/wiki/G.D.F.R._(song)" class="mw-redirect" title="G.D.F.R. (song)">G.D.F.R.</a>"<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>  That same year, the duo announced the pending release of a new 2 Live Crew studio album <i>Turn Me On</i>.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup> Also that year, Wong Won and Ross reunited with <a href="/wiki/Luther_Campbell" class="mw-redirect" title="Luther Campbell">Campbell</a> for several performances.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup>
+</p><p>In 2015, Wong Won published his <a href="/wiki/Autobiography" title="Autobiography">autobiography</a> <i>My Rise 2 Fame</i>.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup> The book chronicled Wong Won's journey from <a href="/wiki/Airman#United_States_Air_Force" title="Airman">U.S. Air Force Airman</a> to the <a href="/wiki/Hip_hop" class="mw-redirect" title="Hip hop">Hip hop</a> scene.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup>
+</p><p>On January 13, 2017, Wong Won released his final project, a <a href="/wiki/Compilation_album" title="Compilation album">compilation album</a> named <i>Breaking Glass Ceilings Volume 1</i>.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Health_issues_and_death">Health issues and death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=8" title="Edit section: Health issues and death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1988, shortly before the release of <i><a href="/wiki/Move_Somethin%27_(album)" title="Move Somethin&#39; (album)">Move Somethin'</a></i>, Wong Won was involved in a near fatal car accident.  His injuries included damage to his <a href="/wiki/Brachial_plexus" title="Brachial plexus">brachial plexus</a>, which resulted in the loss of mobility in his left arm.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup> Wong Won had a <a href="/wiki/Stroke" title="Stroke">stroke</a> in 2009 and 2010.<sup id="cite_ref-:0_43-1" class="reference"><a href="#cite_note-:0-43">&#91;43&#93;</a></sup>
+</p><p>On July 13, 2017, Wong Won died at the Miami <a href="/wiki/Veterans_Health_Administration" title="Veterans Health Administration">VA Hospital</a>.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;53&#93;</a></sup> His death was attributed to <a href="/wiki/Cirrhosis" title="Cirrhosis">cirrhosis</a> of the liver.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=9" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While not the first to rap, Wong Won is noted for being the first <a href="/wiki/Asian_hip_hop" title="Asian hip hop">Asian rapper</a> to gain some notoriety.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;56&#93;</a></sup> When 2 Live Crew started to gain traction, Wong Won said that many fans had no clue that he was Asian until the group's music videos were released.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;57&#93;</a></sup> For a while Wong Won was the only noticeable Asian American rapper until others came along.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">&#91;58&#93;</a></sup><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">&#91;59&#93;</a></sup><sup id="cite_ref-60" class="reference"><a href="#cite_note-60">&#91;60&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=10" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Solo_albums">Solo albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=11" title="Edit section: Solo albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th align="left">Album information
+</th></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/The_Chinaman_(album)" title="The Chinaman (album)">The Chinaman</a></b></i>
+<ul><li>Released: July 15, 1992</li>
+<li>Chart positions: #38 Heatseekers Albums<br />#56 Top R&amp;B/Hip-Hop Albums</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>:</li>
+<li>Singles: "Dick 'Em Down", "I'll Be There", "Long Dick Chinese"</li></ul>
+</td></tr>
+
+<tr>
+<td align="left"><i><b>Still Nasty</b></i>
+<ul><li>Released: October 21, 2000</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>:</li>
+<li>Singles: "I Wanna Dance Y'all"</li></ul>
+</td></tr>
+
+<tr>
+<td align="left"><i><b>Stop Playin</b></i>
+<ul><li>Released: December 31, 2003</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>:</li>
+<li>Singles:</li></ul>
+</td></tr>
+
+<tr>
+<td align="left"><i><b>Freaky Chinese</b></i>
+<ul><li>Released: October 5, 2004</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>:</li>
+<li>Singles:</li></ul>
+</td></tr></tbody></table>
+<h3><span id="Solo_EPs.2Fsingles"></span><span class="mw-headline" id="Solo_EPs/singles">Solo EPs/singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=12" title="Edit section: Solo EPs/singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th align="left">Album information
+</th></tr>
+<tr>
+<td align="left"><i><b>Get Freaky</b></i>
+<ul><li>Released: December 31, 2006</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>:</li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Compilation_albums">Compilation albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=13" title="Edit section: Compilation albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th align="left">Album information
+</th></tr>
+<tr>
+<td align="left"><i><b>Breaking Glass Ceilings Volume 1</b></i>
+<ul><li>Released: January 13, 2017</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>:</li></ul>
+</td></tr></tbody></table>
+<h3><span id="2_Live_Crew_studio_albums_.281986.E2.80.931998.29"></span><span class="mw-headline" id="2_Live_Crew_studio_albums_(1986–1998)">2 Live Crew studio albums (1986–1998)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=14" title="Edit section: 2 Live Crew studio albums (1986–1998)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th align="left">Album information
+</th></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/The_2_Live_Crew_Is_What_We_Are" title="The 2 Live Crew Is What We Are">The 2 Live Crew Is What We Are</a></b></i>
+<ul><li>Released: July 25, 1986</li>
+<li>Chart positions: #24 Top R&amp;B/Hip-Hop Albums</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>: Gold</li>
+<li>Singles: "We Want Some Pussy", "Throw the 'D<span style="padding-right:.15em;">'</span>", "Cut it Up"</li></ul>
+</td></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/Move_Somethin%27_(album)" title="Move Somethin&#39; (album)">Move Somethin'</a></b></i>
+<ul><li>Released: August 17, 1988</li>
+<li>Chart positions: #20 Top R&amp;B/Hip-Hop Albums</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>: Gold</li>
+<li>Singles: "Move Somethin'", "Do Wah Diddy"</li></ul>
+</td></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/As_Nasty_As_They_Wanna_Be" class="mw-redirect" title="As Nasty As They Wanna Be">As Nasty As They Wanna Be</a></b></i>
+<ul><li>Released: February 7, 1989</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>:  Double Platinum</li>
+<li>Singles: "<a href="/wiki/Me_So_Horny" title="Me So Horny">Me So Horny</a>", "C'mon Babe", "The Fuck Shop", "Coolin"</li></ul>
+</td></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/Banned_in_the_U.S.A." title="Banned in the U.S.A.">Banned in the U.S.A.</a></b></i>
+<ul><li>Released: July 24, 1990</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>: Gold</li>
+<li>Singles: "<a href="/wiki/Banned_in_the_U.S.A._(song)" title="Banned in the U.S.A. (song)">Banned in the U.S.A.</a>", "<a href="/wiki/Do_the_Bart" title="Do the Bart">Do the Bart</a>"</li></ul>
+</td></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/Sports_Weekend:_As_Nasty_as_They_Wanna_Be,_Pt._2" class="mw-redirect" title="Sports Weekend: As Nasty as They Wanna Be, Pt. 2">Sports Weekend: As Nasty as They Wanna Be, Pt. 2</a></b></i>
+<ul><li>Released: October 8, 1991</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>: Gold</li>
+<li>Singles: "<a href="/wiki/Pop_That_Coochie" title="Pop That Coochie">Pop That Coochie</a>"</li></ul>
+</td></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/Back_at_Your_Ass_for_the_Nine-4" title="Back at Your Ass for the Nine-4">Back at Your Ass for the Nine-4</a></b></i>
+<ul><li>Released: February 8, 1994</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>:</li>
+<li>Singles: "Hell, Yeah", "You Go Girl"</li></ul>
+</td></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/Shake_a_Lil%27_Somethin%27" title="Shake a Lil&#39; Somethin&#39;">Shake a Lil' Somethin'</a></b></i>
+<ul><li>Released: August 6, 1996</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>:</li>
+<li>Singles: "Shake a Lil' Somethin'", "Do the Damn Thing", "Be My Private Dancer"</li></ul>
+</td></tr>
+<tr>
+<td align="left"><i><b><a href="/wiki/The_Real_One" title="The Real One">The Real One</a></b></i>
+<ul><li>Released: April 7, 1998</li>
+<li>Chart positions:</li>
+<li><a href="/wiki/RIAA_certification" title="RIAA certification">RIAA certification</a>:</li>
+<li>Singles: "2 Live Party", "The Real One"</li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=15" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://www.amazon.ca/My-Rise-Fame-Autobiography-Legend-ebook/dp/B010NY9W06"><i>My Rise 2 Fame</i></a>. <a href="/wiki/Delaware" title="Delaware">Delaware</a>: Iconic Three Media Group. July 20, 2015. <a href="/wiki/ASIN_(identifier)" class="mw-redirect" title="ASIN (identifier)">ASIN</a>&#160;<a rel="nofollow" class="external text" href="https://www.amazon.com/dp/B010NY9W06">B010NY9W06</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=My+Rise+2+Fame&amp;rft.place=Delaware&amp;rft.pub=Iconic+Three+Media+Group&amp;rft.date=2015-07-20&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB010NY9W06%23id-name%3DASIN&amp;rft_id=https%3A%2F%2Fwww.amazon.ca%2FMy-Rise-Fame-Autobiography-Legend-ebook%2Fdp%2FB010NY9W06&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.largeup.com/2014/10/10/2-live-crews-fresh-kid-ice/">"Chatting with The Chinaman: 2 Live Crew's Fresh Kid Ice On Being Trini + Miami Bass"</a>. <i>LargeUp</i>. October 10, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">November 1,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LargeUp&amp;rft.atitle=Chatting+with+The+Chinaman%3A+2+Live+Crew%27s+Fresh+Kid+Ice+On+Being+Trini+%2B+Miami+Bass&amp;rft.date=2014-10-10&amp;rft_id=https%3A%2F%2Fwww.largeup.com%2F2014%2F10%2F10%2F2-live-crews-fresh-kid-ice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSerwer2014" class="citation web cs1">Serwer, Jesse (October 10, 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190408035320/http://www.largeup.com/2014/10/10/2-live-crews-fresh-kid-ice/">"Chatting with The Chinaman: 2 Live Crew's Fresh Kid Ice On Being Trini + Miami Bass"</a>. www.largeup.com. Archived from <a rel="nofollow" class="external text" href="http://www.largeup.com/2014/10/10/2-live-crews-fresh-kid-ice/">the original</a> on April 8, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chatting+with+The+Chinaman%3A+2+Live+Crew%27s+Fresh+Kid+Ice+On+Being+Trini+%2B+Miami+Bass&amp;rft.pub=www.largeup.com&amp;rft.date=2014-10-10&amp;rft.aulast=Serwer&amp;rft.aufirst=Jesse&amp;rft_id=http%3A%2F%2Fwww.largeup.com%2F2014%2F10%2F10%2F2-live-crews-fresh-kid-ice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWong_Won2015" class="citation book cs1">Wong Won, Christopher "Fresh Kid Ice" (2015). "4. The air force and the birth of 2 Live Crew (198284)". <i>"My Rise 2 Fame": The Tell All Autobiography of a Hip Hop Legend</i>. Iconic Three Media Group. pp.&#160;487–493. <a href="/wiki/ASIN_(identifier)" class="mw-redirect" title="ASIN (identifier)">ASIN</a>&#160;<a rel="nofollow" class="external text" href="https://www.amazon.com/dp/B010NY9W06">B010NY9W06</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=4.+The+air+force+and+the+birth+of+2+Live+Crew+%28198284%29&amp;rft.btitle=%22My+Rise+2+Fame%22%3A+The+Tell+All+Autobiography+of+a+Hip+Hop+Legend&amp;rft.pages=487-493&amp;rft.pub=Iconic+Three+Media+Group&amp;rft.date=2015&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB010NY9W06%23id-name%3DASIN&amp;rft.aulast=Wong+Won&amp;rft.aufirst=Christopher+%22Fresh+Kid+Ice%22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSerwer2015" class="citation magazine cs1">Serwer, Jesse (March 25, 2015). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413194610/https://www.rollingstone.com/music/music-news/reunited-2-live-crew-talk-running-from-the-cops-winning-in-the-supreme-court-46126/">"Reunited 2 Live Crew on Running From Cops, Winning in Court"</a>. <i>Rolling Stone</i>. Archived from <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-news/reunited-2-live-crew-talk-running-from-the-cops-winning-in-the-supreme-court-46126/">the original</a> on April 13, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">March 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Reunited+2+Live+Crew+on+Running+From+Cops%2C+Winning+in+Court&amp;rft.date=2015-03-25&amp;rft.aulast=Serwer&amp;rft.aufirst=Jesse&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2Freunited-2-live-crew-talk-running-from-the-cops-winning-in-the-supreme-court-46126%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKennedy2017" class="citation web cs1">Kennedy, Gerrick D. (July 13, 2017). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413225718/https://www.latimes.com/entertainment/music/la-et-ms-fresh-kid-ice-obit-20170713-story.html">"2 Live Crew's 'Fresh Kid Ice,' pioneer for Asian rappers, dies at 53"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. Archived from <a rel="nofollow" class="external text" href="https://www.latimes.com/entertainment/music/la-et-ms-fresh-kid-ice-obit-20170713-story.html">the original</a> on April 13, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=2+Live+Crew%27s+%27Fresh+Kid+Ice%2C%27+pioneer+for+Asian+rappers%2C+dies+at+53&amp;rft.date=2017-07-13&amp;rft.aulast=Kennedy&amp;rft.aufirst=Gerrick+D.&amp;rft_id=https%3A%2F%2Fwww.latimes.com%2Fentertainment%2Fmusic%2Fla-et-ms-fresh-kid-ice-obit-20170713-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nbcnews.com/news/asian-america/asian-rappers-rise-some-must-face-questions-about-race-hip-n843416">"As Asian rappers rise, some must face questions about race and hip-hop"</a>. <i>NBC News</i>. February 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">February 26,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NBC+News&amp;rft.atitle=As+Asian+rappers+rise%2C+some+must+face+questions+about+race+and+hip-hop&amp;rft.date=2018-02&amp;rft_id=https%3A%2F%2Fwww.nbcnews.com%2Fnews%2Fasian-america%2Fasian-rappers-rise-some-must-face-questions-about-race-hip-n843416&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFStrouse2017" class="citation web cs1">Strouse, Chuck (July 13, 2017). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190414090618/https://www.miaminewtimes.com/music/chris-wong-won-alias-fresh-kid-ice-of-two-live-crew-dies-9492215">"Chris Wong Won, Member of Historic 2 Live Crew, Dies at 53"</a>. <i>Miami New Times</i>. Archived from <a rel="nofollow" class="external text" href="https://www.miaminewtimes.com/music/chris-wong-won-alias-fresh-kid-ice-of-two-live-crew-dies-9492215">the original</a> on April 14, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Miami+New+Times&amp;rft.atitle=Chris+Wong+Won%2C+Member+of+Historic+2+Live+Crew%2C+Dies+at+53&amp;rft.date=2017-07-13&amp;rft.aulast=Strouse&amp;rft.aufirst=Chuck&amp;rft_id=https%3A%2F%2Fwww.miaminewtimes.com%2Fmusic%2Fchris-wong-won-alias-fresh-kid-ice-of-two-live-crew-dies-9492215&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Bein2014-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bein2014_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBein2014" class="citation web cs1">Bein, Kat (November 3, 2014). <a rel="nofollow" class="external text" href="https://thump.vice.com/en_us/article/tootsie-rolls-hoochie-mamas-and-cars-that-go-boom-the-story-of-miami-bass">"Tootsie Rolls, 'Hoochie Mamas,' and Cars That Go Boom: The Story of Miami Bass"</a>. <i>thump.vice.com</i>. VICE<span class="reference-accessdate">. Retrieved <span class="nowrap">February 27,</span> 2017</span>. <q>Miami Bass, Booty Bass, Booty Music, or whatever you want to call it, changed the scenes of hip hop, dance music, and pop forever...The story of music's dirtiest genre reaches back to the '80s with roots set firmly in Afrika Bambaataa's elektro-funk...foundational artists Amos Larkins and Maggotron, both of whom have been credited as kicking the regional sound into motion. According to Stylus Magazine, Larkins and the Miami Bass conception can be traced back to the movie Knights of the City...Inspired by the humid and vice-ridden melting pot of cultures, ...MC A.D.E.'s "Bass Rock Express" gets the title for first hit of the genre, but it was 2 Live Crew who became the poster boys of movement.  Record store owners who sold the album were arrested and charged with crimes of obscenity, and 2 Live Crew members were arrested just for playing shows...US Appeals Court system ruled rap was protected by First Amendment rights...2 Live Crew made it safe for hip-hop as we know it to exist. The influence of the genre is far-reaching...Miami Bass remains not only one of the most ridiculous and enjoyable genres of music in recent memory but also one of the most important.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=thump.vice.com&amp;rft.atitle=Tootsie+Rolls%2C+%27Hoochie+Mamas%2C%27+and+Cars+That+Go+Boom%3A+The+Story+of+Miami+Bass&amp;rft.date=2014-11-03&amp;rft.aulast=Bein&amp;rft.aufirst=Kat&amp;rft_id=https%3A%2F%2Fthump.vice.com%2Fen_us%2Farticle%2Ftootsie-rolls-hoochie-mamas-and-cars-that-go-boom-the-story-of-miami-bass&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.riaa.com/gold-platinum/?tab_active=default-award&amp;ar=2+LIVE+CREW&amp;ti=THE+2+LIVE+CREW+IS+WHAT+WE+ARE">"Gold &amp; Platinum – RIAA"</a>. <i><a href="/wiki/RIAA" class="mw-redirect" title="RIAA">RIAA</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=RIAA&amp;rft.atitle=Gold+%26+Platinum+%E2%80%93+RIAA&amp;rft_id=https%3A%2F%2Fwww.riaa.com%2Fgold-platinum%2F%3Ftab_active%3Ddefault-award%26ar%3D2%2BLIVE%2BCREW%26ti%3DTHE%2B2%2BLIVE%2BCREW%2BIS%2BWHAT%2BWE%2BARE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAllah2018" class="citation web cs1">Allah, Sha Be (July 25, 2018). <a rel="nofollow" class="external text" href="http://thesource.com/2018/07/25/today-in-hip-hop-history-2-live-crew-dropped-their-debut-album-2-live-crew-is-what-we-are-32-years-ago/">"Today In Hip Hop History: 2 Live Crew Dropped Their Debut Album '2 Live Crew Is What We Are' 32 Years Ago"</a>. <i>The Source</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Source&amp;rft.atitle=Today+In+Hip+Hop+History%3A+2+Live+Crew+Dropped+Their+Debut+Album+%272+Live+Crew+Is+What+We+Are%27+32+Years+Ago&amp;rft.date=2018-07-25&amp;rft.aulast=Allah&amp;rft.aufirst=Sha+Be&amp;rft_id=http%3A%2F%2Fthesource.com%2F2018%2F07%2F25%2Ftoday-in-hip-hop-history-2-live-crew-dropped-their-debut-album-2-live-crew-is-what-we-are-32-years-ago%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.riaa.com/gold-platinum/?tab_active=default-award&amp;ar=2+LIVE+CREW&amp;ti=MOVE+SOMETHIN&#39;">"Gold &amp; Platinum – RIAA"</a>. <i><a href="/wiki/RIAA" class="mw-redirect" title="RIAA">RIAA</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=RIAA&amp;rft.atitle=Gold+%26+Platinum+%E2%80%93+RIAA&amp;rft_id=https%3A%2F%2Fwww.riaa.com%2Fgold-platinum%2F%3Ftab_active%3Ddefault-award%26ar%3D2%2BLIVE%2BCREW%26ti%3DMOVE%2BSOMETHIN%27&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-2-live-crew">"The 2 Live Crew Me So Horny Chart History"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=The+2+Live+Crew+Me+So+Horny+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><i>Skyywalker Records, Inc. v. Navarro</i>, 739 F.Supp. 578 (S.D. Fla. 1990).</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><i>Luke Records, Inc. v. Navarro</i>, 960 F.2d 134 (11th Cir. 1992).</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Deflem, Mathieu. 2020. <a rel="nofollow" class="external text" href="https://deflem.blogspot.com/2019/07/music-censorship-labeling.html">“Popular Culture and Social Control: The Moral Panic on Music Labeling.”</a> American Journal of Criminal Justice 45(1):2-24.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-2-live-crew">"The 2 Live Crew Banned In The U.S.A. Chart History"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=The+2+Live+Crew+Banned+In+The+U.S.A.+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSchonfeld" class="citation web cs1">Schonfeld, Zach. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413195141/https://www.newsweek.com/does-parental-advisory-label-still-matter-tipper-gore-375607">"Does the Parental Advisory Label Still Matter?"</a>. <i><a href="/wiki/Newsweek" title="Newsweek">Newsweek</a></i>. Archived from <a rel="nofollow" class="external text" href="http://europe.newsweek.com/does-parental-advisory-label-still-matter-tipper-gore-336329">the original</a> on April 13, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">July 24,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Newsweek&amp;rft.atitle=Does+the+Parental+Advisory+Label+Still+Matter%3F&amp;rft.aulast=Schonfeld&amp;rft.aufirst=Zach&amp;rft_id=http%3A%2F%2Feurope.newsweek.com%2Fdoes-parental-advisory-label-still-matter-tipper-gore-336329&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180511103724/https://www.billboard.com/music/the-2-live-crew/chart-history/r-b-hip-hop-albums/song/375159">"The 2 Live Crew Live In Concert Chart History"</a>. <i>Billboard</i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-2-live-crew/chart-history/r-b-hip-hop-albums/song/375159">the original</a> on May 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">April 3,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=The+2+Live+Crew+Live+In+Concert+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew%2Fchart-history%2Fr-b-hip-hop-albums%2Fsong%2F375159&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-2-live-crew">"The 2 Live Crew Pop That Coochie Chart History"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=The+2+Live+Crew+Pop+That+Coochie+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSchwartzHorn2017" class="citation web cs1">Schwartz, Zachary; Horn, Leslie (July 14, 2017). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190408040744/https://noisey.vice.com/en_us/article/wj84aw/remembering-fresh-kid-ice-a-pioneering-asian-rapper">"Remembering Fresh Kid Ice, a Pioneering Asian Rapper"</a>. <i>Noisey</i>. Archived from <a rel="nofollow" class="external text" href="https://noisey.vice.com/en_us/article/wj84aw/remembering-fresh-kid-ice-a-pioneering-asian-rapper">the original</a> on April 8, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">January 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Noisey&amp;rft.atitle=Remembering+Fresh+Kid+Ice%2C+a+Pioneering+Asian+Rapper&amp;rft.date=2017-07-14&amp;rft.aulast=Schwartz&amp;rft.aufirst=Zachary&amp;rft.au=Horn%2C+Leslie&amp;rft_id=https%3A%2F%2Fnoisey.vice.com%2Fen_us%2Farticle%2Fwj84aw%2Fremembering-fresh-kid-ice-a-pioneering-asian-rapper&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Playboy-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Playboy_21-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSchwartz2015" class="citation web cs1">Schwartz, Zachary (2015). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20151203044659/http://www.playboy.com/articles/asians-in-hip-hop-2-live-crew-it-g-ma">"A brief history of Asians in hip-hop, from 2 Live Crew to "It G Ma"<span class="cs1-kern-right"></span>"</a>. Playboy. Archived from <a rel="nofollow" class="external text" href="http://www.playboy.com/articles/asians-in-hip-hop-2-live-crew-it-g-ma">the original</a> on December 3, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">November 20,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+brief+history+of+Asians+in+hip-hop%2C+from+2+Live+Crew+to+%22It+G+Ma%22&amp;rft.pub=Playboy&amp;rft.date=2015&amp;rft.aulast=Schwartz&amp;rft.aufirst=Zachary&amp;rft_id=http%3A%2F%2Fwww.playboy.com%2Farticles%2Fasians-in-hip-hop-2-live-crew-it-g-ma&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20220411001516/https://www.billboard.com/artist/fresh-kid-ice/chart-history/tln/">"Heatseekers Albums Fresh Kid Ice Is The Chinaman"</a>. <i>Billboard</i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/artist/fresh-kid-ice/chart-history/tln/">the original</a> on April 11, 2022.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Heatseekers+Albums+Fresh+Kid+Ice+Is+The+Chinaman&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fartist%2Ffresh-kid-ice%2Fchart-history%2Ftln%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20220410231300/https://www.billboard.com/artist/fresh-kid-ice/chart-history/blp/">"Top R&amp;B/Hip-Hop Albums Fresh Kid Ice The Chinaman"</a>. <i>Billboard</i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/artist/fresh-kid-ice/chart-history/blp/">the original</a> on April 10, 2022.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Top+R%26B%2FHip-Hop+Albums+Fresh+Kid+Ice+The+Chinaman&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fartist%2Ffresh-kid-ice%2Fchart-history%2Fblp%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/the-2-live-crew-mn0000027116/biography">"The 2 Live Crew | Biography &amp; History"</a>. <i>AllMusic</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 20,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=The+2+Live+Crew+%7C+Biography+%26+History&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Fartist%2Fthe-2-live-crew-mn0000027116%2Fbiography&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRayam1994" class="citation journal cs1">Rayam, Sheila (February 25, 1994). <a rel="nofollow" class="external text" href="https://www.newspapers.com/clip/73906479/love-is-sweet-for-zhane-raunchy-for-2/">"Love is sweet for Zhane, raunchy for 2 Live Crew"</a>. <i>Democrat and Chronicle</i>: 23 &#8211; via Newspapers.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Democrat+and+Chronicle&amp;rft.atitle=Love+is+sweet+for+Zhane%2C+raunchy+for+2+Live+Crew&amp;rft.pages=23&amp;rft.date=1994-02-25&amp;rft.aulast=Rayam&amp;rft.aufirst=Sheila&amp;rft_id=https%3A%2F%2Fwww.newspapers.com%2Fclip%2F73906479%2Flove-is-sweet-for-zhane-raunchy-for-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180519171909/https://www.billboard.com/music/the-new-2-live-crew/chart-history/billboard-200/song/176917">"Billboard 200 Back At Your Ass For The Nine-4 The New 2 Live Crew"</a>. <i>Billboard</i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-new-2-live-crew/chart-history/billboard-200/song/176917">the original</a> on May 19, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Billboard+200+Back+At+Your+Ass+For+The+Nine-4+The+New+2+Live+Crew&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-new-2-live-crew%2Fchart-history%2Fbillboard-200%2Fsong%2F176917&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180513170922/https://www.billboard.com/music/the-new-2-live-crew/chart-history/r-b-hip-hop-albums/song/176917">"Top R&amp;B/Hip-Hop Albums Back At Your Ass For The Nine-4 The New 2 Live Crew"</a>. <i>Billboard</i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-new-2-live-crew/chart-history/r-b-hip-hop-albums/song/176917">the original</a> on May 13, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Top+R%26B%2FHip-Hop+Albums+Back+At+Your+Ass+For+The+Nine-4+The+New+2+Live+Crew&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-new-2-live-crew%2Fchart-history%2Fr-b-hip-hop-albums%2Fsong%2F176917&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-2-live-crew">"The 2 Live Crew Shake A Lil' Somethin'... Chart History"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=The+2+Live+Crew+Shake+A+Lil%27+Somethin%27...+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180511103612/https://www.billboard.com/music/the-2-live-crew/chart-history/rap-song/song/45664">"The 2 Live Crew Shake A Lil' Somethin'... Chart History"</a>. <i><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.com/music/the-2-live-crew/chart-history/rap-song/song/45664">the original</a> on May 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">November 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+Rap+Songs&amp;rft.atitle=The+2+Live+Crew+Shake+A+Lil%27+Somethin%27...+Chart+History&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew%2Fchart-history%2Frap-song%2Fsong%2F45664&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180511103624/https://www.billboard.com/music/the-2-live-crew/chart-history/rap-song/song/49192">"The 2 Live Crew Do The Damn Thing Chart History"</a>. <i><a href="/wiki/Hot_Rap_Singles" class="mw-redirect" title="Hot Rap Singles">Hot Rap Singles</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.com/music/the-2-live-crew/chart-history/rap-song/song/49192">the original</a> on May 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">November 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+Rap+Singles&amp;rft.atitle=The+2+Live+Crew+Do+The+Damn+Thing+Chart+History&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew%2Fchart-history%2Frap-song%2Fsong%2F49192&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180511103637/https://www.billboard.com/music/the-2-live-crew/chart-history/rap-song/song/53380">"The 2 Live Crew Be My Private Dancer Chart History"</a>. <i><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.com/music/the-2-live-crew/chart-history/rap-song/song/53380">the original</a> on May 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">November 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+Rap+Songs&amp;rft.atitle=The+2+Live+Crew+Be+My+Private+Dancer+Chart+History&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew%2Fchart-history%2Frap-song%2Fsong%2F53380&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWong_Won2015" class="citation book cs1">Wong Won, Christopher "Fresh Kid Ice" (July 20, 2015). "31. Martin got hoes (9498)". <i>"My Rise 2 Fame": The Tell All Autobiography of a Hip Hop Legend</i>. Iconic Three Media Group, LLC. pp.&#160;2948–2959. <a href="/wiki/ASIN_(identifier)" class="mw-redirect" title="ASIN (identifier)">ASIN</a>&#160;<a rel="nofollow" class="external text" href="https://www.amazon.com/dp/B010NY9W06">B010NY9W06</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=31.+Martin+got+hoes+%289498%29&amp;rft.btitle=%22My+Rise+2+Fame%22%3A+The+Tell+All+Autobiography+of+a+Hip+Hop+Legend&amp;rft.pages=2948-2959&amp;rft.pub=Iconic+Three+Media+Group%2C+LLC&amp;rft.date=2015-07-20&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB010NY9W06%23id-name%3DASIN&amp;rft.aulast=Wong+Won&amp;rft.aufirst=Christopher+%22Fresh+Kid+Ice%22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-:1_33-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180511103759/https://www.billboard.com/music/the-2-live-crew/chart-history/r-b-hip-hop-songs/song/55925">"The 2 Live Crew 2 Live Party Chart History"</a>. <i><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.com/music/the-2-live-crew/chart-history/r-b-hip-hop-songs/song/55925">the original</a> on May 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">October 29,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+R%26B%2FHip-Hop+Songs&amp;rft.atitle=The+2+Live+Crew+2+Live+Party+Chart+History&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew%2Fchart-history%2Fr-b-hip-hop-songs%2Fsong%2F55925&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:2-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-:2_34-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180511103648/https://www.billboard.com/music/the-2-live-crew/chart-history/rap-song/song/55925">"The 2 Live Crew 2 Live Party Chart History"</a>. <i><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.com/music/the-2-live-crew/chart-history/rap-song/song/55925">the original</a> on May 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">October 29,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+Rap+Songs&amp;rft.atitle=The+2+Live+Crew+2+Live+Party+Chart+History&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew%2Fchart-history%2Frap-song%2Fsong%2F55925&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:3-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-:3_35-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180511103811/https://www.billboard.com/music/the-2-live-crew/chart-history/r-b-hip-hop-songs/song/59370">"The 2 Live Crew The Real One Chart History"</a>. <i><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.com/music/the-2-live-crew/chart-history/r-b-hip-hop-songs/song/59370">the original</a> on May 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">October 29,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+R%26B%2FHip-Hop+Songs&amp;rft.atitle=The+2+Live+Crew+The+Real+One+Chart+History&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew%2Fchart-history%2Fr-b-hip-hop-songs%2Fsong%2F59370&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:4-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-:4_36-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180511103700/https://www.billboard.com/music/the-2-live-crew/chart-history/rap-song/song/59370">"The 2 Live Crew The Real One Chart History"</a>. <i><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.billboard.com/music/the-2-live-crew/chart-history/rap-song/song/59370">the original</a> on May 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">October 29,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+Rap+Songs&amp;rft.atitle=The+2+Live+Crew+The+Real+One+Chart+History&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-2-live-crew%2Fchart-history%2Frap-song%2Fsong%2F59370&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWong_Won2015" class="citation book cs1">Wong Won, Christopher "Fresh Kid Ice" (2015). "32. Road pimpin'<span class="cs1-kern-right"></span>". <i>"My Rise 2 Fame": The Tell All Autobiography of a Hip Hop Legend</i>. Iconic Three Media Group. p.&#160;3088. <a href="/wiki/ASIN_(identifier)" class="mw-redirect" title="ASIN (identifier)">ASIN</a>&#160;<a rel="nofollow" class="external text" href="https://www.amazon.com/dp/B010NY9W06">B010NY9W06</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=32.+Road+pimpin%27&amp;rft.btitle=%22My+Rise+2+Fame%22%3A+The+Tell+All+Autobiography+of+a+Hip+Hop+Legend&amp;rft.pages=3088&amp;rft.pub=Iconic+Three+Media+Group&amp;rft.date=2015&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB010NY9W06%23id-name%3DASIN&amp;rft.aulast=Wong+Won&amp;rft.aufirst=Christopher+%22Fresh+Kid+Ice%22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWong_Won2000" class="citation audio-visual cs1">Wong Won, Christopher "Fresh Kid Ice" (2000). <i>Still Nasty</i> (CD). Chinaman Records. HNA2001.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Still+Nasty&amp;rft.pub=Chinaman+Records&amp;rft.date=2000&amp;rft.aulast=Wong+Won&amp;rft.aufirst=Christopher+%22Fresh+Kid+Ice%22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWong_Won2003" class="citation audio-visual cs1">Wong Won, Christopher "Fresh Kid Ice" (2003). <i>Stop Playin</i> (CD). Chinaman Records. BHM2003.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stop+Playin&amp;rft.pub=Chinaman+Records&amp;rft.date=2003&amp;rft.aulast=Wong+Won&amp;rft.aufirst=Christopher+%22Fresh+Kid+Ice%22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWong_Won2004" class="citation audio-visual cs1">Wong Won, Christopher "Fresh Kid Ice" (2004). <i>Freaky Chinese</i> (CD). Chinaman Records. CMU 7189.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Freaky+Chinese&amp;rft.pub=Chinaman+Records&amp;rft.date=2004&amp;rft.aulast=Wong+Won&amp;rft.aufirst=Christopher+%22Fresh+Kid+Ice%22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKatel2014" class="citation news cs1">Katel, Jacob (September 2, 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413200028/https://www.miaminewtimes.com/music/2-live-crews-fresh-kid-ice-on-getting-arrested-just-cause-the-album-was-deemed-obscene-6483099">"2 Live Crew's Fresh Kid Ice on Getting Arrested "Just 'Cause the Album Was Deemed Obscene"<span class="cs1-kern-right"></span>"</a>. <i><a href="/wiki/Miami_New_Times" title="Miami New Times">Miami New Times</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.miaminewtimes.com/music/2-live-crews-fresh-kid-ice-on-getting-arrested-just-cause-the-album-was-deemed-obscene-6483099">the original</a> on April 13, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Miami+New+Times&amp;rft.atitle=2+Live+Crew%27s+Fresh+Kid+Ice+on+Getting+Arrested+%22Just+%27Cause+the+Album+Was+Deemed+Obscene%22&amp;rft.date=2014-09-02&amp;rft.aulast=Katel&amp;rft.aufirst=Jacob&amp;rft_id=http%3A%2F%2Fwww.miaminewtimes.com%2Fmusic%2F2-live-crews-fresh-kid-ice-on-getting-arrested-just-cause-the-album-was-deemed-obscene-6483099&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Wong_Won-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wong_Won_42-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWong_Won2015" class="citation book cs1">Wong Won, Christopher 'Fresh Kid Ice" (July 20, 2015). <a rel="nofollow" class="external text" href="https://www.amazon.ca/My-Rise-Fame-Autobiography-Legend-ebook/dp/B010NY9W06"><i>"My Rise 2 Fame": The Tell All Autobiography of a Hip Hop Legend</i></a>. Iconic Three Media Group, LLC.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%22My+Rise+2+Fame%22%3A+The+Tell+All+Autobiography+of+a+Hip+Hop+Legend&amp;rft.pub=Iconic+Three+Media+Group%2C+LLC&amp;rft.date=2015-07-20&amp;rft.aulast=Wong+Won&amp;rft.aufirst=Christopher+%27Fresh+Kid+Ice%22&amp;rft_id=https%3A%2F%2Fwww.amazon.ca%2FMy-Rise-Fame-Autobiography-Legend-ebook%2Fdp%2FB010NY9W06&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-43"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_43-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_43-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413201106/https://rollingout.com/2010/08/17/2-live-crew-returns-to-music-despite-stroke-and-midlife-crisis/">"2 Live Crew Returns to Music, Despite Stroke and Midlife Crisis"</a>. rollingout. August 17, 2010. Archived from <a rel="nofollow" class="external text" href="http://rollingout.com/2010/08/17/2-live-crew-returns-to-music-despite-stroke-and-midlife-crisis/">the original</a> on April 13, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">August 17,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2+Live+Crew+Returns+to+Music%2C+Despite+Stroke+and+Midlife+Crisis&amp;rft.pub=rollingout&amp;rft.date=2010-08-17&amp;rft_id=http%3A%2F%2Frollingout.com%2F2010%2F08%2F17%2F2-live-crew-returns-to-music-despite-stroke-and-midlife-crisis%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt4133036/?ref_=nm_flmg_slf_2">"2 Live Crew: Take It Off"</a>. <i>Imdb</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Imdb&amp;rft.atitle=2+Live+Crew%3A+Take+It+Off&amp;rft_id=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4133036%2F%3Fref_%3Dnm_flmg_slf_2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMcManus2014" class="citation web cs1">McManus, Brian (December 24, 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413202522/https://www.buzzfeed.com/brianmcmanus/premiere-flo-rida-gets-his-phil-jackson-on-in-gdfr-video">"Premiere: Flo Rida Gets His Phil Jackson On In "G.D.F.R." Video"</a>. <i>BuzzFeed</i>. Archived from <a rel="nofollow" class="external text" href="https://www.buzzfeed.com/brianmcmanus/premiere-flo-rida-gets-his-phil-jackson-on-in-gdfr-video">the original</a> on April 13, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BuzzFeed&amp;rft.atitle=Premiere%3A+Flo+Rida+Gets+His+Phil+Jackson+On+In+%22G.D.F.R.%22+Video&amp;rft.date=2014-12-24&amp;rft.aulast=McManus&amp;rft.aufirst=Brian&amp;rft_id=https%3A%2F%2Fwww.buzzfeed.com%2Fbrianmcmanus%2Fpremiere-flo-rida-gets-his-phil-jackson-on-in-gdfr-video&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKatel2014" class="citation web cs1">Katel, Jacob (August 28, 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190414063412/https://www.miaminewtimes.com/music/2-live-crews-brother-marquis-on-new-album-turn-me-on-and-three-decades-of-dirty-rap-6483056">"2 Live Crew's Brother Marquis on New Album, Turn Me On, and Three Decades of Dirty Rap"</a>. Miami New Times. Archived from <a rel="nofollow" class="external text" href="http://www.miaminewtimes.com/music/2-live-crews-brother-marquis-on-new-album-turn-me-on-and-three-decades-of-dirty-rap-6483056">the original</a> on April 14, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2+Live+Crew%27s+Brother+Marquis+on+New+Album%2C+Turn+Me+On%2C+and+Three+Decades+of+Dirty+Rap&amp;rft.pub=Miami+New+Times&amp;rft.date=2014-08-28&amp;rft.aulast=Katel&amp;rft.aufirst=Jacob&amp;rft_id=http%3A%2F%2Fwww.miaminewtimes.com%2Fmusic%2F2-live-crews-brother-marquis-on-new-album-turn-me-on-and-three-decades-of-dirty-rap-6483056&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413201905/https://www.miaminewtimes.com/slideshow/2-live-crew-reunion-at-liv-6281600/4">"2 Live Crew Reunion at LIV"</a>. New Miami Times. November 27, 2014. Archived from <a rel="nofollow" class="external text" href="http://www.miaminewtimes.com/slideshow/2-live-crew-reunion-at-liv-6281600">the original</a> on April 13, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2+Live+Crew+Reunion+at+LIV&amp;rft.pub=New+Miami+Times&amp;rft.date=2014-11-27&amp;rft_id=http%3A%2F%2Fwww.miaminewtimes.com%2Fslideshow%2F2-live-crew-reunion-at-liv-6281600&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://worldredeye.com/2015/08/2-live-crew-uncle-luke-at-liv-2/">"2 Live Crew &amp; Uncle Luke at LIV"</a>. World Red Eye. August 31, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2+Live+Crew+%26+Uncle+Luke+at+LIV&amp;rft.pub=World+Red+Eye&amp;rft.date=2015-08-31&amp;rft_id=http%3A%2F%2Fworldredeye.com%2F2015%2F08%2F2-live-crew-uncle-luke-at-liv-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413201608/http://www.soulofmiami.org/2015/07/20/fresh-kid-ice-from-2-live-crew-my-rise-2-fame-book-release-8415/">"Fresh Kid Ice from 2 Live Crew 'My Rise 2 Fame' Book Release 8/4/15"</a>. Soul of Miami. July 20, 2015. Archived from <a rel="nofollow" class="external text" href="http://www.soulofmiami.org/2015/07/20/fresh-kid-ice-from-2-live-crew-my-rise-2-fame-book-release-8415/">the original</a> on April 13, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fresh+Kid+Ice+from+2+Live+Crew+%27My+Rise+2+Fame%27+Book+Release+8%2F4%2F15&amp;rft.pub=Soul+of+Miami&amp;rft.date=2015-07-20&amp;rft_id=http%3A%2F%2Fwww.soulofmiami.org%2F2015%2F07%2F20%2Ffresh-kid-ice-from-2-live-crew-my-rise-2-fame-book-release-8415%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFLawshea2015" class="citation web cs1">Lawshea, Johanna (September 17, 2015). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413201259/http://www.miamibookfair.com/events_author/chris-wong-won/">"Author Christopher "Fresh Kid Ice" Wong Won"</a>. Miami Book Fair. Archived from <a rel="nofollow" class="external text" href="http://miamibookfair.com/events_author/chris-wong-won/">the original</a> on April 13, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Author+Christopher+%22Fresh+Kid+Ice%22+Wong+Won&amp;rft.pub=Miami+Book+Fair&amp;rft.date=2015-09-17&amp;rft.aulast=Lawshea&amp;rft.aufirst=Johanna&amp;rft_id=http%3A%2F%2Fmiamibookfair.com%2Fevents_author%2Fchris-wong-won%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlistein2017" class="citation magazine cs1">Blistein, Jon (July 13, 2017). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413193224/https://www.rollingstone.com/music/music-news/2-live-crew-co-founder-fresh-kid-ice-dead-at-53-198672/">"2 Live Crew Co-Founder Fresh Kid Ice Dead at 53"</a>. <i>Rolling Stone</i>. Archived from <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-news/2-live-crew-co-founder-fresh-kid-ice-dead-at-53-198672/">the original</a> on April 13, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=2+Live+Crew+Co-Founder+Fresh+Kid+Ice+Dead+at+53&amp;rft.date=2017-07-13&amp;rft.aulast=Blistein&amp;rft.aufirst=Jon&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2F2-live-crew-co-founder-fresh-kid-ice-dead-at-53-198672%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKennedy2017" class="citation web cs1">Kennedy, Gerrick D. (July 13, 2017). <a rel="nofollow" class="external text" href="http://www.latimes.com/entertainment/music/la-et-ms-fresh-kid-ice-obit-20170713-story.html">"2 Live Crew's 'Fresh Kid Ice,' pioneer for Asian rappers, dies at 53"</a>. <i>Los Angeles Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=2+Live+Crew%27s+%27Fresh+Kid+Ice%2C%27+pioneer+for+Asian+rappers%2C+dies+at+53&amp;rft.date=2017-07-13&amp;rft.aulast=Kennedy&amp;rft.aufirst=Gerrick+D.&amp;rft_id=http%3A%2F%2Fwww.latimes.com%2Fentertainment%2Fmusic%2Fla-et-ms-fresh-kid-ice-obit-20170713-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTricia_Escobedo2017" class="citation web cs1">Tricia Escobedo (July 13, 2017). <a rel="nofollow" class="external text" href="https://www.cnn.com/2017/07/13/entertainment/2-live-crew-fresh-kid-ice-dead/index.html">"2 Live Crew rapper 'Fresh Kid Ice' dies"</a>. <i>CNN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 8,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN&amp;rft.atitle=2+Live+Crew+rapper+%27Fresh+Kid+Ice%27+dies&amp;rft.date=2017-07-13&amp;rft.au=Tricia+Escobedo&amp;rft_id=https%3A%2F%2Fwww.cnn.com%2F2017%2F07%2F13%2Fentertainment%2F2-live-crew-fresh-kid-ice-dead%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSmith2017" class="citation web cs1">Smith, Trevor (December 19, 2017). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413200817/https://www.hotnewhiphop.com/2-live-crews-fresh-kid-ice-reportedly-died-of-cirrhosis-of-the-liver-news.41083.html">"2 Live Crew's Fresh Kid Ice Reportedly Died Of Cirrhosis Of The Liver"</a>. Hot New Hip Hop. Archived from <a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/2-live-crews-fresh-kid-ice-reportedly-died-of-cirrhosis-of-the-liver-news.41083.html">the original</a> on April 13, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2+Live+Crew%27s+Fresh+Kid+Ice+Reportedly+Died+Of+Cirrhosis+Of+The+Liver&amp;rft.pub=Hot+New+Hip+Hop&amp;rft.date=2017-12-19&amp;rft.aulast=Smith&amp;rft.aufirst=Trevor&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2F2-live-crews-fresh-kid-ice-reportedly-died-of-cirrhosis-of-the-liver-news.41083.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFOrfanides2017" class="citation web cs1">Orfanides, Effie (July 13, 2017). <a rel="nofollow" class="external text" href="https://heavy.com/entertainment/2017/07/fresh-kid-ice-dead-cause-of-death-age-how-did-he-die/">"Fresh Kid Ice of 2 Live Crew Dead at 53"</a>. <i>Heavy.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 25,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Heavy.com&amp;rft.atitle=Fresh+Kid+Ice+of+2+Live+Crew+Dead+at+53&amp;rft.date=2017-07-13&amp;rft.aulast=Orfanides&amp;rft.aufirst=Effie&amp;rft_id=https%3A%2F%2Fheavy.com%2Fentertainment%2F2017%2F07%2Ffresh-kid-ice-dead-cause-of-death-age-how-did-he-die%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://people.com/music/2-live-crew-fresh-kid-ice-dead/">"2 Live Crew's Fresh Kid Ice Dies at 53: 'We Lost a Legend'<span class="cs1-kern-right"></span>"</a>. <i>PEOPLE.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 25,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PEOPLE.com&amp;rft.atitle=2+Live+Crew%27s+Fresh+Kid+Ice+Dies+at+53%3A+%27We+Lost+a+Legend%27&amp;rft_id=https%3A%2F%2Fpeople.com%2Fmusic%2F2-live-crew-fresh-kid-ice-dead%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190413192907/https://www.vice.com/en_ca/article/exkdje/2-live-crew-fresh-kid-ice-interview">"How 2 Live Crew's Fresh Kid Ice Became a Worldwide Sex Symbol"</a>. <i>Vice.com</i>. July 22, 2016. Archived from <a rel="nofollow" class="external text" href="https://www.vice.com/en_ca/read/2-live-crew-fresh-kid-ice-interview">the original</a> on April 13, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vice.com&amp;rft.atitle=How+2+Live+Crew%27s+Fresh+Kid+Ice+Became+a+Worldwide+Sex+Symbol&amp;rft.date=2016-07-22&amp;rft_id=https%3A%2F%2Fwww.vice.com%2Fen_ca%2Fread%2F2-live-crew-fresh-kid-ice-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTracy_Kawalik2019" class="citation web cs1">Tracy Kawalik (March 29, 2019). <a rel="nofollow" class="external text" href="https://www.redbull.com/int-en/asian-hip-hop-scene-profile">"These are the artists changing the face of Asian hip-hop"</a>. <i>www.redbull.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.redbull.com&amp;rft.atitle=These+are+the+artists+changing+the+face+of+Asian+hip-hop&amp;rft.date=2019-03-29&amp;rft.au=Tracy+Kawalik&amp;rft_id=https%3A%2F%2Fwww.redbull.com%2Fint-en%2Fasian-hip-hop-scene-profile&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCzub2019" class="citation web cs1">Czub, Julia (March 29, 2019). <a rel="nofollow" class="external text" href="https://www.nme.com/blogs/88rising-meet-asian-artists-changing-music-industry-2468323">"88rising – meet the Asian rap collective changing the music industry"</a>. <i>NME</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NME&amp;rft.atitle=88rising+%E2%80%93+meet+the+Asian+rap+collective+changing+the+music+industry&amp;rft.date=2019-03-29&amp;rft.aulast=Czub&amp;rft.aufirst=Julia&amp;rft_id=https%3A%2F%2Fwww.nme.com%2Fblogs%2F88rising-meet-asian-artists-changing-music-industry-2468323&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190414085455/http://www.bbc.co.uk/newsbeat/article/40605640/pioneering-asian-american-rapper-fresh-kid-ice-from-2-live-crew-dies">"Pioneering Asian-American rapper Fresh Kid Ice from 2 Live Crew dies"</a>. <i>BBC Newsbeat</i>. July 14, 2017. Archived from <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/newsbeat/article/40605640/pioneering-asian-american-rapper-fresh-kid-ice-from-2-live-crew-dies">the original</a> on April 14, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Newsbeat&amp;rft.atitle=Pioneering+Asian-American+rapper+Fresh+Kid+Ice+from+2+Live+Crew+dies&amp;rft.date=2017-07-14&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnewsbeat%2Farticle%2F40605640%2Fpioneering-asian-american-rapper-fresh-kid-ice-from-2-live-crew-dies&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.facebook.com/realfreshkidice/">Fresh Kid Ice</a> on <a href="/wiki/Facebook" title="Facebook">Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm1111333/">Fresh Kid Ice</a> at <a href="/wiki/IMDb_(identifier)" class="mw-redirect" title="IMDb (identifier)">IMDb</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/193064">Fresh Kid Ice</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q17542265#P1953" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/artist/fresh-kid-ice/21807218">Fresh Kid Ice</a> on <a href="/wiki/ITunes" title="ITunes">iTunes</a></li></ul>
+<h2><span class="mw-headline" id="Works_cited">Works cited</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fresh_Kid_Ice&amp;action=edit&amp;section=18" title="Edit section: Works cited">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://www.amazon.ca/My-Rise-Fame-Autobiography-Legend-ebook/dp/B010NY9W06"><i>My Rise 2 Fame</i></a>. <a href="/wiki/Delaware" title="Delaware">Delaware</a>: Iconic Three Media Group. July 20, 2015. <a href="/wiki/ASIN_(identifier)" class="mw-redirect" title="ASIN (identifier)">ASIN</a>&#160;<a rel="nofollow" class="external text" href="https://www.amazon.com/dp/B010NY9W06">B010NY9W06</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=My+Rise+2+Fame&amp;rft.place=Delaware&amp;rft.pub=Iconic+Three+Media+Group&amp;rft.date=2015-07-20&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB010NY9W06%23id-name%3DASIN&amp;rft_id=https%3A%2F%2Fwww.amazon.ca%2FMy-Rise-Fame-Autobiography-Legend-ebook%2Fdp%2FB010NY9W06&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFresh+Kid+Ice" class="Z3988"></span></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q17542265#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q17542265#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q17542265#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/26872680">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/ea32057c-8ca4-44d7-a224-61fd89e7eb5f">MusicBrainz</a></span>
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/b393cca5-fb98-4545-b6ab-9a554e3c474d">2</a></span></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Fresh_Kid_Ice" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Fresh_Kid_Ice" title="Template:Fresh Kid Ice"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Fresh_Kid_Ice" title="Template talk:Fresh Kid Ice"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Fresh_Kid_Ice&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Fresh_Kid_Ice" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Fresh Kid Ice</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Chinaman_(album)" title="The Chinaman (album)">The Chinaman</a></i> (1992)</li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="2_Live_Crew" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:2_Live_Crew" title="Template:2 Live Crew"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2_Live_Crew" title="Template talk:2 Live Crew"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2_Live_Crew&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="2_Live_Crew" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/2_Live_Crew" title="2 Live Crew">2 Live Crew</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><a href="/wiki/Uncle_Luke" title="Uncle Luke">Luke</a></li>
+<li><a class="mw-selflink selflink">Fresh Kid Ice</a></li>
+<li><a href="/wiki/Mr._Mixx" title="Mr. Mixx">Mr. Mixx</a></li>
+<li><a href="/wiki/Brother_Marquis" title="Brother Marquis">Brother Marquis</a></li>
+<li>Amazing Vee</li>
+<li>Verb</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_2_Live_Crew_Is_What_We_Are" title="The 2 Live Crew Is What We Are">The 2 Live Crew Is What We Are</a></i></li>
+<li><i><a href="/wiki/Move_Somethin%27_(album)" title="Move Somethin&#39; (album)">Move Somethin'</a></i></li>
+<li><i><a href="/wiki/As_Nasty_as_They_Wanna_Be" title="As Nasty as They Wanna Be">As Nasty as They Wanna Be</a></i></li>
+<li><i><a href="/wiki/Banned_in_the_U.S.A." title="Banned in the U.S.A.">Banned in the U.S.A.</a></i></li>
+<li><i><a href="/wiki/Sports_Weekend:_As_Nasty_as_They_Wanna_Be,_Pt._2" class="mw-redirect" title="Sports Weekend: As Nasty as They Wanna Be, Pt. 2">Sports Weekend: As Nasty as They Wanna Be, Pt. 2</a></i></li>
+<li><i><a href="/wiki/Back_at_Your_Ass_for_the_Nine-4" title="Back at Your Ass for the Nine-4">Back at Your Ass for the Nine-4</a></i></li>
+<li><i><a href="/wiki/Shake_a_Lil%27_Somethin%27" title="Shake a Lil&#39; Somethin&#39;">Shake a Lil' Somethin'</a></i></li>
+<li><i><a href="/wiki/The_Real_One" title="The Real One">The Real One</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Live albums</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Live_in_Concert_(2_Live_Crew_album)" title="Live in Concert (2 Live Crew album)">Live in Concert</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilation albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Deal_with_This" title="Deal with This">Deal with This</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Me_So_Horny" title="Me So Horny">Me So Horny</a>"</li>
+<li>"<a href="/wiki/Banned_in_the_U.S.A._(song)" title="Banned in the U.S.A. (song)">Banned in the U.S.A.</a>"</li>
+<li>"<a href="/wiki/Do_the_Bart" title="Do the Bart">Do the Bart</a>"</li>
+<li>"<a href="/wiki/Pop_That_Coochie" title="Pop That Coochie">Pop That Coochie</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/2_Live_Crew_discography" title="2 Live Crew discography">Discography</a></li>
+<li><i><a href="/wiki/Campbell_v._Acuff-Rose_Music,_Inc." title="Campbell v. Acuff-Rose Music, Inc.">Campbell v. Acuff-Rose Music, Inc.</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2359
+Cached time: 20230919185138
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.726 seconds
+Real time usage: 0.845 seconds
+Preprocessor visited node count: 4545/1000000
+Post‐expand include size: 140575/2097152 bytes
+Template argument size: 3433/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 193397/5000000 bytes
+Lua time usage: 0.483/10.000 seconds
+Lua memory usage: 8589210/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  769.215      1 -total
+ 36.55%  281.180      1 Template:Reflist
+ 21.42%  164.771      1 Template:Infobox_musical_artist
+ 18.76%  144.328      1 Template:Infobox
+ 15.49%  119.182     28 Template:Cite_web
+ 10.88%   83.666      6 Template:Cite_book
+  7.98%   61.372      1 Template:Authority_control
+  7.87%   60.508      2 Template:Short_description
+  6.79%   52.202      1 Template:If_empty
+  6.57%   50.560      3 Template:Hlist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1360050-0!canonical and timestamp 20230919185137 and revision id 1172368833. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fresh_Kid_Ice&amp;oldid=1172368833">https://en.wikipedia.org/w/index.php?title=Fresh_Kid_Ice&amp;oldid=1172368833</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1964_births" title="Category:1964 births">1964 births</a></li><li><a href="/wiki/Category:2017_deaths" title="Category:2017 deaths">2017 deaths</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:American_musicians_of_Chinese_descent" title="Category:American musicians of Chinese descent">American musicians of Chinese descent</a></li><li><a href="/wiki/Category:American_rappers_of_Trinidad_and_Tobago_descent" title="Category:American rappers of Trinidad and Tobago descent">American rappers of Trinidad and Tobago descent</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Southern_hip_hop_musicians" title="Category:Southern hip hop musicians">Southern hip hop musicians</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:Samuel_J._Tilden_High_School_alumni" title="Category:Samuel J. Tilden High School alumni">Samuel J. Tilden High School alumni</a></li><li><a href="/wiki/Category:Musicians_from_Port_of_Spain" title="Category:Musicians from Port of Spain">Musicians from Port of Spain</a></li><li><a href="/wiki/Category:Rappers_from_Brooklyn" title="Category:Rappers from Brooklyn">Rappers from Brooklyn</a></li><li><a href="/wiki/Category:Rappers_from_California" title="Category:Rappers from California">Rappers from California</a></li><li><a href="/wiki/Category:Rappers_from_Miami" title="Category:Rappers from Miami">Rappers from Miami</a></li><li><a href="/wiki/Category:American_rappers_of_Asian_descent" title="Category:American rappers of Asian descent">American rappers of Asian descent</a></li><li><a href="/wiki/Category:United_States_Air_Force_airmen" title="Category:United States Air Force airmen">United States Air Force airmen</a></li><li><a href="/wiki/Category:Deaths_from_hepatitis" title="Category:Deaths from hepatitis">Deaths from hepatitis</a></li><li><a href="/wiki/Category:Deaths_from_cirrhosis" title="Category:Deaths from cirrhosis">Deaths from cirrhosis</a></li><li><a href="/wiki/Category:Record_producers_from_New_York_(state)" title="Category:Record producers from New York (state)">Record producers from New York (state)</a></li><li><a href="/wiki/Category:Alcohol-related_deaths_in_Florida" title="Category:Alcohol-related deaths in Florida">Alcohol-related deaths in Florida</a></li><li><a href="/wiki/Category:Trinidad_and_Tobago_people_of_Chinese_descent" title="Category:Trinidad and Tobago people of Chinese descent">Trinidad and Tobago people of Chinese descent</a></li><li><a href="/wiki/Category:Trinidad_and_Tobago_people_of_African_descent" title="Category:Trinidad and Tobago people of African descent">Trinidad and Tobago people of African descent</a></li><li><a href="/wiki/Category:Trinidad_and_Tobago_musicians" title="Category:Trinidad and Tobago musicians">Trinidad and Tobago musicians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_August_2021" title="Category:Use mdy dates from August 2021">Use mdy dates from August 2021</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Facebook_ID_different_from_Wikidata" title="Category:Facebook ID different from Wikidata">Facebook ID different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 26 August 2023, at 16:40<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Fresh_Kid_Ice&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2307","wgBackendResponseTime":105,"wgPageParseReport":{"limitreport":{"cputime":"0.726","walltime":"0.845","ppvisitednodes":{"value":4545,"limit":1000000},"postexpandincludesize":{"value":140575,"limit":2097152},"templateargumentsize":{"value":3433,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":193397,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  769.215      1 -total"," 36.55%  281.180      1 Template:Reflist"," 21.42%  164.771      1 Template:Infobox_musical_artist"," 18.76%  144.328      1 Template:Infobox"," 15.49%  119.182     28 Template:Cite_web"," 10.88%   83.666      6 Template:Cite_book","  7.98%   61.372      1 Template:Authority_control","  7.87%   60.508      2 Template:Short_description","  6.79%   52.202      1 Template:If_empty","  6.57%   50.560      3 Template:Hlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.483","limit":"10.000"},"limitreport-memusage":{"value":8589210,"limit":52428800}},"cachereport":{"origin":"mw2359","timestamp":"20230919185138","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Fresh Kid Ice","url":"https:\/\/en.wikipedia.org\/wiki\/Fresh_Kid_Ice","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17542265","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17542265","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-04T00:06:41Z","dateModified":"2023-08-26T16:40:27Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/6\/6f\/Fresh_Kid_Ice_1990s.jpeg","headline":"American rapper"}</script>
+</body>
+</html>

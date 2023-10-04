@@ -1,0 +1,1106 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Punch (rapper) - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"d5942af7-619c-41a0-8c6b-5f0771178478","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Punch_(rapper)","wgTitle":"Punch (rapper)","wgCurRevisionId":1161011257,"wgRevisionId":1161011257,"wgArticleId":53816380,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Short description matches Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","Articles with MusicBrainz identifiers","Year of birth missing (living people)","African-American male rappers","American male rappers","Living people","People from Carson, California","Rappers from California","West Coast hip hop musicians","American music industry executives","African-American songwriters","Songwriters from California","Top Dawg Entertainment artists"
+,"21st-century American rappers","21st-century American male musicians","21st-century African-American musicians","American male songwriters"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Punch_(rapper)","wgRelevantArticleId":53816380,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage",
+"wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q30122370","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc",
+"skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Punch (rapper) - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Punch_(rapper)">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Punch_(rapper)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Punch_(rapper)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Punch_rapper rootpage-Punch_rapper skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Punch+%28rapper%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Punch+%28rapper%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Punch+%28rapper%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Punch+%28rapper%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Career</div>
+		</a>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Mixtapes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Mixtapes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Mixtapes</div>
+			</a>
+			
+			<ul id="toc-Mixtapes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Singles</div>
+			</a>
+			
+			<ul id="toc-Singles-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Guest_appearances"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Guest_appearances">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>Guest appearances</div>
+			</a>
+			
+			<ul id="toc-Guest_appearances-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Punch (rapper)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 1 language"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-1" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">1 language</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Punch_(rapper)" title="Punch (rapper) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q30122370#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Punch_(rapper)" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Punch_(rapper)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Punch_(rapper)"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Punch_(rapper)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Punch_(rapper)&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Punch_(rapper)"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Punch_(rapper)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Punch_(rapper)&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Punch_(rapper)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Punch_(rapper)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Punch_(rapper)&amp;oldid=1161011257" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Punch_(rapper)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Punch_%28rapper%29&amp;id=1161011257&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q30122370" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Punch_%28rapper%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Punch_(rapper)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Punch</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Terrence Louis Henderson Jr.</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname">Punchino</td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Carson,_California" title="Carson, California">Carson</a>, <a href="/wiki/California" title="California">California</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>Rapper</li><li>songwriter</li><li>record producer</li><li>record executive</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Instrument(s)</th><td class="infobox-data note">Vocals</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">2004–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><a href="/wiki/Top_Dawg_Entertainment" title="Top Dawg Entertainment">Top Dawg</a></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Terrence Louis Henderson Jr.</b>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> better known by his <a href="/wiki/Stage_name" title="Stage name">stage name</a> <b>Punch</b>, is an American rapper, songwriter, record producer and record executive from <a href="/wiki/Carson,_California" title="Carson, California">Carson, California</a>. He is best known for being the <a href="/wiki/President_(corporate_title)" title="President (corporate title)">president</a> of independent record label <a href="/wiki/Top_Dawg_Entertainment" title="Top Dawg Entertainment">Top Dawg Entertainment</a> (TDE).<sup id="cite_ref-Tardio_2016_2-0" class="reference"><a href="#cite_note-Tardio_2016-2">&#91;2&#93;</a></sup><sup id="cite_ref-Ivey_2017_3-0" class="reference"><a href="#cite_note-Ivey_2017-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> He has also executive produced several successful albums, including <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a>'s <i><a href="/wiki/Section.80" title="Section.80">Section.80</a></i><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> (2011), <a href="/wiki/Schoolboy_Q" title="Schoolboy Q">Schoolboy Q</a>'s <i><a href="/wiki/Habits_%26_Contradictions" title="Habits &amp; Contradictions">Habits &amp; Contradictions</a></i><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> (2012), <a href="/wiki/Terrace_Martin" title="Terrace Martin">Terrace Martin</a>'s <i><a href="/wiki/3ChordFold" title="3ChordFold">3ChordFold</a></i>,<sup id="cite_ref-3ch_7-0" class="reference"><a href="#cite_note-3ch-7">&#91;7&#93;</a></sup> (2013) and more. Aside from his solo musical career, Punch is a member of <a href="/wiki/Hip_hop_collective" class="mw-redirect" title="Hip hop collective">hip hop collective</a> A Room Full of Mirrors, alongside fellow rappers Daylyt, Nick Grant, <a href="/wiki/Willie_B_(producer)" title="Willie B (producer)">The Ichiban Don</a>, Lyric Michelle, Hari, and more.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Punch_(rapper)&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Terrence Henderson founded the Carson, California-based independent record label <a href="/wiki/Top_Dawg_Entertainment" title="Top Dawg Entertainment">Top Dawg Entertainment</a> (TDE) in 2004, with Anthony "Top Dawg" Tiffith and <a href="/wiki/Dave_Free" title="Dave Free">Dave "Miyatola" Free</a>. He then began his musical career in 2007 under the <a href="/wiki/Moniker" class="mw-redirect" title="Moniker">moniker</a> Punch. In March 2016, Punch revealed plans to release his debut <a href="/wiki/Studio_album" class="mw-redirect" title="Studio album">studio album</a>.<sup id="cite_ref-DA_10-0" class="reference"><a href="#cite_note-DA-10">&#91;10&#93;</a></sup> Punch told <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> that he plans on doing "a project for sure", even though his artistic process has usually come in spurts: "I think I’m going to finally finish it because I write a lot and I record every so often. I think I’m just gonna go ahead and knock it out at this point."<sup id="cite_ref-DA_10-1" class="reference"><a href="#cite_note-DA-10">&#91;10&#93;</a></sup> On December 5, 2016, Punch released a single titled "Gold".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Punch_(rapper)&amp;action=edit&amp;section=2" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Punch_(rapper)&amp;action=edit&amp;section=3" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of studio albums, with year released
+</caption>
+<tbody><tr>
+<th scope="col" style="width:11em;">Title
+</th>
+<th scope="col" style="width:16em;">Album details
+</th></tr>
+<tr>
+<th scope="row">TBA<sup id="cite_ref-Tardio_2016_2-1" class="reference"><a href="#cite_note-Tardio_2016-2">&#91;2&#93;</a></sup>
+</th>
+<td>
+<ul><li>Scheduled: TBA<sup id="cite_ref-Weinstein_2016_12-0" class="reference"><a href="#cite_note-Weinstein_2016-12">&#91;12&#93;</a></sup></li>
+<li>Label: <a href="/wiki/Top_Dawg_Entertainment" title="Top Dawg Entertainment">Top Dawg Entertainment</a></li>
+<li>Formats: <a href="/wiki/Compact_disc" title="Compact disc">CD</a>, <a href="/wiki/Music_download" title="Music download">Digital download</a></li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Punch_(rapper)&amp;action=edit&amp;section=4" title="Edit section: Mixtapes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of mixtapes, with year released
+</caption>
+<tbody><tr>
+<th scope="col" style="width:11em;">Title
+</th>
+<th scope="col" style="width:16em;">Album details
+</th></tr>
+<tr>
+<th scope="row"><i>Do It Nigga Squad, Volume 1</i><br /><span style="font-size:85%;">(with Top Dawg Entertainment)</span>
+</th>
+<td>
+<ul><li>Released: May 10, 2008<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li>Label: Top Dawg</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+<tr>
+<th scope="row"><i>All Rize to tha Top</i><br /><span style="font-size:85%;">(with Top Dawg Entertainment)</span>
+</th>
+<td>
+<ul><li>Released: April&#160;9,&#160;2009<span style="display:none">&#160;(<span class="bday dtstart published updated">2009-04-09</span>)</span><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li>
+<li>Label: Top Dawg</li>
+<li>Formats: Digital download</li></ul>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Punch_(rapper)&amp;action=edit&amp;section=5" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of singles as lead artist, with showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" style="width:19em;">Title
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Album
+</th></tr>
+<tr>
+<th scope="row">"Project Window"<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</th>
+<td>2011
+</td>
+<td rowspan="12" data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">non-album singles
+</td></tr>
+<tr>
+<th scope="row">"A Project Mind"<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><br /><span style="font-size:85%;">(featuring <a href="/wiki/Jay_Rock" title="Jay Rock">Jay Rock</a> and <a href="/wiki/BJ_the_Chicago_Kid" title="BJ the Chicago Kid">BJ the Chicago Kid</a>)</span>
+</th>
+<td rowspan="5">2014
+</td></tr>
+<tr>
+<th scope="row">"1965"<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Prelude"<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"My Darling Nikki (Interlude)"<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"25"<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><br /><span style="font-size:85%;">(featuring <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a>)</span>
+</th></tr>
+<tr>
+<th scope="row">"Fear"<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</th>
+<td rowspan="3">2015
+</td></tr>
+<tr>
+<th scope="row">"Uninspired"<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Kings"<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Gone"<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</th>
+<td rowspan="3">2016
+</td></tr>
+<tr>
+<th scope="row">"40yrs"<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Gold"<sup id="cite_ref-C.M._2016_26-0" class="reference"><a href="#cite_note-C.M._2016-26">&#91;26&#93;</a></sup>
+</th></tr></tbody></table>
+<p>| - Pay No Attention To The Man Behind The Curtains
+</p>
+<h3><span class="mw-headline" id="Guest_appearances">Guest appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Punch_(rapper)&amp;action=edit&amp;section=6" title="Edit section: Guest appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<caption>List of non-single guest appearances, with other performing artists, showing year released and album name
+</caption>
+<tbody><tr>
+<th scope="col" style="width:16em;">Title
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Artist(s)
+</th>
+<th scope="col">Album
+</th></tr>
+<tr>
+<th scope="row">"Blow Them Horns"<sup id="cite_ref-td_27-0" class="reference"><a href="#cite_note-td-27">&#91;27&#93;</a></sup>
+</th>
+<td rowspan="8">2007
+</td>
+<td rowspan="3"><a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">K.Dot</a>
+</td>
+<td rowspan="4"><i>Training Day</i>
+</td></tr>
+<tr>
+<th scope="row">"Prototype"<sup id="cite_ref-td_27-1" class="reference"><a href="#cite_note-td-27">&#91;27&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Dreams"<sup id="cite_ref-td_27-2" class="reference"><a href="#cite_note-td-27">&#91;27&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Imagine"<sup id="cite_ref-td_27-3" class="reference"><a href="#cite_note-td-27">&#91;27&#93;</a></sup>
+</th>
+<td>K.Dot, <a href="/wiki/Jay_Rock" title="Jay Rock">Jay Rock</a>
+</td></tr>
+<tr>
+<th scope="row">"J Dilla Freestyle"<sup id="cite_ref-wr_28-0" class="reference"><a href="#cite_note-wr-28">&#91;28&#93;</a></sup>
+</th>
+<td rowspan="2">Jay Rock, K.Dot
+</td>
+<td rowspan="2"><i>Watts' Finest Vol. III: The Watts Riot</i>
+</td></tr>
+<tr>
+<th scope="row">"Imagine"<sup id="cite_ref-wr_28-1" class="reference"><a href="#cite_note-wr-28">&#91;28&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Kick in the Door"<sup id="cite_ref-nstn_29-0" class="reference"><a href="#cite_note-nstn-29">&#91;29&#93;</a></sup>
+</th>
+<td rowspan="2">K.Dot, Jay Rock
+</td>
+<td rowspan="2"><i>No Sleep Till NYC</i>
+</td></tr>
+<tr>
+<th scope="row">"Half Way Crooks"<sup id="cite_ref-nstn_29-1" class="reference"><a href="#cite_note-nstn-29">&#91;29&#93;</a></sup>
+</th></tr>
+<tr>
+<th scope="row">"Try Me"<sup id="cite_ref-sbth_30-0" class="reference"><a href="#cite_note-sbth-30">&#91;30&#93;</a></sup>
+</th>
+<td rowspan="2">2008
+</td>
+<td><a href="/wiki/Schoolboy_Q" title="Schoolboy Q">ScHoolboy Q</a>, <a href="/wiki/Ab-Soul" title="Ab-Soul">Ab-Soul</a>, Jay Rock, K.Dot
+</td>
+<td rowspan="2"><i>ScHoolboy Turned Hustla</i>
+</td></tr>
+<tr>
+<th scope="row">"Menace to Society"<sup id="cite_ref-sbth_30-1" class="reference"><a href="#cite_note-sbth-30">&#91;30&#93;</a></sup>
+</th>
+<td>ScHoolboy Q
+</td></tr>
+<tr>
+<th scope="row">"Me &amp; Ms. Pain"<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</th>
+<td rowspan="6">2009
+</td>
+<td>Ab-Soul
+</td>
+<td><i>Longterm</i>
+</td></tr>
+<tr>
+<th scope="row">"West Coast Wu Tang"
+</th>
+<td>K.Dot, Ab-Soul
+</td>
+<td rowspan="3"><i><a href="/wiki/C4_(mixtape)" title="C4 (mixtape)">C4</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Phone Home"
+</th>
+<td rowspan="2">K.Dot
+</td></tr>
+<tr>
+<th scope="row">"Shot Down"
+</th></tr>
+<tr>
+<th scope="row">"Feelin' Myself"<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</th>
+<td>ScHoolboy Q
+</td>
+<td><i>Gangsta &amp; Soul</i>
+</td></tr>
+<tr>
+<th scope="row">"Faith"<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</th>
+<td><a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a>, <a href="/wiki/BJ_the_Chicago_Kid" title="BJ the Chicago Kid">BJ the Chicago Kid</a>
+</td>
+<td><i><a href="/wiki/The_Kendrick_Lamar_EP" class="mw-redirect" title="The Kendrick Lamar EP">The Kendrick Lamar EP</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Can Anybody Hear Me?"<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</th>
+<td>2010
+</td>
+<td>Ab-Soul
+</td>
+<td><i>Longterm 2: Lifestyles of the Broke and Almost Famous</i>
+</td></tr>
+<tr>
+<th scope="row">"I'm Good"<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</th>
+<td rowspan="4">2011
+</td>
+<td>ScHoolboy Q, BJ the Chicago Kid
+</td>
+<td><i><a href="/wiki/Setbacks_(album)" title="Setbacks (album)">Setbacks</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Time Is of the Essense"<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</th>
+<td>Ab-Soul
+</td>
+<td><i><a href="/wiki/Longterm_Mentality" title="Longterm Mentality">Longterm Mentality</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Cruz Control"<sup id="cite_ref-lh2_37-0" class="reference"><a href="#cite_note-lh2-37">&#91;37&#93;</a></sup>
+</th>
+<td><a href="/wiki/Terrace_Martin" title="Terrace Martin">Terrace Martin</a>, Ill Camille
+</td>
+<td rowspan="2"><i>Locke High 2</i>
+</td></tr>
+<tr>
+<th scope="row">"Lithium"<sup id="cite_ref-lh2_37-1" class="reference"><a href="#cite_note-lh2-37">&#91;37&#93;</a></sup>
+</th>
+<td>Terrace Martin, AB, Brittany Barber
+</td></tr>
+<tr>
+<th scope="row">"How I Live"<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</th>
+<td rowspan="3">2012
+</td>
+<td>Terrace Martin, <a href="/wiki/Dom_Kennedy" title="Dom Kennedy">Dom Kennedy</a>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Beautiful Death"<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</th>
+<td>Ab-Soul, <a href="/wiki/Ash_Riser" title="Ash Riser">Ashtrobot</a>
+</td>
+<td><i><a href="/wiki/Control_System" title="Control System">Control System</a></i>
+</td></tr>
+<tr>
+<th scope="row">"It's Real"<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</th>
+<td>Terrace Martin
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Gone"<sup id="cite_ref-3ch_7-1" class="reference"><a href="#cite_note-3ch-7">&#91;7&#93;</a></sup>
+</th>
+<td>2013
+</td>
+<td>Terrace Martin, <a href="/wiki/Robert_Glasper" title="Robert Glasper">Robert Glasper</a>, Tiffany Gouche
+</td>
+<td><i><a href="/wiki/3ChordFold" title="3ChordFold">3ChordFold</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Dub Sac"<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</th>
+<td rowspan="2">2014
+</td>
+<td>Ab-Soul, A-Mack, <a href="/wiki/SZA_(singer)" class="mw-redirect" title="SZA (singer)">SZA</a>
+</td>
+<td><i><a href="/wiki/These_Days..._(album)" title="These Days... (album)">These Days...</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Fly Shit"<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup>
+</th>
+<td>Boaz
+</td>
+<td><i>Real Name, No Gimmicks</i>
+</td></tr>
+<tr>
+<th scope="row">"Cali Get the Money"<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>
+</th>
+<td rowspan="3">2015
+</td>
+<td><a href="/wiki/Dubb_Union" title="Dubb Union">Bad Lucc</a>
+</td>
+<td><i>Breathe</i>
+</td></tr>
+<tr>
+<th scope="row">"It's True" (Remix)<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup>
+</th>
+<td>BJ the Chicago Kid, Kendrick Lamar, ScHoolboy Q
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td></tr>
+<tr>
+<th scope="row">"Top of the Diamond"<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
+</th>
+<td>Bad Lucc, <a href="/wiki/Problem_(rapper)" title="Problem (rapper)">Problem</a>, Ab-Soul
+</td>
+<td><i>Diamond Lane America</i>
+</td></tr>
+<tr>
+<th scope="row">"untitled 05 | 09.21.2014"<sup id="cite_ref-Tardio_2016billboard_46-0" class="reference"><a href="#cite_note-Tardio_2016billboard-46">&#91;46&#93;</a></sup>
+</th>
+<td rowspan="2">2016
+</td>
+<td>Kendrick Lamar, <a href="/wiki/Anna_Wise" title="Anna Wise">Anna Wise</a>, <a href="/wiki/Bilal_(American_singer)" title="Bilal (American singer)">Bilal</a>, Jay Rock, SZA
+</td>
+<td><i><a href="/wiki/Untitled_Unmastered" title="Untitled Unmastered">untitled unmastered.</a></i>
+</td></tr>
+<tr>
+<th scope="row">"Lonely Soul"<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup>
+</th>
+<td>Ab-Soul
+</td>
+<td><i><a href="/wiki/Do_What_Thou_Wilt." title="Do What Thou Wilt.">Do What Thou Wilt.</a></i>
+</td></tr>
+<tr>
+<th scope="row">"B.P.B."
+</th>
+<td>2019
+</td>
+<td>Daylyt, <a href="/wiki/Willie_B_(producer)" title="Willie B (producer)">The Ichiban Don</a>
+</td>
+<td><i>Heroes</i>
+</td></tr>
+<tr>
+<th scope="row">"First Responders"
+</th>
+<td rowspan="1">2020
+</td>
+<td><a href="/wiki/Kamasi_Washington" title="Kamasi Washington">Kamasi Washington</a>, Robert Glasper, Terrace Martin, <a href="/wiki/9th_Wonder" title="9th Wonder">9th Wonder</a>, <a href="/wiki/Bilal_(American_singer)" title="Bilal (American singer)">Bilal</a>
+</td>
+<td><i><a href="/wiki/Dinner_Party_(EP)#Dinner_Party:_Dessert" title="Dinner Party (EP)">Dinner Party: Dessert</a></i>
+</td></tr>
+<tr>
+<th scope="row">"20 Million Woolongs"<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup>
+</th>
+<td>2021
+</td>
+<td>Doc D
+</td>
+<td><i>Planetory Destruction</i>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Punch_(rapper)&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ghostarchive.org/iarchive/instagram/iamstillpunch/2049954060015862826">"Punch on Instagram: "Michael Anthony Jones and Terrence Louis Henderson Jr. Or Mike Mike and Punchino. Lol. Circa 1994"<span class="cs1-kern-right"></span>"</a>. <i>Instagram</i>. Archived from <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://www.instagram.com/p/Bxy5ltBHYQq/">the original</a></span> on 2021-12-25<span class="reference-accessdate">. Retrieved <span class="nowrap">May 25,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Instagram&amp;rft.atitle=Punch+on+Instagram%3A+%22Michael+Anthony+Jones+and+Terrence+Louis+Henderson+Jr.+Or+Mike+Mike+and+Punchino.+Lol.+Circa+1994%22&amp;rft_id=https%3A%2F%2Fwww.instagram.com%2Fp%2FBxy5ltBHYQq%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Tardio_2016-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tardio_2016_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tardio_2016_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTardio2016" class="citation magazine cs1">Tardio, Andres (March 7, 2016). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/hip-hop/6898399/tde-punch-debut-album-interview">"TDE's Punch Discusses His Debut Album"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=TDE%27s+Punch+Discusses+His+Debut+Album&amp;rft.date=2016-03-07&amp;rft.aulast=Tardio&amp;rft.aufirst=Andres&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F6898399%2Ftde-punch-debut-album-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Ivey_2017-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ivey_2017_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFIvey2017" class="citation web cs1">Ivey, Justin (February 13, 2017). <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2017/02/kendrick-lamar-is-upset-beyonce-didnt-win-album-of-the-year-at-2017-grammy-awards/">"Kendrick Lamar Is Upset Beyonce Didn't Win Album of the Year at 2017 Grammy Awards"</a>. <i>XXL Mag</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=Kendrick+Lamar+Is+Upset+Beyonce+Didn%27t+Win+Album+of+the+Year+at+2017+Grammy+Awards&amp;rft.date=2017-02-13&amp;rft.aulast=Ivey&amp;rft.aufirst=Justin&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2017%2F02%2Fkendrick-lamar-is-upset-beyonce-didnt-win-album-of-the-year-at-2017-grammy-awards%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://radio.com/2015/10/27/tdes-punch-reveals-kendrick-lamars-tupac-connection-and-more/">"TDE's Punch Reveals Kendrick Lamar's Tupac Connection and More"</a>. <i>radio.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=radio.com&amp;rft.atitle=TDE%27s+Punch+Reveals+Kendrick+Lamar%27s+Tupac+Connection+and+More&amp;rft_id=http%3A%2F%2Fradio.com%2F2015%2F10%2F27%2Ftdes-punch-reveals-kendrick-lamars-tupac-connection-and-more%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://rateyourmusic.com/release/album/kendrick_lamar/section_80/">"Section.80 by Kendrick Lamar (Album, West Coast Hip Hop): Reviews, Ratings, Credits, Song list"</a>. <a href="/wiki/Rate_Your_Music" title="Rate Your Music">Rate Your Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Section.80+by+Kendrick+Lamar+%28Album%2C+West+Coast+Hip+Hop%29%3A+Reviews%2C+Ratings%2C+Credits%2C+Song+list&amp;rft.pub=Rate+Your+Music&amp;rft_id=http%3A%2F%2Frateyourmusic.com%2Frelease%2Falbum%2Fkendrick_lamar%2Fsection_80%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.discogs.com/Schoolboy-Q-Habits-Contradictions/release/3630258">"Schoolboy Q - Habits &amp; Contradictions (CDr, Album)"</a>. <i>Discogs.com</i>. 2015-01-08<span class="reference-accessdate">. Retrieved <span class="nowrap">July 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Discogs.com&amp;rft.atitle=Schoolboy+Q+-+Habits+%26+Contradictions+%28CDr%2C+Album%29&amp;rft.date=2015-01-08&amp;rft_id=https%3A%2F%2Fwww.discogs.com%2FSchoolboy-Q-Habits-Contradictions%2Frelease%2F3630258&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3ch-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-3ch_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-3ch_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/3chordfold-mw0002558085/credits">"3chordfold - Terrace Martin &#124; Credits"</a>. <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a>. 2013-08-13<span class="reference-accessdate">. Retrieved <span class="nowrap">July 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=3chordfold+-+Terrace+Martin+%26%23124%3B+Credits&amp;rft.pub=AllMusic&amp;rft.date=2013-08-13&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2F3chordfold-mw0002558085%2Fcredits&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/punch-daylyt-and-more-spit-bars-on-a-room-full-of-mirrors-rawar-new-song.1991030.html">"Punch, Daylyt &amp; More Spit Bars on a Room Full of Mirrors' "RAWAR"<span class="cs1-kern-right"></span>"</a>. <i>HNHH</i>. 21 April 2021.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HNHH&amp;rft.atitle=Punch%2C+Daylyt+%26+More+Spit+Bars+on+a+Room+Full+of+Mirrors%27+%22RAWAR%22&amp;rft.date=2021-04-21&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fpunch-daylyt-and-more-spit-bars-on-a-room-full-of-mirrors-rawar-new-song.1991030.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/rb-hip-hop/punch-a-room-full-of-mirrors-interview-1235003367/amp/">"TDE's Punch Introduces New Collective a Room Full of Mirrors, Announces Visual EP Release Date"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. 29 November 2021.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=TDE%27s+Punch+Introduces+New+Collective+a+Room+Full+of+Mirrors%2C+Announces+Visual+EP+Release+Date&amp;rft.date=2021-11-29&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Frb-hip-hop%2Fpunch-a-room-full-of-mirrors-interview-1235003367%2Famp%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-DA-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-DA_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DA_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/tde-co-president-punch-plans-to-finally-release-an-album-news.20540.html">"TDE Co-President Punch Plans To Finally Release An Album"</a>. <i>HotNewHipHop</i>. 8 March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">May 25,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HotNewHipHop&amp;rft.atitle=TDE+Co-President+Punch+Plans+To+Finally+Release+An+Album&amp;rft.date=2016-03-08&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Ftde-co-president-punch-plans-to-finally-release-an-album-news.20540.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hiphopdx.com/singles/id.35779/title.tde-co-president-punch-digs-deep-for-gold">"TDE Co-President Punch Drops "Punch" Single"</a>. <a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a>. 2016-12-05<span class="reference-accessdate">. Retrieved <span class="nowrap">July 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TDE+Co-President+Punch+Drops+%22Punch%22+Single&amp;rft.pub=HipHopDX&amp;rft.date=2016-12-05&amp;rft_id=http%3A%2F%2Fhiphopdx.com%2Fsingles%2Fid.35779%2Ftitle.tde-co-president-punch-digs-deep-for-gold&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Weinstein_2016-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Weinstein_2016_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWeinstein2016" class="citation web cs1">Weinstein, Max (March 9, 2016). <a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2016/03/tde-punch-album/">"TDE's Punch Is Ready to Release His Album"</a>. <i>XXL Mag</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=TDE%27s+Punch+Is+Ready+to+Release+His+Album&amp;rft.date=2016-03-09&amp;rft.aulast=Weinstein&amp;rft.aufirst=Max&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F03%2Ftde-punch-album%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Jay-Rock-Do-It-Nigga-Squad-mixtape.14554.html">"Jay Rock, Top Dawg Ent - Do It Nigga Squad Hosted by DJ Ill Will, DJ Dave Mixtape - Stream &amp; Download"</a>. <i>Datpiff.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Datpiff.com&amp;rft.atitle=Jay+Rock%2C+Top+Dawg+Ent+-+Do+It+Nigga+Squad+Hosted+by+DJ+Ill+Will%2C+DJ+Dave+Mixtape+-+Stream+%26+Download&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FJay-Rock-Do-It-Nigga-Squad-mixtape.14554.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.discogs.com/release/15638600-Various-TDE-All-Rize-To-Tha-Top">"Various - TDE - All Rize to Tha Top"</a>. <i><a href="/wiki/Discogs" title="Discogs">Discogs</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Discogs&amp;rft.atitle=Various+-+TDE+-+All+Rize+to+Tha+Top&amp;rft_id=https%3A%2F%2Fwww.discogs.com%2Frelease%2F15638600-Various-TDE-All-Rize-To-Tha-Top&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/punch-tde-project-window-song.202096.html">"Punch - Project Window Feat. Kendrick Lamar &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2011-02-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Punch+-+Project+Window+Feat.+Kendrick+Lamar+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2011-02-23&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fpunch-tde-project-window-song.202096.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/1880197/have-you-heard-tdes-president-punch-rap-heres-a-project-mind/">"Have You Heard TDE's President Punch Rap? Here's 'A Project Mind'<span class="cs1-kern-right"></span>"</a>. <i>mtv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mtv.com&amp;rft.atitle=Have+You+Heard+TDE%27s+President+Punch+Rap%3F+Here%27s+%27A+Project+Mind%27&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2F1880197%2Fhave-you-heard-tdes-president-punch-rap-heres-a-project-mind%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/rap-music/new-music/2014/08/tde-punch-prelude-1965/">"TDE's Punch "Prelude" And "1965" - XXL"</a>. <i>Xxlmag.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Xxlmag.com&amp;rft.atitle=TDE%27s+Punch+%22Prelude%22+And+%221965%22+-+XXL&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Frap-music%2Fnew-music%2F2014%2F08%2Ftde-punch-prelude-1965%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/punch-tde-prelude-new-song.1956020.html">"Punch - Prelude &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2014-08-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Punch+-+Prelude+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2014-08-14&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fpunch-tde-prelude-new-song.1956020.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/punch-tde-my-darling-nicki-interlude-new-song.1959048.html">"Punch - My Darling Nicki (Interlude) &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2014-11-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Punch+-+My+Darling+Nicki+%28Interlude%29+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2014-11-02&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fpunch-tde-my-darling-nicki-interlude-new-song.1959048.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/punch-25-feat-kendrick-lamar-new-song.1960565.html">"Punch - 25 Feat. Kendrick Lamar &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2014-12-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Punch+-+25+Feat.+Kendrick+Lamar+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2014-12-10&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fpunch-25-feat-kendrick-lamar-new-song.1960565.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/punch-fear-new-song.1964022.html">"Punch - Fear &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2015-04-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Punch+-+Fear+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2015-04-16&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fpunch-fear-new-song.1964022.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/punch-uninspired-new-song.1966746.html">"Punch - Uninspired &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2015-10-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Punch+-+Uninspired+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2015-10-15&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fpunch-uninspired-new-song.1966746.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/punch-kings-new-song.1967779.html">"Punch - Kings &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2015-12-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Punch+-+Kings+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2015-12-23&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fpunch-kings-new-song.1967779.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/punch-tde-gone-prod-by-cardo-new-song.1968206.html">"Punch (TDE) - Gone (Prod. By Cardo) &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2016-01-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Punch+%28TDE%29+-+Gone+%28Prod.+By+Cardo%29+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2016-01-22&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fpunch-tde-gone-prod-by-cardo-new-song.1968206.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMark_Braboy2016" class="citation web cs1">Mark Braboy (2016-09-20). <a rel="nofollow" class="external text" href="http://www.vibe.com/2016/09/punch-40-year-song/">"TDE's Punch Addresses The "40 Year" War In Watts"</a>. <i>Vibe.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vibe.com&amp;rft.atitle=TDE%27s+Punch+Addresses+The+%2240+Year%22+War+In+Watts&amp;rft.date=2016-09-20&amp;rft.au=Mark+Braboy&amp;rft_id=http%3A%2F%2Fwww.vibe.com%2F2016%2F09%2Fpunch-40-year-song%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-C.M._2016-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-C.M._2016_26-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFC.M.2016" class="citation web cs1">C.M., Emmanuel (December 5, 2016). <a rel="nofollow" class="external text" href="http://www.xxlmag.com/rap-music/new-music/2016/12/punch-gets-introspective-on-gold/">"TDE Co-President Punch Gets Introspective on 'Gold'<span class="cs1-kern-right"></span>"</a>. <i>XXL Mag</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=TDE+Co-President+Punch+Gets+Introspective+on+%27Gold%27&amp;rft.date=2016-12-05&amp;rft.aulast=C.M.&amp;rft.aufirst=Emmanuel&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Frap-music%2Fnew-music%2F2016%2F12%2Fpunch-gets-introspective-on-gold%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-td-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-td_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-td_27-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-td_27-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-td_27-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Kendrick-Lamar-K-Dot-Training-Day-mixtape.300692.html">"Kendrick Lamar - K-Dot Training Day Hosted by Top Dawg Ent &amp; DJ Skee Mixtape - Stream &amp; Download"</a>. <i>Datpiff.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Datpiff.com&amp;rft.atitle=Kendrick+Lamar+-+K-Dot+Training+Day+Hosted+by+Top+Dawg+Ent+%26+DJ+Skee+Mixtape+-+Stream+%26+Download&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FKendrick-Lamar-K-Dot-Training-Day-mixtape.300692.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-wr-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-wr_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wr_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Jay-Rock-Watts-Finest-Volume-3-The-Watts-Riot-mixtape.4233.html">"Jay Rock - Watts Finest Volume 3 (The Watts Riot) Hosted by DJ Skee Mixtape - Stream &amp; Download"</a>. <i>Datpiff.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Datpiff.com&amp;rft.atitle=Jay+Rock+-+Watts+Finest+Volume+3+%28The+Watts+Riot%29+Hosted+by+DJ+Skee+Mixtape+-+Stream+%26+Download&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FJay-Rock-Watts-Finest-Volume-3-The-Watts-Riot-mixtape.4233.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-nstn-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-nstn_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nstn_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Kendrick-Lamar-Jay-Rock-No-Sleep-Til-NYC-mixtape.202088.html">"Kendrick Lamar &amp; Jay Rock - No Sleep Til NYC Hosted by Top Dawg Ent &amp; DJ Skee, DJ Big Mike, DJ Warrior, DJ Envy Mixtape - Stream &amp; Download"</a>. <i>Datpiff.com</i>. 2011-02-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Datpiff.com&amp;rft.atitle=Kendrick+Lamar+%26+Jay+Rock+-+No+Sleep+Til+NYC+Hosted+by+Top+Dawg+Ent+%26+DJ+Skee%2C+DJ+Big+Mike%2C+DJ+Warrior%2C+DJ+Envy+Mixtape+-+Stream+%26+Download&amp;rft.date=2011-02-23&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FKendrick-Lamar-Jay-Rock-No-Sleep-Til-NYC-mixtape.202088.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-sbth-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-sbth_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sbth_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://indy.livemixtapes.com/mixtapes/18075/schoolboy_q_schoolboy_turned_hustla.html">"Schoolboy Q - Schoolboy Turned Hustla - DJ Ill Will, DJ Dave"</a>. <i>Indy.livemixtapes.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Indy.livemixtapes.com&amp;rft.atitle=Schoolboy+Q+-+Schoolboy+Turned+Hustla+-+DJ+Ill+Will%2C+DJ+Dave&amp;rft_id=http%3A%2F%2Findy.livemixtapes.com%2Fmixtapes%2F18075%2Fschoolboy_q_schoolboy_turned_hustla.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.themixtapelab.com/mixtape/ab-soul-longterm/">"Ab-Soul - Long Term &#124; Mixtape Download &amp; Stream"</a>. <i>Themixtapelab.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Themixtapelab.com&amp;rft.atitle=Ab-Soul+-+Long+Term+%26%23124%3B+Mixtape+Download+%26+Stream&amp;rft_id=https%3A%2F%2Fwww.themixtapelab.com%2Fmixtape%2Fab-soul-longterm%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/schoolboy-q-gangsta-and-soul-mixtape.31.html">"ScHoolboy Q - Gangsta &amp; Soul &#124; Download &amp; Listen &#91;New Mixtape&#93;"</a>. <i>Hotnewhiphop.com</i>. 13 December 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=ScHoolboy+Q+-+Gangsta+%26+Soul+%26%23124%3B+Download+%26+Listen+%5BNew+Mixtape%26%2393%3B&amp;rft.date=2009-12-13&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fschoolboy-q-gangsta-and-soul-mixtape.31.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datpiff.com/Kendrick-Lamar-Kendrick-Lamar-EP-mixtape.308308.html">"Kendrick Lamar - Kendrick Lamar (EP) Hosted by Top Dawg Ent Mixtape - Stream &amp; Download"</a>. <i>Datpiff.com</i>. 2012-01-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Datpiff.com&amp;rft.atitle=Kendrick+Lamar+-+Kendrick+Lamar+%28EP%29+Hosted+by+Top+Dawg+Ent+Mixtape+-+Stream+%26+Download&amp;rft.date=2012-01-30&amp;rft_id=http%3A%2F%2Fwww.datpiff.com%2FKendrick-Lamar-Kendrick-Lamar-EP-mixtape.308308.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://djbooth.net/mixtapes/entry/ab-soul-longterm-2">"Ab-Soul - Longterm 2: Lifestyles Of The Broke &amp; Almost Famous &#124; Mixtape"</a>. <i>DJBooth.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DJBooth.net&amp;rft.atitle=Ab-Soul+-+Longterm+2%3A+Lifestyles+Of+The+Broke+%26+Almost+Famous+%26%23124%3B+Mixtape&amp;rft_id=http%3A%2F%2Fdjbooth.net%2Fmixtapes%2Fentry%2Fab-soul-longterm-2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDavid_Jeffries2011" class="citation web cs1">David Jeffries (2011-01-11). <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/setbacks-mw0002107289">"Setbacks - ScHoolboy Q &#124; Songs, Reviews, Credits"</a>. <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Setbacks+-+ScHoolboy+Q+%26%23124%3B+Songs%2C+Reviews%2C+Credits&amp;rft.pub=AllMusic&amp;rft.date=2011-01-11&amp;rft.au=David+Jeffries&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fsetbacks-mw0002107289&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.allmusic.com/album/longterm-mentality-mw0002238997">"Longterm Mentality - Ab-Soul &#124; User Reviews"</a>. <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Longterm+Mentality+-+Ab-Soul+%26%23124%3B+User+Reviews&amp;rft.pub=AllMusic&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Flongterm-mentality-mw0002238997&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-lh2-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-lh2_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lh2_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/locke-high-2/id469559356">"Locke High 2 by Terrace Martin on Apple Music"</a>. <i>Itunes.apple.com</i>. 25 October 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Itunes.apple.com&amp;rft.atitle=Locke+High+2+by+Terrace+Martin+on+Apple+Music&amp;rft.date=2011-10-25&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Flocke-high-2%2Fid469559356&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/terrace-martin-how-i-live-song.880560.html">"Terrace Martin - How I Live Feat. Dom Kennedy &amp; Punch (TDE) &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2012-06-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Terrace+Martin+-+How+I+Live+Feat.+Dom+Kennedy+%26+Punch+%28TDE%29+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2012-06-25&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fterrace-martin-how-i-live-song.880560.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDavid_Jeffries2012" class="citation web cs1">David Jeffries (2012-05-11). <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/control-system-mw0002381456">"Control System - Ab-Soul &#124; Songs, Reviews, Credits"</a>. <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Control+System+-+Ab-Soul+%26%23124%3B+Songs%2C+Reviews%2C+Credits&amp;rft.pub=AllMusic&amp;rft.date=2012-05-11&amp;rft.au=David+Jeffries&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fcontrol-system-mw0002381456&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/terrace-martin-it-s-real-song.1029927.html">"Terrace Martin - It's Real Feat. Punch (TDE) &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2012-10-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Terrace+Martin+-+It%27s+Real+Feat.+Punch+%28TDE%29+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2012-10-12&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fterrace-martin-it-s-real-song.1029927.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDavid_Jeffries2014" class="citation web cs1">David Jeffries (2014-06-24). <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/these-days-mw0002698290">"These Days... - Ab-Soul &#124; Songs, Reviews, Credits"</a>. <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=These+Days...+-+Ab-Soul+%26%23124%3B+Songs%2C+Reviews%2C+Credits&amp;rft.pub=AllMusic&amp;rft.date=2014-06-24&amp;rft.au=David+Jeffries&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fthese-days-mw0002698290&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/boaz-fly-shit-feat-punch-tde-new-song.1948786.html">"Boaz - Fly Shit Feat. Punch (TDE) &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2014-08-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Boaz+-+Fly+Shit+Feat.+Punch+%28TDE%29+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2014-08-01&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fboaz-fly-shit-feat-punch-tde-new-song.1948786.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/breathe/id1053277981">"Breathe by Bad Lucc on Apple Music"</a>. <i>Itunes.apple.com</i>. 10 November 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Itunes.apple.com&amp;rft.atitle=Breathe+by+Bad+Lucc+on+Apple+Music&amp;rft.date=2015-11-10&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fbreathe%2Fid1053277981&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/bj-the-chicago-kid-its-true-remix-feat-kendrick-lamar-schoolboy-q-and-punch-new-song.1963976.html">"BJ The Chicago Kid - It's True (Remix) Feat. Kendrick Lamar, ScHoolboy Q &amp; Punch &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2015-04-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=BJ+The+Chicago+Kid+-+It%27s+True+%28Remix%29+Feat.+Kendrick+Lamar%2C+ScHoolboy+Q+%26+Punch+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2015-04-13&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fbj-the-chicago-kid-its-true-remix-feat-kendrick-lamar-schoolboy-q-and-punch-new-song.1963976.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hotnewhiphop.com/bad-lucc-top-of-the-diamond-feat-problem-ab-soul-punch-prod-by-league-of-starz-new-song.1963118.html">"Bad Lucc - Top Of The Diamond Feat. Problem, Ab-Soul &amp; Punch (Prod. By League Of Starz) &#124; Stream &#91;New Song&#93;"</a>. <i>Hotnewhiphop.com</i>. 2015-02-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hotnewhiphop.com&amp;rft.atitle=Bad+Lucc+-+Top+Of+The+Diamond+Feat.+Problem%2C+Ab-Soul+%26+Punch+%28Prod.+By+League+Of+Starz%29+%26%23124%3B+Stream+%5BNew+Song%26%2393%3B&amp;rft.date=2015-02-24&amp;rft_id=http%3A%2F%2Fwww.hotnewhiphop.com%2Fbad-lucc-top-of-the-diamond-feat-problem-ab-soul-punch-prod-by-league-of-starz-new-song.1963118.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Tardio_2016billboard-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tardio_2016billboard_46-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTardio2016" class="citation magazine cs1">Tardio, Andres (March 4, 2016). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/hip-hop/6898260/tde-punch-kendrick-lamar-untitled-unmastered-interview">"TDE's Punch Talks Kendrick Lamar's Untitled Unmastered' Project"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 25,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=TDE%27s+Punch+Talks+Kendrick+Lamar%27s+Untitled+Unmastered%27+Project&amp;rft.date=2016-03-04&amp;rft.aulast=Tardio&amp;rft.aufirst=Andres&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fhip-hop%2F6898260%2Ftde-punch-kendrick-lamar-untitled-unmastered-interview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFPaul_Simpson2016" class="citation web cs1">Paul Simpson (2016-12-09). <a rel="nofollow" class="external text" href="http://www.allmusic.com/album/do-what-thou-wilt-mw0003009842">"Do What Thou Wilt. - Ab-Soul &#124; Songs, Reviews, Credits"</a>. <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Do+What+Thou+Wilt.+-+Ab-Soul+%26%23124%3B+Songs%2C+Reviews%2C+Credits&amp;rft.pub=AllMusic&amp;rft.date=2016-12-09&amp;rft.au=Paul+Simpson&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fdo-what-thou-wilt-mw0003009842&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://soundcloud.com/doctordestruction/20-million-woolongs-ft-punch"><i>20 Million Woolongs ft. Punch</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2021-02-10</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=20+Million+Woolongs+ft.+Punch&amp;rft_id=https%3A%2F%2Fsoundcloud.com%2Fdoctordestruction%2F20-million-woolongs-ft-punch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APunch+%28rapper%29" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Punch_(rapper)&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/mn0002752004">Punch</a> at <a href="/wiki/AllMusic_(identifier)" class="mw-redirect" title="AllMusic (identifier)">AllMusic</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/3116114-Punch-16">Punch</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: Artists <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q30122370#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/809dad11-6b57-4a7c-b334-44f9f96fd3ea">MusicBrainz</a></span>
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/7d1b58f7-28ec-4756-8798-c99cbea92ef8">2</a></span></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2385
+Cached time: 20230920013659
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.550 seconds
+Real time usage: 0.628 seconds
+Preprocessor visited node count: 2881/1000000
+Post‐expand include size: 85758/2097152 bytes
+Template argument size: 1472/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 140580/5000000 bytes
+Lua time usage: 0.374/10.000 seconds
+Lua memory usage: 6887608/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  575.188      1 -total
+ 52.85%  303.973      1 Template:Reflist
+ 42.98%  247.230     44 Template:Cite_web
+ 21.86%  125.713      1 Template:Infobox_musical_artist
+ 18.48%  106.275      1 Template:Infobox
+ 12.07%   69.442      2 Template:Short_description
+  9.61%   55.257      1 Template:If_empty
+  9.21%   52.960      1 Template:Authority_control
+  8.92%   51.311      2 Template:Hlist
+  6.69%   38.483      4 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:53816380-0!canonical and timestamp 20230920013659 and revision id 1161011257. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Punch_(rapper)&amp;oldid=1161011257">https://en.wikipedia.org/w/index.php?title=Punch_(rapper)&amp;oldid=1161011257</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_Carson,_California" title="Category:People from Carson, California">People from Carson, California</a></li><li><a href="/wiki/Category:Rappers_from_California" title="Category:Rappers from California">Rappers from California</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:American_music_industry_executives" title="Category:American music industry executives">American music industry executives</a></li><li><a href="/wiki/Category:African-American_songwriters" title="Category:African-American songwriters">African-American songwriters</a></li><li><a href="/wiki/Category:Songwriters_from_California" title="Category:Songwriters from California">Songwriters from California</a></li><li><a href="/wiki/Category:Top_Dawg_Entertainment_artists" title="Category:Top Dawg Entertainment artists">Top Dawg Entertainment artists</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li><li><a href="/wiki/Category:American_male_songwriters" title="Category:American male songwriters">American male songwriters</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Year_of_birth_missing_(living_people)" title="Category:Year of birth missing (living people)">Year of birth missing (living people)</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 20 June 2023, at 01:57<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Punch_(rapper)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2335","wgBackendResponseTime":101,"wgPageParseReport":{"limitreport":{"cputime":"0.550","walltime":"0.628","ppvisitednodes":{"value":2881,"limit":1000000},"postexpandincludesize":{"value":85758,"limit":2097152},"templateargumentsize":{"value":1472,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":140580,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  575.188      1 -total"," 52.85%  303.973      1 Template:Reflist"," 42.98%  247.230     44 Template:Cite_web"," 21.86%  125.713      1 Template:Infobox_musical_artist"," 18.48%  106.275      1 Template:Infobox"," 12.07%   69.442      2 Template:Short_description","  9.61%   55.257      1 Template:If_empty","  9.21%   52.960      1 Template:Authority_control","  8.92%   51.311      2 Template:Hlist","  6.69%   38.483      4 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.374","limit":"10.000"},"limitreport-memusage":{"value":6887608,"limit":52428800}},"cachereport":{"origin":"mw2385","timestamp":"20230920013659","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Punch (rapper)","url":"https:\/\/en.wikipedia.org\/wiki\/Punch_(rapper)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q30122370","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q30122370","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-04-19T00:38:20Z","dateModified":"2023-06-20T01:57:11Z","headline":"musical artist"}</script>
+</body>
+</html>

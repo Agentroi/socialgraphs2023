@@ -1,0 +1,1117 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Sir Mix-a-Lot - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"c4fd439e-208d-4f42-8283-dc2f4a337b76","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sir_Mix-a-Lot","wgTitle":"Sir Mix-a-Lot","wgCurRevisionId":1169702562,"wgRevisionId":1169702562,"wgArticleId":47066,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from February 2023","Articles with permanently dead external links","Articles with short description","Short description matches Wikidata","Short description is different from Wikidata","Articles with hCards","Pages using infobox musical artist with associated acts","Articles with dead external links from October 2022","Articles with FAST identifiers","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with GND identifiers","Articles with KANTO identifiers",
+"Articles with LCCN identifiers","Articles with NKC identifiers","Articles with Grammy identifiers","Articles with MusicBrainz identifiers","1963 births","Living people","People from Auburn, Washington","Rappers from Seattle","Record producers from Washington (state)","African-American male rappers","American male rappers","West Coast hip hop musicians","Grammy Award winners for rap music","20th-century American rappers","21st-century American rappers","20th-century American male musicians","21st-century American male musicians","20th-century African-American musicians","21st-century African-American musicians"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Sir_Mix-a-Lot","wgRelevantArticleId":47066,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},
+"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q982674","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":
+"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/96/SirMixaLotDec06.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1772">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/96/SirMixaLotDec06.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1182">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="945">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Sir Mix-a-Lot - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Sir_Mix-a-Lot">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sir_Mix-a-Lot">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sir_Mix-a-Lot rootpage-Sir_Mix-a-Lot skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sir+Mix-a-Lot" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sir+Mix-a-Lot" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sir+Mix-a-Lot" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sir+Mix-a-Lot" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-1980s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1980s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>1980s</div>
+			</a>
+			
+			<ul id="toc-1980s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1990s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1990s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>1990s</div>
+			</a>
+			
+			<ul id="toc-1990s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2000s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2000s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>2000s</div>
+			</a>
+			
+			<ul id="toc-2000s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2010s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2010s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>2010s</div>
+			</a>
+			
+			<ul id="toc-2010s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Other_work"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Other_work">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Other work</div>
+		</a>
+		
+		<ul id="toc-Other_work-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Discography</div>
+		</a>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Awards_and_Nominations"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards_and_Nominations">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Awards and Nominations</div>
+		</a>
+		
+			<button aria-controls="toc-Awards_and_Nominations-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Awards and Nominations subsection</span>
+			</button>
+		
+		<ul id="toc-Awards_and_Nominations-sublist" class="vector-toc-list">
+			<li id="toc-Grammy_Awards"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Grammy_Awards">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>Grammy Awards</div>
+			</a>
+			
+			<ul id="toc-Grammy_Awards-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-MTV_Video_Music_Awards"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#MTV_Video_Music_Awards">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>MTV Video Music Awards</div>
+			</a>
+			
+			<ul id="toc-MTV_Video_Music_Awards-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-American_Music_Awards"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#American_Music_Awards">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>American Music Awards</div>
+			</a>
+			
+			<ul id="toc-American_Music_Awards-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Soul_Train_Music_Awards"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Soul_Train_Music_Awards">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.4</span>Soul Train Music Awards</div>
+			</a>
+			
+			<ul id="toc-Soul_Train_Music_Awards-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Sir Mix-a-Lot</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 20 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-20" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">20 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – Alemannic" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%B3%D8%B1_%D9%85%DB%8C%DA%A9%D8%B3_%D8%A7_%D9%84%D8%A7%D8%AA" title="سر میکس ا لات – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%B1_%D9%85%DB%8C%DA%A9%D8%B3_%D8%A7_%D9%84%D8%A7%D8%AA" title="سر میکس ا لات – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Sir_Mix-A-Lot" title="Sir Mix-A-Lot – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%84%9C_%EB%AF%B9%EC%8A%A4%EC%96%B4%EB%9E%8F" title="서 믹스어랏 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Antonius_Ray" title="Antonius Ray – Latin" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B1_%D9%85%D9%8A%D9%83%D8%B3_%D8%A7_%D9%84%D9%88%D8%AA" title="سير ميكس ا لوت – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Sir_Mix-A-Lot" title="Sir Mix-A-Lot – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Sir_Mix-A-Lot" title="Sir Mix-A-Lot – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Sir_Mix-a-Lot" title="Sir Mix-a-Lot – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Anthony_Ray" title="Anthony Ray – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q982674#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Sir_Mix-a-Lot" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Sir_Mix-a-Lot" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Sir_Mix-a-Lot"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Sir_Mix-a-Lot"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Sir_Mix-a-Lot" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Sir_Mix-a-Lot" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;oldid=1169702562" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sir_Mix-a-Lot&amp;id=1169702562&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q982674" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Sir_Mix-a-Lot&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Sir_Mix-a-Lot" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://en.wikiquote.org/wiki/Sir_Mix-a-Lot" hreflang="en"><span>Wikiquote</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper</div>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="fn">Sir Mix-a-Lot</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:SirMixaLotDec06.jpg" class="mw-file-description" title="Sir Mix-a-Lot in December 2006"><img alt="Sir Mix-a-Lot in December 2006" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/SirMixaLotDec06.jpg/220px-SirMixaLotDec06.jpg" decoding="async" width="220" height="325" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/9/96/SirMixaLotDec06.jpg 1.5x" data-file-width="325" data-file-height="480" /></a></span><div class="infobox-caption">Sir Mix-a-Lot in December 2006</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Anthony L. Ray</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname">Bumpasaurus, Prime Minista</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1963-08-12</span>) </span>August 12, 1963<span class="noprint ForceAgeToShow"> (age&#160;60)</span><br /><a href="/wiki/Auburn,_Washington" title="Auburn, Washington">Auburn, Washington</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Seattle" title="Seattle">Seattle</a>, <a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li><li><a href="/wiki/Electro-funk" class="mw-redirect" title="Electro-funk">electro-funk</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li>Rapper</li>
+<li>songwriter</li>
+<li>record producer</li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1981–present<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist">
+<ul><li>Nastymix</li>
+<li>Ichiban</li>
+<li><a href="/wiki/American_Recordings_(record_label)" title="American Recordings (record label)">American</a></li>
+<li>Artist Direct</li>
+<li><a href="/wiki/Bertelsmann_Music_Group" title="Bertelsmann Music Group">BMG</a></li></ul>
+</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de"></th></tr><tr><th scope="row" class="infobox-label">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="http://sirmixalot.com">sirmixalot<wbr />.com</a></span></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Anthony L. Ray</b> (born August 12, 1963), better known by his stage name <b>Sir Mix-a-Lot</b> or his <a href="/wiki/Citizens_band_radio" title="Citizens band radio">CB</a> <a href="/wiki/List_of_CB_slang" title="List of CB slang">handle</a> <b>Prime Minista</b>, is an American <a href="/wiki/Rapper" class="mw-redirect" title="Rapper">rapper</a>, songwriter, and record producer. He is best known for his 1992 hit song "<a href="/wiki/Baby_Got_Back" title="Baby Got Back">Baby Got Back</a>", which peaked at number one on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Anthony Ray was born on August 12, 1963, in <a href="/wiki/Auburn,_Washington" title="Auburn, Washington">Auburn, Washington</a>, a suburb of <a href="/wiki/Seattle" title="Seattle">Seattle</a>, and grew up in Seattle's Central District. In Ray's youth, his mother, Ella Kingsland, worked as a licensed practical nurse at the King County Jail making six or seven dollars an hour. Ray was a fan of <a href="/wiki/Hip_hop" class="mw-redirect" title="Hip hop">hip hop</a> and started rapping in the early 1980s.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>While living in the Bryant Manor apartments on 19th Ave and East Yesler Way, Anthony Ray started school at <a href="/wiki/Roosevelt_High_School_(Seattle)" class="mw-redirect" title="Roosevelt High School (Seattle)">Roosevelt High School</a>, near the University District, when the Seattle Public School District was in the throes of what would be a 21-year experiment to integrate the school system; <a href="/wiki/Guns_N%27_Roses" title="Guns N&#39; Roses">Guns N' Roses</a> member <a href="/wiki/Duff_McKagan" title="Duff McKagan">Duff McKagan</a> and actress <a href="/wiki/Rose_McGowan" title="Rose McGowan">Rose McGowan</a> also went there. Students were bused from their neighborhoods to schools at the other end of the city. From 1978 to 1999, when the busing program was in operation, minorities carried the burden of busing, going from the South End and the Central Area to predominantly white schools in the North End.<sup id="cite_ref-Busing_Blues_4-0" class="reference"><a href="#cite_note-Busing_Blues-4">&#91;4&#93;</a></sup>
+</p><p>Ray said he knew that some North End residents did not want black children bused into their neighborhoods. But for him, the experience offered respite from the projects. "I’ve heard things like, 'Forced integration is not good,' 'I want my kid to be able to go to school in our community; that’s why we moved here' – all those things I totally understand," he said. "But from my perspective, I didn’t have the luxury of living in a neighborhood where a good school was. We didn’t make that kind of money. So from my perspective, it was the best thing that could have happened to me."<sup id="cite_ref-Busing_Blues_4-1" class="reference"><a href="#cite_note-Busing_Blues-4">&#91;4&#93;</a></sup> A music teacher at Eckstein Middle School introduced Ray to the possibility of a music career. 
+</p><p>Ray was interested in electronics and CB radio from a young age. One of his early jobs was working at a pinball arcade servicing machines, and during that time he started to fix keyboards and other musical equipment. He still works with electronics as a hobby.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1980s">1980s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=3" title="Edit section: 1980s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Soon after high school, he began DJing parties at local community centers.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> By 1983, Sir Mix-A-Lot had begun playing weekends regularly at the Rainier Vista Boys and Girls Club in South Seattle. Soon he moved locations and started hosting his parties at the Rotary Boys and Girls Club in the Central District.  It was there that he met 'Nasty' Nes Rodriguez, a local radio DJ and host of Fresh Tracks, the West Coast's first rap radio show on Seattle station <a href="/wiki/KKDZ" title="KKDZ">KKFX</a> (K-Fox).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Sir Mix-a-Lot partnered with Nasty Nes and local businessman Ed Locke to found the Nastymix record label in 1983.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> The first song to gain popularity outside of Seattle was "Square Dance Rap" in 1986. Mix-a-Lot had originally decided to rap the entire song slowly, then speed it up and increase its pitch in post production, Mix later told <i>Seattle Refined</i> in 2018 that "I didn't want to rap, that's why I use this weird Smurf voice".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> After the song was picked up by DJs in clubs nationwide, he toured Florida, New York, and other states. While in Arizona, he noticed a street named Broadway with a restaurant named Dick's, just like Seattle. This gave him the idea to write his next hit, "<a href="/wiki/Posse_on_Broadway" title="Posse on Broadway">Posse on Broadway</a>".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> The title referred to <a href="/wiki/Broadway_(Seattle)" title="Broadway (Seattle)">Broadway</a> in Seattle's <a href="/wiki/Capitol_Hill,_Seattle,_Washington" class="mw-redirect" title="Capitol Hill, Seattle, Washington">Capitol Hill</a> district.<sup id="cite_ref-allmusic_11-0" class="reference"><a href="#cite_note-allmusic-11">&#91;11&#93;</a></sup> Released in 1987, the single made the Top 100 but quickly disappeared, although it remains popular in the Seattle area for its references to many local landmarks.
+</p><p><i><a href="/wiki/Swass" title="Swass">Swass</a></i>, Sir Mix-a-Lot's debut album, was released in 1988 with two other singles: "Square-Dance Rap"<sup id="cite_ref-allmusic_11-1" class="reference"><a href="#cite_note-allmusic-11">&#91;11&#93;</a></sup> and "Iron Man", a <a href="/wiki/Rap_metal" title="Rap metal">rap metal</a> track sampling from the <a href="/wiki/Iron_Man_(song)" title="Iron Man (song)">song of the same name</a> by <a href="/wiki/Black_Sabbath" title="Black Sabbath">Black Sabbath</a>; it was backed by the band <a href="/wiki/Metal_Church" title="Metal Church">Metal Church</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> In 1990, the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> certified <i>Swass</i> <a href="/wiki/Platinum_record" class="mw-redirect" title="Platinum record">platinum</a>.<sup id="cite_ref-RIAA_13-0" class="reference"><a href="#cite_note-RIAA-13">&#91;13&#93;</a></sup>
+</p><p><i><a href="/wiki/Seminar_(album)" title="Seminar (album)">Seminar</a></i>, released in 1989, featured "My Hooptie", "Beepers", "Gortex" and "I Got Game".
+</p>
+<h3><span class="mw-headline" id="1990s">1990s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=4" title="Edit section: 1990s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1991, Sir Mix-A-Lot signed to the <a href="/wiki/Def_American" class="mw-redirect" title="Def American">Def American</a> label, which also bought the rights to his first two albums, and released his third album <i><a href="/wiki/Mack_Daddy" title="Mack Daddy">Mack Daddy</a></i> in 1992. The single "<a href="/wiki/Baby_Got_Back" title="Baby Got Back">Baby Got Back</a>" was a number one hit that went double platinum<sup id="cite_ref-RIAA_13-1" class="reference"><a href="#cite_note-RIAA-13">&#91;13&#93;</a></sup> and won the 1993 <a href="/wiki/Grammy_Award_for_Best_Rap_Solo_Performance" title="Grammy Award for Best Rap Solo Performance">Grammy Award for Best Rap Solo Performance</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> <a href="/wiki/MTV" title="MTV">MTV</a> aired the <a href="/wiki/Music_video" title="Music video">music video</a> for the song only after 9 PM because of "many, many, complaints."<sup id="cite_ref-Billboard_15-0" class="reference"><a href="#cite_note-Billboard-15">&#91;15&#93;</a></sup>
+</p><p>In 1993, Sir Mix-a-Lot collaborated with Seattle-based grunge band <a href="/wiki/Mudhoney" title="Mudhoney">Mudhoney</a> for the song "Freak Momma" on the <i><a href="/wiki/Judgment_Night_(film)" title="Judgment Night (film)">Judgment Night</a></i> soundtrack.<sup id="cite_ref-allmusic_11-2" class="reference"><a href="#cite_note-allmusic-11">&#91;11&#93;</a></sup>
+</p><p>In 1994, he released the album <i><a href="/wiki/Chief_Boot_Knocka" title="Chief Boot Knocka">Chief Boot Knocka</a></i>, which reached #69 on the Billboard 200 and #28 on the Top R&amp;B/Hip-Hop Charts. The album featured the hit single "Put 'Em On The Glass". "Just Da Pimpin' in Me" was nominated for the Grammy Award for Best Rap Solo Performance but lost to "Let Me Ride" by Dr. Dre.
+</p><p>When his 1996 album <i><a href="/wiki/Return_of_the_Bumpasaurus" title="Return of the Bumpasaurus">Return of the Bumpasaurus</a></i> was only given a low label promotion, leading to lackluster sales, Sir Mix-a-Lot left Def American. During the time off, he worked closely with the band <a href="/wiki/The_Presidents_of_the_United_States_of_America_(band)" title="The Presidents of the United States of America (band)">The Presidents of the United States of America</a> under the group name "Subset" with a combination of rock and rap music, but nothing was ever officially released.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2000s">2000s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=5" title="Edit section: 2000s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sir Mix-a-Lot signed with the <a href="/wiki/Independent_label" class="mw-redirect" title="Independent label">independent label</a> Artist Direct for his 2003 album <i><a href="/wiki/Daddy%27s_Home_(Sir_Mix-a-Lot_album)" title="Daddy&#39;s Home (Sir Mix-a-Lot album)">Daddy's Home</a></i> with "Big Johnson" as its lead single.<sup id="cite_ref-allmusic_11-3" class="reference"><a href="#cite_note-allmusic-11">&#91;11&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The next year, he released a DVD entitled "Shhhh... Don't Tell 'Em That" to promote the album.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2010s">2010s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=6" title="Edit section: 2010s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2010, Sir Mix-a-Lot announced his next album, <i>Dun 4got About Mix</i>. The lead single "Carz" was released to YouTube on 23 Nov 2010. By June 2011, the video had had over a million views, although no release date for the album has been set as of 2023.<sup id="cite_ref-RIAA_13-2" class="reference"><a href="#cite_note-RIAA-13">&#91;13&#93;</a></sup> In the same year, his <i>F.U.B.A.R. Remix</i> for the song <i>Conditions Of My Parole</i> appeared on <a href="/wiki/Puscifer" title="Puscifer">Puscifer</a>'s remix album <i><a href="/wiki/All_Re-Mixed_Up" title="All Re-Mixed Up">All Re-Mixed Up</a></i>.<sup id="cite_ref-spin_puscifer_remix_19-0" class="reference"><a href="#cite_note-spin_puscifer_remix-19">&#91;19&#93;</a></sup>
+</p><p>In 2013, Sir Mix-a-Lot produced the album <i>Dream</i> for the urban rock band <a href="/wiki/Ayron_Jones_and_The_Way" class="mw-redirect" title="Ayron Jones and The Way">Ayron Jones and The Way</a>. He opened their album release party at Neumos on November 2. That Christmas season, he promoted the <a href="/wiki/Washington_State_Lottery" class="mw-redirect" title="Washington State Lottery">Washington State Lottery</a> over the Christmas season, with advertisements featuring his music appearing on <a href="/wiki/Spotify" title="Spotify">Spotify</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>On June 6, 2014, Sir Mix-a-Lot collaborated and performed with the <a href="/wiki/Seattle_Symphony" title="Seattle Symphony">Seattle Symphony</a> on a new composition by <a href="/wiki/Gabriel_Prokofiev" title="Gabriel Prokofiev">Gabriel Prokofiev</a> as part of the symphony's Sonic Evolution series of new orchestral pieces inspired by Seattle's music icons.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p><p>In 2014, rapper <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a> released the single "<a href="/wiki/Anaconda_(Nicki_Minaj_song)" class="mw-redirect" title="Anaconda (Nicki Minaj song)">Anaconda</a>",<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> which prominently featured samples from "Baby Got Back". Sir Mix-a-Lot praised both the artist and the song, calling it the "new and improved version" of "Baby Got Back".<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p><p>In March 2016, Sir Mix-a-Lot collaborated with TNT and LK on the track and video, "Streets Don't Love Me".<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p><p>From 2017 to 2019, Sir Mix-a-Lot hosted a morning radio show based in Seattle on Hot 103.7 FM. 
+</p><p>He owns multiple residences, including one in Auburn, Washington, where he has continued to maintain a strong presence performing at small festivals across the country.
+</p>
+<h2><span class="mw-headline" id="Other_work">Other work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=7" title="Edit section: Other work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1995, Sir Mix-A-Lot was the regular host of the short-lived UPN anthology drama series <i><a href="/wiki/The_Watcher_(1995_TV_series)" title="The Watcher (1995 TV series)">The Watcher</a></i>, in which, in 2000, he was quoted in Vibe magazine as saying "in retrospect, I wish I hadn't done (the show)"<sup id="cite_ref-VIBE_27-0" class="reference"><a href="#cite_note-VIBE-27">&#91;27&#93;</a></sup>
+</p><p>In 2006, Sir Mix-a-Lot appeared on <a href="/wiki/Adult_Swim" title="Adult Swim">Adult Swim</a>'s <i><a href="/wiki/Tom_Goes_to_the_Mayor" title="Tom Goes to the Mayor">Tom Goes to the Mayor</a></i>. In 2008, he appeared on Adult Swim's <i><a href="/wiki/Robot_Chicken" title="Robot Chicken">Robot Chicken</a></i> singing a song entitled "Table Be Round". It was sung in the style of "Baby Got Back", but was about to King Arthur's creation of the Round Table. He also voiced politician <a href="/wiki/Hans_Blix" title="Hans Blix">Hans Blix</a> and singer <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">Stevie Wonder</a> in the season 3 finale. He appeared in an episode of Season 4 of <i><a href="/wiki/BoJack_Horseman" title="BoJack Horseman">BoJack Horseman</a></i> playing himself.
+</p><p>Sir Mix-A-Lot provides narration and commentary in <i>Wheedle's Groove</i>, a 2009 documentary about the Seattle 1960s and 70s funk and soul scene.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p><p>In June 2018, the <a href="/wiki/DIY_Network" class="mw-redirect" title="DIY Network">DIY Network</a> aired a special called <i>Sir Mix-A-Lot's House Remix</i>, which involved Sir Mix-A-Lot buying and flipping a house in Seattle.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p><p>In 2019, he became the spokesperson for <a href="/wiki/Cards_Against_Humanity" title="Cards Against Humanity">Cards Against Humanity</a>'s "Ass Pack".<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=8" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Sir_Mix-a-Lot_discography" title="Sir Mix-a-Lot discography">Sir Mix-a-Lot discography</a></div>
+<ul><li><i><a href="/wiki/Swass" title="Swass">Swass</a></i> (1988)</li>
+<li><i><a href="/wiki/Seminar_(album)" title="Seminar (album)">Seminar</a></i> (1989)</li>
+<li><i><a href="/wiki/Mack_Daddy" title="Mack Daddy">Mack Daddy</a></i> (1992)</li>
+<li><i><a href="/wiki/Chief_Boot_Knocka" title="Chief Boot Knocka">Chief Boot Knocka</a></i> (1994)</li>
+<li><i><a href="/wiki/Return_of_the_Bumpasaurus" title="Return of the Bumpasaurus">Return of the Bumpasaurus</a></i> (1996)</li>
+<li><i><a href="/wiki/Daddy%27s_Home_(Sir_Mix-a-Lot_album)" title="Daddy&#39;s Home (Sir Mix-a-Lot album)">Daddy's Home</a></i> (2003)</li></ul>
+<h2><span class="mw-headline" id="Awards_and_Nominations">Awards and Nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=9" title="Edit section: Awards and Nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Grammy_Awards"><a href="/wiki/Grammy_Award" class="mw-redirect" title="Grammy Award">Grammy Awards</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=10" title="Edit section: Grammy Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Nominated work
+</th>
+<th>Award
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td align="center"><a href="/wiki/Grammy_Awards_of_1993" class="mw-redirect" title="Grammy Awards of 1993">1993</a>
+</td>
+<td>"<a href="/wiki/Baby_Got_Back" title="Baby Got Back">Baby Got Back</a>"
+</td>
+<td>Best Rap Solo Performance
+</td>
+<td style="background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;" class="yes table-yes2 notheme">Won
+</td></tr>
+<tr>
+<td align="center"><a href="/wiki/Grammy_Awards_of_1994" class="mw-redirect" title="Grammy Awards of 1994">1994</a>
+</td>
+<td>"Just Da Pimpin' In Me"
+</td>
+<td>Best Rap Solo Performance
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td align="center"><a href="/wiki/Grammy_Awards_of_1999" class="mw-redirect" title="Grammy Awards of 1999">1999</a>
+</td>
+<td><i><a href="/w/index.php?title=Televoid&amp;action=edit&amp;redlink=1" class="new" title="Televoid (page does not exist)">Televoid</a></i>
+</td>
+<td>Best Long Form Music Video
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="MTV_Video_Music_Awards"><a href="/wiki/MTV_Video_Music_Award" class="mw-redirect" title="MTV Video Music Award">MTV Video Music Awards</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=11" title="Edit section: MTV Video Music Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Nominated work
+</th>
+<th>Award
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td align="center"><a href="/wiki/1992_MTV_Video_Music_Awards" title="1992 MTV Video Music Awards">1992</a>
+</td>
+<td>"<a href="/wiki/Baby_Got_Back" title="Baby Got Back">Baby Got Back</a>"
+</td>
+<td>Best Rap Video
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td align="center"><a href="/wiki/1992_MTV_Video_Music_Awards" title="1992 MTV Video Music Awards">1992</a>
+</td>
+<td>"<a href="/wiki/Baby_Got_Back" title="Baby Got Back">Baby Got Back</a>"
+</td>
+<td>Best Direction in a Video
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr>
+<tr>
+<td align="center"><a href="/wiki/1993_MTV_Video_Music_Awards" title="1993 MTV Video Music Awards">1993</a>
+</td>
+<td>"<a href="/wiki/Baby_Got_Back" title="Baby Got Back">Baby Got Back</a>"
+</td>
+<td>Best Art Direction in a Video
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="American_Music_Awards"><a href="/wiki/American_Music_Award" class="mw-redirect" title="American Music Award">American Music Awards</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=12" title="Edit section: American Music Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Nominated work
+</th>
+<th>Award
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td align="center"><a href="/wiki/American_Music_Awards_of_1993" title="American Music Awards of 1993">1993</a>
+</td>
+<td>Sir Mix-a-Lot
+</td>
+<td>Favorite Rap/Hip-Hop Artist
+</td>
+<td style="background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;" class="yes table-yes2 notheme">Won
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Soul_Train_Music_Awards"><a href="/wiki/Soul_Train_Music_Award" class="mw-redirect" title="Soul Train Music Award">Soul Train Music Awards</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=13" title="Edit section: Soul Train Music Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Nominated work
+</th>
+<th>Award
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td align="center"><a href="/wiki/1993_Soul_Train_Music_Awards" title="1993 Soul Train Music Awards">1993</a>
+</td>
+<td>"<a href="/wiki/Baby_Got_Back" title="Baby Got Back">Baby Got Back</a>"
+</td>
+<td>Best R&amp;B/Soul Single – Male
+</td>
+<td style="background: #FFE3E3; color: black; vertical-align: middle; text-align: center;" class="no table-no2 notheme">Nominated
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFRabin2003" class="citation web cs1">Rabin, Nathan (July 16, 2003). <a rel="nofollow" class="external text" href="https://www.avclub.com/sir-mix-a-lot-1798208275">"Sir Mix-A-Lot"</a>. A.V. Club<span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sir+Mix-A-Lot&amp;rft.pub=A.V.+Club&amp;rft.date=2003-07-16&amp;rft.aulast=Rabin&amp;rft.aufirst=Nathan&amp;rft_id=https%3A%2F%2Fwww.avclub.com%2Fsir-mix-a-lot-1798208275&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.latimes.com/archives/la-xpm-1992-07-19-ca-4712-story.html">"Sir Mix-A-Lot Says His Critics Have Got His Message Backward"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. 19 July 1992<span class="reference-accessdate">. Retrieved <span class="nowrap">9 January</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Sir+Mix-A-Lot+Says+His+Critics+Have+Got+His+Message+Backward&amp;rft.date=1992-07-19&amp;rft_id=https%3A%2F%2Fwww.latimes.com%2Farchives%2Fla-xpm-1992-07-19-ca-4712-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mtv.com/artists/sir-mix-a-lot/biography/">"Sir Mix-a-Lot Biography"</a>. <i>Mtv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Mtv.com&amp;rft.atitle=Sir+Mix-a-Lot+Biography&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fartists%2Fsir-mix-a-lot%2Fbiography%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Busing_Blues-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Busing_Blues_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Busing_Blues_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://kuow.org/post/busing-blues-when-seattle-sent-black-kids-white-north-end">"Busing Blues"</a>. <i>Kuow.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Kuow.org&amp;rft.atitle=Busing+Blues&amp;rft_id=http%3A%2F%2Fkuow.org%2Fpost%2Fbusing-blues-when-seattle-sent-black-kids-white-north-end&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBomani_Jones2018" class="citation podcast cs1">Bomani Jones (19 August 2018). <a rel="nofollow" class="external text" href="http://www.espn.com/espnradio/play/_/id/23862570">"Sir Mix-A-Lot"</a>. <i>ESPN</i> (Podcast). ESPN Radio.  Event occurs at 12:24<span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sir+Mix-A-Lot&amp;rft.pub=ESPN+Radio&amp;rft.date=2018-08-19&amp;rft.au=Bomani+Jones&amp;rft_id=http%3A%2F%2Fwww.espn.com%2Fespnradio%2Fplay%2F_%2Fid%2F23862570&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thestranger.com/seattle/Content?oid=50163">"Going Way Back A Brief History of 206 Hiphop"</a>. <i>Thestranger.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Thestranger.com&amp;rft.atitle=Going+Way+Back+A+Brief+History+of+206+Hiphop&amp;rft_id=https%3A%2F%2Fwww.thestranger.com%2Fseattle%2FContent%3Foid%3D50163&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.blackpast.org/aaw/sir-mix-lot-ray-anthony-1963">"Sir Mix-A-Lot / Ray, Anthony"</a>. <i>Blackpast.org</i>. 28 October 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Blackpast.org&amp;rft.atitle=Sir+Mix-A-Lot+%2F+Ray%2C+Anthony&amp;rft.date=2013-10-28&amp;rft_id=http%3A%2F%2Fwww.blackpast.org%2Faaw%2Fsir-mix-lot-ray-anthony-1963&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBlecha" class="citation web cs1"><a href="/wiki/Peter_Blecha" title="Peter Blecha">Blecha, Peter</a>. <a rel="nofollow" class="external text" href="https://www.historylink.org/File/9793">"Nastymix Records' party marks Gold Record awarded to Sir Mix-A-Lot's SWASS album on April 29, 1989"</a>. <i>Historylink.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Historylink.org&amp;rft.atitle=Nastymix+Records%27+party+marks+Gold+Record+awarded+to+Sir+Mix-A-Lot%27s+SWASS+album+on+April+29%2C+1989&amp;rft.aulast=Blecha&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fwww.historylink.org%2FFile%2F9793&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKarlinsky2018" class="citation web cs1">Karlinsky, Malia (20 September 2018). <a rel="nofollow" class="external text" href="http://seattlerefined.com/lifestyle/rapping-with-the-king-of-old-school-aka-seattles-sir-mix-a-lot">"Rapping with the King of Old School: Seattle's own Sir Mix-A-Lot"</a>. <i>Seattle Refined</i>. Sinclair Broadcast Group<span class="reference-accessdate">. Retrieved <span class="nowrap">1 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Seattle+Refined&amp;rft.atitle=Rapping+with+the+King+of+Old+School%3A+Seattle%27s+own+Sir+Mix-A-Lot&amp;rft.date=2018-09-20&amp;rft.aulast=Karlinsky&amp;rft.aufirst=Malia&amp;rft_id=http%3A%2F%2Fseattlerefined.com%2Flifestyle%2Frapping-with-the-king-of-old-school-aka-seattles-sir-mix-a-lot&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWeingarten2018" class="citation magazine cs1">Weingarten, Christopher R. (6 November 2018). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-features/best-of-88-sir-mix-a-lot-posse-on-broadway-751314/">"Best of '88: How Sir-Mix-A-Lot's 'Posse on Broadway' Put Seattle on Rap's Map"</a>. <i>Rolling Stone</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Best+of+%2788%3A+How+Sir-Mix-A-Lot%27s+%27Posse+on+Broadway%27+Put+Seattle+on+Rap%27s+Map&amp;rft.date=2018-11-06&amp;rft.aulast=Weingarten&amp;rft.aufirst=Christopher+R.&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-features%2Fbest-of-88-sir-mix-a-lot-posse-on-broadway-751314%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-allmusic-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-allmusic_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-allmusic_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-allmusic_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-allmusic_11-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHuey2003" class="citation web cs1">Huey, Steve (2003). <a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/p96">"Sir Mix-A-Lot – Biography"</a>. <i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Sir+Mix-A-Lot+%E2%80%93+Biography&amp;rft.date=2003&amp;rft.aulast=Huey&amp;rft.aufirst=Steve&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Fartist%2Fp96&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHenderson" class="citation web cs1">Henderson, Alex. <a rel="nofollow" class="external text" href="http://www.allmusic.com/style/rap-metal-ma0000002817">"Rap-Metal"</a>. <i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 24,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Rap-Metal&amp;rft.aulast=Henderson&amp;rft.aufirst=Alex&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fstyle%2Frap-metal-ma0000002817&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-RIAA-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-RIAA_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RIAA_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RIAA_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=Sir%20Mix%20a%20Lot&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2009&amp;sort=Artist&amp;perPage=25">"Gold &amp; Platinum"</a>. RIAA<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gold+%26+Platinum&amp;rft.pub=RIAA&amp;rft_id=https%3A%2F%2Fwww.riaa.com%2Fgoldandplatinumdata.php%3Fresultpage%3D1%26table%3DSEARCH_RESULTS%26action%3D%26title%3D%26artist%3DSir%2520Mix%2520a%2520Lot%26format%3D%26debutLP%3D%26category%3D%26sex%3D%26releaseDate%3D%26requestNo%3D%26type%3D%26level%3D%26label%3D%26company%3D%26certificationDate%3D%26awardDescription%3D%26catalogNo%3D%26aSex%3D%26rec_id%3D%26charField%3D%26gold%3D%26platinum%3D%26multiPlat%3D%26level2%3D%26certDate%3D%26album%3D%26id%3D%26after%3D%26before%3D%26startMonth%3D1%26endMonth%3D1%26startYear%3D1958%26endYear%3D2009%26sort%3DArtist%26perPage%3D25&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/p96">"Sir Mix-A-Lot – Charts &amp; Awards – Grammy Awards"</a>. <i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Sir+Mix-A-Lot+%E2%80%93+Charts+%26+Awards+%E2%80%93+Grammy+Awards&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Fartist%2Fp96&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Billboard-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Billboard_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFRosenNewman1992" class="citation book cs1">Rosen, Craig; Newman, Melinda (Jun 27, 1992). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=wBAEAAAAMBAJ&amp;q=sir+mix-a-lot"><i>Billboard</i></a>. Nielsen Business Media, Inc. p.&#160;4<span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Billboard&amp;rft.pages=4&amp;rft.pub=Nielsen+Business+Media%2C+Inc.&amp;rft.date=1992-06-27&amp;rft.aulast=Rosen&amp;rft.aufirst=Craig&amp;rft.au=Newman%2C+Melinda&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DwBAEAAAAMBAJ%26q%3Dsir%2Bmix-a-lot&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHorowitz2014" class="citation magazine cs1">Horowitz, Steven J. (September 12, 2014). <a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/the-juice/6251411/sir-mix-a-lot-on-nicki-minajs-anaconda-booty-fever-new-music">"Sir Mix-A-Lot on Nicki Minaj's 'Anaconda,' Booty Fever &amp; New Music"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Sir+Mix-A-Lot+on+Nicki+Minaj%27s+%27Anaconda%2C%27+Booty+Fever+%26+New+Music&amp;rft.date=2014-09-12&amp;rft.aulast=Horowitz&amp;rft.aufirst=Steven+J.&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fthe-juice%2F6251411%2Fsir-mix-a-lot-on-nicki-minajs-anaconda-booty-fever-new-music&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFKaufman2003" class="citation news cs1">Kaufman, Gil (2003-08-01). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1475234/20030801/sir_mix_a_lot.jhtml">"Sir Mix-A-Lot Hoping Baby's Got Comeback"</a>. MTV News<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sir+Mix-A-Lot+Hoping+Baby%27s+Got+Comeback&amp;rft.date=2003-08-01&amp;rft.aulast=Kaufman&amp;rft.aufirst=Gil&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1475234%2F20030801%2Fsir_mix_a_lot.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.oldies.com/product-view/7515JD.html">"Shhhh… Don't Tell 'Em That"</a>. <i>Oldies.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Oldies.com&amp;rft.atitle=Shhhh%E2%80%A6+Don%27t+Tell+%27Em+That&amp;rft_id=https%3A%2F%2Fwww.oldies.com%2Fproduct-view%2F7515JD.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-spin_puscifer_remix-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-spin_puscifer_remix_19-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMartins2013" class="citation web cs1">Martins, Chris (18 July 2013). <a rel="nofollow" class="external text" href="https://www.spin.com/2013/07/puscifer-sir-mix-a-lot-conditions-of-my-parole-remix-fubar/">"Sir Mix-a-Lot's Puscifer Remix Laces 'Conditions of My Parole' With Noisy Wubs"</a>. <i>SPIN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SPIN&amp;rft.atitle=Sir+Mix-a-Lot%27s+Puscifer+Remix+Laces+%27Conditions+of+My+Parole%27+With+Noisy+Wubs&amp;rft.date=2013-07-18&amp;rft.aulast=Martins&amp;rft.aufirst=Chris&amp;rft_id=https%3A%2F%2Fwww.spin.com%2F2013%2F07%2Fpuscifer-sir-mix-a-lot-conditions-of-my-parole-remix-fubar%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150213214942/http://www.walottery.com/holiday/default.aspx">"Washington's Lottery - Happy Holidays Lottery"</a>. Walottery.com. Archived from <a rel="nofollow" class="external text" href="http://www.walottery.com/holiday/default.aspx">the original</a> on 2015-02-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Washington%27s+Lottery+-+Happy+Holidays+Lottery&amp;rft.pub=Walottery.com&amp;rft_id=http%3A%2F%2Fwww.walottery.com%2Fholiday%2Fdefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCross2014" class="citation web cs1">Cross, Charles R. (2014-06-07). <a rel="nofollow" class="external text" href="http://seattletimes.com/html/entertainment/2023791569_mixsymphonyreviewxml.html">"Sir Mix-A-Lot had a lot of fun with Seattle Symphony"</a>. Seattletimes.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sir+Mix-A-Lot+had+a+lot+of+fun+with+Seattle+Symphony&amp;rft.pub=Seattletimes.com&amp;rft.date=2014-06-07&amp;rft.aulast=Cross&amp;rft.aufirst=Charles+R.&amp;rft_id=http%3A%2F%2Fseattletimes.com%2Fhtml%2Fentertainment%2F2023791569_mixsymphonyreviewxml.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFColeman2014" class="citation magazine cs1">Coleman, Miriam (2014-04-09). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150404095117/http://www.rollingstone.com/music/news/sir-mix-a-lot-to-update-baby-got-back-with-seattle-symphony-20140409">"Sir Mix-a-Lot to Perform Classical Music Version of 'Baby Got Back' With Seattle Symphony"</a>. <i>Rollingstone.com</i>. Archived from <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/sir-mix-a-lot-to-update-baby-got-back-with-seattle-symphony-20140409">the original</a> on 2015-04-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rollingstone.com&amp;rft.atitle=Sir+Mix-a-Lot+to+Perform+Classical+Music+Version+of+%27Baby+Got+Back%27+With+Seattle+Symphony&amp;rft.date=2014-04-09&amp;rft.aulast=Coleman&amp;rft.aufirst=Miriam&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Fsir-mix-a-lot-to-update-baby-got-back-with-seattle-symphony-20140409&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFZak_Burns2014" class="citation web cs1">Zak Burns (2014-04-10). <a rel="nofollow" class="external text" href="http://mynorthwest.com/11/2494079/Sir-MixALot-hit-gets-the-Seattle-Symphony-treatment">"Sir Mix-A-Lot hit gets the Seattle Symphony treatment - Local News"</a>. MyNorthwest.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sir+Mix-A-Lot+hit+gets+the+Seattle+Symphony+treatment+-+Local+News&amp;rft.pub=MyNorthwest.com&amp;rft.date=2014-04-10&amp;rft.au=Zak+Burns&amp;rft_id=http%3A%2F%2Fmynorthwest.com%2F11%2F2494079%2FSir-MixALot-hit-gets-the-Seattle-Symphony-treatment&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=LDZX4ooRsWs">"Nicki Minaj - Anaconda"</a>. YouTube.com. 2014-08-19. <a rel="nofollow" class="external text" href="https://ghostarchive.org/varchive/youtube/20211211/LDZX4ooRsWs">Archived</a> from the original on 2021-12-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nicki+Minaj+-+Anaconda&amp;rft.pub=YouTube.com&amp;rft.date=2014-08-19&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLDZX4ooRsWs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHarling2014" class="citation web cs1">Harling, Danielle (2014-08-12). <a rel="nofollow" class="external text" href="http://www.hiphopdx.com/index/news/id.30188/title.nicki-minaj-s-anaconda-dubbed-new-improved-baby-got-back-by-sir-mix-a-lot">"Nicki Minaj's "Anaconda" Dubbed New &amp; Improved "Baby Got Back" By Sir Mix-A-Lot &#124; Get The Latest Hip Hop News, Rap News &amp; Hip Hop Album Sales"</a>. HipHopDX.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nicki+Minaj%27s+%22Anaconda%22+Dubbed+New+%26+Improved+%22Baby+Got+Back%22+By+Sir+Mix-A-Lot+%26%23124%3B+Get+The+Latest+Hip+Hop+News%2C+Rap+News+%26+Hip+Hop+Album+Sales&amp;rft.pub=HipHopDX.com&amp;rft.date=2014-08-12&amp;rft.aulast=Harling&amp;rft.aufirst=Danielle&amp;rft_id=http%3A%2F%2Fwww.hiphopdx.com%2Findex%2Fnews%2Fid.30188%2Ftitle.nicki-minaj-s-anaconda-dubbed-new-improved-baby-got-back-by-sir-mix-a-lot&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=DKjgK6q1AH0">"TNT X Sir Mix-A-Lot X LK - Streets Don't Love Me"</a>. YouTube.com. 2016-03-18. <a rel="nofollow" class="external text" href="https://ghostarchive.org/varchive/youtube/20211211/DKjgK6q1AH0">Archived</a> from the original on 2021-12-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TNT+X+Sir+Mix-A-Lot+X+LK+-+Streets+Don%27t+Love+Me&amp;rft.pub=YouTube.com&amp;rft.date=2016-03-18&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDKjgK6q1AH0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-VIBE-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-VIBE_27-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCaramanica2000" class="citation book cs1">Caramanica, Jon (October 2000). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=yicEAAAAMBAJ&amp;q=sir+mix-a-lot+watcher&amp;pg=PA82"><i>VIBE</i></a>. Vibe Media Group. p.&#160;82<span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=VIBE&amp;rft.pages=82&amp;rft.pub=Vibe+Media+Group&amp;rft.date=2000-10&amp;rft.aulast=Caramanica&amp;rft.aufirst=Jon&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DyicEAAAAMBAJ%26q%3Dsir%2Bmix-a-lot%2Bwatcher%26pg%3DPA82&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged February 2023">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111110000343/http://www.siff.net/festival/film/detail.aspx?id=41222&amp;fid=166">"Wheedle's Groove &#124; 2010 Seattle International Film Festival &#124; Jennifer Maas &#124; USA - Films"</a>. Siff.net. Archived from <a rel="nofollow" class="external text" href="http://www.siff.net/festival/film/detail.aspx?id=41222&amp;FID=166">the original</a> on 2011-11-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wheedle%27s+Groove+%26%23124%3B+2010+Seattle+International+Film+Festival+%26%23124%3B+Jennifer+Maas+%26%23124%3B+USA+-+Films&amp;rft.pub=Siff.net&amp;rft_id=http%3A%2F%2Fwww.siff.net%2Ffestival%2Ffilm%2Fdetail.aspx%3Fid%3D41222%26FID%3D166&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://corporate.discovery.com/discovery-newsroom/sir-mix-a-lots-house-remix-starring-the-grammy-award-winning-rap-artist-premieres-on-diy-network-june-30/">"<span class="cs1-kern-left"></span>'Sir Mix-A-Lot's House Remix' Starring The Grammy Award-Winning Rap Artist Premieres On DIY Network June 30"</a>. <i>corporate.discovery.com</i>. Discovery, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=corporate.discovery.com&amp;rft.atitle=%27Sir+Mix-A-Lot%27s+House+Remix%27+Starring+The+Grammy+Award-Winning+Rap+Artist+Premieres+On+DIY+Network+June+30&amp;rft_id=https%3A%2F%2Fcorporate.discovery.com%2Fdiscovery-newsroom%2Fsir-mix-a-lots-house-remix-starring-the-grammy-award-winning-rap-artist-premieres-on-diy-network-june-30%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ass.lol/">"Cards Against Humanity Presents: Ass Pack + 2000s Nostalgia Pack"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cards+Against+Humanity+Presents%3A+Ass+Pack+%2B+2000s+Nostalgia+Pack&amp;rft_id=https%3A%2F%2Fwww.ass.lol%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.grammy.com/artists/sir-mix-lot/13942/">"All GRAMMY Awards and Nominations for Sir Mix-a-Lot"</a>. Grammy.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-06-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=All+GRAMMY+Awards+and+Nominations+for+Sir+Mix-a-Lot&amp;rft.pub=Grammy.com&amp;rft_id=https%3A%2F%2Fwww.grammy.com%2Fartists%2Fsir-mix-lot%2F13942%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.theamas.com/winners-database/?winnerKeyword=sir+mix&amp;winnerYear=">"Awards for Sir Mix-a-Lot"</a>. theamas.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2023-07-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Awards+for+Sir+Mix-a-Lot&amp;rft.pub=theamas.com&amp;rft_id=https%3A%2F%2Fwww.theamas.com%2Fwinners-database%2F%3FwinnerKeyword%3Dsir%2Bmix%26winnerYear%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Mix-a-Lot" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Mix-a-Lot&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span></span></div>
+<div class="side-box-text plainlist">Wikiquote has quotations related to <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Sir_Mix-a-Lot" class="extiw" title="q:Special:Search/Sir Mix-a-Lot">Sir Mix-a-Lot</a></b></i>.</div></div>
+</div>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://sirmixalot.com">Official website</a></span></span> <span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q982674#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged October 2022">dead link</span></a></i>&#93;</span></sup></li>
+<li><a rel="nofollow" class="external text" href="https://www.instagram.com/therealsirmixalot/">Sir Mix-a-Lot</a> on <a href="/wiki/Instagram" title="Instagram">Instagram</a></li>
+<li><a rel="nofollow" class="external text" href="https://twitter.com/therealmix">Sir Mix-a-Lot</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0802719/">Sir Mix-a-Lot</a> at <a href="/wiki/IMDb_(identifier)" class="mw-redirect" title="IMDb (identifier)">IMDb</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Sir_Mix-a-Lot" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Sir_Mix-a-Lot" title="Template:Sir Mix-a-Lot"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sir_Mix-a-Lot" title="Template talk:Sir Mix-a-Lot"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Sir_Mix-a-Lot&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Sir_Mix-a-Lot" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Sir Mix-a-Lot</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Swass" title="Swass">Swass</a></i></li>
+<li><i><a href="/wiki/Seminar_(album)" title="Seminar (album)">Seminar</a></i></li>
+<li><i><a href="/wiki/Mack_Daddy" title="Mack Daddy">Mack Daddy</a></i></li>
+<li><i><a href="/wiki/Chief_Boot_Knocka" title="Chief Boot Knocka">Chief Boot Knocka</a></i></li>
+<li><i><a href="/wiki/Return_of_the_Bumpasaurus" title="Return of the Bumpasaurus">Return of the Bumpasaurus</a></i></li>
+<li><i><a href="/wiki/Daddy%27s_Home_(Sir_Mix-a-Lot_album)" title="Daddy&#39;s Home (Sir Mix-a-Lot album)">Daddy's Home</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Posse_on_Broadway" title="Posse on Broadway">Posse on Broadway</a>"</li>
+<li>"<a href="/wiki/Iron_Man_(song)" title="Iron Man (song)">Iron Man</a>"</li>
+<li>"<a href="/wiki/Baby_Got_Back" title="Baby Got Back">Baby Got Back</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Playlist:_The_Very_Best_of_Sir_Mix-a-Lot" title="Playlist: The Very Best of Sir Mix-a-Lot">Playlist</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Judgment_Night_(soundtrack)" title="Judgment Night (soundtrack)">Judgment Night</a></i></li>
+<li><a href="/wiki/Sir_Mix-a-Lot_discography" title="Sir Mix-a-Lot discography">Discography</a></li>
+<li><a href="/wiki/The_Presidents_of_the_United_States_of_America_(band)#Indefinite_break_(1998–2000)" title="The Presidents of the United States of America (band)">Subset</a></li>
+<li>"<a href="/wiki/Anaconda_(song)" title="Anaconda (song)">Anaconda</a>"</li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="American_Music_Award_for_Favorite_Rap/Hip_Hop_Artist" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:American_Music_Award_for_Favorite_Rap/Hip_Hop_Artist" title="Template:American Music Award for Favorite Rap/Hip Hop Artist"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:American_Music_Award_for_Favorite_Rap/Hip_Hop_Artist" title="Template talk:American Music Award for Favorite Rap/Hip Hop Artist"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:American_Music_Award_for_Favorite_Rap/Hip_Hop_Artist&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="American_Music_Award_for_Favorite_Rap/Hip_Hop_Artist" style="font-size:114%;margin:0 4em"><a href="/wiki/American_Music_Award_for_Favorite_Rap/Hip_Hop_Artist" title="American Music Award for Favorite Rap/Hip Hop Artist">American Music Award for Favorite Rap/Hip Hop Artist</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/DJ_Jazzy_Jeff_%26_The_Fresh_Prince" class="mw-redirect" title="DJ Jazzy Jeff &amp; The Fresh Prince">DJ Jazzy Jeff &amp; The Fresh Prince</a> (1989)</li>
+<li><a href="/wiki/MC_Hammer" title="MC Hammer">MC Hammer</a> (1990)</li>
+<li><a href="/wiki/MC_Hammer" title="MC Hammer">MC Hammer</a> (1991)</li>
+<li><a href="/wiki/MC_Hammer" title="MC Hammer">MC Hammer</a> (1992)</li>
+<li><a class="mw-selflink selflink">Sir Mix-a-Lot</a> (1993)</li>
+<li><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> (1994)</li>
+<li><a href="/wiki/Snoop_Dogg" title="Snoop Dogg">Snoop Dogg</a> (1995)</li>
+<li><a href="/wiki/Coolio" title="Coolio">Coolio</a> (1996)</li>
+<li><a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a> (1997)</li>
+<li><a href="/wiki/Bone_Thugs-n-Harmony" title="Bone Thugs-n-Harmony">Bone Thugs-n-Harmony</a> (1998)</li>
+<li><a href="/wiki/Master_P" title="Master P">Master P</a> (1999)</li>
+<li><a href="/wiki/DMX" title="DMX">DMX</a> (2000)</li>
+<li><a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> (2001)</li>
+<li><a href="/wiki/Nelly" title="Nelly">Nelly</a> (2002)</li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> / <a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a> (2003)</li>
+<li><a href="/wiki/50_Cent" title="50 Cent">50 Cent</a> / <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a> (2003)</li>
+<li><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> (2004)</li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> / <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a> (2005)</li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> (2006)</li>
+<li><a href="/wiki/T.I." title="T.I.">T.I.</a> (2007)</li>
+<li><a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> (2008)</li>
+<li><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> (2009)</li>
+<li><a href="/wiki/Eminem" title="Eminem">Eminem</a> (2010)</li>
+<li><a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a> (2011)</li>
+<li><a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a> (2012)</li>
+<li><a href="/wiki/Macklemore_%26_Ryan_Lewis" title="Macklemore &amp; Ryan Lewis">Macklemore &amp; Ryan Lewis</a> (2013)</li>
+<li><a href="/wiki/Iggy_Azalea" title="Iggy Azalea">Iggy Azalea</a> (2014)</li>
+<li><a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a> (2015)</li>
+<li><a href="/wiki/Drake_(musician)" title="Drake (musician)">Drake</a> (2016)</li>
+<li><a href="/wiki/Drake_(musician)" title="Drake (musician)">Drake</a> (2017)</li>
+<li><a href="/wiki/Cardi_B" title="Cardi B">Cardi B</a> (2018)</li>
+<li><a href="/wiki/Cardi_B" title="Cardi B">Cardi B</a> (2019)</li>
+<li><a href="/wiki/Juice_Wrld" title="Juice Wrld">Juice Wrld</a> / <a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a> (2020)</li>
+<li><a href="/wiki/Drake_(musician)" title="Drake (musician)">Drake</a> / <a href="/wiki/Megan_Thee_Stallion" title="Megan Thee Stallion">Megan Thee Stallion</a> (2021)</li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Grammy_Award_for_Best_Rap_Solo_Performance" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#cedff2;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Grammy_Award_for_Best_Rap_Solo_Performance" title="Template:Grammy Award for Best Rap Solo Performance"><abbr title="View this template" style="background:#cedff2;;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Grammy_Award_for_Best_Rap_Solo_Performance" title="Template talk:Grammy Award for Best Rap Solo Performance"><abbr title="Discuss this template" style="background:#cedff2;;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Grammy_Award_for_Best_Rap_Solo_Performance&amp;action=edit"><abbr title="Edit this template" style="background:#cedff2;;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Grammy_Award_for_Best_Rap_Solo_Performance" style="font-size:114%;margin:0 4em"><a href="/wiki/Grammy_Award_for_Best_Rap_Solo_Performance" title="Grammy Award for Best Rap Solo Performance">Grammy Award for Best Rap Solo Performance</a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#cedff2;;width:1%">1990s</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/U_Can%27t_Touch_This" title="U Can&#39;t Touch This">U Can't Touch This</a>" – <a href="/wiki/MC_Hammer" title="MC Hammer">MC Hammer</a> (1990)</li>
+<li>"<a href="/wiki/Mama_Said_Knock_You_Out_(song)" title="Mama Said Knock You Out (song)">Mama Said Knock You Out</a>" – <a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a> (1991)</li>
+<li>"<a href="/wiki/Baby_Got_Back" title="Baby Got Back">Baby Got Back</a>" – <a class="mw-selflink selflink">Sir Mix-a-Lot</a> (1992)</li>
+<li>"<a href="/wiki/Let_Me_Ride" title="Let Me Ride">Let Me Ride</a>" – <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> (1993)</li>
+<li>"<a href="/wiki/U.N.I.T.Y." title="U.N.I.T.Y.">U.N.I.T.Y.</a>" – <a href="/wiki/Queen_Latifah" title="Queen Latifah">Queen Latifah</a> (1994)</li>
+<li>"<a href="/wiki/Gangsta%27s_Paradise" title="Gangsta&#39;s Paradise">Gangsta's Paradise</a>" – <a href="/wiki/Coolio" title="Coolio">Coolio</a> (1995)</li>
+<li>"<a href="/wiki/Hey_Lover" title="Hey Lover">Hey Lover</a>" – <a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a> (1996)</li>
+<li>"<a href="/wiki/Men_in_Black_(song)" title="Men in Black (song)">Men in Black</a>" – <a href="/wiki/Will_Smith" title="Will Smith">Will Smith</a> (1997)</li>
+<li>"<a href="/wiki/Gettin%27_Jiggy_wit_It" title="Gettin&#39; Jiggy wit It">Gettin' Jiggy wit It</a>" – <a href="/wiki/Will_Smith" title="Will Smith">Will Smith</a> (1998)</li>
+<li>"<a href="/wiki/My_Name_Is" title="My Name Is">My Name Is</a>" – <a href="/wiki/Eminem" title="Eminem">Eminem</a> (1999)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#cedff2;;width:1%">2000s</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/The_Real_Slim_Shady" title="The Real Slim Shady">The Real Slim Shady</a>" – <a href="/wiki/Eminem" title="Eminem">Eminem</a> (2000)</li>
+<li>"<a href="/wiki/Get_Ur_Freak_On" title="Get Ur Freak On">Get Ur Freak On</a>" – <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a> (2001)</li>
+<li>"Scream a.k.a. Itchin'" – <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a> / "<a href="/wiki/Hot_in_Herre" title="Hot in Herre">Hot in Herre</a>" – <a href="/wiki/Nelly" title="Nelly">Nelly</a> (2002)</li>
+<li>"<a href="/wiki/Work_It_(Missy_Elliott_song)" title="Work It (Missy Elliott song)">Work It</a>" – <a href="/wiki/Missy_Elliott" title="Missy Elliott">Missy Elliott</a> / "<a href="/wiki/Lose_Yourself" title="Lose Yourself">Lose Yourself</a>" – <a href="/wiki/Eminem" title="Eminem">Eminem</a> (2003)</li>
+<li>"<a href="/wiki/99_Problems" title="99 Problems">99 Problems</a>" – <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> (2004)</li>
+<li>"<a href="/wiki/Gold_Digger_(Kanye_West_song)" title="Gold Digger (Kanye West song)">Gold Digger</a>" – <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> (2005)</li>
+<li>"<a href="/wiki/What_You_Know_(T.I._song)" title="What You Know (T.I. song)">What You Know</a>" – <a href="/wiki/T.I." title="T.I.">T.I.</a> (2006)</li>
+<li>"<a href="/wiki/Stronger_(Kanye_West_song)" title="Stronger (Kanye West song)">Stronger</a>" – <a href="/wiki/Kanye_West" title="Kanye West">Kanye West</a> (2007)</li>
+<li>"<a href="/wiki/A_Milli" title="A Milli">A Milli</a>" – <a href="/wiki/Lil_Wayne" title="Lil Wayne">Lil Wayne</a> (2008)</li>
+<li>"<a href="/wiki/D.O.A._(Death_of_Auto-Tune)" title="D.O.A. (Death of Auto-Tune)">D.O.A. (Death of Auto-Tune)</a>" – <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> (2009)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#cedff2;;width:1%">2010s</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Not_Afraid" title="Not Afraid">Not Afraid</a>" – <a href="/wiki/Eminem" title="Eminem">Eminem</a> (2010)</li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="The_Presidents_of_the_United_States_of_America" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:The_Presidents_of_the_United_States_of_America" title="Template:The Presidents of the United States of America"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:The_Presidents_of_the_United_States_of_America" title="Template talk:The Presidents of the United States of America"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:The_Presidents_of_the_United_States_of_America&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="The_Presidents_of_the_United_States_of_America" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/The_Presidents_of_the_United_States_of_America_(band)" title="The Presidents of the United States of America (band)">The Presidents of the United States of America</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><a href="/wiki/Chris_Ballew" title="Chris Ballew">Chris Ballew</a></b></li>
+<li><b><a href="/wiki/Dave_Dederer" class="mw-redirect" title="Dave Dederer">Dave Dederer</a></b></li>
+<li><b><a href="/wiki/Jason_Finn" class="mw-redirect" title="Jason Finn">Jason Finn</a></b></li>
+<li><b>Andrew McKeag</b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Presidents_of_the_United_States_of_America_(album)" title="The Presidents of the United States of America (album)">The Presidents of the United States of America</a></i></li>
+<li><i><a href="/wiki/II_(The_Presidents_of_the_United_States_of_America_album)" title="II (The Presidents of the United States of America album)">II</a></i></li>
+<li><i><a href="/wiki/Freaked_Out_and_Small" title="Freaked Out and Small">Freaked Out and Small</a></i></li>
+<li><i><a href="/wiki/Love_Everybody" title="Love Everybody">Love Everybody</a></i></li>
+<li><i><a href="/wiki/These_Are_the_Good_Times_People" title="These Are the Good Times People">These Are the Good Times People</a></i></li>
+<li><i><a href="/wiki/Kudos_to_You!" title="Kudos to You!">Kudos to You!</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilations</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Pure_Frosting" title="Pure Frosting">Pure Frosting</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Kitty_(song)" title="Kitty (song)">Kitty</a>"</li>
+<li>"<a href="/wiki/Lump_(song)" title="Lump (song)">Lump</a>"</li>
+<li>"<a href="/wiki/Peaches_(The_Presidents_of_the_United_States_of_America_song)" title="Peaches (The Presidents of the United States of America song)">Peaches</a>"</li>
+<li>"<a href="/wiki/%C3%87a_plane_pour_moi#Other_versions" title="Ça plane pour moi">Ça Plane Pour Moi</a>"</li>
+<li>"<a href="/wiki/Dune_Buggy_(song)" title="Dune Buggy (song)">Dune Buggy</a>"</li>
+<li>"<a href="/wiki/Mach_5_(song)" title="Mach 5 (song)">Mach 5</a>"</li>
+<li>"<a href="/wiki/Video_Killed_the_Radio_Star" title="Video Killed the Radio Star">Video Killed the Radio Star</a>"</li>
+<li>"<a href="/wiki/Some_Postman" title="Some Postman">Some Postman</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/The_Presidents_of_the_United_States_of_America_discography" title="The Presidents of the United States of America discography">Discography</a></li>
+<li><a href="/wiki/Skin_Yard" title="Skin Yard">Skin Yard</a></li>
+<li><a href="/wiki/Love_Battery" title="Love Battery">Love Battery</a></li>
+<li><i><a href="/wiki/The_Lonesome_Death_of_Buck_McCoy" title="The Lonesome Death of Buck McCoy">The Lonesome Death of Buck McCoy</a></i></li>
+<li><a href="/wiki/The_Gentlemen_(Seattle_band)" title="The Gentlemen (Seattle band)">The Gentlemen</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q982674#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q982674#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q982674#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="http://id.worldcat.org/fast/296341/">FAST</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000055523950">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/45950177">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/134765494">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://urn.fi/URN:NBN:fi:au:finaf:000210355">Finland</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n91125805">United States</a></span></li>
+<li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Sir Mix-A-Lot"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=jo20221156824&amp;CON_LNG=ENG">Czech Republic</a></span></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.grammy.com/grammys/artists/sir-mix-lot/13942">Grammy Awards</a></span></li>
+<li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Sir Mix‐A‐Lot"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/05539fb8-b7a5-4012-97a9-5e27ddc031fb">MusicBrainz</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2392
+Cached time: 20230919183054
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.585 seconds
+Real time usage: 0.724 seconds
+Preprocessor visited node count: 3845/1000000
+Post‐expand include size: 123135/2097152 bytes
+Template argument size: 6550/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 13/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 135537/5000000 bytes
+Lua time usage: 0.376/10.000 seconds
+Lua memory usage: 9075063/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  641.745      1 -total
+ 40.02%  256.813      1 Template:Reflist
+ 24.44%  156.863     24 Template:Cite_web
+ 21.57%  138.436      1 Template:Infobox_musical_artist
+ 19.39%  124.414      1 Template:Infobox
+ 11.05%   70.882      4 Template:Navbox
+ 10.57%   67.829      2 Template:Navbox_musical_artist
+ 10.14%   65.056      1 Template:Sir_Mix-a-Lot
+  8.33%   53.441      2 Template:Short_description
+  7.32%   46.966      2 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47066-0!canonical and timestamp 20230919183053 and revision id 1169702562. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sir_Mix-a-Lot&amp;oldid=1169702562">https://en.wikipedia.org/w/index.php?title=Sir_Mix-a-Lot&amp;oldid=1169702562</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1963_births" title="Category:1963 births">1963 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_Auburn,_Washington" title="Category:People from Auburn, Washington">People from Auburn, Washington</a></li><li><a href="/wiki/Category:Rappers_from_Seattle" title="Category:Rappers from Seattle">Rappers from Seattle</a></li><li><a href="/wiki/Category:Record_producers_from_Washington_(state)" title="Category:Record producers from Washington (state)">Record producers from Washington (state)</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:Grammy_Award_winners_for_rap_music" title="Category:Grammy Award winners for rap music">Grammy Award winners for rap music</a></li><li><a href="/wiki/Category:20th-century_American_rappers" title="Category:20th-century American rappers">20th-century American rappers</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:20th-century_American_male_musicians" title="Category:20th-century American male musicians">20th-century American male musicians</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:20th-century_African-American_musicians" title="Category:20th-century African-American musicians">20th-century African-American musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_February_2023" title="Category:Articles with dead external links from February 2023">Articles with dead external links from February 2023</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2022" title="Category:Articles with dead external links from October 2022">Articles with dead external links from October 2022</a></li><li><a href="/wiki/Category:Articles_with_FAST_identifiers" title="Category:Articles with FAST identifiers">Articles with FAST identifiers</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_KANTO_identifiers" title="Category:Articles with KANTO identifiers">Articles with KANTO identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_NKC_identifiers" title="Category:Articles with NKC identifiers">Articles with NKC identifiers</a></li><li><a href="/wiki/Category:Articles_with_Grammy_identifiers" title="Category:Articles with Grammy identifiers">Articles with Grammy identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 10 August 2023, at 19:02<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sir_Mix-a-Lot&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2359","wgBackendResponseTime":112,"wgPageParseReport":{"limitreport":{"cputime":"0.585","walltime":"0.724","ppvisitednodes":{"value":3845,"limit":1000000},"postexpandincludesize":{"value":123135,"limit":2097152},"templateargumentsize":{"value":6550,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":135537,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  641.745      1 -total"," 40.02%  256.813      1 Template:Reflist"," 24.44%  156.863     24 Template:Cite_web"," 21.57%  138.436      1 Template:Infobox_musical_artist"," 19.39%  124.414      1 Template:Infobox"," 11.05%   70.882      4 Template:Navbox"," 10.57%   67.829      2 Template:Navbox_musical_artist"," 10.14%   65.056      1 Template:Sir_Mix-a-Lot","  8.33%   53.441      2 Template:Short_description","  7.32%   46.966      2 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.376","limit":"10.000"},"limitreport-memusage":{"value":9075063,"limit":52428800}},"cachereport":{"origin":"mw2392","timestamp":"20230919183054","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sir Mix-a-Lot","url":"https:\/\/en.wikipedia.org\/wiki\/Sir_Mix-a-Lot","sameAs":"http:\/\/www.wikidata.org\/entity\/Q982674","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q982674","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-04-01T10:11:43Z","dateModified":"2023-08-10T19:02:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/96\/SirMixaLotDec06.jpg","headline":"American rapper"}</script>
+</body>
+</html>

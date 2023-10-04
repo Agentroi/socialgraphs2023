@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Jaz-O - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"1adcaafd-cc32-488c-b55f-5cf6a8a4401c","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jaz-O","wgTitle":"Jaz-O","wgCurRevisionId":1175151232,"wgRevisionId":1175151232,"wgArticleId":47787581,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles that may contain original research from January 2018","All articles that may contain original research","Articles with hCards","Pages using infobox musical artist with associated acts","Articles with MusicBrainz identifiers","1964 births","Living people","African-American male rappers","American male rappers","African-American record producers","African-American songwriters","American hip hop record producers","East Coast hip hop musicians","Nuwaubianism","Rappers from Brooklyn",
+"Songwriters from New York (state)","21st-century American rappers","Record producers from New York (state)","21st-century American male musicians","20th-century African-American people","American male songwriters"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Jaz-O","wgRelevantArticleId":47787581,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,
+"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q6168029","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
+"wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/1c/Jaz-O--mika.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1541">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/1c/Jaz-O--mika.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1028">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="822">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Jaz-O - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Jaz-O">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jaz-O&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jaz-O">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Jaz-O rootpage-Jaz-O skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jaz-O" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jaz-O" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jaz-O" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jaz-O" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Early_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Early_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Early life</div>
+		</a>
+		
+		<ul id="toc-Early_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-Early_years_and_signing_with_EMI_USA"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Early_years_and_signing_with_EMI_USA">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Early years and signing with EMI USA</div>
+			</a>
+			
+			<ul id="toc-Early_years_and_signing_with_EMI_USA-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1989:_Word_to_the_Jaz"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1989:_Word_to_the_Jaz">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>1989: <i>Word to the Jaz</i></div>
+			</a>
+			
+			<ul id="toc-1989:_Word_to_the_Jaz-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1990:_To_Your_Soul"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1990:_To_Your_Soul">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>1990: <i>To Your Soul</i></div>
+			</a>
+			
+			<ul id="toc-1990:_To_Your_Soul-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1991–1996:_Production_work_behind_the_scenes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1991–1996:_Production_work_behind_the_scenes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>1991–1996: Production work behind the scenes</div>
+			</a>
+			
+			<ul id="toc-1991–1996:_Production_work_behind_the_scenes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1996–1998:_Involvement_with_Jay-Z&#039;s_early_success"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1996–1998:_Involvement_with_Jay-Z&#039;s_early_success">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5</span>1996–1998: Involvement with Jay-Z's early success</div>
+			</a>
+			
+			<ul id="toc-1996–1998:_Involvement_with_Jay-Z&#039;s_early_success-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1999–2016:_Feud_with_Jay-Z_and_forming_Kingz_Kounty"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1999–2016:_Feud_with_Jay-Z_and_forming_Kingz_Kounty">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6</span>1999–2016: Feud with Jay-Z and forming Kingz Kounty</div>
+			</a>
+			
+			<ul id="toc-1999–2016:_Feud_with_Jay-Z_and_forming_Kingz_Kounty-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2017–2020:_Reunion_with_Jay-Z_and_signing_with_Roc_Nation"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2017–2020:_Reunion_with_Jay-Z_and_signing_with_Roc_Nation">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.7</span>2017–2020: Reunion with Jay-Z and signing with Roc Nation</div>
+			</a>
+			
+			<ul id="toc-2017–2020:_Reunion_with_Jay-Z_and_signing_with_Roc_Nation-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2021:_Other_ventures_and_releases"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2021:_Other_ventures_and_releases">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.8</span>2021: Other ventures and releases</div>
+			</a>
+			
+			<ul id="toc-2021:_Other_ventures_and_releases-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Musical_style"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Musical_style">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Musical style</div>
+		</a>
+		
+			<button aria-controls="toc-Musical_style-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Musical style subsection</span>
+			</button>
+		
+		<ul id="toc-Musical_style-sublist" class="vector-toc-list">
+			<li id="toc-Influences"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Influences">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Influences</div>
+			</a>
+			
+			<ul id="toc-Influences-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Rhyming_style"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Rhyming_style">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Rhyming style</div>
+			</a>
+			
+			<ul id="toc-Rhyming_style-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Personal life</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Discography</div>
+		</a>
+		
+			<button aria-controls="toc-Discography-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Discography subsection</span>
+			</button>
+		
+		<ul id="toc-Discography-sublist" class="vector-toc-list">
+			<li id="toc-Studio_albums"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Studio_albums">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>Studio albums</div>
+			</a>
+			
+			<ul id="toc-Studio_albums-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Extended_plays"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Extended_plays">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>Extended plays</div>
+			</a>
+			
+			<ul id="toc-Extended_plays-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Singles"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Singles">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>Singles</div>
+			</a>
+			
+			<ul id="toc-Singles-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Production_credits"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Production_credits">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Production credits</div>
+		</a>
+		
+			<button aria-controls="toc-Production_credits-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Production credits subsection</span>
+			</button>
+		
+		<ul id="toc-Production_credits-sublist" class="vector-toc-list">
+			<li id="toc-Solo"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Solo">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.1</span>Solo</div>
+			</a>
+			
+			<ul id="toc-Solo-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Jaz-O</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 1 language"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-1" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">1 language</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%9E%AC%EC%A6%88_%EC%98%A4" title="재즈 오 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6168029#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Jaz-O" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Jaz-O" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Jaz-O"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Jaz-O&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Jaz-O&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Jaz-O"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Jaz-O&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Jaz-O&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Jaz-O" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Jaz-O" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Jaz-O&amp;oldid=1175151232" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Jaz-O&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jaz-O&amp;id=1175151232&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6168029" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Jaz-O&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Jaz-O&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American rapper and record producer (born 1964)</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-Original_research plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Jaz-O&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span>  <span class="date-container"><i>(<span class="date">January 2018</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Jaz-O</div></th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Jaz-O--mika.jpg" class="mw-file-description" title="Jaz-O in New York City, 2000"><img alt="Jaz-O in New York City, 2000" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jaz-O--mika.jpg/220px-Jaz-O--mika.jpg" decoding="async" width="220" height="283" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jaz-O--mika.jpg/330px-Jaz-O--mika.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jaz-O--mika.jpg/440px-Jaz-O--mika.jpg 2x" data-file-width="566" data-file-height="727" /></a></span><div class="infobox-caption">Jaz-O in New York City, 2000</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #b0c4de">Background information</th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Jonathan Burks</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li>The Jaz</li><li>Big Jaz</li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1964-10-04</span>) </span>October 4, 1964<span class="noprint ForceAgeToShow"> (age&#160;58)</span><br /><a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></td></tr><tr><th scope="row" class="infobox-label">Occupation(s)</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Rapper</li><li>songwriter</li><li>record producer</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1986–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Kingz Kounty Music Media</li><li><a href="/wiki/Roc_Nation" title="Roc Nation">Roc Nation</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/EMI_America_Records" title="EMI America Records">EMI USA</a></li><li>Rancore</li></ul></div></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Jonathan Burks</b> (born October 4, 1964), better known by his stage name <b>Jaz-O</b> (formerly <b>The Jaz</b> and <b>Big Jaz</b>), is an American <a href="/wiki/Rapper" class="mw-redirect" title="Rapper">rapper</a> and <a href="/wiki/Record_producer" title="Record producer">record producer</a>. Active in the late 1980s through the 1990s, and best known for being the mentor of Brooklyn rapper <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, Burks is nicknamed "the Originator", and had a song titled "<a href="/wiki/The_Originators_(The_Jaz_song)" class="mw-redirect" title="The Originators (The Jaz song)">The Originators</a>" that featured a young Jay-Z in 1990.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jonathan Burks was born in the <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a> borough of <a href="/wiki/New_York_City" title="New York City">New York City</a> and raised in <a href="/wiki/Marcy_Houses" title="Marcy Houses">Marcy Houses</a>, a housing project in the <a href="/wiki/Bedford-Stuyvesant" class="mw-redirect" title="Bedford-Stuyvesant">Bedford-Stuyvesant</a> neighborhood. Originally attending college to become an <a href="/wiki/Accountant" title="Accountant">accountant</a>, he decided to become a rapper after being encouraged by a friend, and being inspired after hearing <a href="/wiki/UTFO" title="UTFO">UTFO</a>'s "<a href="/wiki/Roxanne,_Roxanne" class="mw-redirect" title="Roxanne, Roxanne">Roxanne, Roxanne</a>."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_years_and_signing_with_EMI_USA">Early years and signing with EMI USA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=3" title="Edit section: Early years and signing with EMI USA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Being from the <a href="/wiki/Marcy_Projects" class="mw-redirect" title="Marcy Projects">same projects</a> as Jay-Z, the two would meet and become friends, with Jaz-O being a rhyme mentor to Jay-Z. Sometime during the year of 1986, the two lyricists would soon form a short-lived group by the name of High Potent. Despite the group being short-lived, the two recorded and released several songs throughout 1986, before Jaz-O would go on and get a record deal with <a href="/wiki/EMI_America_Records" title="EMI America Records">EMI USA</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> In regards to the signing, he stated:
+</p>
+<blockquote><p>I had been rhyming since I was 14. Do the math on your own! I became a legend on the east coast - which in the 'eighties' was quite remarkable, in about six years. I was always told I was the best most had ever heard. I put out a song in 1985 called "HP Gets Busy" on our own label (my manager at the time, Jack Walker and I), featuring two of my comrades from <a href="/wiki/Long_Island,_NY" class="mw-redirect" title="Long Island, NY">Long Island, NY</a>, and my young apprentice, Jay Z. We did shows regionally; NY and Pittsburgh mostly. Meanwhile, I was recording with friend and producer, Fresh Gordon. He helped me get a single deal on <a href="/wiki/Tommy_Boy_Records" title="Tommy Boy Records">Tommy Boy Records</a> after I collaborated on a song with him called "My <a href="/wiki/Fila_(company)" class="mw-redirect" title="Fila (company)">Fila</a>" (a response to <a href="/wiki/Run_DMC" class="mw-redirect" title="Run DMC">Run DMC</a>'s, "<a href="/wiki/My_Adidas" title="My Adidas">My Adidas</a>"). A mutual friend of Gordon and I, Marlon Prescott, introduced me to my soon-to-be manager at that time, Stan Poses. In four months Stan solidified a major artist deal for me, and I became the first rap artist ever to sign with EMI Records. I also became the recipient of the largest advance and recording budget of any rap artist at that time.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></p></blockquote>
+<h3><span class="mw-headline" id="1989:_Word_to_the_Jaz">1989: <i>Word to the Jaz</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=4" title="Edit section: 1989: Word to the Jaz">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Several months after signing with EMI USA, Jaz-O went on a trip to <a href="/wiki/London" title="London">London</a>, where he would record his debut album. Joining him on the trip was Jay-Z, as well as future <a href="/wiki/Murder_Inc_Records" class="mw-redirect" title="Murder Inc Records">Murder Inc Records</a> CEO and producer <a href="/wiki/Irv_Gotti" title="Irv Gotti">Irv Gotti</a>, who was Jaz-O's DJ at the time. After completion, Jaz-O released his debut album <i><a href="/wiki/Word_to_the_Jaz" title="Word to the Jaz">Word to the Jaz</a>.</i> The album was produced by Bryan "Chuck" New, Pete Q. Harris and Jaz-O himself. The album peaked at number 87 on the <a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a> chart.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> It featured a guest appearance from <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> on the song "Hawaiian Sophie", which peaked at number 18 on the <a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a> chart.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> The single "Let's Play House"/"Buss the Speaker" peaked at number 26 on the <i>Billboard</i> <a href="/wiki/Dance_Club_Songs" title="Dance Club Songs">Dance Club Songs</a> chart.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Jaz-O also made a <a href="/wiki/Guest_appearance" title="Guest appearance">guest appearance</a> on <a href="/wiki/The_O%27Jays" title="The O&#39;Jays">The O'Jays</a>'s "<a href="/wiki/Have_You_Had_Your_Love_Today" title="Have You Had Your Love Today">Have You Had Your Love Today</a>", which was a single released from their 1989 album <i>Serious</i>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1990:_To_Your_Soul">1990: <i>To Your Soul</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=5" title="Edit section: 1990: To Your Soul">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jaz-O released his second album <i><a href="/wiki/To_Your_Soul" title="To Your Soul">To Your Soul</a></i> on July 16, 1990. Despite the album not reaching the <a href="/wiki/Billboard_charts" title="Billboard charts">Billboard charts</a>, its two singles, "The Originators" and "A Groove (This Is What U Rap 2)", peaked at No. 13 and No. 18, respectively, on the <a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a> chart.<sup id="cite_ref-:0_10-0" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup> Similar to his debut album, Jay-Z was the only guest, being featured on two songs.
+</p>
+<h3><span id="1991.E2.80.931996:_Production_work_behind_the_scenes"></span><span class="mw-headline" id="1991–1996:_Production_work_behind_the_scenes">1991–1996: Production work behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=6" title="Edit section: 1991–1996: Production work behind the scenes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sometime after the album was released, Jaz-O was dropped from his record label and began to spend time working behind the scenes as a producer. At some point, Jaz-O connected with <a href="/wiki/The_Lox" title="The Lox">The Lox</a>, and produced a demo tape for the group, which would become instrumental to the start of their successful career.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Fellow <a href="/wiki/Yonkers" class="mw-redirect" title="Yonkers">Yonkers</a> native <a href="/wiki/Mary_J._Blige" title="Mary J. Blige">Mary J. Blige</a>,<sup id="cite_ref-Larkin90_12-0" class="reference"><a href="#cite_note-Larkin90-12">&#91;12&#93;</a></sup> would receive the tape from a cousin who did music with the trio. Becoming a supporter of the group, Blige would pass the demo tape on to <a href="/wiki/Bad_Boy_Records" title="Bad Boy Records">Bad Boy</a> CEO <a href="/wiki/Sean_Combs" title="Sean Combs">Sean "Puffy" Combs</a> while on a tour with <a href="/wiki/Jodeci" title="Jodeci">Jodeci</a>. Liking what he heard, Puff shortly signed The Lox to a deal.<sup id="cite_ref-Larkin90_12-1" class="reference"><a href="#cite_note-Larkin90-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h3><span id="1996.E2.80.931998:_Involvement_with_Jay-Z.27s_early_success"></span><span class="mw-headline" id="1996–1998:_Involvement_with_Jay-Z's_early_success">1996–1998: Involvement with Jay-Z's early success</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=7" title="Edit section: 1996–1998: Involvement with Jay-Z&#039;s early success">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Throughout the late 1990s, Jaz-O had quite a hand in Jay-Z's early solo success. Jaz-O produced, and was featured on "<a href="/wiki/Ain%27t_No_Nigga" title="Ain&#39;t No Nigga">Ain't No Nigga</a>," the second single from Jay-Z's 1996 debut album, <i><a href="/wiki/Reasonable_Doubt_(album)" title="Reasonable Doubt (album)">Reasonable Doubt</a></i>. The song is cited as playing a significant role in securing Jay-Z's record with <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam</a>.<sup id="cite_ref-hitquarters.com_16-0" class="reference"><a href="#cite_note-hitquarters.com-16">&#91;16&#93;</a></sup>
+</p><p>Jaz-O then produced "Rap Game / Crack Game," a track that appeared on Jay's second album <i><a href="/wiki/In_My_Lifetime,_Vol._1" title="In My Lifetime, Vol. 1">In My Lifetime, Vol. 1</a></i>, released in 1997.
+</p><p>Jaz-O also produced two tracks for Jay-Z's <i><a href="/wiki/Streets_Is_Watching_(soundtrack)" title="Streets Is Watching (soundtrack)">Streets Is Watching</a></i>. The album fared well commercially reaching #3 on the Top R&amp;B/Hip-Hop Albums chart, and was released on May 12, 1998, by <a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a> and <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a>.
+</p><p>In 1999, Jaz-O appeared on Jay-Z's "<a href="/wiki/Nigga_What,_Nigga_Who_(Originator_99)" title="Nigga What, Nigga Who (Originator 99)">Nigga What, Nigga Who (Originator 99)</a>", a single that was released from Jay-Z's third album <i><a href="/wiki/Vol._2..._Hard_Knock_Life" title="Vol. 2... Hard Knock Life">Vol. 2... Hard Knock Life</a>.</i> The song became a big hit in Jaz-O's career at the time. However, this would be one of the last times the two would work together on music, for their friendship soured shortly afterwards.
+</p>
+<h3><span id="1999.E2.80.932016:_Feud_with_Jay-Z_and_forming_Kingz_Kounty"></span><span class="mw-headline" id="1999–2016:_Feud_with_Jay-Z_and_forming_Kingz_Kounty">1999–2016: Feud with Jay-Z and forming Kingz Kounty</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=8" title="Edit section: 1999–2016: Feud with Jay-Z and forming Kingz Kounty">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The long-standing feud between him and Jay-Z started when Jay-Z started <a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a> and tried to convince Jaz-O and fellow rapper <a href="/wiki/Sauce_Money" title="Sauce Money">Sauce Money</a> to sign with the label. They both refused. It is rumored that they did not trust Roc-A-Fella Records CEO <a href="/wiki/Damon_Dash" title="Damon Dash">Damon Dash</a> and label co-founder Kareem "Biggs" Burke. In addition, they were not satisfied with what they were to receive had they signed the contract ($300,000 in Jaz-O's case). Jay-Z confirmed this event on the song "What We Talkin' About" from the <i><a href="/wiki/Blueprint_3" class="mw-redirect" title="Blueprint 3">Blueprint 3</a></i> album where he raps "Dame made millions, even Jaz made some scraps, he could've made more but he ain't sign his contract".<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>Instead of signing with Roc-A-Fella Records, Jaz-O inked a deal with Rancore Records, and formed the hip-hop group Immobilarie. With the group, he released a collaboration album titled <i><a href="/wiki/Jaz-O_%26_The_Immobilarie_Family_Present:_Kingz_Kounty" class="mw-redirect" title="Jaz-O &amp; The Immobilarie Family Present: Kingz Kounty">Jaz-O &amp; The Immobilarie Family Present: Kingz Kounty</a>.</i>
+</p><p>Jay-Z went on to diss Jaz first on a track titled "Fuck Jaz-O AKA Jaz Ho", released by <a href="/wiki/DJ_Kayslay" class="mw-redirect" title="DJ Kayslay">DJ Kayslay</a> and featuring <a href="/wiki/Freeway_(rapper)" title="Freeway (rapper)">Freeway</a>, Geda K, <a href="/wiki/Young_Gunz" title="Young Gunz">Young Chris</a>, and <a href="/wiki/Memphis_Bleek" title="Memphis Bleek">Memphis Bleek</a>. On the song, in which they rapped over <a href="/wiki/Styles_P" title="Styles P">Styles P</a>'s "<a href="/wiki/Good_Times_(Styles_P_song)" title="Good Times (Styles P song)">Good Times</a>" instrumental, and later on his album <i><a href="/wiki/The_Blueprint_2:_The_Gift_%26_The_Curse" title="The Blueprint 2: The Gift &amp; The Curse">The Blueprint 2: The Gift &amp; The Curse</a></i>, Jay-Z states: "I'ma let karma catch up to Jaz-O." Jaz then responded with a record titled  "Ova"  on a DJ Kayslay mixtape, and after the response from Jay-Z and the members of Roc-A-Fella, he released the diss record response known as "Ova Part 2" in which he raps over <a href="/wiki/N.O.R.E." title="N.O.R.E.">N.O.R.E.</a>'s "<a href="/wiki/Nothin%27_(song)" title="Nothin&#39; (song)">Nothin'</a>" instrumental.
+</p><p>During the long-standing feud between mentor and protégé, Jay-Z would still give Jaz-O credit for his success (while dissing him at the same time) as heard in the song "I Do It For Hip Hop" on <a href="/wiki/Ludacris" title="Ludacris">Ludacris</a>'s <i><a href="/wiki/Theater_of_the_Mind" title="Theater of the Mind">Theater of the Mind</a></i> album, where Jay-Z says "Shout out to <a href="/wiki/Grand_Master_Flash" class="mw-redirect" title="Grand Master Flash">Grand Master Flash</a> and to <a href="/wiki/Grandmaster_Caz" title="Grandmaster Caz">Caz</a> and even Jaz's bum ass".
+</p><p>Soon after the "I Do It For Hip Hop" diss from Jay-Z, Jaz-O responded with his own diss record titled "Go Harder" which starts with Jaz-O rapping over his protege's "Brooklyn Go Hard" beat before the beat changes.
+</p><p>In late August 2009, Jaz-O was featured on another song dissing Jay-Z, titled "Gangstas Ride" with West Coast rapper, <a href="/wiki/The_Game_(rapper)" title="The Game (rapper)">The Game</a>. Jaz references "Ether" with the line, "Jaz-O, stupid motherfucker, not Shawn, never been bashed on a <a href="/wiki/Tupac" class="mw-redirect" title="Tupac">Tupac</a> song". The song was fueled by beef between Game and Jay-Z at the time.
+</p>
+<h3><span id="2017.E2.80.932020:_Reunion_with_Jay-Z_and_signing_with_Roc_Nation"></span><span class="mw-headline" id="2017–2020:_Reunion_with_Jay-Z_and_signing_with_Roc_Nation">2017–2020: Reunion with Jay-Z and signing with Roc Nation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=9" title="Edit section: 2017–2020: Reunion with Jay-Z and signing with Roc Nation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In December 2017, Jaz-O and Jay-Z  reunited at Jay-Z's <a href="/wiki/4:44_(album)" class="mw-redirect" title="4:44 (album)"><i>4:44</i></a> concert, seemingly ending their feud.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> In 2019, it was reported that the two had worked out a music deal for Jaz-O's Kingz Kounty Media Group to be distributed through <a href="/wiki/Roc_Nation" title="Roc Nation">Roc Nation</a>'s Equity Distribution.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>On February 7, 2020, Jaz-O released an extended play (EP) titled <i><a href="/wiki/The_Warmup_EP" class="mw-redirect" title="The Warmup EP">The Warmup</a></i>, on Kingz Kounty Media Group. It was distributed by Roc Nation's Equity Distribution.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2021:_Other_ventures_and_releases">2021: Other ventures and releases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=10" title="Edit section: 2021: Other ventures and releases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jaz-O has since moved his 'Kingz Kounty Music Group" to Rival Distribution. He released "Lookin' Like", a collaboration single with <a href="/wiki/Nipsey_Hussle" title="Nipsey Hussle">Nipsey Hussle</a>, on July 2, 2021. The song's music video was directed by Da Inphamus Amadeuz.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Musical_style">Musical style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=11" title="Edit section: Musical style">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Influences">Influences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=12" title="Edit section: Influences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jaz-O cites <a href="/wiki/Grandmaster_Caz" title="Grandmaster Caz">Grandmaster Caz</a> as an early influence. Caz was the artist who made Jaz-O decide to become a rapper.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Rhyming_style">Rhyming style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=13" title="Edit section: Rhyming style">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jaz-O was the rapper to pioneer the triplet flow, which allows the rapper to flow far beyond sixteen syllables within the 4/4 <a href="/wiki/Time_signature" title="Time signature">time signature</a>, being able to add extra syllables to the sixteen multiplies the syllables into twenty-fourths, which makes a triplet of an eighth. Since the 1990s, the triplet <a href="/wiki/Rhyme_technique" class="mw-redirect" title="Rhyme technique">rhyme technique</a> has become a common distinction among some of the most respected hip-hop lyricists. Several rappers who are well known for the technique include his former apprentice <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, <a href="/wiki/Twista" title="Twista">Twista</a>, and <a href="/wiki/Bone_Thugs-N-Harmony" class="mw-redirect" title="Bone Thugs-N-Harmony">Bone Thugs-N-Harmony</a>, as well as <a href="/wiki/Fu-Schnickens" title="Fu-Schnickens">Fu-Schnickens</a>, <a href="/wiki/Spice-1" class="mw-redirect" title="Spice-1">Spice-1</a>, and <a href="/wiki/Tech_N9ne" title="Tech N9ne">Tech N9ne</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=14" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jaz-O was known to be a visible figure in the <a href="/wiki/Nuwaubian_Nation" title="Nuwaubian Nation">Nuwaubian Nation</a> during the 1980s. Nuwaubian beliefs and symbolism were prominent in the earlier years of his music career, and Nuwaubian fashion influenced his wardrobe.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=15" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=16" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/Word_to_the_Jaz" title="Word to the Jaz">Word to the Jaz</a></i> (1989)</li>
+<li><i><a href="/wiki/To_Your_Soul" title="To Your Soul">To Your Soul</a></i> (1990)</li>
+<li><i><a href="/wiki/Kingz_Kounty" title="Kingz Kounty">Kingz Kounty</a></i> (2002) <small>(with the Immobilarie)</small></li></ul>
+<h3><span class="mw-headline" id="Extended_plays">Extended plays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=17" title="Edit section: Extended plays">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Ya Don't Stop</i> (1991)</li>
+<li><i><a href="/wiki/The_Warmup_EP" class="mw-redirect" title="The Warmup EP">The Warmup</a></i> (2020)</li></ul>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=18" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<caption><b>List of singles, with selected chart positions, showing year released and album name</b>
+</caption>
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Artist(s)
+</th>
+<th>Album
+</th>
+<th>Peak position <sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</th></tr>
+<tr>
+<td>1986
+</td>
+<td>"<a href="/wiki/H._P._Gets_Busy" title="H. P. Gets Busy">H. P. Gets Busy</a>"
+</td>
+<td>High Potent (with <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>)
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1987
+</td>
+<td>"I'm In Love"
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3">1989
+</td>
+<td>"Buss The Speaker" / "Let's Play House"
+</td>
+<td>
+</td>
+<td rowspan="3"><i>Word to the Jaz</i>
+</td>
+<td>No. 26 on <a href="/wiki/Dance_Club_Songs" title="Dance Club Songs">Dance Club Songs</a>
+</td></tr>
+<tr>
+<td>"Hawaiian Sophie"
+</td>
+<td>Jay-Z
+</td>
+<td>No. 18 on <a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a>
+</td></tr>
+<tr>
+<td>"Word To The Jaz"
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1990
+</td>
+<td>"The Originators"
+</td>
+<td>Jay-Z
+</td>
+<td rowspan="2"><i>To Your Soul</i>
+</td>
+<td>No. 13 on Hot Rap Songs
+</td></tr>
+<tr>
+<td rowspan="2">1991
+</td>
+<td>"A Groove (This Is What U Rap 2)"
+</td>
+<td>
+</td>
+<td>No. 18 on Hot Rap Songs
+</td></tr>
+<tr>
+<td>"Hypocritters"
+</td>
+<td>
+</td>
+<td><i>Ya Don't Stop</i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1996
+</td>
+<td>"Waitin'" / "Foundation"
+</td>
+<td>Jay-Z, <a href="/wiki/Sauce_Money" title="Sauce Money">Sauce Money</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1999
+</td>
+<td>"<a href="/wiki/Nigga_What,_Nigga_Who_(Originator_99)" title="Nigga What, Nigga Who (Originator 99)">Jigga What...</a>"
+</td>
+<td>Jay-Z, <a href="/wiki/Amil_(rapper)" class="mw-redirect" title="Amil (rapper)">Amil</a>
+</td>
+<td><i><a href="/wiki/Vol._2..._Hard_Knock_Life" title="Vol. 2... Hard Knock Life">Vol. 2... Hard Knock Life</a></i>
+</td>
+<td>No. 84 on the <a href="/wiki/Hot_100" class="mw-redirect" title="Hot 100">Hot 100</a>
+</td></tr>
+<tr>
+<td>2000
+</td>
+<td>"Kingz Kounty"
+</td>
+<td>
+</td>
+<td rowspan="3"><i>Kingz Kounty </i>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2001
+</td>
+<td>"Let's Go"
+</td>
+<td>Jay-Z
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">2002
+</td>
+<td>"Love Is Gone"
+</td>
+<td>
+</td>
+<td>No. 20 on Hot Rap Songs
+</td></tr>
+<tr>
+<td>"Ova" / "Deadly"
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2005
+</td>
+<td>"Be There"
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2021
+</td>
+<td>"Lookin' Like" Remastered
+</td>
+<td>Jaz-O / Nipsey Hussle
+</td>
+<td>The Warm-Up
+</td>
+<td>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Production_credits">Production credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=19" title="Edit section: Production credits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Besides being an emcee, he has produced songs for several hip hop artists other than Jay-Z, including <a href="/wiki/Group_Home" title="Group Home">Group Home</a>, <a href="/wiki/M.O.P" class="mw-redirect" title="M.O.P">M.O.P</a>, <a href="/wiki/Ras_Kass" title="Ras Kass">Ras Kass</a>, <a href="/wiki/Rakim" title="Rakim">Rakim</a>, <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>, and others.
+</p>
+<h3><span class="mw-headline" id="Solo">Solo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=20" title="Edit section: Solo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>1995: <a href="/wiki/Group_Home" title="Group Home">Group Home</a> - <i>"4 Give My Sins"</i>|<b><a href="/wiki/Livin%27_Proof" title="Livin&#39; Proof">Livin' Proof</a></b></li>
+<li>1996: <a href="/wiki/M.O.P." title="M.O.P.">M.O.P.</a> - <i>"Born 2 Kill"</i>, <i>"World Famous"</i>, <i>"Lifestyles of a Ghetto Child"</i>, <i>"Born 2 Kill" (Jazz Mix)"</i>  <b><a href="/wiki/Firing_Squad_(album)" title="Firing Squad (album)">Firing Squad</a></b></li>
+<li>1996: <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> - <i>"Ain't No Nigga"</i>|<b><a href="/wiki/Reasonable_Doubt_(album)" title="Reasonable Doubt (album)">Reasonable Doubt</a></b></li>
+<li>1997: <a href="/wiki/P_Diddy" class="mw-redirect" title="P Diddy">P Diddy</a> - <i>"I Got the Power" (Featuring <a href="/wiki/The_Lox" title="The Lox">The Lox</a>)</i>    <b>|</b>   <b><a href="/wiki/No_Way_Out_(Puff_Daddy_album)" title="No Way Out (Puff Daddy album)">No Way Out</a></b></li>
+<li>1997: <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> - <i>"Rap Game / Crack Game""</i>    <b>|</b>   <b><a href="/wiki/In_My_Lifetime,_Vol._1" title="In My Lifetime, Vol. 1">In My Lifetime, Vol. 1</a></b></li>
+<li>1998: <a href="/wiki/Usual_Suspects" class="mw-redirect" title="Usual Suspects">Usual Suspects</a> - <i>"Crazy"</i>  <b><a href="/wiki/Streets_Is_Watching_(soundtrack)" title="Streets Is Watching (soundtrack)">Streets Is Watching (soundtrack)</a></b></li>
+<li>1998: <a href="/wiki/Ras_Kass" title="Ras Kass">Ras Kass</a> - <i>"H2O Proof"</i>    <b>|</b>   <b><a href="/wiki/Rasassination" title="Rasassination">Rasassination</a></b></li>
+<li>1998: <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> - <i>"In My Lifetime (remix)"</i> <b><a href="/wiki/Streets_Is_Watching_(soundtrack)" title="Streets Is Watching (soundtrack)">Streets Is Watching (soundtrack)</a></b></li>
+<li>1998: <a href="/wiki/Queen_Latifah" title="Queen Latifah">Queen Latifah</a> - <i>"Court Is in Session"</i>    <b>|</b>   <b><a href="/wiki/Order_in_the_Court" title="Order in the Court">Order in the Court</a></b></li>
+<li>1999: <a href="/wiki/Rakim" title="Rakim">Rakim</a> - <i>"It's A Must"</i>    <b>|</b>   <b><a href="/wiki/The_Master_(Rakim_album)" title="The Master (Rakim album)">The Master</a></b></li>
+<li>2002: <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a> - <i>"Black Widow"</i>    <b>|</b>   <b><a href="/wiki/The_Giacana_Story" class="mw-redirect" title="The Giacana Story">The Giacana Story</a></b></li>
+<li>2002: <a href="/wiki/GZA" title="GZA">GZA</a> - <i>" Legend Of The Liquid Sword"</i>|<b><a href="/wiki/Legend_of_the_Liquid_Sword_(album)" title="Legend of the Liquid Sword (album)">Legend of the Liquid Sword</a></b></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jaz-O&amp;action=edit&amp;section=21" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFShawn_Grant2019" class="citation web cs1">Shawn Grant (2019-07-10). <a rel="nofollow" class="external text" href="http://thesource.com/2019/07/10/jay-z-jaz-o-roc-nation-deal/">"Jay-Z Signs Jaz-O To Roc Nation Deal"</a>. <a href="/wiki/The_Source" title="The Source">The Source</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-09-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jay-Z+Signs+Jaz-O+To+Roc+Nation+Deal&amp;rft.pub=The+Source&amp;rft.date=2019-07-10&amp;rft.au=Shawn+Grant&amp;rft_id=http%3A%2F%2Fthesource.com%2F2019%2F07%2F10%2Fjay-z-jaz-o-roc-nation-deal%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110504224055/http://www.rollingstone.com/music/artists/jay-z/biography">"Jay-Z Biography"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. Archived from <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/artists/jay-z/biography">the original</a> on May 4, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Jay-Z+Biography&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fartists%2Fjay-z%2Fbiography&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFinlay2019" class="citation web cs1">Finlay, Mitch (August 19, 2019). <a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/jaz-o-is-the-originator-reflections-on-jay-z-big-and-creating-the-triplet-flow-news.88588.html">"Jaz-O Is The Originator: Reflections On Jay-Z, B.I.G, &amp; Creating The Triplet Flow"</a>. <i>www.hotnewhiphop.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.hotnewhiphop.com&amp;rft.atitle=Jaz-O+Is+The+Originator%3A+Reflections+On+Jay-Z%2C+B.I.G%2C+%26+Creating+The+Triplet+Flow&amp;rft.date=2019-08-19&amp;rft.aulast=Finlay&amp;rft.aufirst=Mitch&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fjaz-o-is-the-originator-reflections-on-jay-z-big-and-creating-the-triplet-flow-news.88588.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBandini2015" class="citation web cs1">Bandini (June 18, 2015). <a rel="nofollow" class="external text" href="https://ambrosiaforheads.com/2015/06/most-heads-dont-know-that-jay-zs-first-record-was-in-1986-audio/">"Jay Z's First Record Ever Was in 1986…And It Was Not Hawaiian Sophie. Take a Listen (Audio)"</a>. <i>www.ambrosiaforheads.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.ambrosiaforheads.com&amp;rft.atitle=Jay+Z%27s+First+Record+Ever+Was+in+1986%E2%80%A6And+It+Was+Not+Hawaiian+Sophie.+Take+a+Listen+%28Audio%29&amp;rft.date=2015-06-18&amp;rft.au=Bandini&amp;rft_id=https%3A%2F%2Fambrosiaforheads.com%2F2015%2F06%2Fmost-heads-dont-know-that-jay-zs-first-record-was-in-1986-audio%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.urbanjazz.org/Jaz-O_interview.htm?LMCL=h80_1v">"Jaz-O Interview"</a>. <i>www.urbanjazz.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.urbanjazz.org&amp;rft.atitle=Jaz-O+Interview&amp;rft_id=http%3A%2F%2Fwww.urbanjazz.org%2FJaz-O_interview.htm%3FLMCL%3Dh80_1v&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180514020611/https://www.billboard.com/music/the-jaz/chart-history/r-b-hip-hop-albums/song/375408">"The Jaz Word To The Jaz Chart History"</a>. <i><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a></i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-jaz/chart-history/r-b-hip-hop-albums/song/375408">the original</a> on May 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">January 8,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Top+R%26B%2FHip-Hop+Albums&amp;rft.atitle=The+Jaz+Word+To+The+Jaz+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-jaz%2Fchart-history%2Fr-b-hip-hop-albums%2Fsong%2F375408&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180509055208/https://www.billboard.com/music/the-jaz/chart-history/rap-song/song/321004">"The Jaz Hawaiian Sophie Chart History"</a>. <i><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-jaz/chart-history/rap-song/song/321004">the original</a> on May 9, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">January 8,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+Rap+Songs&amp;rft.atitle=The+Jaz+Hawaiian+Sophie+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-jaz%2Fchart-history%2Frap-song%2Fsong%2F321004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180514014945/https://www.billboard.com/music/the-jaz/chart-history/dance-club-play-songs">"The Jaz Chart History"</a>. <i><a href="/wiki/Dance_Club_Songs" title="Dance Club Songs">Dance Club Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-jaz/chart-history/dance-club-play-songs">the original</a> on May 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">January 8,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dance+Club+Songs&amp;rft.atitle=The+Jaz+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-jaz%2Fchart-history%2Fdance-club-play-songs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.discogs.com/The-OJays-Serious/release/1933597">"The O'Jays – Serious (1989, CD)"</a> &#8211; via www.discogs.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+O%27Jays+%E2%80%93+Serious+%281989%2C+CD%29&amp;rft_id=https%3A%2F%2Fwww.discogs.com%2FThe-OJays-Serious%2Frelease%2F1933597&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_10-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180514020521/https://www.billboard.com/music/the-jaz/chart-history/rap-song">"The Jaz Chart History"</a>. <i><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-jaz/chart-history/rap-song">the original</a> on May 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">January 8,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+Rap+Songs&amp;rft.atitle=The+Jaz+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-jaz%2Fchart-history%2Frap-song&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200220070122/https://www.rfdtv.com/story/41673418/kingz-kounty-media-group-presents-jaz-os-new-ep-the-warmup-available-february-7th-on-all-platforms-via-equity-distribution">"Kingz Kounty Media Group Presents Jaz-O's New EP "The WarmUp" Available February 7th on All Platforms Via Equity Distribution"</a>. <i>www.rfdtv.com</i>. February 7, 2020. Archived from <a rel="nofollow" class="external text" href="https://www.rfdtv.com/story/41673418/kingz-kounty-media-group-presents-jaz-os-new-ep-the-warmup-available-february-7th-on-all-platforms-via-equity-distribution">the original</a> on February 20, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">February 20,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.rfdtv.com&amp;rft.atitle=Kingz+Kounty+Media+Group+Presents+Jaz-O%27s+New+EP+%22The+WarmUp%22+Available+February+7th+on+All+Platforms+Via+Equity+Distribution&amp;rft.date=2020-02-07&amp;rft_id=https%3A%2F%2Fwww.rfdtv.com%2Fstory%2F41673418%2Fkingz-kounty-media-group-presents-jaz-os-new-ep-the-warmup-available-february-7th-on-all-platforms-via-equity-distribution&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Larkin90-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Larkin90_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Larkin90_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFColin_Larkin2000" class="citation book cs1"><a href="/wiki/Colin_Larkin_(writer)" class="mw-redirect" title="Colin Larkin (writer)">Colin Larkin</a>, ed. (2000). <i><a href="/wiki/Encyclopedia_of_Popular_Music" class="mw-redirect" title="Encyclopedia of Popular Music">The Virgin Encyclopedia of Nineties Music</a></i> (First&#160;ed.). <a href="/wiki/Virgin_Books" title="Virgin Books">Virgin Books</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7535-0427-8" title="Special:BookSources/0-7535-0427-8"><bdi>0-7535-0427-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Virgin+Encyclopedia+of+Nineties+Music&amp;rft.edition=First&amp;rft.pub=Virgin+Books&amp;rft.date=2000&amp;rft.isbn=0-7535-0427-8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.mrcnnlive.com/jaz-o-the-immobilarie-kingz-kounty-album/">"Jaz-O &amp; The Immobilarie "Kingz Kounty" (Album)"</a>. January 25, 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jaz-O+%26+The+Immobilarie+%22Kingz+Kounty%22+%28Album%29&amp;rft.date=2020-01-25&amp;rft_id=https%3A%2F%2Fwww.mrcnnlive.com%2Fjaz-o-the-immobilarie-kingz-kounty-album%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.complex.com/music/2014/01/jadakiss-unhinged-the-combat-jack-show">"Jadakiss Talks About Growing Up In Yonkers and The LOX's Relationship with Mary J. Blige - The Combat Jack Show"</a>. <i>Complex</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=Jadakiss+Talks+About+Growing+Up+In+Yonkers+and+The+LOX%27s+Relationship+with+Mary+J.+Blige+-+The+Combat+Jack+Show&amp;rft_id=https%3A%2F%2Fwww.complex.com%2Fmusic%2F2014%2F01%2Fjadakiss-unhinged-the-combat-jack-show&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMTV_News_Staff1998" class="citation web cs1">MTV News Staff (January 15, 1998). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/1426166/the-lox-get-by-with-a-little-help-from-puffy-and-mary-j-blige/">"The Lox Get By With A Little Help From Puffy And Mary J. Blige"</a>. <i>www.mtv.com</i>. <q>She was like a number one fan for us. She was loving our music before anybody, and she just brought us to Puff. Puff was looking for a group, a rap group, at that time. It was instant. It just clicked like that. It was chemistry.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.mtv.com&amp;rft.atitle=The+Lox+Get+By+With+A+Little+Help+From+Puffy+And+Mary+J.+Blige&amp;rft.date=1998-01-15&amp;rft.au=MTV+News+Staff&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2F1426166%2Fthe-lox-get-by-with-a-little-help-from-puffy-and-mary-j-blige%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-hitquarters.com-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-hitquarters.com_16-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hitquarters.com/index.php3?page=intrview/opar/intrview_Nick_Raphael_Interview.html">"Interview With Nick Raphael"</a>, <i><a href="/wiki/HitQuarters" title="HitQuarters">HitQuarters</a></i>, 25 May 2005.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.complex.com/music/2013/07/20-rappers-who-almost-signed-to-other-labels/jaz-o">"20 Rappers Who Almost Signed To Other LabelsJaz-O"</a>. <i><a href="/wiki/Complex_(magazine)" class="mw-redirect" title="Complex (magazine)">Complex</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Complex&amp;rft.atitle=20+Rappers+Who+Almost+Signed+To+Other+LabelsJaz-O&amp;rft_id=http%3A%2F%2Fwww.complex.com%2Fmusic%2F2013%2F07%2F20-rappers-who-almost-signed-to-other-labels%2Fjaz-o&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.xxlmag.com/news/2017/12/jay-z-jaz-o-reunite-444-tour-chicago/">"Jay-Z and Jaz-O Reunite at 4:44 Tour Stop in Chicago - XXL"</a>. <i><a href="/wiki/XXL_(magazine)" title="XXL (magazine)">XXL Mag</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=XXL+Mag&amp;rft.atitle=Jay-Z+and+Jaz-O+Reunite+at+4%3A44+Tour+Stop+in+Chicago+-+XXL&amp;rft_id=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2017%2F12%2Fjay-z-jaz-o-reunite-444-tour-chicago%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFVIRAL_MVP2019" class="citation web cs1">VIRAL MVP (July 9, 2019). <a rel="nofollow" class="external text" href="http://onsmash.com/music/jay-z-signs-jaz-o-to-roc-nation/">"JAY-Z Signs Jaz-O to Roc Nation after Ending Beef"</a>. <i>onsmashmusic.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=onsmashmusic.com&amp;rft.atitle=JAY-Z+Signs+Jaz-O+to+Roc+Nation+after+Ending+Beef&amp;rft.date=2019-07-09&amp;rft.au=VIRAL+MVP&amp;rft_id=http%3A%2F%2Fonsmash.com%2Fmusic%2Fjay-z-signs-jaz-o-to-roc-nation%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://grungecake.com/jaz-o-the-warmup-review/articles/62893">"JAY-Z's mentor Jaz-O picks up where he left off with ten-track effort 'The Warmup': Listen – GRUNGECAKE"</a>. 8 February 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=JAY-Z%27s+mentor+Jaz-O+picks+up+where+he+left+off+with+ten-track+effort+%27The+Warmup%27%3A+Listen+%E2%80%93+GRUNGECAKE&amp;rft.date=2020-02-08&amp;rft_id=https%3A%2F%2Fgrungecake.com%2Fjaz-o-the-warmup-review%2Farticles%2F62893&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://weeklyrapgods.com/2020/02/10/jaz-o-new-the-warm-up-project/">"Jaz-O Raises the Bar In New 'The Warm Up' Project"</a>. <i>Weekly Rap Gods</i>. February 10, 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Weekly+Rap+Gods&amp;rft.atitle=Jaz-O+Raises+the+Bar+In+New+%27The+Warm+Up%27+Project&amp;rft.date=2020-02-10&amp;rft_id=https%3A%2F%2Fweeklyrapgods.com%2F2020%2F02%2F10%2Fjaz-o-new-the-warm-up-project%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://boombapnation.com/jaz-o-lookin-like-single-set-to-drop/">"Jaz-O "Lookin Like" Single Set To Drop"</a>. <i>Boom Bap Nation</i>. 2021-06-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-06-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boom+Bap+Nation&amp;rft.atitle=Jaz-O+%22Lookin+Like%22+Single+Set+To+Drop&amp;rft.date=2021-06-10&amp;rft_id=https%3A%2F%2Fboombapnation.com%2Fjaz-o-lookin-like-single-set-to-drop%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSoren_Baker2002" class="citation web cs1">Soren Baker (April 10, 2002). <a rel="nofollow" class="external text" href="http://www.mtv.com/news/1453361/jaz-o-reminds-world-where-jay-z-got-his-blueprint/">"Jaz-O Reminds World Where Jay-Z Got His Blueprint"</a>. <i>www.mtv.com</i>. <q>When I heard Grandmaster Caz, it was like a light came on. His timing was just perfect, his voice was perfect and he wrote all of the routines that the Cold Crush did. A lot of them were jingles from old pop and R&amp;B songs, but it was crazy the way he flipped them. I didn't know it could be like that. From that day on, I endeavored to get my timing like that, to have the same clarity and vocal punch.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.mtv.com&amp;rft.atitle=Jaz-O+Reminds+World+Where+Jay-Z+Got+His+Blueprint&amp;rft.date=2002-04-10&amp;rft.au=Soren+Baker&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2F1453361%2Fjaz-o-reminds-world-where-jay-z-got-his-blueprint%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFFinlay2019" class="citation web cs1">Finlay, Mitch (August 19, 2019). <a rel="nofollow" class="external text" href="https://www.hotnewhiphop.com/jaz-o-is-the-originator-reflections-on-jay-z-big-and-creating-the-triplet-flow-news.88588.html">"Jaz-O Is The Originator: Reflections On Jay-Z, B.I.G, &amp; Creating The Triplet Flow"</a>. <i>www.hotnewhiphop.com</i>. <q>The reason I did it was because in one-sixteenth cadence and your average 4/4 time signature beat, if you have more than sixteen syllables in a measure, all of the sudden, you're stuck with a dilemma to express yourself in a certain way or to get your point across the way you choose. I had to stuff those words, those extra syllables in the sixteen so it would transform those syllables into twenty-fourths, which became a triplet of an eighth. That's why I called it the triplet style.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.hotnewhiphop.com&amp;rft.atitle=Jaz-O+Is+The+Originator%3A+Reflections+On+Jay-Z%2C+B.I.G%2C+%26+Creating+The+Triplet+Flow&amp;rft.date=2019-08-19&amp;rft.aulast=Finlay&amp;rft.aufirst=Mitch&amp;rft_id=https%3A%2F%2Fwww.hotnewhiphop.com%2Fjaz-o-is-the-originator-reflections-on-jay-z-big-and-creating-the-triplet-flow-news.88588.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFUnknown" class="citation web cs1">Unknown. <a rel="nofollow" class="external text" href="http://www.hiphopmindcontrol.com/jayz.htm">"Jay-Z got his start rapping alongside Jaz-O. They got involved in the "conscious hip hop" movement with the release of "The Originators"<span class="cs1-kern-right"></span>"</a>. <i>www.hiphopmindcontrol.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.hiphopmindcontrol.com&amp;rft.atitle=Jay-Z+got+his+start+rapping+alongside+Jaz-O.+They+got+involved+in+the+%22conscious+hip+hop%22+movement+with+the+release+of+%22The+Originators%22&amp;rft.au=Unknown&amp;rft_id=http%3A%2F%2Fwww.hiphopmindcontrol.com%2Fjayz.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180514020521/https://www.billboard.com/music/the-jaz/chart-history/rap-song">"The Jaz Chart History"</a>. <i><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-jaz/chart-history/rap-song">the original</a> on May 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+Rap+Songs&amp;rft.atitle=The+Jaz+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-jaz%2Fchart-history%2Frap-song&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180514014945/https://www.billboard.com/music/the-jaz/chart-history/dance-club-play-songs">"The Jaz Chart History"</a>. <i><a href="/wiki/Dance_Club_Songs" title="Dance Club Songs">Dance Club Songs</a></i>. Archived from <a rel="nofollow" class="external text" href="https://www.billboard.com/music/the-jaz/chart-history/dance-club-play-songs">the original</a> on May 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dance+Club+Songs&amp;rft.atitle=The+Jaz+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fmusic%2Fthe-jaz%2Fchart-history%2Fdance-club-play-songs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.billboard.com/artist/jaz-o/chart-history/rap/">"Jaz-O Chart History"</a>. <i><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hot+Rap+Songs&amp;rft.atitle=Jaz-O+Chart+History&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Fartist%2Fjaz-o%2Fchart-history%2Frap%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJaz-O" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: Artists <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q6168029#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/b2bb9336-9f4b-403b-8d29-36741c2ca2cd">MusicBrainz</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Jaz-O" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Jaz-O" title="Template:Jaz-O"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Jaz-O" title="Template talk:Jaz-O"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Jaz-O&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Jaz-O" class="fn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Jaz-O</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Albums</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Word_to_the_Jaz" title="Word to the Jaz">Word to the Jaz</a></i></li>
+<li><i><a href="/wiki/To_Your_Soul" title="To Your Soul">To Your Soul</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Featured singles</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>"<a href="/wiki/Have_You_Had_Your_Love_Today" title="Have You Had Your Love Today">Have You Had Your Love Today</a>"</li>
+<li>"<a href="/wiki/Ain%27t_No_Nigga" title="Ain&#39;t No Nigga">Ain't No Nigga</a>"</li>
+<li>"<a href="/wiki/Nigga_What,_Nigga_Who_(Originator_99)" title="Nigga What, Nigga Who (Originator 99)">Nigga What, Nigga Who (Originator 99)</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Collaboration albums</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Kingz_Kounty" title="Kingz Kounty">Kingz Kounty</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">EPs</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Warmup_EP" class="mw-redirect" title="The Warmup EP">The Warmup EP</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related articles</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a></li>
+<li><a href="/wiki/Roc-A-Fella_Records" title="Roc-A-Fella Records">Roc-A-Fella Records</a></li>
+<li><a href="/wiki/RocNation" class="mw-redirect" title="RocNation">RocNation</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2359
+Cached time: 20230920005538
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.521 seconds
+Real time usage: 0.628 seconds
+Preprocessor visited node count: 2418/1000000
+Post‐expand include size: 71703/2097152 bytes
+Template argument size: 2539/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 97403/5000000 bytes
+Lua time usage: 0.351/10.000 seconds
+Lua memory usage: 8876284/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  553.525      1 -total
+ 34.25%  189.573      1 Template:Reflist
+ 27.25%  150.844      1 Template:Infobox_musical_artist
+ 24.22%  134.087      1 Template:Infobox
+ 22.90%  126.737     18 Template:Cite_web
+ 12.03%   66.601      2 Template:Short_description
+ 11.15%   61.721      1 Template:Original_research
+ 10.64%   58.875      4 Template:Hlist
+ 10.32%   57.118      1 Template:Authority_control
+ 10.30%   57.027      1 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47787581-0!canonical and timestamp 20230920005537 and revision id 1175151232. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jaz-O&amp;oldid=1175151232">https://en.wikipedia.org/w/index.php?title=Jaz-O&amp;oldid=1175151232</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1964_births" title="Category:1964 births">1964 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:African-American_male_rappers" title="Category:African-American male rappers">African-American male rappers</a></li><li><a href="/wiki/Category:American_male_rappers" title="Category:American male rappers">American male rappers</a></li><li><a href="/wiki/Category:African-American_record_producers" title="Category:African-American record producers">African-American record producers</a></li><li><a href="/wiki/Category:African-American_songwriters" title="Category:African-American songwriters">African-American songwriters</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:East_Coast_hip_hop_musicians" title="Category:East Coast hip hop musicians">East Coast hip hop musicians</a></li><li><a href="/wiki/Category:Nuwaubianism" title="Category:Nuwaubianism">Nuwaubianism</a></li><li><a href="/wiki/Category:Rappers_from_Brooklyn" title="Category:Rappers from Brooklyn">Rappers from Brooklyn</a></li><li><a href="/wiki/Category:Songwriters_from_New_York_(state)" title="Category:Songwriters from New York (state)">Songwriters from New York (state)</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:Record_producers_from_New_York_(state)" title="Category:Record producers from New York (state)">Record producers from New York (state)</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:20th-century_African-American_people" title="Category:20th-century African-American people">20th-century African-American people</a></li><li><a href="/wiki/Category:American_male_songwriters" title="Category:American male songwriters">American male songwriters</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_January_2018" title="Category:Articles that may contain original research from January 2018">Articles that may contain original research from January 2018</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_musical_artist_with_associated_acts" title="Category:Pages using infobox musical artist with associated acts">Pages using infobox musical artist with associated acts</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 13 September 2023, at 03:15<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jaz-O&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2272","wgBackendResponseTime":129,"wgPageParseReport":{"limitreport":{"cputime":"0.521","walltime":"0.628","ppvisitednodes":{"value":2418,"limit":1000000},"postexpandincludesize":{"value":71703,"limit":2097152},"templateargumentsize":{"value":2539,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":97403,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  553.525      1 -total"," 34.25%  189.573      1 Template:Reflist"," 27.25%  150.844      1 Template:Infobox_musical_artist"," 24.22%  134.087      1 Template:Infobox"," 22.90%  126.737     18 Template:Cite_web"," 12.03%   66.601      2 Template:Short_description"," 11.15%   61.721      1 Template:Original_research"," 10.64%   58.875      4 Template:Hlist"," 10.32%   57.118      1 Template:Authority_control"," 10.30%   57.027      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.351","limit":"10.000"},"limitreport-memusage":{"value":8876284,"limit":52428800}},"cachereport":{"origin":"mw2359","timestamp":"20230920005538","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Jaz-O","url":"https:\/\/en.wikipedia.org\/wiki\/Jaz-O","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6168029","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6168029","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-09-15T20:06:38Z","dateModified":"2023-09-13T03:15:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1c\/Jaz-O--mika.jpg","headline":"American rapper"}</script>
+</body>
+</html>

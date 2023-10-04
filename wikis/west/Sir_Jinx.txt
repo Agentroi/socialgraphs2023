@@ -1,0 +1,1971 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Sir Jinx - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgRequestId":"afd92bd4-1e1b-4e6d-9c98-8abf7fe62ee4","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sir_Jinx","wgTitle":"Sir Jinx","wgCurRevisionId":1167574328,"wgRevisionId":1167574328,"wgArticleId":1665560,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: url-status","Articles with short description","Short description matches Wikidata","Use American English from November 2022","All Wikipedia articles written in American English","Use mdy dates from November 2022","Short description is different from Wikidata","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from January 2021","Articles with VIAF identifiers","Articles with LCCN identifiers","Articles with MusicBrainz identifiers","Living people","West Coast hip hop musicians","21st-century American rappers",
+"WC and the Maad Circle members","Record producers from California","African-American record producers","American hip hop record producers","21st-century American male musicians","21st-century African-American musicians","1970 births"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Sir_Jinx","wgRelevantArticleId":1665560,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,
+"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q7527533","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediaBadges":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
+"wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Sir Jinx - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Sir_Jinx">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sir_Jinx&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sir_Jinx">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sir_Jinx rootpage-Sir_Jinx skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page across from the title.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sir+Jinx" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sir+Jinx" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sir+Jinx" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sir+Jinx" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Career</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-1980s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1980s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>1980s</div>
+			</a>
+			
+			<ul id="toc-1980s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-1990s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#1990s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>1990s</div>
+			</a>
+			
+			<ul id="toc-1990s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2000s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2000s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>2000s</div>
+			</a>
+			
+			<ul id="toc-2000s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2010s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2010s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.4</span>2010s</div>
+			</a>
+			
+			<ul id="toc-2010s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2020s"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2020s">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.5</span>2020s</div>
+			</a>
+			
+			<ul id="toc-2020s-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Film_and_television"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Film_and_television">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.6</span>Film and television</div>
+			</a>
+			
+			<ul id="toc-Film_and_television-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Production_discography"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Production_discography">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Production discography</div>
+		</a>
+		
+		<ul id="toc-Production_discography-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Sir Jinx</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 5 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-5" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">5 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Sir_Jinx" title="Sir Jinx – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-ig mw-list-item"><a href="https://ig.wikipedia.org/wiki/Sir_Jinx" title="Sir Jinx – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target"><span>Igbo</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B1_%DA%86%D9%8A%D9%86%D9%83%D8%B3" title="سير چينكس – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Sir_Jinx" title="Sir Jinx – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Sir_Jinx" title="Sir Jinx – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7527533#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Sir_Jinx" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Sir_Jinx" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Sir_Jinx"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Sir_Jinx&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Sir_Jinx&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Sir_Jinx"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Sir_Jinx&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Sir_Jinx&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Sir_Jinx" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Sir_Jinx" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Sir_Jinx&amp;oldid=1167574328" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Sir_Jinx&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sir_Jinx&amp;id=1167574328&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7527533" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Sir_Jinx&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Sir_Jinx&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American hip hop producer</div>
+<p class="mw-empty-elt">
+
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard plainlist"><tbody><tr><th colspan="2" class="infobox-above" style="background-color: #b0c4de; font-size: 125%;"><div class="">Sir Jinx</div></th></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Birth name</span></th><td class="infobox-data nickname">Anthony D. Wheaton</td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Also known as</span></th><td class="infobox-data nickname">Jinx</td></tr><tr><th scope="row" class="infobox-label">Origin</th><td class="infobox-data"><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a href="/wiki/California" title="California">California</a>, U.S.</td></tr><tr><th scope="row" class="infobox-label">Genres</th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist"><ul><li><a href="/wiki/West_Coast_hip_hop" title="West Coast hip hop">West Coast hip hop</a></li><li><a href="/wiki/Gangsta_rap" title="Gangsta rap">gangsta rap</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Occupations</th><td class="infobox-data role"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li>Record producer</li><li>disc jockey</li><li>rapper</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><span class="nowrap">Years active</span></th><td class="infobox-data">1986–present</td></tr><tr><th scope="row" class="infobox-label">Labels</th><td class="infobox-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><div class="hlist"><ul><li><a href="/wiki/Priority_Records" title="Priority Records">Priority</a></li><li><a href="/wiki/EMI_Records" title="EMI Records">EMI</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Formerly of</th><td class="infobox-data"><a href="/wiki/C.I.A._(group)" class="mw-redirect" title="C.I.A. (group)">C.I.A.</a></td></tr></tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Musical artist</div>
+<p><b>Anthony Wheaton</b>, professionally known by his stage name <b>Sir Jinx</b>, is an American <a href="/wiki/Hip_hop_music" title="Hip hop music">hip hop</a> producer and rapper from Los Angeles. He is a cousin of multi-platinum producer <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>. He began his career as a member of the <a href="/wiki/C.I.A._(band)" title="C.I.A. (band)">C.I.A.</a> in the mid-80s with <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a> and <a href="/wiki/K-Dee" title="K-Dee">Kid Disaster</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> He produced tracks for the likes of <a href="/wiki/Dazzie_Dee" title="Dazzie Dee">Dazzie Dee</a>, <a href="/wiki/Westside_Connection" title="Westside Connection">Westside Connection</a>, <a href="/wiki/Too_Short" title="Too Short">Too Short</a>, <a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>, <a href="/wiki/Tone_Loc" title="Tone Loc">Tone Loc</a>, <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>, <a href="/wiki/CeCe_Peniston" title="CeCe Peniston">CeCe Peniston</a>, <a href="/wiki/Xzibit" title="Xzibit">Xzibit</a> and <a href="/wiki/Kurupt" title="Kurupt">Kurupt</a> among others, and also remixed songs for <a href="/wiki/Rage_Against_the_Machine" title="Rage Against the Machine">Rage Against the Machine</a>, <a href="/wiki/Public_Enemy" title="Public Enemy">Public Enemy</a> and <a href="/wiki/Toni_Braxton" title="Toni Braxton">Toni Braxton</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Jinx&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1980s">1980s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Jinx&amp;action=edit&amp;section=2" title="Edit section: 1980s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Anthony "Sir Jinx" Wheaton began his career in the mid-80s as a part of hip hop duo the Stereo Crew with fellow rapper <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>. They were signed with <a href="/wiki/Epic_Records" title="Epic Records">Epic Records</a> and released their debut single "She's a Skag" in 1986, which was produced by Wheaton's cousin <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a> and Dre's <a href="/wiki/World_Class_Wreckin%27_Cru" title="World Class Wreckin&#39; Cru">World Class Wreckin' Cru</a> bandmate <a href="/wiki/Alonzo_Williams" title="Alonzo Williams">Alonzo Williams</a>. Poor single sales caused them to be soon dropped off of the label. Joined by fellow rapper <a href="/wiki/K-Dee" title="K-Dee">Kid Disaster</a>, they were picked by Kru-Cut Records and changed the group's name to <a href="/wiki/C.I.A._(band)" title="C.I.A. (band)">C.I.A.</a> In 1987 the trio released their single "<a href="/wiki/My_Posse" title="My Posse">My Posse</a>" and appeared on the cover of <i><a href="/wiki/N.W.A._and_the_Posse" title="N.W.A. and the Posse">N.W.A. and the Posse</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Cube and Dre have been focused on forming <a href="/wiki/N.W.A" title="N.W.A">N.W.A</a>, which led to disband the C.I.A. Wheaton produced fellow rapper <a href="/wiki/Dazzie_Dee" title="Dazzie Dee">Dazzie Dee</a>'s first extended play <i>Turn It Loose</i>, released in 1989.
+</p>
+<h3><span class="mw-headline" id="1990s">1990s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Jinx&amp;action=edit&amp;section=3" title="Edit section: 1990s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When Cube left N.W.A and <a href="/wiki/Ruthless_Records" title="Ruthless Records">Ruthless Records</a> over a financial dispute, all the former C.I.A. members along with several other artists formed the Lench Mob posse on Cube's founded <a href="/wiki/Lench_Mob_Records" title="Lench Mob Records">Lench Mob Records</a> label. Wheaton and Cube in collaboration with <a href="/wiki/Chilly_Chill" title="Chilly Chill">Chilly Chill</a> and New York-based <a href="/wiki/Hip_hop_production" title="Hip hop production">hip hop production</a> team <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a> produced Ice Cube's debut solo studio album <i><a href="/wiki/AmeriKKKa%27s_Most_Wanted" title="AmeriKKKa&#39;s Most Wanted">AmeriKKKa's Most Wanted</a></i> and the follow-up <i><a href="/wiki/Kill_at_Will" title="Kill at Will">Kill at Will</a></i> EP, both released in 1990. Both these projects were certified Platinum by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>. Same year Wheaton produced "Ain't Nothin' but a Word to Me", the only song from <a href="/wiki/Too_Short" title="Too Short">Too Short</a>'s <a href="/wiki/Short_Dog%27s_in_the_House" title="Short Dog&#39;s in the House">Short Dog's in the House</a> album that has a featured <a href="/wiki/Guest_appearance" title="Guest appearance">guest appearance</a> (by Ice Cube).
+</p><p>In 1991, Wheaton produced a significant number of songs on <a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>'s <i><a href="/wiki/Make_Way_for_the_Motherlode" title="Make Way for the Motherlode">Make Way for the Motherlode</a></i>, <a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>'s <i><a href="/wiki/Ain%27t_a_Damn_Thang_Changed" title="Ain&#39;t a Damn Thang Changed">Ain't a Damn Thang Changed</a></i>, and Ice Cube's <i><a href="/wiki/Death_Certificate_(album)" title="Death Certificate (album)">Death Certificate</a></i>, including NWA <a href="/wiki/Diss_(music)" title="Diss (music)">diss track</a> "<a href="/wiki/No_Vaseline" title="No Vaseline">No Vaseline</a>". He also produced "How to Survive in South Central", a Cube's song from <i><a href="/wiki/Boyz_n_the_Hood" title="Boyz n the Hood">Boyz n the Hood</a></i> <a href="/wiki/Boyz_n_the_Hood_(soundtrack)" title="Boyz n the Hood (soundtrack)">soundtrack</a>, and <a href="/wiki/Tone_L%C5%8Dc" class="mw-redirect" title="Tone Lōc">Tone Lōc</a> "I Adore You". Continuing into 1992 with Cube's <i><a href="/wiki/The_Predator_(Ice_Cube_album)" class="mw-redirect" title="The Predator (Ice Cube album)">The Predator</a></i> and <a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>'s 1992 <i><a href="/wiki/Black_Pearl_(Yo-Yo_album)" title="Black Pearl (Yo-Yo album)">Black Pearl</a></i>, Wheaton stepped onto <a href="/wiki/East_Coast_hip_hop" title="East Coast hip hop">East Coast hip hop</a> scene producing the majority of <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>'s final studio album with DJ Polo <i><a href="/wiki/Live_and_Let_Die_(album)" title="Live and Let Die (album)">Live and Let Die</a></i>, and also managed to provide additional production on two tracks for <a href="/wiki/George_Clinton_(funk_musician)" title="George Clinton (funk musician)">George Clinton</a>'s son Trey Lewd's <i>Drop the Line</i>, and to produce the title track for <i><a href="/wiki/Trespass_(soundtrack)" title="Trespass (soundtrack)">Music from the Motion Picture Trespass</a></i>. Sir Jinx created remixes for <a href="/wiki/Rap_rock" title="Rap rock">rap-rock</a> outfits such as <a href="/wiki/Rage_Against_the_Machine" title="Rage Against the Machine">Rage Against the Machine</a>'s "<a href="/wiki/Guerrilla_Radio" title="Guerrilla Radio">Guerrilla Radio</a> (Sir Jinx Edit)", "<a href="/wiki/Bullet_in_the_Head_(song)" title="Bullet in the Head (song)">Bullet in the Head</a> (Sir Jinx Remix)", and the unreleased "<a href="/wiki/Bombtrack" title="Bombtrack">Bombtrack</a> (Remix)", all of which were recorded in 1992.
+</p><p>After producing a couple of tracks on Ice Cube's 1993 album <i><a href="/wiki/Lethal_Injection_(album)" title="Lethal Injection (album)">Lethal Injection</a></i>, Wheaton stopped working with Cube and his group <a href="/wiki/Da_Lench_Mob" title="Da Lench Mob">Da Lench Mob</a> due to their controversial direction.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">&#91;3&#93;</a></sup> He moved on to producing for R&amp;B-oriented solo acts such as <a href="/wiki/CeCe_Peniston" title="CeCe Peniston">CeCe Peniston</a>, <a href="/wiki/Gerald_Levert" title="Gerald Levert">Gerald Levert</a>, <a href="/wiki/Isaac_Hayes" title="Isaac Hayes">Isaac Hayes</a>, <a href="/wiki/Teena_Marie" title="Teena Marie">Teena Marie</a>, and former <a href="/wiki/Bell_Biv_DeVoe" title="Bell Biv DeVoe">Bell Biv DeVoe</a> member <a href="/wiki/Ricky_Bell_(singer)" title="Ricky Bell (singer)">Ricky Bell</a>.
+</p><p>Following a low-profile independent solo album in 1995, Sir Jinx returned to hip hop production on Gooch's 1997 album <i>A Lot on It</i> and <a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>'s 1998 album <i><a href="/wiki/40_Dayz_%26_40_Nightz" title="40 Dayz &amp; 40 Nightz">40 Dayz &amp; 40 Nightz</a></i>. He also helped to produce skits on <a href="/wiki/Tash_(rapper)" title="Tash (rapper)">Tash</a>'s 1999 <i><a href="/wiki/Rap_Life" title="Rap Life">Rap Life</a></i> and helped on Xzibit's 2000 <i><a href="/wiki/Restless_(Xzibit_album)" title="Restless (Xzibit album)">Restless</a></i>.
+</p>
+<h3><span class="mw-headline" id="2000s">2000s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Jinx&amp;action=edit&amp;section=4" title="Edit section: 2000s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wheaton provided production work on a song from comedian <a href="/wiki/Eddie_Griffin" title="Eddie Griffin">Eddie Griffin</a>'s 2003 film <i><a href="/wiki/Dysfunktional_Family" title="Dysfunktional Family">Dysfunktional Family</a></i> <a href="/wiki/Dysfunktional_Family_(soundtrack)" title="Dysfunktional Family (soundtrack)">soundtrack</a>. Same year he produced a couple of tracks on <a href="/wiki/The_Comrads" title="The Comrads">The Comrads</a> member Gangsta album <i>Penitentiary Chances</i>, as well as a <a href="/wiki/Posse_cut" title="Posse cut">posse cut</a> on <a href="/wiki/Westside_Connection" title="Westside Connection">Westside Connection</a>'s album <i><a href="/wiki/Terrorist_Threats" title="Terrorist Threats">Terrorist Threats</a></i>.
+</p><p>Outside of some minor production on <a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>'s 2004 album <i>Originals</i> and 2005 album <i><a href="/wiki/Against_the_Grain_(Kurupt_album)" title="Against the Grain (Kurupt album)">Against the Grain</a></i>, Xzibit's 2004 album <i><a href="/wiki/Weapons_of_Mass_Destruction_(album)" title="Weapons of Mass Destruction (album)">Weapons of Mass Destruction</a></i>, and <a href="/wiki/Ras_Kass" title="Ras Kass">Ras Kass</a>'s 2009 project <i>Quarterly</i>, Sir Jinx was relatively low-key during this period.
+</p>
+<h3><span class="mw-headline" id="2010s">2010s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Jinx&amp;action=edit&amp;section=5" title="Edit section: 2010s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2010, Wheaton produced a song for <a href="/wiki/Sadat_X" title="Sadat X">Sadat X</a>'s <i>Wild Cowboys II</i> album, as well as the track "Life in California" from Ice Cube's <i><a href="/wiki/I_Am_the_West" title="I Am the West">I Am the West</a></i> album, which marked the first time Sir Jinx and Cube had worked together on any new material together in several years. In an October 2010 interview for <a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a>,<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3">&#91;3&#93;</a></sup> Wheaton stated that he was going to help produce cousin Dr. Dre's <a href="/wiki/Development_hell" title="Development hell">long-awaited</a> release <i><a href="/wiki/Detox_(Dr._Dre_album)" class="mw-redirect" title="Detox (Dr. Dre album)">Detox</a></i>. In spite of his relation to Dr. Dre, this is the first album the two have worked on together.
+</p><p>Sir Jinx collaborated with Tri Star and Dat Boi Hop to form General Population. The group released their album <i>Sir Jinx Presents General Population: Rime Scene</i> in 2011 featuring guest appearances from <a href="/wiki/Butch_Cassidy_(singer)" title="Butch Cassidy (singer)">Butch Cassidy</a>, <a href="/wiki/Roscoe_(rapper)" title="Roscoe (rapper)">Roscoe</a>, <a href="/wiki/Devin_the_Dude" title="Devin the Dude">Devin the Dude</a>, <a href="/wiki/Jayo_Felony" title="Jayo Felony">Jayo Felony</a>, Kurupt, Ras Kass. The following year, Jinx produced the entire Tri Star's project <i>Trilogy</i>. Together with <a href="/wiki/Mike_%26_Keys" title="Mike &amp; Keys">Mike &amp; Keys</a>, Jinx produced debut <a href="/wiki/Serial_Killers_(musical_group)" title="Serial Killers (musical group)">Serial Killers</a> single "First 48". In 2016, he and Dre produced T.I.'s non-album single "Dope", which featured vocals by <a href="/wiki/Marsha_Ambrosius" title="Marsha Ambrosius">Marsha Ambrosius</a>.
+</p>
+<h3><span class="mw-headline" id="2020s">2020s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Jinx&amp;action=edit&amp;section=6" title="Edit section: 2020s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Reports have surfaced that Sir Jinx is now suing Ice Cube for unpaid royalties.
+</p>
+<h3><span class="mw-headline" id="Film_and_television">Film and television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Jinx&amp;action=edit&amp;section=7" title="Edit section: Film and television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sir Jinx has made appearances co-hosting <a href="/wiki/BET" title="BET">BET</a>'s <a href="/wiki/Rap_City" title="Rap City">Rap City</a>: Tha Basement.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2021)">citation needed</span></a></i>&#93;</sup>
+</p><p>He has also DJ'ed for various TV shows including <i><a href="/wiki/Jimmy_Kimmel_Live!" title="Jimmy Kimmel Live!">Jimmy Kimmel Live!</a></i> and "The <a href="/wiki/Orlando_Jones" title="Orlando Jones">Orlando Jones</a> Show".<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2021)">citation needed</span></a></i>&#93;</sup>
+</p><p>In 1993, Sir Jinx had a cameo in <a href="/wiki/John_Singleton" title="John Singleton">John Singleton</a>'s romantic drama film <i><a href="/wiki/Poetic_Justice_(film)" title="Poetic Justice (film)">Poetic Justice</a></i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2021)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Production_discography">Production discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Jinx&amp;action=edit&amp;section=8" title="Edit section: Production discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Year
+</th>
+<th>Song
+</th>
+<th>Artist
+</th>
+<th>Album
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>1988
+</td>
+<td>"Turn It Loose"
+</td>
+<td rowspan="3"><a href="/wiki/Dazzie_Dee" title="Dazzie Dee">Dazzie Dee</a>
+</td>
+<td rowspan="3"><i>Turn It Loose</i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td rowspan="2">1989
+</td>
+<td>"You Better Think"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Slipping into Darkness"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td rowspan="20">1990
+</td>
+<td>"Better Off Dead"
+</td>
+<td rowspan="7"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td rowspan="16"><i><a href="/wiki/AmeriKKKa%27s_Most_Wanted" title="AmeriKKKa&#39;s Most Wanted">AmeriKKKa's Most Wanted</a></i>
+</td>
+<td>prod. w/ <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"The Nigga Ya Love to Hate"
+</td>
+<td rowspan="4">prod. by <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a>; co-prod. w/ <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"AmeriKKKa's Most Wanted"
+</td></tr>
+<tr>
+<td>"What They Hittin' Foe?"
+</td></tr>
+<tr>
+<td>"You Can't Fade Me"
+</td></tr>
+<tr>
+<td>"Once Upon a Time in the Projects"
+</td>
+<td>co-prod. by <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a>
+</td></tr>
+<tr>
+<td>"Turn Off the Radio"
+</td>
+<td rowspan="2">prod. by <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a>; co-prod. w/ <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"Endangered Species (Tales from the Darkside)"
+</td>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/Chuck_D" title="Chuck D">Chuck D</a>
+</td></tr>
+<tr>
+<td>"A Gangsta's Fairytale"
+</td>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, Lil Russ
+</td>
+<td rowspan="2">prod. w/ <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>; co-prod. by <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a>
+</td></tr>
+<tr>
+<td>"I'm Only Out for One Thang"
+</td>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/Flavor_Flav" title="Flavor Flav">Flavor Flav</a>
+</td></tr>
+<tr>
+<td>"Get Off My Dick and Tell Yo Bitch to Come Here"
+</td>
+<td rowspan="4"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td>prod. by <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a>; co-prod. w/ <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"The Drive-By"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Rollin' Wit the Lench Mob"
+</td>
+<td>prod. by <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a>; co-prod. w/ <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"Who's the Mack?"
+</td>
+<td>prod. w/ <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a>
+</td></tr>
+<tr>
+<td>"It's a Man's World"
+</td>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>
+</td>
+<td>prod. w/ <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"The Bomb"
+</td>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td>co-prod. by <a href="/wiki/The_Bomb_Squad" title="The Bomb Squad">The Bomb Squad</a>
+</td></tr>
+<tr>
+<td>"Ain't Nothin' but a Word to Me"
+</td>
+<td><a href="/wiki/Too_Short" title="Too Short">Too $hort</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td><i><a href="/wiki/Short_Dog%27s_in_the_House" title="Short Dog&#39;s in the House">Short Dog's in the House</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Jackin' for Beats"
+</td>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/Del_the_Funky_Homosapien" title="Del the Funky Homosapien">Del the Funky Homosapien</a>
+</td>
+<td rowspan="3"><i><a href="/wiki/Kill_at_Will" title="Kill at Will">Kill at Will</a></i>
+</td>
+<td>prod. w/ <a href="/wiki/Chilly_Chill" title="Chilly Chill">Chilly Chill</a>
+</td></tr>
+<tr>
+<td>"The Product"
+</td>
+<td rowspan="2"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"I Gotta Say What Up!!!"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td rowspan="43">1991
+</td>
+<td>"Stand up for Your Rights"
+</td>
+<td><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>, Ricky Harris, Tamika Ingram, Threat
+</td>
+<td rowspan="16"><i><a href="/wiki/Make_Way_for_the_Motherlode" title="Make Way for the Motherlode">Make Way for the Motherlode</a></i>
+</td>
+<td rowspan="17">prod. w/ <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"Stompin' to the '90s"
+</td>
+<td><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>
+</td></tr>
+<tr>
+<td>"You Can't Play with My Yo Yo"
+</td>
+<td><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"Cube Gets Played"
+</td>
+<td>Ricky Harris
+</td></tr>
+<tr>
+<td>"Put a Lid on It"
+</td>
+<td><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>
+</td></tr>
+<tr>
+<td>"What Can I Do?"
+</td>
+<td><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"Dedication"
+</td>
+<td>LA Jay, Ricky Harris
+</td></tr>
+<tr>
+<td>"Sisterland"
+</td>
+<td><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>
+</td></tr>
+<tr>
+<td>"The I.B.W.C. National Anthem"
+</td>
+<td><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>, Sparkles, Dawn, Diamond
+</td></tr>
+<tr>
+<td>"Make Way for the Motherlode"
+</td>
+<td><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>
+</td></tr>
+<tr>
+<td>"Tonight's the Night"
+</td>
+<td><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>, <a href="/wiki/Dazzie_Dee" title="Dazzie Dee">Dazzie Dee</a>
+</td></tr>
+<tr>
+<td>"I Got Played"
+</td>
+<td rowspan="3"><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>
+</td></tr>
+<tr>
+<td>"Girl, Don't Be No Fool"
+</td></tr>
+<tr>
+<td>"Ain't Nobody Better"
+</td></tr>
+<tr>
+<td>"Outro"
+</td>
+<td>Ricky Harris
+</td></tr>
+<tr>
+<td>"More of What I Can Do"
+</td>
+<td>Sir Jinx
+</td></tr>
+<tr>
+<td>"How to Survive in South Central"
+</td>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td><i><a href="/wiki/Boyz_n_the_Hood_(soundtrack)" title="Boyz n the Hood (soundtrack)">Boyz n the Hood (Music From the Motion Picture)</a></i>
+</td></tr>
+<tr>
+<td>"(Everybody) Get Up"
+</td>
+<td><a href="/wiki/Roger_Troutman" title="Roger Troutman">Roger Troutman</a>
+</td>
+<td><i><a href="/wiki/Bridging_the_Gap_(Roger_Troutman_album)" title="Bridging the Gap (Roger Troutman album)">Bridging the Gap</a></i>
+</td>
+<td>add. prod.; prod. by <a href="/wiki/David_Gamson" title="David Gamson">David Gamson</a> &amp; <a href="/wiki/Roger_Troutman" title="Roger Troutman">Roger Troutman</a>
+</td></tr>
+<tr>
+<td>"Intro"
+</td>
+<td rowspan="2"><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>
+</td>
+<td rowspan="14"><i><a href="/wiki/Ain%27t_a_Damn_Thang_Changed" title="Ain&#39;t a Damn Thang Changed">Ain't a Damn Thang Changed</a></i>
+</td>
+<td>prod. w/ DJ <a href="/wiki/Crazy_Toones" title="Crazy Toones">Crazy Toones</a>
+</td></tr>
+<tr>
+<td>"Ain't a Damn Thang Changed"
+</td>
+<td rowspan="2">prod. w/ <a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a>; co-prod. by <a href="/wiki/Chilly_Chill" title="Chilly Chill">Chilly Chill</a> &amp; DJ <a href="/wiki/Crazy_Toones" title="Crazy Toones">Crazy Toones</a>
+</td></tr>
+<tr>
+<td>"Behind Closed Doors"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>, Dawn Silva, Jackie Simley, M.L. Davis
+</td></tr>
+<tr>
+<td>"Out on a Furlough"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>, Cassanova Jeff, <a href="/wiki/Chilly_Chill" title="Chilly Chill">Chilly Chill</a>, Jazzy D, Mike
+</td>
+<td>prod. w/ <a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a>; co-prod. by DJ <a href="/wiki/Crazy_Toones" title="Crazy Toones">Crazy Toones</a>
+</td></tr>
+<tr>
+<td>"Caught n a Fad"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>
+</td>
+<td>prod. w/ <a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a>; co-prod. by <a href="/wiki/Chilly_Chill" title="Chilly Chill">Chilly Chill</a>
+</td></tr>
+<tr>
+<td>"Fuck My Daddy"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>, Foe Doe Taylor, Lil' Dee
+</td>
+<td rowspan="2">prod. w/ <a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a>
+</td></tr>
+<tr>
+<td>"Get up on That Funk"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>, Jazzy D
+</td></tr>
+<tr>
+<td>"Gettin' Looped / Dress Code"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>
+</td>
+<td>prod. w/ <a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a>; co-prod. by <a href="/wiki/Chilly_Chill" title="Chilly Chill">Chilly Chill</a> &amp; DJ <a href="/wiki/Crazy_Toones" title="Crazy Toones">Crazy Toones</a>
+</td></tr>
+<tr>
+<td>"Smokers La La Bye"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>, Kaeco
+</td>
+<td>prod. w/ DJ <a href="/wiki/Crazy_Toones" title="Crazy Toones">Crazy Toones</a>
+</td></tr>
+<tr>
+<td>"You Don't Work, U Don't Eat"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>, J-Dee, <a href="/wiki/MC_Eiht" title="MC Eiht">MC Eiht</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td>prod. w/ <a href="/wiki/Chilly_Chill" title="Chilly Chill">Chilly Chill</a> &amp; DJ <a href="/wiki/Crazy_Toones" title="Crazy Toones">Crazy Toones</a>
+</td></tr>
+<tr>
+<td>"Grandma Locked Out (Skit)"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Ghetto Serenade"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>
+</td>
+<td>prod. w/ <a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a>; co-prod. by DJ <a href="/wiki/Crazy_Toones" title="Crazy Toones">Crazy Toones</a>
+</td></tr>
+<tr>
+<td>"Back to the Underground"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>
+</td>
+<td>prod. w/ <a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a>
+</td></tr>
+<tr>
+<td>"A Soldiers Story"
+</td>
+<td><a href="/wiki/WC_and_the_Maad_Circle" title="WC and the Maad Circle">WC and the Maad Circle</a>, Dawn Silva, Jackie Simley, M.L. Davis
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"The Funeral (Intro)"
+</td>
+<td rowspan="4"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td rowspan="10"><i><a href="/wiki/Death_Certificate_(album)" title="Death Certificate (album)">Death Certificate</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"The Wrong Nigga to Fuck Wit"
+</td>
+<td>prod. w/ <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"Robin Lench (Interlude)"
+</td>
+<td>prod. w/ Boogiemen
+</td></tr>
+<tr>
+<td>"Look Who's Burnin'"
+</td>
+<td rowspan="7">prod. w/ <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"The Birth"
+</td>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/Khalid_Abdul_Muhammad" title="Khalid Abdul Muhammad">Khalid Abdul Muhammad</a>
+</td></tr>
+<tr>
+<td>"I Wanna Kill Sam"
+</td>
+<td rowspan="5"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"Black Korea"
+</td></tr>
+<tr>
+<td>"<a href="/wiki/True_to_the_Game" title="True to the Game">True to the Game</a>"
+</td></tr>
+<tr>
+<td>"Us"
+</td></tr>
+<tr>
+<td>"<a href="/wiki/No_Vaseline" title="No Vaseline">No Vaseline</a>"
+</td></tr>
+<tr>
+<td>"I Adore You"
+</td>
+<td><a href="/wiki/Tone_L%C5%8Dc" class="mw-redirect" title="Tone Lōc">Tone Lōc</a>
+</td>
+<td><i><a href="/wiki/Cool_Hand_L%C5%8Dc" title="Cool Hand Lōc">Cool Hand Lōc</a></i>
+</td>
+<td>prod. w/ <a href="/wiki/Tone_L%C5%8Dc" class="mw-redirect" title="Tone Lōc">Tone Lōc</a>
+</td></tr>
+<tr>
+<td rowspan="23">1992
+</td>
+<td>"You Should Have Listened"
+</td>
+<td rowspan="3"><a href="/wiki/Yo-Yo_(rapper)" title="Yo-Yo (rapper)">Yo-Yo</a>
+</td>
+<td rowspan="3"><i><a href="/wiki/Black_Pearl_(Yo-Yo_album)" title="Black Pearl (Yo-Yo album)">Black Pearl</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"I Can't Take No More"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Will You Be Mine"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Fuck 'Em (Insert)"
+</td>
+<td rowspan="3"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td rowspan="3"><i><a href="/wiki/The_Predator_(Ice_Cube_album)" class="mw-redirect" title="The Predator (Ice Cube album)">The Predator</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Who Got the Camera?"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Say Hi to the Bad Guy"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Intro"
+</td>
+<td rowspan="6"><a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>, DJ Polo
+</td>
+<td rowspan="14"><i><a href="/wiki/Live_and_Let_Die_(album)" title="Live and Let Die (album)">Live and Let Die</a></i>
+</td>
+<td rowspan="14">prod. w/ <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>
+</td></tr>
+<tr>
+<td>"On the Run"
+</td></tr>
+<tr>
+<td>"Live and Let Die"
+</td></tr>
+<tr>
+<td>"Crime Pays"
+</td></tr>
+<tr>
+<td>"Home Sweet Home"
+</td></tr>
+<tr>
+<td>"Train Robbery"
+</td></tr>
+<tr>
+<td>"#1 with a Bullet"
+</td>
+<td><a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>, DJ Polo, <a href="/wiki/Big_Daddy_Kane" title="Big Daddy Kane">Big Daddy Kane</a>
+</td></tr>
+<tr>
+<td>"Operation CB"
+</td>
+<td rowspan="6"><a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>, DJ Polo
+</td></tr>
+<tr>
+<td>"Go for Your Guns"
+</td></tr>
+<tr>
+<td>"Letters"
+</td></tr>
+<tr>
+<td>"Nuff Said"
+</td></tr>
+<tr>
+<td>"Edge of Sanity"
+</td></tr>
+<tr>
+<td>"Still Wanted Dead or Alive"
+</td></tr>
+<tr>
+<td>"Two to the Head"
+</td>
+<td><a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>, DJ Polo, <a href="/wiki/Scarface_(rapper)" title="Scarface (rapper)">Scarface</a>, <a href="/wiki/Bushwick_Bill" title="Bushwick Bill">Bushwick Bill</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td></tr>
+<tr>
+<td>"Trespass"
+</td>
+<td><a href="/wiki/Ice-T" title="Ice-T">Ice-T</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td><i><a href="/wiki/Trespass_(soundtrack)" title="Trespass (soundtrack)">Music from the Motion Picture Trespass</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"I'll Be Good to You"
+</td>
+<td>Trey Lewd, <a href="/wiki/Dazzie_Dee" title="Dazzie Dee">Dazzie Dee</a>
+</td>
+<td rowspan="2"><i>Drop the Line</i>
+</td>
+<td>add. prod.; prod. by Trey Lewd
+</td></tr>
+<tr>
+<td>"Hoodlum Who Ride"
+</td>
+<td>Trey Lewd
+</td>
+<td>add. prod.
+</td></tr>
+<tr>
+<td rowspan="2">1993
+</td>
+<td>"The Shot (Intro)"
+</td>
+<td rowspan="2"><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td rowspan="2"><i><a href="/wiki/Lethal_Injection_(album)" title="Lethal Injection (album)">Lethal Injection</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Lil Ass Gee"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td rowspan="3">1994
+</td>
+<td>"Whatever It Is"
+</td>
+<td rowspan="3"><a href="/wiki/CeCe_Peniston" title="CeCe Peniston">CeCe Peniston</a>
+</td>
+<td rowspan="3"><i><a href="/wiki/Thought_%27Ya_Knew" title="Thought &#39;Ya Knew">Thought 'Ya Knew</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Give What I'm Givin'"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Maybe It's the Way"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td rowspan="24">1995
+</td>
+<td>"Higher"
+</td>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>
+</td>
+<td><i><a href="/wiki/Higher_Learning_(soundtrack)" title="Higher Learning (soundtrack)">Music from the Motion Picture Higher Learning</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Intro"
+</td>
+<td>Sir Jinx
+</td>
+<td rowspan="23"><i>Chastisement (Deez Days)</i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"All About Money"
+</td>
+<td>Sir Jinx, <a href="/wiki/Isaac_Hayes" title="Isaac Hayes">Isaac Hayes</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"I Putz It Down"
+</td>
+<td rowspan="4">Sir Jinx
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"City Never Sleepz"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"No Love"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Ain't Givin' Up No Love"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Right Here"
+</td>
+<td>Sir Jinx, Ray Shawn
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Pic-A-Nic"
+</td>
+<td>Sir Jinx, <a href="/wiki/Gerald_Levert" title="Gerald Levert">Gerald Levert</a>
+</td>
+<td>co-prod. by Craze
+</td></tr>
+<tr>
+<td>"Rally Park"
+</td>
+<td>Sir Jinx, Aaron P., Chuck Daddy, Ray Shawn
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Insert: Old School Robin Lench Iz Back (With a Twisted)"
+</td>
+<td rowspan="9">Sir Jinx
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Who'z da Man (Sir Jinx's Theme Song)"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Life Stylez"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Sho-Nuff"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Come Blaze wit Me"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Insert: Phone Call"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Don't Get It Twisted"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Insert: Beaz &amp; Nigz"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Beaz &amp; Nigz"
+</td>
+<td>co-prod. by Aaron P.
+</td></tr>
+<tr>
+<td>"Whoz Watching Who"
+</td>
+<td>Sir Jinx, Madd K.D.
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Free Your Mind"
+</td>
+<td rowspan="4">Sir Jinx
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"The Mindstate"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Insert: Power to the People"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Power to the People"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td rowspan="19">1997
+</td>
+<td>"Intro"
+</td>
+<td>Gooch, <a href="/wiki/Ike_Turner" title="Ike Turner">Ike Turner</a>
+</td>
+<td rowspan="19"><i>A Lot on It</i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Keep It on the Down Low"
+</td>
+<td>Gooch, Faizon Love, Torry Woods
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Sponsorin' Hoez (Insert)"
+</td>
+<td>Gooch
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"West Coast Playa"
+</td>
+<td>Gooch, Sir Jinx
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Black Wednesday"
+</td>
+<td rowspan="2">Gooch
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"The Game Ain't the Same"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Fifty Wayz"
+</td>
+<td>Gooch, <a href="/wiki/Kool_G_Rap" title="Kool G Rap">Kool G Rap</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Night Life"
+</td>
+<td rowspan="3">Gooch
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Hay"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"A Lot on It"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Come Back to Me"
+</td>
+<td>Gooch, <a href="/wiki/Ricky_Bell_(singer)" title="Ricky Bell (singer)">Ricky Bell</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Where I've Been"
+</td>
+<td rowspan="6">Gooch
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Wishin' for a Star"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Something's Going Down"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"When It's Late"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Put My Hands on You (Insert)"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Baby Mama"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"The Message from Beyond"
+</td>
+<td><a href="/wiki/Tupac_Shakur" title="Tupac Shakur">2Pac</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"L.I.F.E."
+</td>
+<td>Gooch
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td rowspan="8">1998
+</td>
+<td>"The Last Night (Intro)"
+</td>
+<td rowspan="7"><a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>
+</td>
+<td rowspan="8"><i><a href="/wiki/40_Dayz_%26_40_Nightz" title="40 Dayz &amp; 40 Nightz">40 Dayz &amp; 40 Nightz</a></i>
+</td>
+<td rowspan="2">prod. w/ <a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>
+</td></tr>
+<tr>
+<td>"Chamber Music"
+</td></tr>
+<tr>
+<td>"Chronic Keeping 101 (Interlude)"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Shroomz"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Jason (48 Months Interlude)"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Inside Job"
+</td>
+<td>prod. w/ Pockets
+</td></tr>
+<tr>
+<td>"Outro"
+</td>
+<td>prod. w/ <a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>
+</td></tr>
+<tr>
+<td>"Don't Let the Money Make You"
+</td>
+<td><a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>, <a href="/wiki/King_T" title="King T">King Tee</a>, <a href="/wiki/Soopafly" title="Soopafly">Soopafly</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td rowspan="3">1999
+</td>
+<td>"Cops" (Skit)
+</td>
+<td rowspan="2"><a href="/wiki/Tash_(rapper)" title="Tash (rapper)">Tash</a>
+</td>
+<td rowspan="3"><i><a href="/wiki/Rap_Life" title="Rap Life">Rap Life</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Game Show" (Skit)
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Goggles" (Skit)
+</td>
+<td><a href="/wiki/Tash_(rapper)" title="Tash (rapper)">Tash</a>, Danielle O'Donnell, <a href="/wiki/E-Swift" class="mw-redirect" title="E-Swift">E-Swift</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>2000
+</td>
+<td>"Intro/Restless"
+</td>
+<td><a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>
+</td>
+<td><i><a href="/wiki/Restless_(Xzibit_album)" title="Restless (Xzibit album)">Restless</a></i>
+</td>
+<td>prod. w/ Thayod Ausar
+</td></tr>
+<tr>
+<td rowspan="4">2003
+</td>
+<td>"Dys-Funk-Tional"
+</td>
+<td><a href="/wiki/Eddie_Griffin" title="Eddie Griffin">Eddie Griffin</a>, <a href="/wiki/Spider_Loc" title="Spider Loc">Spider Loc</a>
+</td>
+<td><i><a href="/wiki/Dysfunktional_Family_(soundtrack)" title="Dysfunktional Family (soundtrack)">Dysfunktional Family</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"G.A.N.G.S.T.A." (Intro)
+</td>
+<td>Gangsta
+</td>
+<td rowspan="2"><i>Penitentiary Chances</i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"On Me"
+</td>
+<td>Gangsta, <a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a>, <a href="/wiki/Kokane" title="Kokane">Kokane</a>
+</td>
+<td>prod. w/ Dae One
+</td></tr>
+<tr>
+<td>"Bangin' at the Party"
+</td>
+<td><a href="/wiki/Westside_Connection" title="Westside Connection">Westside Connection</a>, <a href="/wiki/K-Mac" class="mw-redirect" title="K-Mac">K-Mac</a>, Skoop Delania, Deviossi
+</td>
+<td><i><a href="/wiki/Terrorist_Threats" title="Terrorist Threats">Terrorist Threats</a></i>
+</td>
+<td>prod. w/ DJ Jamal
+</td></tr>
+<tr>
+<td rowspan="3">2004
+</td>
+<td>"Final Testament"
+</td>
+<td><a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>, CJ Ginavece, Keitarock
+</td>
+<td rowspan="2"><i>Originals</i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Bang'n My Amps"
+</td>
+<td><a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"L.A.X."
+</td>
+<td><a href="/wiki/Xzibit" title="Xzibit">Xzibit</a>
+</td>
+<td><i><a href="/wiki/Weapons_of_Mass_Destruction_(album)" title="Weapons of Mass Destruction (album)">Weapons of Mass Destruction</a></i>
+</td>
+<td>prod. w/ Tha Real Mystro
+</td></tr>
+<tr>
+<td rowspan="2">2005
+</td>
+<td>"Stalkin'"
+</td>
+<td><a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>
+</td>
+<td rowspan="2"><i><a href="/wiki/Against_the_Grain_(Kurupt_album)" title="Against the Grain (Kurupt album)">Against the Grain</a></i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Hustlin'"
+</td>
+<td><a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>, Big Tri, Young Tone
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>2009
+</td>
+<td>"Started Sumthin"
+</td>
+<td><a href="/wiki/Ras_Kass" title="Ras Kass">Ras Kass</a>, <a href="/wiki/Krondon" title="Krondon">Krondon</a>, Maria
+</td>
+<td><i>Quarterly</i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td rowspan="2">2010
+</td>
+<td>"Pray"
+</td>
+<td><a href="/wiki/Sadat_X" title="Sadat X">Sadat X</a>, Umi, <a href="/wiki/M-1_(rapper)" title="M-1 (rapper)">M-1</a>, <a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>, Sir Jinx
+</td>
+<td><i>Wild Cowboys II</i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Life In California"
+</td>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, <a href="/wiki/Jayo_Felony" title="Jayo Felony">Jayo Felony</a>, <a href="/wiki/WC_(rapper)" title="WC (rapper)">WC</a>
+</td>
+<td><i><a href="/wiki/I_Am_the_West" title="I Am the West">I Am the West</a></i>
+</td>
+<td>prod. w/ Dae One
+</td></tr>
+<tr>
+<td rowspan="16">2011
+</td>
+<td>"(Intro) 3:00 P.M."
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop
+</td>
+<td rowspan="16"><i>Sir Jinx Presents General Population: Rime Scene</i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Rime Scene"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop, <a href="/wiki/Jayo_Felony" title="Jayo Felony">Jayo Felony</a>
+</td>
+<td>prod. w/ Trevor Lawrence Jr.
+</td></tr>
+<tr>
+<td>"Die Making Money"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop, Brandi Kane
+</td>
+<td>prod. w/ Tha Futuristik
+</td></tr>
+<tr>
+<td>"Fate"
+</td>
+<td rowspan="2">Sir Jinx, Tri Star, Dat Boi Hop
+</td>
+<td>prod. w/ Thayod
+</td></tr>
+<tr>
+<td>"Oh My God"
+</td>
+<td>prod. w/ <a href="/wiki/Jesse_West" title="Jesse West">Jesse West</a>
+</td></tr>
+<tr>
+<td>"In My Footsteps"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop, <a href="/wiki/Roscoe_(rapper)" title="Roscoe (rapper)">Roscoe</a>
+</td>
+<td>prod. w/ DJ Silk
+</td></tr>
+<tr>
+<td>"Gather My Thoughts (Remix)"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop, <a href="/wiki/Devin_the_Dude" title="Devin the Dude">Devin the Dude</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Bump Bump"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop, <a href="/wiki/Roscoe_(rapper)" title="Roscoe (rapper)">Roscoe</a>
+</td>
+<td>prod. w/ Choir Boi
+</td></tr>
+<tr>
+<td>"I Don't Take You Serious"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop, <a href="/wiki/Butch_Cassidy_(singer)" title="Butch Cassidy (singer)">Butch Cassidy</a>
+</td>
+<td>prod. w/ Tha Futuristik
+</td></tr>
+<tr>
+<td>"Fuq Um All Nite"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"That Type of Girl"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop, <a href="/wiki/Butch_Cassidy_(singer)" title="Butch Cassidy (singer)">Butch Cassidy</a>, Choir Boi
+</td>
+<td>prod. w/ Thayod
+</td></tr>
+<tr>
+<td>"Show Me the Money"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop, Damion Cantrell
+</td>
+<td>prod. w/ Track Team
+</td></tr>
+<tr>
+<td>"45 Insert"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop
+</td>
+<td>prod. w/ DJ Rek
+</td></tr>
+<tr>
+<td>"Even the Score"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop, M-Hat
+</td>
+<td>prod. w/ Choir Boi
+</td></tr>
+<tr>
+<td>"Get Somethin' Mane"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop
+</td>
+<td>prod. w/ Tha Futuristik
+</td></tr>
+<tr>
+<td>"The Time Is Now!"
+</td>
+<td>Sir Jinx, Tri Star, Dat Boi Hop, <a href="/wiki/Bone_Crusher_(rapper)" title="Bone Crusher (rapper)">Bone Crusher</a>, E Note, <a href="/wiki/Ras_Kass" title="Ras Kass">Ras Kass</a>, Rodney O
+</td>
+<td>prod. w/ Choir Boi
+</td></tr>
+<tr>
+<td rowspan="17">2012
+</td>
+<td>"It's Time (Intro)"
+</td>
+<td>Tri Star, Brother J
+</td>
+<td rowspan="17"><i>Triology</i>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Look in My Eyes"
+</td>
+<td rowspan="4">Tri Star
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Do a Lil Somthin"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Pulled up to the Curb"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"G Till the Day I Die"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Too Many Chiefs"
+</td>
+<td>Tri Star, <a href="/wiki/Roscoe_(rapper)" title="Roscoe (rapper)">Roscoe</a>, Slo Stallone, Young Bizzle
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"I'm a Rida Man"
+</td>
+<td rowspan="2">Tri Star
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Dirty"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"That's Work"
+</td>
+<td>Tri Star, <a href="/wiki/Roscoe_(rapper)" title="Roscoe (rapper)">Roscoe</a>
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Flip"
+</td>
+<td>Tri Star
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Hennessy"
+</td>
+<td>Tri Star, <a href="/wiki/Kurupt" title="Kurupt">Kurupt</a>, Young Tone
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Stick to Myself"
+</td>
+<td>Tri Star
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"I Will Kill You"
+</td>
+<td>Tri Star, Eastwood
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Loco Crazy"
+</td>
+<td rowspan="4">Tri Star
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Cutlas in My Driveway"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Dress Code Killa"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>"Till the End of Tri (Outro)"
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td>"First 48"
+</td>
+<td><a href="/wiki/Serial_Killers_(musical_group)" title="Serial Killers (musical group)">Serial Killers</a>
+</td>
+<td><i>Serial Killers Vol. 1</i>
+</td>
+<td>prod. w/ <a href="/wiki/Mike_%26_Keys" title="Mike &amp; Keys">Mike &amp; Keys</a>
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td>"Dope"
+</td>
+<td><a href="/wiki/T.I." title="T.I.">T.I.</a>, <a href="/wiki/Marsha_Ambrosius" title="Marsha Ambrosius">Marsha Ambrosius</a>
+</td>
+<td>N/A
+</td>
+<td>prod. w/ <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Jinx&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFSteven_Otfinoski2014" class="citation book cs1">Steven Otfinoski (May 14, 2014). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=6gtKKftZw2cC&amp;q=ice+cube+c.i.a.+group+formed+in+1986&amp;pg=PA108"><i>African Americans in the Performing Arts</i></a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781438107769" title="Special:BookSources/9781438107769"><bdi>9781438107769</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=African+Americans+in+the+Performing+Arts&amp;rft.date=2014-05-14&amp;rft.isbn=9781438107769&amp;rft.au=Steven+Otfinoski&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D6gtKKftZw2cC%26q%3Dice%2Bcube%2Bc.i.a.%2Bgroup%2Bformed%2Bin%2B1986%26pg%3DPA108&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Jinx" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFCizmar2010" class="citation web cs1">Cizmar, Martin (March 16, 2010). <a rel="nofollow" class="external text" href="https://www.phoenixnewtimes.com/music/sir-jinx-what-happened-after-nwa-and-the-posse-6609026">"Sir Jinx: What Happened After N.W.A. and the Posse?"</a>. <i><a href="/wiki/Phoenix_New_Times" title="Phoenix New Times">Phoenix New Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Phoenix+New+Times&amp;rft.atitle=Sir+Jinx%3A+What+Happened+After+N.W.A.+and+the+Posse%3F&amp;rft.date=2010-03-16&amp;rft.aulast=Cizmar&amp;rft.aufirst=Martin&amp;rft_id=https%3A%2F%2Fwww.phoenixnewtimes.com%2Fmusic%2Fsir-jinx-what-happened-after-nwa-and-the-posse-6609026&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Jinx" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>:  CS1 maint: url-status (<a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">link</a>)</span></span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFArnold2010" class="citation web cs1">Arnold, Paul (October 11, 2010). <a rel="nofollow" class="external text" href="https://hiphopdx.com/news/id.12544/title.sir-jinx-talks-ice-cube-reunion-another-dr-dre-detox-track-with-jay-z">"Sir Jinx Talks Ice Cube Reunion, Another Dr. Dre "Detox" Track With Jay-Z"</a>. <i><a href="/wiki/HipHopDX" title="HipHopDX">HipHopDX</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 19,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HipHopDX&amp;rft.atitle=Sir+Jinx+Talks+Ice+Cube+Reunion%2C+Another+Dr.+Dre+%22Detox%22+Track+With+Jay-Z&amp;rft.date=2010-10-11&amp;rft.aulast=Arnold&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fhiphopdx.com%2Fnews%2Fid.12544%2Ftitle.sir-jinx-talks-ice-cube-reunion-another-dr-dre-detox-track-with-jay-z&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASir+Jinx" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>:  CS1 maint: url-status (<a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">link</a>)</span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sir_Jinx&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/Sir+Jinx">Sir Jinx</a> discography at <a href="/wiki/Discogs" title="Discogs">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.allmusic.com/artist/mn0000013716">Sir Jinx</a> at <a href="/wiki/AllMusic_(identifier)" class="mw-redirect" title="AllMusic (identifier)">AllMusic</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.namm.org/library/oral-history/dj-sir-jinx">DJ Sir Jinx Interview</a> at <a href="/wiki/NAMM_Oral_History_Program" title="NAMM Oral History Program">NAMM Oral History Collection</a> (2020)</li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q7527533#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q7527533#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q7527533#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/187441847">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2011164363">United States</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/e17b5852-c397-4b18-8f38-2384dc2c69ef">MusicBrainz</a></span>
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/9b40cad9-55f7-4cd6-b09c-38c285420491">2</a></span></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2409
+Cached time: 20230919185443
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.398 seconds
+Real time usage: 0.516 seconds
+Preprocessor visited node count: 2006/1000000
+Post‐expand include size: 28732/2097152 bytes
+Template argument size: 3785/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 22814/5000000 bytes
+Lua time usage: 0.225/10.000 seconds
+Lua memory usage: 5378417/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  412.982      1 -total
+ 26.70%  110.286      1 Template:Reflist
+ 21.83%   90.147      1 Template:Infobox_musical_artist
+ 19.33%   79.839      1 Template:Cite_book
+ 18.95%   78.250      1 Template:Authority_control
+ 18.17%   75.026      1 Template:Infobox
+ 15.46%   63.845      2 Template:Short_description
+ 12.20%   50.366      3 Template:Citation_needed
+ 10.69%   44.136      3 Template:Fix
+  9.99%   41.261      4 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1665560-0!canonical and timestamp 20230919185443 and revision id 1167574328. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sir_Jinx&amp;oldid=1167574328">https://en.wikipedia.org/w/index.php?title=Sir_Jinx&amp;oldid=1167574328</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:West_Coast_hip_hop_musicians" title="Category:West Coast hip hop musicians">West Coast hip hop musicians</a></li><li><a href="/wiki/Category:21st-century_American_rappers" title="Category:21st-century American rappers">21st-century American rappers</a></li><li><a href="/wiki/Category:WC_and_the_Maad_Circle_members" title="Category:WC and the Maad Circle members">WC and the Maad Circle members</a></li><li><a href="/wiki/Category:Record_producers_from_California" title="Category:Record producers from California">Record producers from California</a></li><li><a href="/wiki/Category:African-American_record_producers" title="Category:African-American record producers">African-American record producers</a></li><li><a href="/wiki/Category:American_hip_hop_record_producers" title="Category:American hip hop record producers">American hip hop record producers</a></li><li><a href="/wiki/Category:21st-century_American_male_musicians" title="Category:21st-century American male musicians">21st-century American male musicians</a></li><li><a href="/wiki/Category:21st-century_African-American_musicians" title="Category:21st-century African-American musicians">21st-century African-American musicians</a></li><li><a href="/wiki/Category:1970_births" title="Category:1970 births">1970 births</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">CS1 maint: url-status</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_American_English_from_November_2022" title="Category:Use American English from November 2022">Use American English from November 2022</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_November_2022" title="Category:Use mdy dates from November 2022">Use mdy dates from November 2022</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2021" title="Category:Articles with unsourced statements from January 2021">Articles with unsourced statements from January 2021</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_MusicBrainz_identifiers" title="Category:Articles with MusicBrainz identifiers">Articles with MusicBrainz identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 28 July 2023, at 15:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sir_Jinx&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li><button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2367","wgBackendResponseTime":133,"wgPageParseReport":{"limitreport":{"cputime":"0.398","walltime":"0.516","ppvisitednodes":{"value":2006,"limit":1000000},"postexpandincludesize":{"value":28732,"limit":2097152},"templateargumentsize":{"value":3785,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22814,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  412.982      1 -total"," 26.70%  110.286      1 Template:Reflist"," 21.83%   90.147      1 Template:Infobox_musical_artist"," 19.33%   79.839      1 Template:Cite_book"," 18.95%   78.250      1 Template:Authority_control"," 18.17%   75.026      1 Template:Infobox"," 15.46%   63.845      2 Template:Short_description"," 12.20%   50.366      3 Template:Citation_needed"," 10.69%   44.136      3 Template:Fix","  9.99%   41.261      4 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.225","limit":"10.000"},"limitreport-memusage":{"value":5378417,"limit":52428800}},"cachereport":{"origin":"mw2409","timestamp":"20230919185443","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sir Jinx","url":"https:\/\/en.wikipedia.org\/wiki\/Sir_Jinx","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7527533","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7527533","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-29T17:51:51Z","dateModified":"2023-07-28T15:47:13Z","headline":"American hip hop producer"}</script>
+</body>
+</html>
